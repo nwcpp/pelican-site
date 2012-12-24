@@ -1,0 +1,57 @@
+June 15, 2011: Avoiding Over and Under Design — Alan Shalloway
+
+Come at 6:30pm for the pizza provided by \ `Corensic <http://www.corensic.com/>`_.
+
+Abstract
+^^^^^^^^
+
+The question of how much design to do up-front on a project is an engaging one.
+Too much design often results in overkill, complexity, and wasted work.
+Too little design results in insufficient system structures
+that require rework, additional complexity, and wasted effort.
+How can we know what the right balance is?
+Alan Shalloway shows how to use the advice from Design Patterns
+coupled with the attitude of not building what you don’t need from Agile.
+The trick is in discovering what you don’t know, how it may affect you,
+and then how to isolate these risks in your code in a simple manner.
+Alan describes the essence of emergent design
+– that is, starting with a simple design and letting it evolve as the requirements evolve.
+He also demonstrates how to refactor to better designs
+and how this is different from refactoring bad code.
+
+Speaker Bio
+^^^^^^^^^^^
+
+**Alan Shalloway** is the founder and CEO of `Net Objectives <http://www.netobjectives.com/>`_.
+With over 40 years of experience, Alan is an industry thought leader
+in Lean, Kanban, Scrum and design patterns.
+He helps companies transition to Lean and Agile methods enterprise-wide
+as well teaches courses in these areas.
+Alan has developed training and coaching methods for Lean-Agile
+that have helped his clients achieve long-term, sustainable productivity gains.
+He is a popular speaker at prestigious conferences worldwide.
+He is the primary author of
+`Design Patterns Explained: A New Perspective on Object-Oriented Design
+<http://www.netobjectives.com/resources/books/design-patterns-explained>`_,
+`Lean-Agile Pocket Guide for Scrum Teams
+<http://www.netobjectives.com/resources/books/lean-agile-pocket-guide-scrum-teams>`_,
+`Lean-Agile Software Development: Achieving Enterprise Agility
+<http://www.netobjectives.com/resources/books/lean-agile-software-development>`_,
+and is currently writing
+`Essential Skills for the Agile Developer
+<http://www.netobjectives.com/resources/books/essential-skills-agile-developers>`_.
+Alan has worked in literally dozens of industries over his career.
+He is a co-founder and board member for the
+`Lean Software and Systems Consortium <http://www.leanssc.org/>`_.
+He has a Masters in Computer Science from M.I.T.
+as well as a Masters in Mathematics from Emory University.
+You can follow Alan on Twitter,
+`@alshalloway <http://twitter.com/alshalloway>`_
+
+Update
+^^^^^^
+
+`Slides <http://www.nwcpp.org/images/stories/avoidingoverandunderdesigncpp.pdf>`_
+and `video <http://vimeo.com/25209064>`_ of Alan's talk.
+
+Last Updated on Sunday, 24 July 2011 21:33  

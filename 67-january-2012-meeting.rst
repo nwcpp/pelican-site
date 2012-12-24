@@ -1,0 +1,40 @@
+January **25th**, 2012: Finding Race Condition and Data Races Effectively — Madan Musuvathi
+--------------------------------------------------------------------------------------------
+
+Location: **`43/1540-Adams <http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2043,%20WA&encType=1>`_
+(note room change).**
+This meeting was originally scheduled for Jan 18th but postponed due to snow.
+
+Come at 6:30pm for pizza supplied by 
+`Microsoft Server and Tools <http://bit.ly/STBjobs>`_.
+
+In this talk, I will describe two MSR tools, Cuzz and DataCollider, for finding concurrency errors.
+Cuzz uses a randomized algorithm to insert delays
+in a concurrent program to force race conditions with probabilistic guarantees.
+Cuzz is easy to use and is integrated with Microsoft’s Application Verifier.
+DataCollider uses hardware facilities in interesting ways
+to find data races with little runtime overhead.
+While other data-race detection techniques incur a 1000% runtime overhead or more,
+DataCollider incurs about 0 to 20% overhead.
+
+Speaker Bio
+-----------
+
+Madan Musuvathi is a Senior Researcher in the
+`Research in Software Engineering <http://research.microsoft.com/groups/rise/>`_ group at
+`Microsoft Research <http://research.microsoft.com/>`_.
+His research focus is on scalable analysis of concurrent systems.
+More broadly, his interests include systems, program analysis, model checking,
+verification, and theorem proving.
+He also spends a lot of time at Microsoft
+building analysis tools to improve the productivity of software developers and testers.
+
+Resources
+---------
+
+`Video <http://vimeo.com/35722387>`_ \|
+`slides <http://www.nwcpp.org/images/stories/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx>`_
+\| `Cuzz paper <http://research.microsoft.com/pubs/118655/asplos277-pct.pdf>`_ \|
+`DataCollider paper <http://research.microsoft.com/pubs/139266/DataCollider%20-%20OSDI2010.pdf>`_.
+
+Last Updated on Tuesday, 07 February 2012 21:25  

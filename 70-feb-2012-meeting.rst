@@ -1,0 +1,44 @@
+February 15th, 2012: Expressing Parallel Patterns in Modern C++ — Rahul V. Patil
+--------------------------------------------------------------------------------
+
+Come at 6:30pm for pizza supplied by 
+`Amazon Digital <http://www.amazon.com/gp/digital/careers/jobs.html>`_.
+
+Abstract
+~~~~~~~~
+
+We’ll do a lap around the most commonly applicable parallel patterns.
+The goal of the talk is to map each of these parallel patterns to equivalent C++ code,
+while taking advantage of the modern constructs in the language.
+We’ll demonstrate this by looking at the Parallel Patterns Library
+available in Visual Studio and Intel’s TBB.
+We’ll also look at some tools within Intel’s Parallel Studio and Microsoft’s Visual Studio
+that help identify, debug and analyze parallel programs.
+
+This talk is for you, if you are looking to learn
+generally accepted parallel patterns and start using them in your C++ code.
+The talk will scale between 200 level and 400 level.
+
+Note: The talk will *not* discuss C++ AMP, which deserves a full hour of its own.
+
+Speaker Bio
+~~~~~~~~~~~
+
+Rahul V. Patil is a Lead Program Manager, in Microsoft’s C++ Parallel Computing team.
+He started at Microsoft 8 years ago and has been a part
+of the C++ concurrency runtime team since its inception.
+
+About Rahul’s team: Parallel Computing team was founded 5 years ago
+with the mission of bringing programming models and tools to developers,
+so they may take advantage of the multi-cores and GPUs on the machine.
+
+-  `Microsoft MSDN concurrency <http://msdn.microsoft.com/en-us/concurrency/bb964701>`_
+-  `C++ PPL and AMP blog <http://blogs.msdn.com/b/nativeconcurrency/>`_
+
+Video and Slides
+~~~~~~~~~~~~~~~~
+
+Watch the `video <http://vimeo.com/36917212>`_ of Rahul's talk
+or read the `slides <http://www.nwcpp.org/images/parallel_talk_nwcpp_redux.pptx>`_.
+
+Last Updated on Tuesday, 21 February 2012 13:16  

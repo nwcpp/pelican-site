@@ -1,0 +1,32 @@
+April 20, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd Moore
+------------------------------------------------------------------------------
+
+Come at 6:30 for pizza provided by Amazon Digital!
+
+Abstract
+^^^^^^^^
+
+Microcontrollers represent a highly resource constrained environment.
+Very small microcontrollers typically have only several KB of program space available
+and several hundred bytes of memory, in addition to very low clock speeds.
+This talk will look at how to address these resource limitations.
+Many of the techniques examined also apply to larger / PC class hardware,
+and can be used to improve the performance for those systems.
+In addition the techniques explored are also beneficial
+for optimizing the power consumption of mobile devices and applications.
+
+Speaker Bio
+^^^^^^^^^^^
+
+**Lloyd Moore** is the founder and owner of
+`CyberData Corporation <http://www.CyberData-Robotics.com>`_,
+which provides consulting services in the robotics and industrial automation field.
+Lloyd has worked in software industry for 25 years,
+with his formal training in biological based artificial intelligence, electronics, and psychology.
+
+**Update**
+
+`Slides <http://www.nwcpp.org/images/stories/c%20for%20microcontrollers.ppt>`_ and
+`Video <http://vimeo.com/nwcpp/april2011>`_ of Lloyd's talk.
+
+Last Updated on Monday, 02 May 2011 12:13  

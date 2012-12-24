@@ -1,0 +1,40 @@
+June 20th, 2012 — LKRhash: The design of a scalable hashtable — George V. Reilly
+--------------------------------------------------------------------------------
+
+Abstract
+~~~~~~~~
+
+LKRhash is a hashtable that scales to multiple processors and millions of items. 
+KRhash was invented at Microsoft in 1997 by Paul Larson, Murali Krishnan, and George Reilly,
+and has been used in many Microsoft products.
+George will discuss the techniques that give LKRhash its performance,
+including \ `linear hashing <http://en.wikipedia.org/wiki/Linear_hashing>`_,
+cache-friendly data structures, and fine-grained locking.
+
+Speaker Bio
+~~~~~~~~~~~
+
+`George Reilly <https://plus.google.com/114544378971035279158/about>`_
+is a lead developer at `Cozi <http://www.cozi.com/>`_
+who spent 10 years working at Microsoft.
+He is a graduate of Trinity College Dublin and Brown University.
+He cowrote `Beginning ATL 3 COM Programming
+<http://www.amazon.com/Beginning-ATL-3-Com-Programming/dp/1861001207>`_
+(Wrox 1999) and `Professional Active Server Pages 3.0
+<http://www.amazon.com/Professional-Active-Server-Pages-3-0/dp/B0000B0SYJ/>`_
+(Wrox 1999).
+George is, among other things, a cyclist;
+the President of `Freely Speaking Toastmasters <http://freelyspeaking.org/>`_;
+the Director & Dramaturg of the `Wild Geese Players of Seattle
+<http://www.wildgeeseseattle.org/>`_;
+and the Secretary/Webmaster of `NWCPP <http://nwcpp.org/>`_.
+
+Resources
+~~~~~~~~~
+
+`Video <https://vimeo.com/44575071>`_ \|
+`Slides <http://www.nwcpp.org/images/stories/lkrhash.pptx>`_ \|
+`Python hashtable simulator <http://www.nwcpp.org/images/stories/hashtable.py.txt>`_ \|
+`Linear Hashing paper <http://www.csd.uoc.gr/~hy460/pdf/Dynamic%20Hash%20Tables.pdf>`_
+
+Last Updated on Saturday, 23 June 2012 15:40  

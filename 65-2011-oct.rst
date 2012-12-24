@@ -1,0 +1,33 @@
+October 19th, 2011: Asynchronous Tasks in C++11 — Bartosz Milewski
+------------------------------------------------------------------
+
+Come at 6:30 for pizza provided by `Summit Group Solutions, LLC <http://www.summitgroupsolutions.com/>`_!
+
+One of the goals of the new `C++11 Standard <http://en.wikipedia.org/wiki/C%2B%2B11>`_
+was to provide support for concurrency, in particular for thread-based concurrency.
+But threads don’t scale very well.
+Do C++ tasks, which are created using ``std::async``, offer a scalable solution?
+Can they implement task-based parallelism?
+
+Speaker Bio
+-----------
+
+Bartosz Milewski has a Ph.D. in Quantum Physics and many years of experience as a C++ programmer.
+He worked at Microsoft on the Context Index—a search engine before the Internet\
+—still an active part of Windows 7.
+He designed the first distributed version control system,
+`Code Co-op <http://www.relisoft.com/co_op/>`_ (before BitKeeper and Git).
+Bartosz took part in the design of the `D language <http://www.digitalmars.com/d/2.0/index.html>`_.
+His main topics of interest are concurrent and distributed computing.
+He works at Corensic, a Seattle startup that makes a concurrency bug detector,
+`Jinx <http://www.corensic.com/Products.aspx>`_.
+He regularly publishes a blog at
+`http://BartoszMilewski.wordpress.com <http://BartoszMilewski.wordpress.com>`_
+and a series of `C++11 Concurrency tutorials 
+<http://www.corensic.com/Learn/Resources/ConcurrencyTutorialPartOne.aspx>`_.
+
+Update:
+`slides <http://www.nwcpp.org/images/stories/asynctasksinc11.pptx>`_ and
+`video <http://vimeo.com/30868784>`_ of Bartosz's talk.
+
+Last Updated on Monday, 07 November 2011 23:09  
