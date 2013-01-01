@@ -1,13 +1,20 @@
-March 16, 2011: Debuggers and Mago - Aldo Nunez
--------------------------------------------------
+March 16th, 2011 — Debuggers and Mago — Aldo Nunez
+##################################################
+
+:date: 2011-03-01
+:slug: march-2011
+:author: George Reilly
 
 Come at 6:30pm to socialize and eat pizza provided by
 `Summit Group Solutions <http://www.summitgroupsolutions.com/>`_!
 
-**Abstract:** Debuggers are an important tool for helping software engineers
+Abstract
+~~~~~~~~
+
+Debuggers are an important tool for helping software engineers
 get to the root of certain problems.
 `Mago <http://dsource.org/projects/mago_debugger>`_ 
-s a graphical debugger dedicated to the
+is a graphical debugger dedicated to the
 `D programming language <http://en.wikipedia.org/wiki/D_(programming_language)>`_
 on Windows.
 It is made up of several independent libraries that can be used
@@ -16,13 +23,16 @@ for other purposes such as tracing and code analysis.
 In this talk, we'll cover the process of debugging in general,
 specifics on Windows, and details about Mago's connection to D.
 
-**Speaker Bio:** Aldo Nunez has worked on embedded software since
+Bio
+~~~
+
+Aldo Nunez has worked on embedded software since
 graduating with a B.A. in Computer Science from New York University in 2001.
 He first programmed BASIC on the VTech PreComputer 1000,
 and is interested in programming language tools and video games.
 
-**Update**:
+Resources
+~~~~~~~~~
+
 Aldo's `slides <http://www.nwcpp.org/images/stories/mago%20debugger%20inner%20workings.pptx>`_.
 Video, `Part I <http://vimeo.com/21323893>`_ and `Part II <http://vimeo.com/21605995>`_.
-
-Last Updated on Monday, 02 May 2011 12:16  

@@ -1,8 +1,15 @@
-November 16th, 2011: Introduction to Scientific Computing — Robert Goddard
---------------------------------------------------------------------------
+November 16th, 2011 — Introduction to Scientific Computing — Robert Goddard
+###########################################################################
+
+:date: 2011-11-01
+:slug: november-2011
+:author: George Reilly
 
 Come at 6:30pm for pizza supplied by
 `Kongsberg Underwater Technology <http://www.km.kongsberg.com/>`_.
+
+Abstract
+~~~~~~~~
 
 Computing in science and engineering involves modeling part of the physical world.
 The inputs could be detailed measurements of the environment,
@@ -31,8 +38,8 @@ I hope to give enough practical information to help you avoid the most common pr
 inherent in numerical computation,
 and to point out resources that could help you go further.
 
-Speaker Bio
------------
+Bio
+~~~
 
 Robert Goddard is a physicist and software developer.
 For the last 31 years, he has worked at the
@@ -51,7 +58,8 @@ and optimization of parameter values to fit observations.
 Bob has been an active participant in NWCPP for most of its existence,
 and is currently Treasurer.
 
-**Update**: `video <http://vimeo.com/32281584>`_ and
-`slides <http://www.nwcpp.org/images/stories/scientificcomputing.pdf>`_
+Resources
+~~~~~~~~~
 
-Last Updated on Wednesday, 11 January 2012 23:03  
+`Video <http://vimeo.com/32281584>`_ and
+`slides <http://www.nwcpp.org/images/stories/scientificcomputing.pdf>`_

@@ -1,9 +1,14 @@
-June 15, 2011: Avoiding Over and Under Design — Alan Shalloway
+June 15th, 2011 — Avoiding Over and Under Design — Alan Shalloway
+#################################################################
 
-Come at 6:30pm for the pizza provided by \ `Corensic <http://www.corensic.com/>`_.
+:date: 2011-06-01
+:slug: june-2011
+:author: George Reilly
+
+Come at 6:30pm for the pizza provided by `Corensic <http://www.corensic.com/>`_.
 
 Abstract
-^^^^^^^^
+~~~~~~~~
 
 The question of how much design to do up-front on a project is an engaging one.
 Too much design often results in overkill, complexity, and wasted work.
@@ -19,8 +24,8 @@ Alan describes the essence of emergent design
 He also demonstrates how to refactor to better designs
 and how this is different from refactoring bad code.
 
-Speaker Bio
-^^^^^^^^^^^
+Bio
+~~~
 
 **Alan Shalloway** is the founder and CEO of `Net Objectives <http://www.netobjectives.com/>`_.
 With over 40 years of experience, Alan is an industry thought leader
@@ -48,10 +53,8 @@ as well as a Masters in Mathematics from Emory University.
 You can follow Alan on Twitter,
 `@alshalloway <http://twitter.com/alshalloway>`_
 
-Update
-^^^^^^
+Resources
+~~~~~~~~~
 
 `Slides <http://www.nwcpp.org/images/stories/avoidingoverandunderdesigncpp.pdf>`_
 and `video <http://vimeo.com/25209064>`_ of Alan's talk.
-
-Last Updated on Sunday, 24 July 2011 21:33  

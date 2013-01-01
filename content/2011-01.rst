@@ -1,10 +1,14 @@
-Jan 19, 2011: Determinism and Fail-Stop Races for Sane Multiprocessing - Luis Ceze
------------------------------------------------------------------------------------
+Jan 19, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze
+###################################################################################
 
-Wednesday, January 19, 2011, at 7pm. 41/1511, Microsoft.
-Come early to socialize and eat pizza.
+:date: 2011-01-01
+:slug: january-2011
+:author: George Reilly
 
-**Abstract**: Current multicore systems are nondeterministic.
+Abstract
+~~~~~~~~
+
+Current multicore systems are nondeterministic.
 Each time they execute a multithreaded application, even if supplied with the same input,
 they can produce a different output.
 This frustrates debugging, limits the ability to properly test multithreaded code
@@ -25,7 +29,10 @@ for fail-stop behavior of data-races.
 I will end the talk with a brief overview of our efforts
 in complex concurrency bug detection and avoidance.
 
-**Bio**: `Luis Ceze <http://www.cs.washington.edu/homes/luisceze/>`_
+Bio
+~~~
+
+`Luis Ceze <http://www.cs.washington.edu/homes/luisceze/>`_
 is an Assistant Professor in the Computer Science and Engineering Department
 at the University of Washington.
 His research focuses on computer architecture, compiler, programming models and OS
@@ -38,7 +45,7 @@ He is also a recipient of an NSF CAREER Award, a Sloan Research Fellowship,
 and a Microsoft Research Faculty Fellowship.
 He co-founded Corensic, a UW-CSE spin-off company, where he is a part-time consultant.
 
-**Update**: the
-`slides <http://www.nwcpp.org/images/stories/nwcpp-jan2011.pdf>`_.
+Resources
+~~~~~~~~~
 
-Last Updated on Monday, 02 May 2011 12:16  
+`Slides <http://www.nwcpp.org/images/stories/nwcpp-jan2011.pdf>`_.
