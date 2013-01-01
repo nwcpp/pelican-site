@@ -1,0 +1,45 @@
+October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at Google
+####################################################################################################
+
+:date: 2010-10-01
+:slug: october-2010
+:author: George Reilly
+
+Wednesday, October 20, 2010, at 7pm. 41/1511, Microsoft.
+Come early to socialize and eat pizza.
+
+Abstract
+~~~~~~~~
+
+Modern IDEs and compilers generate a wealth of information,
+and you can't have any of it.
+Tools in the compiler family -- even the best IDEs -- tend to be monolithic, language-specific,
+generally non-scalable special-purpose applications.
+Even when they do support headless analysis, none of them do it the same way,
+and very few of them can do cross-language analysis.
+At Google, I've put together a team with the long-term goal of addressing these problems
+in a general way.
+We've built infrastructure to run IDE-quality code analyzers such
+as `Eclipse <http://www.eclipse.org/>`_ and `clang <http://en.wikipedia.org/wiki/Clang>`_
+over Google's entire corpus and all open-source code.
+We translate the intermediate representations into a language-neutral index,
+then serve the index data back through language-neutral APIs and query interfaces.
+In this talk I'll share what we've done so far,
+then about our longer-term plans for an open platform.
+
+Bio
+~~~
+
+`Steve Yegge <http://steve-yegge.blogspot.com/>`_ graduated
+from the University of Washington with a B.S. in Computer Science.
+He spent five years as a developer and team lead at Geoworks,
+several years at various startups,
+and then more than six years at Amazon.com as a Senior Development Manager.
+He joined Google in 2005 and is a Staff Software Engineer in the Kirkland office,
+currently working on scaling language analysis.
+Steve lives in downtown Kirkland with his lovely wife Linh and their faithful furry sidekick Cino.
+
+Resources
+~~~~~~~~~
+
+`Video <http://vimeo.com/16069687>`_ of Steve's talk.

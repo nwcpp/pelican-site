@@ -1,0 +1,8 @@
+*.pid
+*.pyc
+*.pyo
+*.~*~
+
+.*.sw?
+.DS_Store
+output/

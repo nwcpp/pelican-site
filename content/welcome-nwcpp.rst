@@ -1,5 +1,9 @@
 Welcome to the Northwest C++ Users' Group
------------------------------------------
+#########################################
+
+:date: 2010-02-01
+:slug: welcome-nwcpp
+:author: George Reilly
 
 The Northwest C++ Users' Group (NWCPP) is a group of professional developers and hobbyists
 living and working in the Pacific Northwest
@@ -46,8 +50,8 @@ Social Media
 
 Sign up for our
 `Announcements <http://groups.google.com/group/NwcppAnnounce>`_ list,
-follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter,
-join our `Facebook group <http://www.facebook.com/group.php?gid=344125680930>`_,
+follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter,
+join our `Facebook group <http://www.facebook.com/group.php?gid=344125680930>`_,
 follow our `Google+ page <https://plus.google.com/104974891006782790528/>`_,
 follow our `Vimeo channel <https://vimeo.com/nwcpp>`_,
 and join our \ `LinkedIn group <http://www.linkedin.com/groups?gid=2770106>`_.
@@ -61,5 +65,3 @@ Old Website
 
 We have moved our website to a new host in early 2010 and started using Joomla.
 The *old* site content can be found \ `here <old/index.html>`_.
-
-Last Updated on Wednesday, 05 September 2012 22:47  

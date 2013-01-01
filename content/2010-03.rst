@@ -1,17 +1,27 @@
-NWCPP: March 2010
------------------
+March 17th, 2010 — Short Talks on Concurrency
+#############################################
 
-Our next meeting will be on Wednesday, March 17th, 2010 at
+:date: 2010-03-01
+:slug: march-2010
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+Wednesday, March 17th, 2010 at
 `Building 40/1450 <http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2040,%20WA&encType=1>`_
 (Steptoe), One Microsoft Way, Redmond, WA 98052, at 7pm.
 
-There will be three short talks on Concurrency from
+Three short talks on Concurrency from
 Bartosz Milewski, George Reilly, and Max Wilson.
 
 Tasks vs. Sparks, comparing MS Task Parallel Library with Multicore Haskell — Bartosz Milewski
 ----------------------------------------------------------------------------------------------
 
-Abstract: Microsoft
+Abstract
+~~~~~~~~
+
+Microsoft
 `TPS <http://msdn.microsoft.com/en-us/magazine/cc163340.aspx>`_ is a
 .NET library that allows the programmer to parallelize fragments of
 code. Haskell support for parallelization goes deeper into the runtime.
@@ -19,13 +29,19 @@ Of course these are apples and oranges;
 Haskell is a functional language, TPS is mostly used from C#.
 But the implementation details are similar (both projects come from Microsoft Research).
 
-Bio: `Bartosz Milewski <http://bartoszmilewski.wordpress.com/>`_ is the
+Bio
+~~~
+
+`Bartosz Milewski <http://bartoszmilewski.wordpress.com/>`_ is the
 president of the NWCPP and has spoken many times.
 
 Read-Mostly Data Structures — George V. Reilly
 ----------------------------------------------
 
-Abstract: When shared data is read frequently, but seldom modified,
+Abstract
+~~~~~~~~
+
+When shared data is read frequently, but seldom modified,
 the lock can become a bottleneck.
 Callers are serialized on the lock and the memory underlying the lock
 sloshes between different processor caches.
@@ -33,7 +49,10 @@ Since the data is rarely modified,
 it seems like we should be able to read it without taking a lock at all.
 This talk presents a safe, lock-free way to access shared data.
 
-Bio: `George Reilly <http://www.georgevreilly.com/>`_ has developed
+Bio
+~~~
+
+`George Reilly <http://www.georgevreilly.com/>`_ has developed
 software since the 1980s, working in television, graphics, operating
 systems, editors, advertising, and Web 2.0.
 He became fascinated with concurrency during the seven years
@@ -47,7 +66,10 @@ for its software that simplifies family life.
 Futures in C++ — Max Wilson
 ---------------------------
 
-Abstract: the new C++0x standard requires support for
+Abstract
+~~~~~~~~
+
+the new C++0x standard requires support for
 `“futures.” <http://bartoszmilewski.wordpress.com/2009/03/03/broken-promises-c0x-futures/>`_
 In general, “futures” are a programming language abstraction for data
 that will be produced asynchronously by other threads. We will discuss
@@ -55,8 +77,9 @@ the conceptual benefits to programming with futures vs. other
 synchronization mechanisms, and show which techniques can be used in C++
 and how they make concurrent APIs easier to consume.
 
-Bio: Max Wilson is a bit of a language geek, and is a developer on Microsoft’s
+Bio
+~~~
+
+Max Wilson is a bit of a language geek, and is a developer on Microsoft’s
 `WCF <http://msdn.microsoft.com/en-us/netframework/aa663324.aspx>`_ team.
 Other than that he is a totally normal guy.
-
-Last Updated on Monday, 02 May 2011 12:18  

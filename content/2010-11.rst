@@ -1,18 +1,14 @@
-November 2010 Meeting
----------------------
+November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs. Concepts
+###################################################################################
 
-Wednesday, 10 November 2010 11:01 Webmaster
+:date: 2010-11-01
+:slug: november-2010
+:author: George Reilly
 
-`|Print| <index.php#>`_
+Abstract
+~~~~~~~~
 
-November 17: Bartosz Milewski - C++ vs. Haskell: Type Classes vs.
-Concepts
-
-Wednesday, November 17, 2010, at 7pm. 41/1511, Microsoft. Come early to
-socialize and eat pizza.
-
-**Abstract**: `C++
-Concepts <http://en.wikipedia.org/wiki/Concepts_(C%2B%2B)>`_ got a lot
+`C++ Concepts <http://en.wikipedia.org/wiki/Concepts_(C%2B%2B)>`_ got a lot
 of bad press and were dropped from
 `C++0x <http://en.wikipedia.org/wiki/C%2B%2B0x>`_. They were considered
 too complex with too few benefits. And yet their equivalent in Haskell,
@@ -24,7 +20,10 @@ solved. I'll show you the hair-raising forensics of a C++ ADL
 (Argument-Dependent Lookup) mishap that could have been avoided by using
 concepts.
 
-**Bio**: Bartosz Milewski has a Ph.D. in High-Energy Physics and many
+Bio
+~~~
+
+Bartosz Milewski has a Ph.D. in High-Energy Physics and many
 years of experience as a C++ programmer. He worked at Microsoft on the
 Context Index--a search engine before the Internet, still an active part
 of Windows 7. He designed the first distributed version control system,
@@ -36,10 +35,8 @@ regularly publishes a blog at
 `http://BartoszMilewski.wordpress.com <http://BartoszMilewski.wordpress.com>`_.
 You may see him occasionally at CSE 950 P at the UW.
 
-**Update**:
-`video <http://bartoszmilewski.wordpress.com/2010/11/29/understanding-c-concepts-through-haskell-type-classes/>`_
+Resources
+~~~~~~~~~
+
+`Video <http://bartoszmilewski.wordpress.com/2010/11/29/understanding-c-concepts-through-haskell-type-classes/>`_
 of the presentation.
-
-Last Updated on Monday, 02 May 2011 12:16  
-
-.. |Print| image:: http://www.nwcpp.org/templates/ja_purity/images/printButton.png

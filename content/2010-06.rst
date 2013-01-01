@@ -1,20 +1,23 @@
-June 2010: Massive Multithreading on the GPU
----------------------------------------------
+June 16th, 2010 — Massive Multithreading on the GPU — Gavriel Plotke
+####################################################################
 
-Wednesday, June 16th, 2010, at 7pm.
+:date: 2010-06-01
+:slug: june-2010
+:author: George Reilly
 
 Abstract
 ~~~~~~~~
 
-GigaFlops or… TerraFlops? The modern GPU is a massively parallel
-supercomputer that has 2 orders of magnitude more processing power then
-a single CPU Core. But the threading model is very different than the
-CPU. Don’t get left behind on knowing about this different paradigm.
+GigaFlops or… TerraFlops?
+The modern GPU is a massively parallel supercomputer
+that has 2 orders of magnitude more processing power than a single CPU Core.
+But the threading model is very different than the CPU.
+Don’t get left behind on knowing about this different paradigm.
 
 Bio
 ~~~
 
-Gavriel Plotke, Microsoft Senior SDET
+Gavriel Plotke, Microsoft Senior SDET.
 I've been with Microsoft for 3 years on the DirectX High Level Shader Language compiler test team.
 I’ve been a champion of the new Compute Shader features of DirectX11.
 While I have some graphics background,
@@ -25,7 +28,5 @@ It was a time when everyone in a big office would have a mainframe terminal and
 no one had a PC.
 It was a great product, but time moved on, and Excel on inexpensive PCs ate our lunch.
 After that I spent many years doing business contract work
-- different projects, different platforms, lots of database design.
-  Now I help support programming on today’s supercomputer, the modern graphics card.
-
-Last Updated on Monday, 02 May 2011 12:18  
+— different projects, different platforms, lots of database design.
+Now I help support programming on today’s supercomputer, the modern graphics card.

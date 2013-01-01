@@ -1,0 +1,39 @@
+September 15th, 2010 — The Many Faces of D — Walter Bright
+###########################################################
+
+:date: 2010-09-01
+:slug: september-2010
+:author: George Reilly
+
+Abstract
+~~~~~~~~
+
+There are many mainstream programming paradigms —
+imperative, object oriented, meta, functional, etc.
+Each has their proponents and languages oriented around it.
+But larger applications tend to not fit easily into any particular paradigm.
+
+In extreme cases, developers will resort to using multiple languages
+with an uneasy interface between them.
+The `D programming language <http://www.digitalmars.com/d/index.html>`_
+takes a different approach, offering multiple programming paradigms within one language,
+making it easy to select the most suitable paradigm for each task within the application.
+
+Bio
+~~~
+
+`Walter Bright <http://www.walterbright.com/>`_ graduated from Caltech in 1979
+with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever since.
+
+There will be door prizes--3 copies of Andrei Alexandrescu's book,
+`The D Programming Language
+<http://www.amazon.com/D-Programming-Language-Andrei-Alexandrescu/dp/0321635361/>`_--plus
+light refreshments.
+
+Resources
+~~~~~~~~~
+
+Here are `Walter's slides <http://www.nwcpp.org/images/stories/nwcpp-2010-09.pdf>`_.
