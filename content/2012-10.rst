@@ -1,11 +1,16 @@
 October 17th, 2012 — Casablanca: C++ in the Cloud — Steve Gates
-----------------------------------------------------------------
+################################################################
+
+:date: 2012-10-01
+:slug: october-2012
+:author: George Reilly
 
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
-October 17, 2012 at 7:00 PM, Microsoft Campus `Building 41/1511
-(Townsend) <http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_
+October 17, 2012 at 7:00 PM, Microsoft Campus
+`Building 41/1511 (Townsend)
+<http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_
 
 Abstract
 ~~~~~~~~
@@ -21,14 +26,14 @@ Key aspects about the libraries in Casablanca include cross platform support,
 leveraging modern C++11 features for productivity,
 and API design asynchrony in mind to improve application responsiveness and scalability.
 
-With this talk we'll go through the fundamental principles that
+With this talk, we'll go through the fundamental principles that
 Casablanca is built on, an overview of the features it provides,
 and several demos and examples illustrating what kind of applications can be built.
 If you have interest in using C++ to author or interact with services in Azure
 or REST services in general, this talk is for you.
 
-Speaker Bio
-~~~~~~~~~~~
+Bio
+~~~
 
 Steve Gates is a senior tester on the Visual C++ team at Microsoft.
 He has been at Microsoft for the past 5 years working on parallel computing in C++,
@@ -41,5 +46,3 @@ Resources
 
 `Video <https://vimeo.com/51695153>`_ \|
 `Slides <http://www.nwcpp.org/images/stories/casablanca.pptx>`_
-
-Last Updated on Friday, 19 October 2012 13:03  

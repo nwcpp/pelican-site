@@ -1,18 +1,22 @@
 June 20th, 2012 — LKRhash: The design of a scalable hashtable — George V. Reilly
---------------------------------------------------------------------------------
+################################################################################
+
+:date: 2012-06-01
+:slug: june-2012
+:author: George Reilly
 
 Abstract
 ~~~~~~~~
 
 LKRhash is a hashtable that scales to multiple processors and millions of items. 
-KRhash was invented at Microsoft in 1997 by Paul Larson, Murali Krishnan, and George Reilly,
+LKRhash was invented at Microsoft in 1997 by Paul Larson, Murali Krishnan, and George Reilly,
 and has been used in many Microsoft products.
 George will discuss the techniques that give LKRhash its performance,
 including \ `linear hashing <http://en.wikipedia.org/wiki/Linear_hashing>`_,
 cache-friendly data structures, and fine-grained locking.
 
-Speaker Bio
-~~~~~~~~~~~
+Bio
+~~~
 
 `George Reilly <https://plus.google.com/114544378971035279158/about>`_
 is a lead developer at `Cozi <http://www.cozi.com/>`_
@@ -36,5 +40,3 @@ Resources
 `Slides <http://www.nwcpp.org/images/stories/lkrhash.pptx>`_ \|
 `Python hashtable simulator <http://www.nwcpp.org/images/stories/hashtable.py.txt>`_ \|
 `Linear Hashing paper <http://www.csd.uoc.gr/~hy460/pdf/Dynamic%20Hash%20Tables.pdf>`_
-
-Last Updated on Saturday, 23 June 2012 15:40  

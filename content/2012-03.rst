@@ -1,8 +1,12 @@
-March 21st, 2012: A Multi-Core Algorithmic Differentiation Benchmarking System — Brad Bell
-------------------------------------------------------------------------------------------
+March 21st, 2012 — A Multi-Core Algorithmic Differentiation Benchmarking System — Brad Bell
+###########################################################################################
 
-Please join us at 6:45 for pizza sponsored by `Summit Group
-Solutions <http://www.summitgroupsolutions.com/>`_.
+:date: 2012-03-01
+:slug: march-2012
+:author: George Reilly
+
+Please join us at 6:45 for pizza sponsored by
+`Summit Group Solutions <http://www.summitgroupsolutions.com/>`_.
 
 Abstract
 ~~~~~~~~
@@ -58,5 +62,3 @@ CppAD pages are best viewed with Firefox, as they make heavy use of
 \| `multi-threading test routine <http://www.coin-or.org/CppAD/Doc/thread_test.cpp.xml>`_
 \| `intro to theory of AD <http://www.coin-or.org/CppAD/Doc/introduction.xml>`_
 \| `getting started with CppAD <http://www.coin-or.org/CppAD/Doc/get_started.cpp.xml>`_
-
-Last Updated on Thursday, 22 March 2012 16:49  

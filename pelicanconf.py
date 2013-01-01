@@ -5,7 +5,7 @@ AUTHOR = u'nwcpp'
 SITENAME = u"Northwest C++ Users' Group"
 SITEURL = 'http://nwcpp.org'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
@@ -19,4 +19,4 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = True

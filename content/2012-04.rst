@@ -1,5 +1,12 @@
-April 18, 2012: Essential Skills for the Agile Developer – Alan Shalloway
--------------------------------------------------------------------------
+April 18th, 2012 — Essential Skills for the Agile Developer – Alan Shalloway
+############################################################################
+
+:date: 2012-04-01
+:slug: april-2012
+:author: George Reilly
+
+Abstract
+~~~~~~~~
 
 Many developers have been suddenly thrown into developing code in stages
 whereas they used to be able to do bigger designs up front.
@@ -17,18 +24,18 @@ This talk introduces some trim tabs for the new agile developer.
 
 Outline:
 
--  Programming by Intention
--  Separating Use from  Construction
--  Define tests Up Front
--  Shalloway’s Law
--  Encapsulate That
+* Programming by Intention
+* Separating Use from  Construction
+* Define tests Up Front
+* Shalloway’s Law
+* Encapsulate That
 
 The lessons learned are taken from Net Objectives’ new book
 `Essential Skills for the Agile Developer
 <http://www.netobjectives.com/resources/books/essential-skills-agile-developers>`_:
 
-Speaker Bio
------------
+Bio
+~~~
 
 **Alan Shalloway** is the founder and CEO of `Net Objectives <http://www.netobjectives.com/>`_.
 With over 40 years of experience, Alan is an industry thought leader
@@ -61,5 +68,3 @@ Resources
 
 `Video <http://vimeo.com/40726192>`_ \|
 `Slides <http://www.nwcpp.org/images/stories/essential-skills-for-the-agile-developer-2012.pdf>`_
-
-Last Updated on Monday, 23 April 2012 08:50  

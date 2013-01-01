@@ -1,7 +1,14 @@
-May 16, 2012: An Introduction to Microsoft’s C++ Accelerated Massive Parallelism – Don McCrady
------------------------------------------------------------------------------------------------
+May 16th, 2012 — An Introduction to Microsoft’s C++ Accelerated Massive Parallelism – Don McCrady
+#################################################################################################
+
+:date: 2012-05-01
+:slug: may-2012
+:author: George Reilly
 
 Come at 6:45 for pizza sponsored by `Randstad Technologies <http://technologies.randstadusa.com/>`_.
+
+Abstract
+~~~~~~~~
 
 Microsoft’s C++ AMP (`Accelerated Massive Parallelism
 <http://msdn.microsoft.com/en-us/library/hh265136(v=vs.110).aspx>`_)
@@ -16,9 +23,10 @@ including the editor, debugger, and profiler.
 This presentation will introduce C++ AMP
 and talk about its projected future as the hardware ecosystem evolves.
 
-Speaker Bio
------------
+Bio
+~~~
 
+Madan Musuvathi is a Senior Researcher in the
 Don McCrady is the development lead for the C++ AMP project.
 He has worked for Microsoft for nearly 15 years in many diverse areas
 including COM services, workflow services, and concurrency programming models.
@@ -29,5 +37,3 @@ Resources
 
 `Video <http://vimeo.com/42419539>`_ \|
 `Slides <http://www.nwcpp.org/images/stories/accelerated-massive-parallelism.pptx>`_
-
-Last Updated on Friday, 18 May 2012 17:12  

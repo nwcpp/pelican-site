@@ -1,11 +1,16 @@
 November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch — Tom Ball
----------------------------------------------------------------------------------------
+#######################################################################################
+
+:date: 2012-11-01
+:slug: november-2012
+:author: George Reilly
 
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
-November 21, 2012 at 7:00 PM, Microsoft Campus `Building 41/1511
-(Townsend) <http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_
+November 21, 2012 at 7:00 PM, Microsoft Campus
+`Building 41/1511 (Townsend)
+<http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_
 
 Abstract
 ~~~~~~~~
@@ -14,11 +19,11 @@ Abstract
 to devices where touch is the primary input mechanism, such as smartphones and tablets.
 The TouchDevelop environment does this through an interlocking set of features, including:
 
--  a simple statically-typed scripting language;
--  syntax-directed editing with a context-sensitive virtual keyboard;
--  code completion and refactoring features;
--  integrated search of platform APIs;
--  cloud-based sharing, searching, and synthesis of code.
+* a simple statically-typed scripting language;
+* syntax-directed editing with a context-sensitive virtual keyboard;
+* code completion and refactoring features;
+* integrated search of platform APIs;
+* cloud-based sharing, searching, and synthesis of code.
 
 In this talk, I’ll demonstrate the TouchDevelop Web App
 and focus on some of the unique features of the TouchDevelop language,
@@ -29,8 +34,8 @@ a typed superset of JavaScript that compiles to plain JavaScript.
 The TouchDevelop web application is a complete rewrite of the C#/XAML-based TouchDevelop
 application for Windows Phone.
 
-Speaker Bio
-~~~~~~~~~~~
+Bio
+~~~
 
 `Thomas (Tom) Ball <http://research.microsoft.com/en-us/people/tball/>`_
 is a Principal Researcher and Research Manager at Microsoft Research Redmond,
@@ -44,5 +49,3 @@ Resources
 
 `Video <http://vimeo.com/54243075>`_ \|
 `Slides <http://www.nwcpp.org/images/stories/touchdevelop2012.pptx>`_
-
-Last Updated on Monday, 03 December 2012 22:58  

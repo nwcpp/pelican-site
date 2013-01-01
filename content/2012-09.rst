@@ -1,11 +1,16 @@
 September 19th, 2012 — Functional Patterns in C++ — Bartosz Milewski
----------------------------------------------------------------------
+#####################################################################
+
+:date: 2012-09-01
+:slug: september-2012
+:author: George Reilly
 
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
-September 19, 2012 at 7:00 PM, Microsoft Campus `Building 41/1511
-(Townsend) <http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_
+September 19, 2012 at 7:00 PM, Microsoft Campus
+`Building 41/1511 (Townsend)
+<http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_
 
 Abstract
 ~~~~~~~~
@@ -21,8 +26,8 @@ What piqued my interest in those patterns was their use in C#
 to solve some of the problem of abstracting asynchronous APIs and threads.
 Their understanding might help in fixing C++11 support for concurrency.
 
-Speaker Bio
-~~~~~~~~~~~
+Bio
+~~~
 
 Bartosz Milewski has a Ph.D. in Quantum Physics and many years of
 experience as a C++ programmer.
@@ -42,5 +47,3 @@ Resources
 ~~~~~~~~~
 
 `Video and Slides <http://fpcomplete.com/functional-patterns-in-c/>`_
-
-Last Updated on Monday, 24 September 2012 21:59  

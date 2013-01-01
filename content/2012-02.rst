@@ -1,5 +1,9 @@
-February 15th, 2012: Expressing Parallel Patterns in Modern C++ — Rahul V. Patil
---------------------------------------------------------------------------------
+February 15th, 2012 — Expressing Parallel Patterns in Modern C++ — Rahul V. Patil
+#################################################################################
+
+:date: 2012-02-01
+:slug: february-2012
+:author: George Reilly
 
 Come at 6:30pm for pizza supplied by 
 `Amazon Digital <http://www.amazon.com/gp/digital/careers/jobs.html>`_.
@@ -21,8 +25,8 @@ The talk will scale between 200 level and 400 level.
 
 Note: The talk will *not* discuss C++ AMP, which deserves a full hour of its own.
 
-Speaker Bio
-~~~~~~~~~~~
+Bio
+~~~
 
 Rahul V. Patil is a Lead Program Manager, in Microsoft’s C++ Parallel Computing team.
 He started at Microsoft 8 years ago and has been a part
@@ -35,10 +39,8 @@ so they may take advantage of the multi-cores and GPUs on the machine.
 -  `Microsoft MSDN concurrency <http://msdn.microsoft.com/en-us/concurrency/bb964701>`_
 -  `C++ PPL and AMP blog <http://blogs.msdn.com/b/nativeconcurrency/>`_
 
-Video and Slides
-~~~~~~~~~~~~~~~~
+Resources
+~~~~~~~~~
 
 Watch the `video <http://vimeo.com/36917212>`_ of Rahul's talk
 or read the `slides <http://www.nwcpp.org/images/parallel_talk_nwcpp_redux.pptx>`_.
-
-Last Updated on Tuesday, 21 February 2012 13:16  
