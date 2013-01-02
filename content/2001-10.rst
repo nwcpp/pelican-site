@@ -1,0 +1,35 @@
+October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN's "Dr. GUI"
+################################################################################
+
+:date: 2001-10-01
+:slug: october-2001
+
+Location
+~~~~~~~~
+
+| Overlake Hospital Educational Conference Center
+| 1035 116th Avenue NE
+| Room A
+| Bellevue, WA
+
+Abstract
+~~~~~~~~
+
+We're very fortunate to have MSDN's Dr. GUI, the always entertaining,
+often irreverent, generally accurate source of knowledge of all things
+.NET, come to speak to us in October. If you haven't started working
+with .NET, this will be a great introduction to the .NET framework,
+techniques and tools. If you have been working with .NET, you can ask
+your questions (and perhaps get answers to them) without having to wait
+for Dr. GUI's next column.
+
+Paul has written Dr. GUI for over five years now. In addition to the
+bi-monthly question and answer column in the MSDN Developer News
+newspaper, Dr. GUI has a weekly online question and answer column and a
+more-or-less monthly .NET column called Dr. GUI.NET.
+
+For a preview of this meeting's content, see the online presentation.
+
+This is a joint meeting of the Northwest C++ User's Group and The WSA
+DevSIG (Developer's SIG) -- formerly known as WinSIG (Window's
+Developer's SIG).

@@ -1,0 +1,39 @@
+April 11th, 2001 — CPP-Unit Testing Framework — Troy Frever
+###########################################################
+
+:date: 2001-04-01
+:slug: april-2001
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+A unit testing framework simplifies the creation of a test suite for a
+software project. It encourages the programmer to write the tests along
+with the code and to run the suite often for verification of code
+changes. Troy Frever will review a C++ framework and report on how it
+has been used at Cisco Systems/Active Voice.
+
+CPP-Unit is available from the following sites:
+
+`http://www.xprogramming.com/software.htm <http://www.xprogramming.com/software.htm>`_ 
+
+`http://sourceforge.net/projects/cppunit/ <http://sourceforge.net/projects/cppunit/>`_
+
+Unit testing is a key component of the Extreme Programming Methodology
+covered by the following sites:
+ `http://www.xprogramming.com/ <http://www.xprogramming.com/>`_ 
+
+`http://www.extremeprogramming.org/ <http://www.extremeprogramming.org/>`_ 
+
+`http://groups.yahoo.com/group/extremeprogramming-seattle
+<http://groups.yahoo.com/group/extremeprogramming-seattle>`_
+
+Recommended book: Martin Fowler's "Refactoring: Improving the Design of
+Existing Code".
