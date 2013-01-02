@@ -19,4 +19,4 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = False

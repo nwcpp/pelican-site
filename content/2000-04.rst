@@ -1,0 +1,30 @@
+April 12th, 2000 — Testing Object-Oriented Software — Steve Tockey
+##################################################################
+
+:date: 2000-04-01
+:slug: april-2000
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+This presentation is an overview of software testing techniques with
+special emphasis on the application of those techniques to
+object-oriented software.
+
+Bio
+~~~
+
+Steve Tockey is Vice President of Consulting at Construx Software in
+Bellevue. Steve has been employed in the software industry since 1977,
+and has worked as a programmer, analyst, designer, researcher,
+consultant, and adjunct professor. His career has included stints at
+Lawrence Livermore National Laboratory, The Boeing Company, and Rockwell
+Collins, Inc. He has a Masters in Software Engineering from Seattle
+University and a B.A. in Computer Science from U.C. Berkeley.

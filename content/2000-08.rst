@@ -1,0 +1,60 @@
+August 9th, 2000 — Building a High Performance Server Product on Win NT/2000 Using C/C++ — Chris Hickman & Joe Mullally
+#######################################################################################################################
+
+:date: 2000-08-01
+:slug: august-2000
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Joe will start by talking about building a high performance server
+product on Win NT/2000 using C/C++. Specifically:
+
+-  I/O Completion Ports
+
+-  Object and Context Pooling
+
+-  Protocol and Error Mapping
+
+-  When and How to use Spinlock vs Interlocks
+
+-  Efficient Loops
+
+-  Aligning Structs
+
+Chris will then finish with a talk about Viathan Corporation and a
+software demo. Jeff and Chris will then take some time to answer
+questions.
+
+Bio
+~~~
+
+Chris Hickman, CTO and co-founder of Viathan Corporation, oversees the
+technical direction of the company, including new product advances and
+the development and test processes. Prior to founding Viathan, Chris
+worked for Microsoft's Interactive Media Group where he developed core
+Internet technologies for the Microsoft Network. As a lead server
+developer, he was responsible for design, architecture and
+implementation of a storage system for Web-scale applications. He helped
+ship two versions of the Microsoft Network and filed for four patents
+relating to storage technologies. Prior to Microsoft, Chris spent
+several years at Motorola as a software engineer. He was a technical
+lead on a software project that developed a suite of Web applications
+still used by engineers to facilitate communication and collaboration.
+
+Joe Mullally, Software Development Manager, Viathan Corporation,
+is responsible for managing the development process at Viathan including
+the design, development, and development resource allocation for
+Viathan's distributed data architecture. Prior to joining Viathan, Joe
+worked at Microsoft's Internet group developing large scale Internet
+data services. Most recently, Joe shipped the first releases of
+Microsoft Passport, Microsoft's e-commerce and Web authentication
+service. Prior to Microsoft, Joe worked as a Senior Software Engineer at
+AVT Corporation.

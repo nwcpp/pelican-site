@@ -1,0 +1,37 @@
+September 13th, 2000 — Change the Way You Write Exception-Safe Code, Forever — Andrei Alexandrescu
+##################################################################################################
+
+:date: 2000-09-01
+:slug: september-2000
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+This talk presents the subtle issues associated with writing correct
+code in the presence of exceptions. Writing exception-safe code is a
+must for preserving the sanity of any application. This task is daunting
+because exceptions introduce hidden control flows and require a modified
+way of thinking. Several approaches to exception safety are discussed on
+a concrete example, with their advantages and drawbacks. In the end an
+useful helper class template ScopeGuard is introduced, that enables you
+to write exception-safe code that's terse, easy to understand, and easy
+to maintain.
+
+“I presented this to someone who hadn't worked with exceptions, and in
+the end he said: ‘Cool. Exceptions are not hard, supporting them is
+trivial. Do they all do it this way?’ He was surprised to hear that most
+programmers do it the hard way and that ScopeGuard is cutting-edge.”
+
+Bio
+~~~
+
+Andrei Alexandrescu is a Development Manager with RealNetworks, Inc. He
+is a former columnist of the C++ Report magazine, and a columnist of
+C/C++ Users Journal. You can reach him at andrei@metalanguage.com.
