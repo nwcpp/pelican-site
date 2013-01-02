@@ -1,0 +1,34 @@
+April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei Alexandrescu
+############################################################################################################################
+
+:date: 2002-04-01
+:slug: april-2002
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+This talk presents a couple of new, safe idioms that bring order in your
+C++ multithreaded programs. We will cover three idioms for single-object
+transactions and two idioms for multi-object transactions, with
+examples. Warning: This talk is rated R for (C++) language abuse,
+violence (of debate), and subliminal content.
+
+Bio
+~~~
+
+Andrei is a world-class expert in software development using C++. In the
+C++ community, he is best known for his book, Modern C++ Design (Addison
+Wesley, 2001). Also, Andrei is a former columnist for the C++ Report, a
+columnist for C/C++ Users Journal, and a sought-after speaker at
+conferences worldwide.
+
+After working in large-scale projects ranging from financial software on
+Wall Street to networking software to user interfaces, Andrei is
+pursuing a Ph.D. in Computer Science at University of Washington.

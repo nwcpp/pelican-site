@@ -25,7 +25,7 @@ Our meeting will be a world-premiere of Scott's material on STL (the
 standard template library)!
 
 Scott's description of his talk, presented verbatim:
- "For the past 18 months, Scott Meyers has been exploring the STL, and
+"For the past 18 months, Scott Meyers has been exploring the STL, and
 on April 30 he sends to his publisher the results of his efforts, the
 new book, Effective STL: 50 Specific Ways to Improve Your Use of the
 Standard Template Library. In this talk, Scott presents two or three

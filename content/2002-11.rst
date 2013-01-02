@@ -1,0 +1,39 @@
+November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David Brownell
+#########################################################################################################################
+
+:date: 2002-11-01
+:slug: november-2002
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+This presentation will illustrate techniques to ensure code correctness
+at compile time, extend the STL, and enhance C++ using the freely
+available and portable boost libraries,
+`www.boost.org <http://www.boost.org>`_. Beginning with brief overviews
+of the boost organization and the boost libraries, we will then explore
+ten specific boost libraries, covering the why’s, what’s, and how’s
+behind the concepts that enable all three of the techniques listed
+above.
+
+This presentation assumes familiarity with C++ templates.
+
+Bio
+~~~
+
+David Brownell has been using C++ in a professional environment for the
+past 5 years. Graduating with a BSCS from Seattle University in 1998,
+David has worked on faxing applications, automated scripting utilities,
+secure communications technologies, generic programming techniques, and
+peer-to-peer applications. David currently works as a Software Engineer
+at Aegis Design in Seattle, Washington.
+
+`Click here </static/talks/2002/BoostPresentation.zip>`_
+to download the slides and source code from the presentation

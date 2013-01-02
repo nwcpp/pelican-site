@@ -1,0 +1,40 @@
+October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb Sutter
+##############################################################################################
+
+:date: 2002-10-01
+:slug: october-2002
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+From exception specifications to export, from typedef templates to
+typeof to delegating constructors, this talk analyzes current C++
+features that you should use with care if at all, and important new
+C++0x language features coming soon to a compiler near you. It shows why
+the features are useful, where they have areas or effects that can be
+dangerous or result in unintended effects, what kinds of coding idioms
+and techniques they make possible, when you can expect them to be stable
+in shipping compilers, who the people and companies behind them are, and
+how you can use them safely and effectively.
+
+Talk first given at `The C++ Seminar <http://www.thecppseminar.com>`_
+
+Bio
+~~~
+
+Herb Sutter is conveyor and secretary, respectively, of the `ISO and
+ANSI C++ standards committees <http://std.dkuug.dk/jtc1/sc22/wg21/>`_,
+contributing editor and columnist for `C/C++ Users Journal
+(CUJ) <http://www.cuj.com>`_, C++ community liaison for Microsoft, and
+former editor-in-chief of C++ Report. He is also the author of more than
+150 `technical articles <http://www.gotw.ca/publications/index.htm>`_
+and of the widely acclaimed books Exceptional C++, More Exceptional C++,
+and the forthcoming titles C++ Coding Standards (with Andrei
+Alexandrescu) and Exceptional C++ Style.

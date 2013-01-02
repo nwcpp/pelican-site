@@ -22,18 +22,16 @@ has been used at Cisco Systems/Active Voice.
 
 CPP-Unit is available from the following sites:
 
-`http://www.xprogramming.com/software.htm <http://www.xprogramming.com/software.htm>`_ 
-
-`http://sourceforge.net/projects/cppunit/ <http://sourceforge.net/projects/cppunit/>`_
+* `http://www.xprogramming.com/software.htm <http://www.xprogramming.com/software.htm>`_ 
+* `http://sourceforge.net/projects/cppunit/ <http://sourceforge.net/projects/cppunit/>`_
 
 Unit testing is a key component of the Extreme Programming Methodology
 covered by the following sites:
- `http://www.xprogramming.com/ <http://www.xprogramming.com/>`_ 
 
-`http://www.extremeprogramming.org/ <http://www.extremeprogramming.org/>`_ 
-
-`http://groups.yahoo.com/group/extremeprogramming-seattle
-<http://groups.yahoo.com/group/extremeprogramming-seattle>`_
+* `http://www.xprogramming.com/ <http://www.xprogramming.com/>`_ 
+* `http://www.extremeprogramming.org/ <http://www.extremeprogramming.org/>`_ 
+* `http://groups.yahoo.com/group/extremeprogramming-seattle
+  <http://groups.yahoo.com/group/extremeprogramming-seattle>`_
 
 Recommended book: Martin Fowler's "Refactoring: Improving the Design of
 Existing Code".

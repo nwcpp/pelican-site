@@ -20,3 +20,5 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
+
+STATIC_PATHS = ['talks','images']

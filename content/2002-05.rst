@@ -1,0 +1,34 @@
+May 8th, 2002 — Embedded C++ : An Overview — Robert Blumberg
+############################################################
+
+:date: 2002-05-01
+:slug: may-2002
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+This talk sets out many of the parameters that are recurrent when
+programming small- to moderately-sized embedded systems in C++. It then
+delves into C++ techniques to work within the resource-limited,
+cost-sensitive, required-robustness confines of embedded systems. These
+techniques are also useful when building PC applications.
+
+Bio
+~~~
+
+Robert Blumberg has over 35 years of programming experience, having
+started by programming on IBM 7090 mainframes. As an executive, he has
+been the director of Engineering at Bitstream and a VP of a speech
+recognition company among other posts. However, he really enjoys
+throwing C++ code, which he has been doing as a freelance programmer for
+the last fifteen years or so, mostly for embedded systems and drivers.
+Among other projects, he designed and coded the kernel, drivers and
+coin-movement software for Coinstar’s big green coin-counting machines
+often found in super markets.
