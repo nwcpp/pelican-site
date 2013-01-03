@@ -8,9 +8,9 @@ November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch �
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
-November 21, 2012 at 7:00 PM, Microsoft Campus
-`Building 41/1511 (Townsend)
-<http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_
+November 21, 2012 at 7:00 PM, Microsoft Campus.
+`Building 41/1511–Townsend
+<http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
 
 Abstract
 ~~~~~~~~
