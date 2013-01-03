@@ -1,0 +1,33 @@
+March 12th, 2003 — Resource Management in C++ — Bartosz Milewski
+################################################################
+
+:date: 2003-03-01
+:slug: march-2003
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Everybody knows the adage "Resource acquisition is initialization."
+Not many people know that this simple principle gave rise to the whole
+methodology of Resource Management (RM).
+Bartosz will try to convince us that RM is better than garbage collection.
+He will describe auto\_vector
+— a simpler alternative to a vector of reference-counted smart pointers
+(which will most likely become part of the new C++ Standard).
+He will also talk about his personal favorite: using RM in Windows (non-MFC) programming.
+
+Bio
+~~~
+
+Bartosz is the author of the book,
+`C++ In Action <http://www.relisoft.com/book/>`_,
+published by Addison-Wesley in 2001.
+He is also the CEO of Reliable Software LLC
+(see his company website `www.relisoft.com <http://www.relisoft.com>`_).

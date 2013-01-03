@@ -1,0 +1,39 @@
+February 12th, 2003 — Mojo — Andrei Alexandrescu
+################################################
+
+:date: 2003-02-01
+:slug: february-2003
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Attend this talk to learn about Mojo, the new framework, library, and
+coding guideline that enables you to pass and return values without
+fearing that copying temporaries is going to ruin runtime performance or
+your code review. Mojo guarantees that, if you follow a number of simple
+rules when designing your classes, you will totally eliminate
+unnecessary copying.
+
+Learn about Mojo from its own creator for 90 fun and instructive
+minutes. Mojo uses a cornucopia of interesting tricks and techniques
+that are likely to make your day whether you use C++ (you'll be happy
+you can apply them) or other languages (you'll be happy you can't apply
+them).
+
+Bio
+~~~
+
+Andrei Alexandrescu is working on a graduate degree at the University of
+Washington. He is the author of the acclaimed book Modern C++ Design.
+Andrei is also a columnist for C/C++ Users Journal, a C++ former
+columnist for the C++ Report, a speaker at numerous conferences, and one
+of the featured instructors of The C++ Seminar
+(`www.gotw.ca/cpp\_seminar <http://www.gotw.ca/cpp_seminar>`_).
+His website is `www.moderncppdesign.com <http://www.moderncppdesign.com>`_.

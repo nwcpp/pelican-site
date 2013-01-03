@@ -1,0 +1,27 @@
+April 9th, 2003 — New Features in Visual C++ .NET 2003 — Ed Dudenhoefer
+#######################################################################
+
+:date: 2003-04-01
+:slug: april-2003
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+An overview of the newest version of Visual C++, codenamed Everett.
+New features including the IDE, project system, forms designer, compiler,
+debugger, conformance, security and library improvements are explained
+or demonstrated. Tips and possible breaking changes will also be noted.
+
+Bio
+~~~
+
+Ed Dudenhoefer is a Program Manager on the Visual C++ team at Microsoft.
+He is responsible for internal and external C++ developer community support
+and product adoption.

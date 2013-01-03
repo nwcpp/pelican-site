@@ -1,0 +1,43 @@
+September 10th, 2003 — Thread Safe Object—Never Think About Thread Safety Again — David Brownell
+################################################################################################
+
+:date: 2003-09-01
+:slug: september-2003
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Ask any developer, and they will tell you that multithreaded programming is hard.
+Very hard.
+One staple of this difficult style of programming
+is the effective and thorough use of mutexes and critical sections.
+Unfortunately this technique can be tedious and best and produce error
+and race conditions at worst.
+This presentation will introduce you to ThreadSafeObject,
+a generic object that guarantees you will never have
+to surround a variable or code with a mutex or critical section ever again.
+We will cover generic programming, dive into the magic that
+makes auto\_ptr work, and discuss meta-programming techniques - the code
+that makes an object change behavior at compile time based on type.
+Use ThreadSafeObject, and never think about thread safety again!
+
+Bio
+~~~
+
+David Brownell has been using C++ in a professional environment for the
+past 5 years. Graduating with a BSCS from Seattle University in 1998,
+David has worked on faxing applications, automated scripting utilities,
+secure communications technologies, generic programming techniques, and
+peer-to-peer applications. David currently works as a Software Engineer
+at Orrtax Software in Bellevue, Washington and serves as president for
+the Northwest C++ Users Group.
+
+`Click here </static/talks/2003/ThreadSafeObject.zip>`_
+to download the source code and slides from the presentation

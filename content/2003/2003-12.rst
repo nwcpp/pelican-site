@@ -1,0 +1,61 @@
+December 10th, 2003 — The Future of C++ on .NET: A Tour of C++/CLI — Herb Sutter
+################################################################################
+
+:date: 2003-12-01
+:slug: december-2003
+
+Location
+~~~~~~~~
+
+| Microsoft Corporation
+| Building 27, Conference Room 1810 (Olympic)
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+In October 2003, a new ECMA standards committee was formed to create an
+international standard for "C++/CLI," a set of C++ extensions for .NET
+programming designed by Microsoft in collaboration with C++ industry
+leaders as a successor to "Managed C++."
+Formally, C++/CLI is a binding between ISO C++ and ISO CLI
+(Common Language Infrastructure, the standardized subset of
+the .NET runtime environment and frameworks class library);
+see the announcement at
+`www.ecma-international.org/news/ecma-TG5-PR.htm
+<http://www.ecma-international.org/news/ecma-TG5-PR.htm>`_.
+
+In this talk, the lead architect of C++/CLI talks about the language
+design and major features, with a look under the hood at how compilers
+are implementing the new semantics. C++/CLI provides first-class and
+cleanly integrated support in the C++ language for all .NET features
+(e.g., properties and events, garbage collection and generics) uniformly
+for all types including also for native types. It also provides
+first-class support on the .NET platform for all standard C++ features
+(e.g., deterministic destruction and templates) uniformly for all types,
+including also for .NET types. These facilities are expressed through a
+set of pure conforming extensions, underpinned by a unified type system
+and unified pointer/storage system.
+
+Bio
+~~~
+
+**Herb Sutter**
+is a leading authority on C++ software development.
+Author of more than
+180 `technical articles and papers <http://www.gotw.ca/publications/index.htm>`_
+and of the widely acclaimed books
+`Exceptional C++ <http://www.gotw.ca/publications/xc++.htm>`_
+and `More Exceptional C++ <http://www.gotw.ca/publications/mxc++.htm>`_,
+he regularly gives invited talks at conferences around the world
+and is available for
+private `training and mentoring <http://www.gotw.ca/consulting.htm>`_
+for new and current corporate clients.
+
+Please note that in order to accommodate the increased attendance, this
+meeting will be held at the **Microsoft Corporation** rather than our
+usual meeting at Avaya.
+
+`Click here </static/talks/2003/HerbSutterCLI.pdf>`_
+to download the source code and slides from the presentation
