@@ -8,9 +8,9 @@ September 19th, 2012 — Functional Patterns in C++ — Bartosz Milewski
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
-September 19, 2012 at 7:00 PM, Microsoft Campus
-`Building 41/1511 (Townsend)
-<http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_
+September 19, 2012 at 7:00 PM, Microsoft Campus.
+`Building 41/1511–Townsend
+<http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
 
 Abstract
 ~~~~~~~~

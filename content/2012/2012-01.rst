@@ -20,7 +20,8 @@ Come at 6:30pm for pizza supplied by 
 Abstract
 ~~~~~~~~
 
-In this talk, I will describe two MSR tools, Cuzz and DataCollider, for finding concurrency errors.
+In this talk, I will describe two MSR tools,
+Cuzz and DataCollider, for finding concurrency errors.
 Cuzz uses a randomized algorithm to insert delays
 in a concurrent program to force race conditions with probabilistic guarantees.
 Cuzz is easy to use and is integrated with Microsoft’s Application Verifier.
@@ -45,6 +46,6 @@ Resources
 ~~~~~~~~~
 
 `Video <http://vimeo.com/35722387>`_ \|
-`slides <http://www.nwcpp.org/images/stories/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx>`_
-\| `Cuzz paper <http://research.microsoft.com/pubs/118655/asplos277-pct.pdf>`_ \|
+`Slides </static/talks/2012/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx>`_ \|
+`Cuzz paper <http://research.microsoft.com/pubs/118655/asplos277-pct.pdf>`_ \|
 `DataCollider paper <http://research.microsoft.com/pubs/139266/DataCollider%20-%20OSDI2010.pdf>`_.

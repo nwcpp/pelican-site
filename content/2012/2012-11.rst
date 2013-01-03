@@ -48,4 +48,4 @@ Resources
 ~~~~~~~~~
 
 `Video <http://vimeo.com/54243075>`_ \|
-`Slides <http://www.nwcpp.org/images/stories/touchdevelop2012.pptx>`_
+`Slides </static/talks/2012/touchdevelop2012.pptx>`_
