@@ -37,5 +37,5 @@ and a series of `C++11 Concurrency tutorials
 Resources
 ~~~~~~~~~
 
-`Slides <http://www.nwcpp.org/images/stories/asynctasksinc11.pptx>`_ and
+`Slides </static/talks/2011/asynctasksinc11.pptx>`_ and
 `video <http://vimeo.com/30868784>`_ of Bartosz's talk.

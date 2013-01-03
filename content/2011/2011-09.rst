@@ -36,6 +36,6 @@ and a passion for performance when working on Windows.
 Resources
 ~~~~~~~~~
 
-`Slides <http://www.nwcpp.org/images/stories/beyondthreads-rickmolloy-2011-09-21.pptx>`_,
-`code <http://www.nwcpp.org/images/stories/beyondthreads-code-rickmolloy-2011-09-21.zip>`_,
+`Slides </static/talks/2011/beyondthreads-rickmolloy-2011-09-21.pptx>`_,
+`code </static/talks/2011/beyondthreads-code-rickmolloy-2011-09-21.zip>`_,
 and `video <http://www.vimeo.com/29672551>`_ of Rick's talk.

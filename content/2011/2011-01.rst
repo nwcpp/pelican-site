@@ -1,5 +1,5 @@
-Jan 19, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze
-###################################################################################
+January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze
+#########################################################################################
 
 :date: 2011-01-01
 :slug: january-2011
@@ -48,4 +48,4 @@ He co-founded Corensic, a UW-CSE spin-off company, where he is a part-time consu
 Resources
 ~~~~~~~~~
 
-`Slides <http://www.nwcpp.org/images/stories/nwcpp-jan2011.pdf>`_.
+`Slides </static/talks/2011/nwcpp-jan2011.pdf>`_.

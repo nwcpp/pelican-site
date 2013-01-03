@@ -56,5 +56,5 @@ You can follow Alan on Twitter,
 Resources
 ~~~~~~~~~
 
-`Slides <http://www.nwcpp.org/images/stories/avoidingoverandunderdesigncpp.pdf>`_
+`Slides </static/talks/2011/avoidingoverandunderdesigncpp.pdf>`_
 and `video <http://vimeo.com/25209064>`_ of Alan's talk.

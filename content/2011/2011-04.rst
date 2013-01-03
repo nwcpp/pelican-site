@@ -1,5 +1,5 @@
-April 20, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd Moore
-############################################################################
+April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd Moore
+##############################################################################
 
 :date: 2011-04-01
 :slug: april-2011
@@ -31,5 +31,5 @@ with his formal training in biological based artificial intelligence, electronic
 Resources
 ~~~~~~~~~
 
-`Slides <http://www.nwcpp.org/images/stories/c%20for%20microcontrollers.ppt>`_ and
-`Video <http://vimeo.com/nwcpp/april2011>`_ of Lloyd's talk.
+`Slides </static/talks/2011/c%20for%20microcontrollers.ppt>`_ and
+`video <http://vimeo.com/nwcpp/april2011>`_ of Lloyd's talk.

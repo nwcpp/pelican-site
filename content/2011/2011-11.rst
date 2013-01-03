@@ -62,4 +62,4 @@ Resources
 ~~~~~~~~~
 
 `Video <http://vimeo.com/32281584>`_ and
-`slides <http://www.nwcpp.org/images/stories/scientificcomputing.pdf>`_
+`slides </static/talks/2011/scientificcomputing.pdf>`_
