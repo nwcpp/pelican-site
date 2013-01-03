@@ -28,12 +28,12 @@ He worked for Boeing for 3 years on the development of the 757 stabilizer trim s
 He then switched to writing software, in particular compilers,
 and has been writing them ever since.
 
-There will be door prizes--3 copies of Andrei Alexandrescu's book,
+There will be door prizes—3 copies of Andrei Alexandrescu's book,
 `The D Programming Language
-<http://www.amazon.com/D-Programming-Language-Andrei-Alexandrescu/dp/0321635361/>`_--plus
-light refreshments.
+<http://www.amazon.com/D-Programming-Language-Andrei-Alexandrescu/dp/0321635361/>`_\
+—plus light refreshments.
 
 Resources
 ~~~~~~~~~
 
-Here are `Walter's slides <http://www.nwcpp.org/images/stories/nwcpp-2010-09.pdf>`_.
+Here are `Walter's slides </static/talks/2010/nwcpp-2010-09.pdf>`_.

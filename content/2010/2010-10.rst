@@ -13,7 +13,7 @@ Abstract
 
 Modern IDEs and compilers generate a wealth of information,
 and you can't have any of it.
-Tools in the compiler family -- even the best IDEs -- tend to be monolithic, language-specific,
+Tools in the compiler family — even the best IDEs — tend to be monolithic, language-specific,
 generally non-scalable special-purpose applications.
 Even when they do support headless analysis, none of them do it the same way,
 and very few of them can do cross-language analysis.
