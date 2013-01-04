@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>March 17th, 2010 — Short Talks on Concurrency</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="./theme/css/main.css" type="text/css" />
+                <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users' Group Atom Feed" />
+                
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="./css/ie.css"/>
+                <script src="./js/IE8.js" type="text/javascript"></script><![endif]-->
+
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="./css/ie6.css"/><![endif]-->
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Northwest C++ Users' Group </a></h1>
+                <nav><ul>
+                                                                                                    <li ><a href="./category/2000.html">2000</a></li>
+                                    <li ><a href="./category/2001.html">2001</a></li>
+                                    <li ><a href="./category/2002.html">2002</a></li>
+                                    <li ><a href="./category/2003.html">2003</a></li>
+                                    <li class="active"><a href="./category/2010.html">2010</a></li>
+                                    <li ><a href="./category/2011.html">2011</a></li>
+                                    <li ><a href="./category/2012.html">2012</a></li>
+                                    <li ><a href="./category/2013.html">2013</a></li>
+                                    <li ><a href="./category/content.html">content</a></li>
+                                </ul></nav>
+        </header><!-- /#banner -->
+        <section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="./march-2010.html" rel="bookmark"
+           title="Permalink to March 17th, 2010 — Short Talks on Concurrency">March 17th, 2010 — Short Talks on Concurrency</a></h1>
+          </header>
+
+    <div class="entry-content">
+      <footer class="post-info">
+        <abbr class="published" title="2010-03-01T00:00:00">
+                Mon 01 March 2010
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="./author/george-reilly.html">George Reilly</a>
+        </address>
+        <p>In <a href="./category/2010.html">2010</a>. </p>
+
+</footer><!-- /.post-info -->      <div class="section" id="time-and-location">
+<h2>Time and Location</h2>
+<p>Wednesday, March 17th, 2010 at
+<a class="reference external" href="http://www.bing.com/maps/?v=2&amp;where1=Microsoft%20Building%2040,%20WA&amp;encType=1">Building 40/1450</a>
+(Steptoe), One Microsoft Way, Redmond, WA 98052, at 7pm.</p>
+<p>Three short talks on Concurrency from
+Bartosz Milewski, George Reilly, and Max Wilson.</p>
+<div class="section" id="tasks-vs-sparks-comparing-ms-task-parallel-library-with-multicore-haskell-bartosz-milewski">
+<h3>Tasks vs. Sparks, comparing MS Task Parallel Library with Multicore Haskell — Bartosz Milewski</h3>
+</div>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>Microsoft
+<a class="reference external" href="http://msdn.microsoft.com/en-us/magazine/cc163340.aspx">TPS</a> is a
+.NET library that allows the programmer to parallelize fragments of
+code. Haskell support for parallelization goes deeper into the runtime.
+Of course these are apples and oranges;
+Haskell is a functional language, TPS is mostly used from C#.
+But the implementation details are similar (both projects come from Microsoft Research).</p>
+</div>
+<div class="section" id="bio">
+<h2>Bio</h2>
+<p><a class="reference external" href="http://bartoszmilewski.wordpress.com/">Bartosz Milewski</a> is the
+president of the NWCPP and has spoken many times.</p>
+<div class="section" id="read-mostly-data-structures-george-v-reilly">
+<h3>Read-Mostly Data Structures — George V. Reilly</h3>
+</div>
+</div>
+<div class="section" id="id1">
+<h2>Abstract</h2>
+<p>When shared data is read frequently, but seldom modified,
+the lock can become a bottleneck.
+Callers are serialized on the lock and the memory underlying the lock
+sloshes between different processor caches.
+Since the data is rarely modified,
+it seems like we should be able to read it without taking a lock at all.
+This talk presents a safe, lock-free way to access shared data.</p>
+</div>
+<div class="section" id="id2">
+<h2>Bio</h2>
+<p><a class="reference external" href="http://www.georgevreilly.com/">George Reilly</a> has developed
+software since the 1980s, working in television, graphics, operating
+systems, editors, advertising, and Web 2.0.
+He became fascinated with concurrency during the seven years
+he spent on the Internet Information Services development team at Microsoft,
+where he concentrated on performance.
+He now works for <a class="reference external" href="http://www.cozi.com/">Cozi</a>,
+a small company in Seattle's Pioneer Square,
+which just won the WTIA's Consumer Product of the Year award
+for its software that simplifies family life.</p>
+<div class="section" id="futures-in-c-max-wilson">
+<h3>Futures in C++ — Max Wilson</h3>
+</div>
+</div>
+<div class="section" id="id3">
+<h2>Abstract</h2>
+<p>the new C++0x standard requires support for
+<a class="reference external" href="http://bartoszmilewski.wordpress.com/2009/03/03/broken-promises-c0x-futures/">“futures.”</a>
+In general, “futures” are a programming language abstraction for data
+that will be produced asynchronously by other threads. We will discuss
+the conceptual benefits to programming with futures vs. other
+synchronization mechanisms, and show which techniques can be used in C++
+and how they make concurrent APIs easier to consume.</p>
+</div>
+<div class="section" id="id4">
+<h2>Bio</h2>
+<p>Max Wilson is a bit of a language geek, and is a developer on Microsoft’s
+<a class="reference external" href="http://msdn.microsoft.com/en-us/netframework/aa663324.aspx">WCF</a> team.
+Other than that he is a totally normal guy.</p>
+</div>
+
+    </div><!-- /.entry-content -->
+    
+  </article>
+</section>
+        <section id="extras" class="body">
+                        <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                                                    <li><a href="http://docs.notmyidea.org/alexis/pelican/">Pelican</a></li>
+                                                    <li><a href="http://python.org">Python.org</a></li>
+                                                    <li><a href="http://jinja.pocoo.org">Jinja2</a></li>
+                                                    <li><a href="#">You can modify those links in your config file</a></li>
+                                                </ul>
+                </div><!-- /.blogroll -->
+                                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                            
+                                                    <li><a href="#">You can add links in your config file</a></li>
+                                                    <li><a href="#">Another social link</a></li>
+                                                </ul>
+                </div><!-- /.social -->
+                </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users' Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2011.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2011-12-01T00:00:00-08:00</updated><entry><title>December 2011: No Meeting</title><link href="http://nwcpp.org/december-2011.html" rel="alternate"></link><updated>2011-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-12-01:december-2011.html</id><summary type="html"></summary></entry><entry><title>November 16th, 2011 — Introduction to Scientific Computing — Robert Goddard</title><link href="http://nwcpp.org/november-2011.html" rel="alternate"></link><updated>2011-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-11-01:november-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for pizza supplied by
+&lt;a class="reference external" href="http://www.km.kongsberg.com/"&gt;Kongsberg Underwater Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Computing in science and engineering involves modeling part of the physical world.
+The inputs could be detailed measurements of the environment,
+or a randomized set of potential measurements that might characterize some environment in the future.
+The outputs could be images, or sound, or predictions of whether
+a system will succeed or fail to perform its function,
+or actions to make it more (or less) likely that some system will succeed.
+The algorithms might involve solving a set of differential equations,
+or integrating some function over a multi-dimensional domain,
+or searching multi-dimensional parameter spaces to optimize some measure of quality or fit,
+or sifting through noise to find a buried signal.
+Speed requirements might be real-time (hard or soft), or much faster,
+or just fast enough to fit into your project cost and schedule.
+The answers must be accurate enough to accomplish the mission:
+Personnel training, or performance prediction, or advance of scientific knowledge,
+or control of a system or device, or life, or death.&lt;/p&gt;
+&lt;p&gt;Scientific computing typically involves a whole lot of arithmetic.
+So, I will begin with a review of floating point arithmetic, specifically the IEEE 754 standard.
+(You might be surprised at how much you thought you knew, but didn't.)
+Then I will move on to R. W. Hamming's five main ideas about computation:
+Emphasis on the purpose of the computation,
+generalization of algorithms into families, roundoff error, truncation error,
+and feedback (stability).
+I hope to give enough practical information to help you avoid the most common problems
+inherent in numerical computation,
+and to point out resources that could help you go further.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Robert Goddard is a physicist and software developer.
+For the last 31 years, he has worked at the
+Applied Physics Laboratory of the University of Washington,
+mainly on computer modeling of underwater sound.
+He is the architect and team leader for the Sonar Simulation Toolset (SST),
+which produces simulated underwater sound,
+suitable as input to sophisticated signal processing systems
+(including human ears and brains),
+based on user-specified descriptions of the undersea environment,
+the listening system, and the sound sources and targets that might be out there.
+He has also developed systems for control of measurement devices,
+data analysis, visualization, modeling of quantum mechanical scattering,
+and optimization of parameter values to fit observations.&lt;/p&gt;
+&lt;p&gt;Bob has been an active participant in NWCPP for most of its existence,
+and is currently Treasurer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/32281584"&gt;Video&lt;/a&gt; and
+&lt;a class="reference external" href="/static/talks/2011/scientificcomputing.pdf"&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>October 19th, 2011 — Asynchronous Tasks in C++11 — Bartosz Milewski</title><link href="http://nwcpp.org/october-2011.html" rel="alternate"></link><updated>2011-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-10-01:october-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by
+&lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions, LLC&lt;/a&gt;!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;One of the goals of the new &lt;a class="reference external" href="http://en.wikipedia.org/wiki/C%2B%2B11"&gt;C++11 Standard&lt;/a&gt;
+was to provide support for concurrency, in particular for thread-based concurrency.
+But threads don’t scale very well.
+Do C++ tasks, which are created using &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;std::async&lt;/span&gt;&lt;/tt&gt;, offer a scalable solution?
+Can they implement task-based parallelism?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz Milewski has a Ph.D. in Quantum Physics and many years of experience as a C++ programmer.
+He worked at Microsoft on the Context Index—a search engine before the Internet—still an active part of Windows 7.
+He designed the first distributed version control system,
+&lt;a class="reference external" href="http://www.relisoft.com/co_op/"&gt;Code Co-op&lt;/a&gt; (before BitKeeper and Git).
+Bartosz took part in the design of the &lt;a class="reference external" href="http://www.digitalmars.com/d/2.0/index.html"&gt;D language&lt;/a&gt;.
+His main topics of interest are concurrent and distributed computing.
+He works at Corensic, a Seattle startup that makes a concurrency bug detector,
+&lt;a class="reference external" href="http://www.corensic.com/Products.aspx"&gt;Jinx&lt;/a&gt;.
+He regularly publishes a blog at
+&lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;
+and a series of &lt;a class="reference external" href="http://www.corensic.com/Learn/Resources/ConcurrencyTutorialPartOne.aspx"&gt;C++11 Concurrency tutorials&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/asynctasksinc11.pptx"&gt;Slides&lt;/a&gt; and
+&lt;a class="reference external" href="http://vimeo.com/30868784"&gt;video&lt;/a&gt; of Bartosz's talk.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>September 21st, 2011 — Beyond Threads — Rick Molloy</title><link href="http://nwcpp.org/september-2011.html" rel="alternate"></link><updated>2011-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-09-01:september-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by &lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon Digital&lt;/a&gt;!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A stroll through actor and task based programming using Visual Studio.&lt;/p&gt;
+&lt;p&gt;Developing concurrent applications and libraries is hard.
+Making them robust and inherently scalable is even more challenging.
+This talk will walk through a small handful of examples of using Microsoft's
+&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/library/dd492627(VS.100).aspx"&gt;Agents&lt;/a&gt;
+&amp;amp; &lt;a class="reference external" href="http://msdn.microsoft.com/en-us/library/dd492418(VS.100).aspx"&gt;Parallel Pattern Library&lt;/a&gt;
+that implement patterns from actor-based and dataflow programming.
+An emphasis will be made on providing examples that are drawn from real situations
+I've encountered in code in the last few years
+and how the patterns help resolve them,
+rather than just providing a simple inventory of the APIs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://parallelroads.wordpress.com/"&gt;Rick Molloy&lt;/a&gt; has worked at
+Microsoft at various roles since 1999
+and is currently working as a developer in the Startup Business Group.
+Rick developed a passion for programing models while working on the Parallel Computing team and
+contributing to Microsoft's Concurrency Runtime and C++ AMP
+and a passion for performance when working on Windows.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/beyondthreads-rickmolloy-2011-09-21.pptx"&gt;Slides&lt;/a&gt;,
+&lt;a class="reference external" href="/static/talks/2011/beyondthreads-code-rickmolloy-2011-09-21.zip"&gt;code&lt;/a&gt;,
+and &lt;a class="reference external" href="http://www.vimeo.com/29672551"&gt;video&lt;/a&gt; of Rick's talk.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>August 2011: No Meeting</title><link href="http://nwcpp.org/august-2011.html" rel="alternate"></link><updated>2011-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-08-01:august-2011.html</id><summary type="html"></summary></entry><entry><title>July 2011: No Meeting</title><link href="http://nwcpp.org/july-2011.html" rel="alternate"></link><updated>2011-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-07-01:july-2011.html</id><summary type="html"></summary></entry><entry><title>June 15th, 2011 — Avoiding Over and Under Design — Alan Shalloway</title><link href="http://nwcpp.org/june-2011.html" rel="alternate"></link><updated>2011-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-01:june-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for the pizza provided by &lt;a class="reference external" href="http://www.corensic.com/"&gt;Corensic&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The question of how much design to do up-front on a project is an engaging one.
+Too much design often results in overkill, complexity, and wasted work.
+Too little design results in insufficient system structures
+that require rework, additional complexity, and wasted effort.
+How can we know what the right balance is?
+Alan Shalloway shows how to use the advice from Design Patterns
+coupled with the attitude of not building what you don’t need from Agile.
+The trick is in discovering what you don’t know, how it may affect you,
+and then how to isolate these risks in your code in a simple manner.
+Alan describes the essence of emergent design
+– that is, starting with a simple design and letting it evolve as the requirements evolve.
+He also demonstrates how to refactor to better designs
+and how this is different from refactoring bad code.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Alan&amp;nbsp;Shalloway&lt;/strong&gt; is the founder and CEO of &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net Objectives&lt;/a&gt;.
+With over 40 years of experience, Alan is an industry thought leader
+in Lean, Kanban, Scrum and design patterns.
+He helps companies transition to Lean and Agile methods enterprise-wide
+as well teaches courses in these areas.
+Alan has developed training and coaching methods for Lean-Agile
+that have helped his clients achieve long-term, sustainable productivity gains.
+He is a popular speaker at prestigious conferences worldwide.
+He is the primary author of
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/design-patterns-explained"&gt;Design Patterns Explained: A New Perspective on Object-Oriented Design&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/lean-agile-pocket-guide-scrum-teams"&gt;Lean-Agile Pocket Guide for Scrum Teams&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/lean-agile-software-development"&gt;Lean-Agile Software Development: Achieving Enterprise Agility&lt;/a&gt;,
+and is currently writing
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/essential-skills-agile-developers"&gt;Essential Skills for the Agile Developer&lt;/a&gt;.
+Alan has worked in literally dozens of industries over his career.
+He is a co-founder and board member for the
+&lt;a class="reference external" href="http://www.leanssc.org/"&gt;Lean Software and Systems Consortium&lt;/a&gt;.
+He has a Masters in Computer Science from M.I.T.
+as well as a Masters in Mathematics from Emory University.
+You can follow Alan on Twitter,
+&lt;a class="reference external" href="http://twitter.com/alshalloway"&gt;&amp;#64;alshalloway&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/avoidingoverandunderdesigncpp.pdf"&gt;Slides&lt;/a&gt;
+and &lt;a class="reference external" href="http://vimeo.com/25209064"&gt;video&lt;/a&gt; of Alan's talk.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>May 18th, 2011 — C++0x Lambda Functions — Herb Sutter</title><link href="http://nwcpp.org/may-2011.html" rel="alternate"></link><updated>2011-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-05-01:may-2011.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users Group' would like to extend a very special
+welcome to Herb Sutter as the speaker for the May 2011 meeting.&lt;/p&gt;
+&lt;p&gt;Come at 6:30 for &lt;em&gt;pizza&lt;/em&gt; provided by
+&lt;a class="reference external" href="http://http//www.corensic.com//"&gt;Corensic&lt;/a&gt;!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Why care about &lt;a class="reference external" href="http://en.wikipedia.org/wiki/C%2B%2B0x#Lambda_functions_and_expressions"&gt;C++0x lambda functions&lt;/a&gt;?
+Syntactically, they are nothing but sugar for function objects.
+However, they are an essential and enabling sugar that will change the way
+we will write C++ code more often than most people realize.&lt;/p&gt;
+&lt;p&gt;This talk will cover what lambda functions are and how to use them effectively,
+including how lambdas touch many wide-ranging kinds of code
+— from their convenience when writing concurrent and scalable parallel code,
+to how they stand to revolutionize STL usability and programming,
+to how they enable such small conveniences as local functions and local variable initialization.&lt;/p&gt;
+&lt;p&gt;Note that lambda functions, although futuristic, are not a far-future feature.
+They are available today in several shipping C++ compilers,
+including Intel C++ 11, Microsoft Visual Studio 2010, and gcc 4.5.
+The future is now.
+Come find out how this powerful feature affects you and your code.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Herb_Sutter"&gt;Herb Sutter&lt;/a&gt;
+is the chair of the ISO C++ committee.
+He is responsible for the design of lambda functions in Visual C++ 2010
+and their integration in the Parallel Patterns Library.
+He is partly responsible for the design of lambda functions in the C++0x standard,
+notably capture defaults and final syntax.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/lambda.pdf"&gt;Slides&lt;/a&gt; and
+&lt;a class="reference external" href="http://vimeo.com/23975522"&gt;video&lt;/a&gt; of Herb's standing-room-only talk.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd Moore</title><link href="http://nwcpp.org/april-2011.html" rel="alternate"></link><updated>2011-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-04-01:april-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by Amazon Digital!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microcontrollers represent a highly resource constrained environment.
+Very small microcontrollers typically have only several KB of program space available
+and several hundred bytes of memory, in addition to very low clock speeds.
+This talk will look at how to address these resource limitations.
+Many of the techniques examined also apply to larger / PC class hardware,
+and can be used to improve the performance for those systems.
+In addition the techniques explored are also beneficial
+for optimizing the power consumption of mobile devices and applications.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lloyd Moore&lt;/strong&gt; is the founder and owner of
+&lt;a class="reference external" href="http://www.CyberData-Robotics.com"&gt;CyberData Corporation&lt;/a&gt;,
+which provides consulting services in the robotics and industrial automation field.
+Lloyd has worked in software industry for 25 years,
+with his formal training in biological based artificial intelligence, electronics, and psychology.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/c%20for%20microcontrollers.ppt"&gt;Slides&lt;/a&gt; and
+&lt;a class="reference external" href="http://vimeo.com/nwcpp/april2011"&gt;video&lt;/a&gt; of Lloyd's talk.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>March 16th, 2011 — Debuggers and Mago — Aldo Nunez</title><link href="http://nwcpp.org/march-2011.html" rel="alternate"></link><updated>2011-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-03-01:march-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm to socialize and eat pizza provided by
+&lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions&lt;/a&gt;!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Debuggers are an important tool for helping software engineers
+get to the root of certain problems.
+&lt;a class="reference external" href="http://dsource.org/projects/mago_debugger"&gt;Mago&lt;/a&gt;
+is a graphical debugger dedicated to the
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/D_(programming_language)"&gt;D programming language&lt;/a&gt;
+on Windows.
+It is made up of several independent libraries that can be used
+for other purposes such as tracing and code analysis.&lt;/p&gt;
+&lt;p&gt;In this talk, we'll cover the process of debugging in general,
+specifics on Windows, and details about Mago's connection to D.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Aldo Nunez has worked on embedded software since
+graduating with a B.A. in Computer Science from New York University in 2001.
+He first programmed BASIC on the VTech PreComputer 1000,
+and is interested in programming language tools and video games.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Aldo's &lt;a class="reference external" href="/static/talks/2011/mago%20debugger%20inner%20workings.pptx"&gt;slides&lt;/a&gt;.
+Video, &lt;a class="reference external" href="http://vimeo.com/21323893"&gt;Part I&lt;/a&gt; and &lt;a class="reference external" href="http://vimeo.com/21605995"&gt;Part II&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>February 16th, 2011 — The Thought Process of Patterns: Essential Design Skills — Alan Shalloway</title><link href="http://nwcpp.org/february-2011.html" rel="alternate"></link><updated>2011-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-02-01:february-2011.html</id><summary type="html">&lt;p&gt;Pizza will be supplied by &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net Objectives&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Patterns have been known as “Solutions to Recurring Problems in&amp;nbsp; a Context.”
+However, they are really more than just that.
+In fact, Christopher Alexander, the inspirer of design patterns in general and
+the author of this quote later says at the end of his book
+– “At this final stage, the patterns are no longer important:
+the patterns have taught you to be receptive to what is real.”
+This talk is about the thought process of patterns – what to be receptive to.
+These concepts will be discussed&amp;nbsp;in the context of emerging application architectures
+and so will be of particular interest to agile developers.
+However, these concepts are equally important to creating designs that are to endure,
+regardless of the methodology involved.&lt;/p&gt;
+&lt;p&gt;The lessons learned will be taken from Net Objectives’ upcoming book
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/essential-skills-agile-developers"&gt;Essential Skills for the Agile Developer&lt;/a&gt;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Programming by Intention&lt;/li&gt;
+&lt;li&gt;Separating Use from Construction&lt;/li&gt;
+&lt;li&gt;Define tests Up Front&lt;/li&gt;
+&lt;li&gt;Shalloway’s Law&lt;/li&gt;
+&lt;li&gt;Encapsulate That&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Attendees will learn a new respect for design patterns
+and how they are more useful today than ever before.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Alan&amp;nbsp;Shalloway&lt;/strong&gt; is the founder and CEO of &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net Objectives&lt;/a&gt;.
+With over 40 years of experience, Alan is an industry thought leader
+in Lean, Kanban, Scrum and design patterns.
+He helps companies transition to Lean and Agile methods enterprise-wide
+as well teaches courses in these areas.
+Alan has developed training and coaching methods for Lean-Agile
+that have helped his clients achieve long-term, sustainable productivity gains.
+He is a popular speaker at prestigious conferences worldwide.
+He is the primary author of
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/design-patterns-explained"&gt;Design Patterns Explained: A New Perspective on Object-Oriented Design&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/lean-agile-pocket-guide-scrum-teams"&gt;Lean-Agile Pocket Guide for Scrum Teams&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/lean-agile-software-development"&gt;Lean-Agile Software Development: Achieving Enterprise Agility&lt;/a&gt;,
+and is currently writing
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/essential-skills-agile-developers"&gt;Essential Skills for the Agile Developer&lt;/a&gt;.
+Alan has worked in literally dozens of industries over his career.
+He is a co-founder and board member for the
+&lt;a class="reference external" href="http://www.leanssc.org/"&gt;Lean Software and Systems Consortium&lt;/a&gt;.
+He has a Masters in Computer Science from M.I.T.
+as well as a Masters in Mathematics from Emory University.
+You can follow Alan on Twitter,
+&lt;a class="reference external" href="http://twitter.com/alshalloway"&gt;&amp;#64;alshalloway&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze</title><link href="http://nwcpp.org/january-2011.html" rel="alternate"></link><updated>2011-01-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-01-01:january-2011.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Current multicore systems are nondeterministic.
+Each time they execute a multithreaded application, even if supplied with the same input,
+they can produce a different output.
+This frustrates debugging, limits the ability to properly test multithreaded code
+and hinders fault-tolerant scenarios.
+Moreover, data-races often lead to surprising behavior
+and complicate the semantics of programming languages.&lt;/p&gt;
+&lt;p&gt;In this talk, I will argue that nondeterminism should be kept at a minimum
+both during development as well as in the field,
+making the benefits of deterministic execution go beyond debugging.
+I will also argue that concurrency errors should be treated as exceptions,
+have fail-stop behavior and precise semantics.
+I will present our work on fully deterministic shared memory multiprocessing (DMP),
+exploring multiple deterministic execution strategies
+with different performance, complexity and scalability trade-offs.
+I will also present some of our work on architecture support
+for fail-stop behavior of data-races.
+I will end the talk with a brief overview of our efforts
+in complex concurrency bug detection and avoidance.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.cs.washington.edu/homes/luisceze/"&gt;Luis Ceze&lt;/a&gt;
+is an Assistant Professor in the Computer Science and Engineering Department
+at the University of Washington.
+His research focuses on computer architecture, compiler, programming models and OS
+to improve the programmability, reliability and energy efficiency of multiprocessor systems.
+He has co-authored over 40 papers in these areas,
+and had several papers selected as IEEE Micro Top Picks and CACM research Highlights.
+He participated in the Blue Gene, Cyclops, and PERCS projects at IBM
+and is a recipient of several IBM awards.
+He is also a recipient of an NSF CAREER Award, a Sloan Research Fellowship,
+and a Microsoft Research Faculty Fellowship.
+He co-founded Corensic, a UW-CSE spin-off company, where he is a part-time consultant.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/nwcpp-jan2011.pdf"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry></feed>

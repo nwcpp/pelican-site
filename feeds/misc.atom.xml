@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users' Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/misc.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-02-01T00:00:00-08:00</updated><entry><title>Welcome to the Northwest C++ Users' Group</title><link href="http://nwcpp.org/welcome-nwcpp.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-02-01:welcome-nwcpp.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users' Group (NWCPP) is a group of professional developers and hobbyists
+living and working in the Pacific Northwest
+who meet monthly to discuss trends, techniques, and technology
+regarding the C++ language and industry.
+The group meetings and resources are free, and anyone and everyone is welcome to attend.&lt;/p&gt;
+&lt;p&gt;We are interested in&amp;nbsp;C++, C, the D language, concurrency, scalability,
+performance, Boost, software engineering, design patterns, debugging,
+compilers, tools, functional programming, software architecture,
+machine architecture, DSLs, embedded software, test-driven development,
+cross-platform development, distributed programming, and more.&lt;/p&gt;
+&lt;div class="section" id="meetings"&gt;
+&lt;h2&gt;Meetings&lt;/h2&gt;
+&lt;p&gt;Our meetings are held at the
+&lt;a class="reference external" href="old/Downloads/MicrosoftMainCampusMap.jpg"&gt;main Microsoft campus&lt;/a&gt;,
+One Microsoft Way, Redmond, WA 98052,
+in &lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft%20Building%2041,%20WA&amp;amp;encType=1"&gt;Building 41/1511
+(Townsend)&lt;/a&gt;,
+at the corner of NE 31st and 156th Ave NE.
+Usually, we meet at 7pm on the&amp;nbsp;&lt;em&gt;third Wednesday&lt;/em&gt; of the month.
+You may need to knock on the window so that we can let you into the building.&lt;/p&gt;
+&lt;p&gt;Disclaimer: NWCPP is not associated with Microsoft—although we
+take&amp;nbsp;advantage of their generosity in providing the venue and occasional&amp;nbsp;speakers.&lt;/p&gt;
+&lt;p&gt;Past speakers at our meetings include
+&lt;a class="reference external" href="http://www.moderncppdesign.com"&gt;Andrei Alexandrescu&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.bruceeckel.com/"&gt;Bruce Eckel&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.construx.com/"&gt;Steve McConnell&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.aristeia.com/"&gt;Scott Meyers&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.netobjectives.com/bio-alan-shalloway"&gt;Alan Shalloway&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.wintellect.com/CS/blogs/jeffreyr/default.aspx"&gt;Jeffrey Richter&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.linkedin.com/in/rhschmidt"&gt;Bobby Schmidt&lt;/a&gt;,
+&lt;a class="reference external" href="http://blogs.msdn.com/slippman"&gt;Stan Lippman&lt;/a&gt;,
+&lt;a class="reference external" href="http://ericniebler.com/"&gt;Eric Niebler&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.bartosz.com/"&gt;Bartosz Milewski&lt;/a&gt;,
+and &lt;a class="reference external" href="http://www.gotw.ca/"&gt;Herb Sutter&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="social-media"&gt;
+&lt;h3&gt;Social Media&lt;/h3&gt;
+&lt;p&gt;Sign up for our
+&lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;Announcements&lt;/a&gt; list,
+follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on Twitter,
+join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook group&lt;/a&gt;,
+follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+ page&lt;/a&gt;,
+follow our &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo channel&lt;/a&gt;,
+and join our&amp;nbsp;&lt;a class="reference external" href="http://www.linkedin.com/groups?gid=2770106"&gt;LinkedIn group&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Seeking or offering a job?
+Use our&amp;nbsp;&lt;a class="reference external" href="http://www.linkedin.com/groupAnswers?viewQuestions=&amp;amp;gid=2770106&amp;amp;forumID=5&amp;amp;sik=1268291239461"&gt;LinkedIn Jobs Board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="old-website"&gt;
+&lt;h3&gt;Old Website&lt;/h3&gt;
+&lt;p&gt;We have moved our website to a new host in early 2010 and started using Joomla.
+The &lt;em&gt;old&lt;/em&gt; site content can be found&amp;nbsp;&lt;a class="reference external" href="old/index.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry></feed>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>January 25th, 2012 — Finding Race Condition and Data Races Effectively — Madan Musuvathi</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="./theme/css/main.css" type="text/css" />
+                <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users' Group Atom Feed" />
+                
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="./css/ie.css"/>
+                <script src="./js/IE8.js" type="text/javascript"></script><![endif]-->
+
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="./css/ie6.css"/><![endif]-->
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Northwest C++ Users' Group </a></h1>
+                <nav><ul>
+                                                                                                    <li ><a href="./category/2000.html">2000</a></li>
+                                    <li ><a href="./category/2001.html">2001</a></li>
+                                    <li ><a href="./category/2002.html">2002</a></li>
+                                    <li ><a href="./category/2003.html">2003</a></li>
+                                    <li ><a href="./category/2010.html">2010</a></li>
+                                    <li ><a href="./category/2011.html">2011</a></li>
+                                    <li class="active"><a href="./category/2012.html">2012</a></li>
+                                    <li ><a href="./category/2013.html">2013</a></li>
+                                    <li ><a href="./category/content.html">content</a></li>
+                                </ul></nav>
+        </header><!-- /#banner -->
+        <section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="./january-2012.html" rel="bookmark"
+           title="Permalink to January 25th, 2012 — Finding Race Condition and Data Races Effectively — Madan Musuvathi">January 25th,&nbsp;2012 — Finding Race Condition and Data Races Effectively — Madan Musuvathi</a></h1>
+          </header>
+
+    <div class="entry-content">
+      <footer class="post-info">
+        <abbr class="published" title="2012-01-01T00:00:00">
+                Sun 01 January 2012
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="./author/nwcpp.html">nwcpp</a>
+        </address>
+        <p>In <a href="./category/2012.html">2012</a>. </p>
+
+</footer><!-- /.post-info -->      <div class="section" id="time-and-location">
+<h2>Time and Location</h2>
+<p>January 25th, 2012 at 7:00 PM, Microsoft Campus.
+<a class="reference external" href="http://www.bing.com/maps/?v=2&amp;where1=Microsoft+Building+43">Building 43/1540–Adams</a>
+(note room change).
+This meeting was originally scheduled for Jan 18th but postponed due to snow.</p>
+<p>Come at 6:30pm for pizza supplied by
+<a class="reference external" href="http://bit.ly/STBjobs">Microsoft Server and Tools</a>.</p>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>In this talk, I will describe two MSR tools,
+Cuzz and DataCollider, for finding concurrency errors.
+Cuzz uses a randomized algorithm to insert delays
+in a concurrent program to force race conditions with probabilistic guarantees.
+Cuzz is easy to use and is integrated with Microsoft’s Application Verifier.
+DataCollider uses hardware facilities in interesting ways
+to find data races with little runtime overhead.
+While other data-race detection techniques incur a 1000% runtime overhead or more,
+DataCollider incurs about 0 to 20% overhead.</p>
+</div>
+<div class="section" id="bio">
+<h2>Bio</h2>
+<p>Madan Musuvathi is a Senior Researcher in the
+<a class="reference external" href="http://research.microsoft.com/groups/rise/">Research in Software Engineering</a> group at
+<a class="reference external" href="http://research.microsoft.com/">Microsoft Research</a>.
+His research focus is on scalable analysis of concurrent systems.
+More broadly, his interests include systems, program analysis, model checking,
+verification, and theorem proving.
+He also spends a lot of time at Microsoft
+building analysis tools to improve the productivity of software developers and testers.</p>
+</div>
+<div class="section" id="resources">
+<h2>Resources</h2>
+<p><a class="reference external" href="http://vimeo.com/35722387">Video</a> |
+<a class="reference external" href="/static/talks/2012/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx">Slides</a> |
+<a class="reference external" href="http://research.microsoft.com/pubs/118655/asplos277-pct.pdf">Cuzz paper</a> |
+<a class="reference external" href="http://research.microsoft.com/pubs/139266/DataCollider%20-%20OSDI2010.pdf">DataCollider paper</a>.</p>
+</div>
+
+    </div><!-- /.entry-content -->
+    
+  </article>
+</section>
+        <section id="extras" class="body">
+                        <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                                                    <li><a href="http://docs.notmyidea.org/alexis/pelican/">Pelican</a></li>
+                                                    <li><a href="http://python.org">Python.org</a></li>
+                                                    <li><a href="http://jinja.pocoo.org">Jinja2</a></li>
+                                                    <li><a href="#">You can modify those links in your config file</a></li>
+                                                </ul>
+                </div><!-- /.blogroll -->
+                                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                            
+                                                    <li><a href="#">You can add links in your config file</a></li>
+                                                    <li><a href="#">Another social link</a></li>
+                                                </ul>
+                </div><!-- /.social -->
+                </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
