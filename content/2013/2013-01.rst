@@ -1,0 +1,45 @@
+January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker
+###############################################################
+
+:date: 2013-01-03
+:slug: january-2013
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+January 16, 2013 at 7:00 PM, Microsoft Campus.
+`Building 40/1450–Steptoe
+<http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
+**Note: not our normal meeting room**
+
+
+Abstract
+~~~~~~~~
+
+A robust reflection/metadata system in C++ can be extremely powerful
+and has many applications, particularly in game programming.
+It can facilitate sophisticated debug output and logging, trivial factory implementation, 
+automatic serialization and deserialization for any arbitrary object,
+automatic binding to a GUI system,
+and even automatic binding of objects and functions to a scripting language
+(both Lua and Python are popular).
+The typeinfo/RTTI system currently in C++ however
+is simply not up to this level of functionality,
+so a more sophisticated solution is necessary.
+In this talk, I will implement a simple, yet powerful, meta reflection system in C++, 
+completely from scratch, and using test-driven development.
+I will also show how I leverage a similar system in my own game engine.
+Finally, I promise there will be no more than three PowerPoint slides.
+
+Bio
+~~~
+
+Jeff Tucker is a lecturer of Computer Science
+at DigiPen Institute of Technology,
+where he teaches classes on networking, databases, programming, and 
+software engineering.
+He has been a software engineer for the past 13 years 
+and formerly worked at Microsoft on the Windows Core Networking team.
+He also currently does research in procedural content generation
+and graphics algorithms as well as making computer games.
