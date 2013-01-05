@@ -5,6 +5,8 @@ January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker
 :slug: january-2013
 :author: George Reilly
 
+Please `donate towards better video recordings <|filename|/00-camera-donations.rst>`_.
+
 Time and Location
 ~~~~~~~~~~~~~~~~~
 

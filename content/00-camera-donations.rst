@@ -1,9 +1,20 @@
 Donate towards better video recordings
 --------------------------------------
 
+:date: 2012-12-10
+:slug: camera-donations
+:author: Lloyd Moore
+
+.. raw:: html
+
+    <style>
+    .left-float  {float: left}
+    .right-float {float: right; padding-left: 5em; }
+    </style>
+
 .. figure:: http://www.nwcpp.org/images/stories/thermometer.jpg
-   :align: center
-   :alt: 
+   :class: right-float
+   :alt: Donation Thermometer
 
 The bulk of the feedback we have received over the last year
 on the videotaping of our meetings
@@ -30,20 +41,25 @@ Watch our president, Lloyd Moore, `announce our fundraiser <https://vimeo.com/55
 
 If you would like to help us in this effort, please click on the “Donate” button.
 
-======
-FIXME
-======
+.. raw:: html
 
-.. figure:: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
-   :align: center
-   :alt: 
+    <br />
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input name="cmd" type="hidden" value="_s-xclick" />
+        <input name="hosted_button_id" type="hidden" value="NH22STZVNWVC4" />
+        <input alt="PayPal - The safer, easier way to pay online!"
+            name="submit" type="image"
+            src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" />
+        <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+            border="0" width="1" height="1" />
+    </form>
+    <br />
 
-The `Northwest C++ Users' Group <index.html>`_ is registered
+The `Northwest C++ Users' Group </>`_ is registered
 as a 501(c)(3) non-profit organization.
-Contributions to the Northwest C++ Users' Group are tax-deductible to the extent permitted by law.
-Our tax identification number is 91-1718733.
+Contributions to the Northwest C++ Users' Group
+are tax-deductible to the extent permitted by law.
+Our tax identification number is **91-1718733**.
 
 Thank you very much for your continued support of the Northwest C++ Users' Group
 and we look forward to bringing you another year of interesting and engaging speakers!
-
-Last Updated on Monday, 10 December 2012 16:10  
