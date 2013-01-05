@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users' Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-01-03T00:00:00-08:00</updated><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><updated>2013-01-03T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:january-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and Location&lt;/h2&gt;
-&lt;p&gt;January 16, 2013 at 7:00 PM, Microsoft Campus.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-01-03T00:00:00-08:00</updated><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><updated>2013-01-03T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:january-2013.html</id><summary type="html">&lt;p&gt;Please &lt;a class="reference external" href="http://nwcpp.org/camera-donations.html"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;p&gt;January 16, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;, Microsoft Campus.
 &lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.
-&lt;strong&gt;Note: not our normal meeting room&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;Note: not our normal meeting&amp;nbsp;room&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Come at 6:45 for pizza sponsored by
+&lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad Technologies&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -11,16 +14,16 @@
 and has many applications, particularly in game programming.
 It can facilitate sophisticated debug output and logging, trivial factory implementation,
 automatic serialization and deserialization for any arbitrary object,
-automatic binding to a GUI system,
+automatic binding to a &lt;span class="caps"&gt;GUI&lt;/span&gt; system,
 and even automatic binding of objects and functions to a scripting language
 (both Lua and Python are popular).
-The typeinfo/RTTI system currently in C++ however
+The typeinfo/&lt;span class="caps"&gt;RTTI&lt;/span&gt; system currently in C++ however
 is simply not up to this level of functionality,
 so a more sophisticated solution is necessary.
 In this talk, I will implement a simple, yet powerful, meta reflection system in C++,
 completely from scratch, and using test-driven development.
 I will also show how I leverage a similar system in my own game engine.
-Finally, I promise there will be no more than three PowerPoint slides.&lt;/p&gt;
+Finally, I promise there will be no more than three PowerPoint&amp;nbsp;slides.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -31,6 +34,6 @@ software engineering.
 He has been a software engineer for the past 13 years
 and formerly worked at Microsoft on the Windows Core Networking team.
 He also currently does research in procedural content generation
-and graphics algorithms as well as making computer games.&lt;/p&gt;
+and graphics algorithms as well as making computer&amp;nbsp;games.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry></feed>

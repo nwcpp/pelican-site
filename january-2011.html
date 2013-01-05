@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze</title>
+        <title>January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze</title>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="./theme/css/main.css" type="text/css" />
-                <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users' Group Atom Feed" />
+                <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users’ Group Atom Feed" />
                 
         <!--[if IE]>
                 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -20,7 +20,7 @@
 
 <body id="index" class="home">
         <header id="banner" class="body">
-                <h1><a href="./">Northwest C++ Users' Group </a></h1>
+                <h1><a href="./">Northwest C++ Users’ Group </a></h1>
                 <nav><ul>
                                                                                                     <li ><a href="./category/2000.html">2000</a></li>
                                     <li ><a href="./category/2001.html">2001</a></li>
@@ -30,7 +30,8 @@
                                     <li class="active"><a href="./category/2011.html">2011</a></li>
                                     <li ><a href="./category/2012.html">2012</a></li>
                                     <li ><a href="./category/2013.html">2013</a></li>
-                                    <li ><a href="./category/content.html">content</a></li>
+                                    <li ><a href="./category/about.html">about</a></li>
+                                    <li ><a href="./category/misc.html">misc</a></li>
                                 </ul></nav>
         </header><!-- /#banner -->
         <section id="content" class="body">
@@ -38,7 +39,7 @@
     <header>
       <h1 class="entry-title">
         <a href="./january-2011.html" rel="bookmark"
-           title="Permalink to January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze">January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze</a></h1>
+           title="Permalink to January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze">January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis&nbsp;Ceze</a></h1>
           </header>
 
     <div class="entry-content">
@@ -60,34 +61,34 @@ they can produce a different output.
 This frustrates debugging, limits the ability to properly test multithreaded code
 and hinders fault-tolerant scenarios.
 Moreover, data-races often lead to surprising behavior
-and complicate the semantics of programming languages.</p>
+and complicate the semantics of programming&nbsp;languages.</p>
 <p>In this talk, I will argue that nondeterminism should be kept at a minimum
 both during development as well as in the field,
 making the benefits of deterministic execution go beyond debugging.
 I will also argue that concurrency errors should be treated as exceptions,
 have fail-stop behavior and precise semantics.
-I will present our work on fully deterministic shared memory multiprocessing (DMP),
+I will present our work on fully deterministic shared memory multiprocessing (<span class="caps">DMP</span>),
 exploring multiple deterministic execution strategies
 with different performance, complexity and scalability trade-offs.
 I will also present some of our work on architecture support
 for fail-stop behavior of data-races.
 I will end the talk with a brief overview of our efforts
-in complex concurrency bug detection and avoidance.</p>
+in complex concurrency bug detection and&nbsp;avoidance.</p>
 </div>
 <div class="section" id="bio">
 <h2>Bio</h2>
 <p><a class="reference external" href="http://www.cs.washington.edu/homes/luisceze/">Luis Ceze</a>
 is an Assistant Professor in the Computer Science and Engineering Department
 at the University of Washington.
-His research focuses on computer architecture, compiler, programming models and OS
+His research focuses on computer architecture, compiler, programming models and <span class="caps">OS</span>
 to improve the programmability, reliability and energy efficiency of multiprocessor systems.
 He has co-authored over 40 papers in these areas,
-and had several papers selected as IEEE Micro Top Picks and CACM research Highlights.
-He participated in the Blue Gene, Cyclops, and PERCS projects at IBM
-and is a recipient of several IBM awards.
-He is also a recipient of an NSF CAREER Award, a Sloan Research Fellowship,
+and had several papers selected as <span class="caps">IEEE</span> Micro Top Picks and <span class="caps">CACM</span> research Highlights.
+He participated in the Blue Gene, Cyclops, and <span class="caps">PERCS</span> projects at <span class="caps">IBM</span>
+and is a recipient of several <span class="caps">IBM</span> awards.
+He is also a recipient of an <span class="caps">NSF</span> <span class="caps">CAREER</span> Award, a Sloan Research Fellowship,
 and a Microsoft Research Faculty Fellowship.
-He co-founded Corensic, a UW-CSE spin-off company, where he is a part-time consultant.</p>
+He co-founded Corensic, a <span class="caps">UW</span>-<span class="caps">CSE</span> spin-off company, where he is a part-time&nbsp;consultant.</p>
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>

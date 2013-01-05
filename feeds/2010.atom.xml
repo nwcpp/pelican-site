@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users' Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2010.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-12-01T00:00:00-08:00</updated><entry><title>December 2010: No Meeting</title><link href="http://nwcpp.org/december-2010.html" rel="alternate"></link><updated>2010-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-12-01:december-2010.html</id><summary type="html"></summary></entry><entry><title>November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs. Concepts</title><link href="http://nwcpp.org/november-2010.html" rel="alternate"></link><updated>2010-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-11-01:november-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2010.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-12-01T00:00:00-08:00</updated><entry><title>December 2010: No Meeting</title><link href="http://nwcpp.org/december-2010.html" rel="alternate"></link><updated>2010-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-12-01:december-2010.html</id><summary type="html"></summary></entry><entry><title>November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs. Concepts</title><link href="http://nwcpp.org/november-2010.html" rel="alternate"></link><updated>2010-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-11-01:november-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Concepts_(C%2B%2B)"&gt;C++ Concepts&lt;/a&gt;
 got a lot of bad press and were dropped from
@@ -9,9 +9,9 @@ And yet their equivalent in Haskell,
 &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Type_class"&gt;type classes&lt;/a&gt;,
 are considered simple and powerful.
 I will talk about both languages, explaining some Haskell and C++ concept syntax as I go.
-I'll give examples of problems that type classes solve and C++ concepts could have solved.
-I'll show you the hair-raising forensics of a C++ ADL
-(Argument-Dependent Lookup) mishap that could have been avoided by using concepts.&lt;/p&gt;
+I&amp;#8217;ll give examples of problems that type classes solve and C++ concepts could have solved.
+I&amp;#8217;ll show you the hair-raising forensics of a C++ &lt;span class="caps"&gt;ADL&lt;/span&gt;
+(Argument-Dependent Lookup) mishap that could have been avoided by using&amp;nbsp;concepts.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -27,59 +27,59 @@ Bartosz took part in the design of the
 His main topics of interest are concurrent and distributed computing and language design.
 He regularly publishes a blog at
 &lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;.
-You may see him occasionally at CSE 950 P at the UW.&lt;/p&gt;
+You may see him occasionally at &lt;span class="caps"&gt;CSE&lt;/span&gt; 950 P at the&amp;nbsp;&lt;span class="caps"&gt;UW&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://bartoszmilewski.wordpress.com/2010/11/29/understanding-c-concepts-through-haskell-type-classes/"&gt;Video&lt;/a&gt;
-of the presentation.&lt;/p&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at Google</title><link href="http://nwcpp.org/october-2010.html" rel="alternate"></link><updated>2010-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-10-01:october-2010.html</id><summary type="html">&lt;p&gt;Wednesday, October 20, 2010, at 7pm. 41/1511, Microsoft.
-Come early to socialize and eat pizza.&lt;/p&gt;
+</summary></entry><entry><title>October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at Google</title><link href="http://nwcpp.org/october-2010.html" rel="alternate"></link><updated>2010-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-10-01:october-2010.html</id><summary type="html">&lt;p&gt;Wednesday, October 20, 2010, at 7pm. 41/1511, Microsoft.
+Come early to socialize and eat&amp;nbsp;pizza.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Modern IDEs and compilers generate a wealth of information,
-and you can't have any of it.
+and you can&amp;#8217;t have any of it.
 Tools in the compiler family — even the best IDEs — tend to be monolithic, language-specific,
 generally non-scalable special-purpose applications.
 Even when they do support headless analysis, none of them do it the same way,
 and very few of them can do cross-language analysis.
-At Google, I've put together a team with the long-term goal of addressing these problems
+At Google, I&amp;#8217;ve put together a team with the long-term goal of addressing these problems
 in a general way.
-We've built infrastructure to run IDE-quality code analyzers such
+We&amp;#8217;ve built infrastructure to run &lt;span class="caps"&gt;IDE&lt;/span&gt;-quality code analyzers such
 as &lt;a class="reference external" href="http://www.eclipse.org/"&gt;Eclipse&lt;/a&gt; and &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Clang"&gt;clang&lt;/a&gt;
-over Google's entire corpus and all open-source code.
+over Google&amp;#8217;s entire corpus and all open-source code.
 We translate the intermediate representations into a language-neutral index,
 then serve the index data back through language-neutral APIs and query interfaces.
-In this talk I'll share what we've done so far,
-then about our longer-term plans for an open platform.&lt;/p&gt;
+In this talk I&amp;#8217;ll share what we&amp;#8217;ve done so far,
+then about our longer-term plans for an open&amp;nbsp;platform.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://steve-yegge.blogspot.com/"&gt;Steve Yegge&lt;/a&gt; graduated
-from the University of Washington with a B.S. in Computer Science.
+from the University of Washington with a &lt;span class="caps"&gt;B.S.&lt;/span&gt; in Computer Science.
 He spent five years as a developer and team lead at Geoworks,
 several years at various startups,
 and then more than six years at Amazon.com as a Senior Development Manager.
 He joined Google in 2005 and is a Staff Software Engineer in the Kirkland office,
 currently working on scaling language analysis.
-Steve lives in downtown Kirkland with his lovely wife Linh and their faithful furry sidekick Cino.&lt;/p&gt;
+Steve lives in downtown Kirkland with his lovely wife Linh and their faithful furry sidekick&amp;nbsp;Cino.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/16069687"&gt;Video&lt;/a&gt; of Steve's talk.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/16069687"&gt;Video&lt;/a&gt; of Steve&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 15th, 2010 — The Many Faces of D — Walter Bright</title><link href="http://nwcpp.org/september-2010.html" rel="alternate"></link><updated>2010-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-09-01:september-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
+</summary></entry><entry><title>September 15th, 2010 — The Many Faces of D — Walter Bright</title><link href="http://nwcpp.org/september-2010.html" rel="alternate"></link><updated>2010-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-09-01:september-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;There are many mainstream programming paradigms —
 imperative, object oriented, meta, functional, etc.
 Each has their proponents and languages oriented around it.
-But larger applications tend to not fit easily into any particular paradigm.&lt;/p&gt;
+But larger applications tend to not fit easily into any particular&amp;nbsp;paradigm.&lt;/p&gt;
 &lt;p&gt;In extreme cases, developers will resort to using multiple languages
 with an uneasy interface between them.
 The &lt;a class="reference external" href="http://www.digitalmars.com/d/index.html"&gt;D programming language&lt;/a&gt;
 takes a different approach, offering multiple programming paradigms within one language,
-making it easy to select the most suitable paradigm for each task within the application.&lt;/p&gt;
+making it easy to select the most suitable paradigm for each task within the&amp;nbsp;application.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -87,61 +87,61 @@ making it easy to select the most suitable paradigm for each task within the app
 with a degree in mechanical engineering.
 He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
 He then switched to writing software, in particular compilers,
-and has been writing them ever since.&lt;/p&gt;
-&lt;p&gt;There will be door prizes—3 copies of Andrei Alexandrescu's book,
-&lt;a class="reference external" href="http://www.amazon.com/D-Programming-Language-Andrei-Alexandrescu/dp/0321635361/"&gt;The D Programming Language&lt;/a&gt;—plus light refreshments.&lt;/p&gt;
+and has been writing them ever&amp;nbsp;since.&lt;/p&gt;
+&lt;p&gt;There will be door prizes—3 copies of Andrei Alexandrescu&amp;#8217;s book,
+&lt;a class="reference external" href="http://www.amazon.com/D-Programming-Language-Andrei-Alexandrescu/dp/0321635361/"&gt;The D Programming Language&lt;/a&gt;—plus light&amp;nbsp;refreshments.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;Here are &lt;a class="reference external" href="/static/talks/2010/nwcpp-2010-09.pdf"&gt;Walter's slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are &lt;a class="reference external" href="/static/talks/2010/nwcpp-2010-09.pdf"&gt;Walter&amp;#8217;s slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 2010: No Meeting</title><link href="http://nwcpp.org/august-2010.html" rel="alternate"></link><updated>2010-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-08-01:august-2010.html</id><summary type="html"></summary></entry><entry><title>July 2010: No Meeting</title><link href="http://nwcpp.org/july-2010.html" rel="alternate"></link><updated>2010-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-07-01:july-2010.html</id><summary type="html"></summary></entry><entry><title>June 16th, 2010 — Massive Multithreading on the GPU — Gavriel Plotke</title><link href="http://nwcpp.org/june-2010.html" rel="alternate"></link><updated>2010-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-06-01:june-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
+</summary></entry><entry><title>August 2010: No Meeting</title><link href="http://nwcpp.org/august-2010.html" rel="alternate"></link><updated>2010-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-08-01:august-2010.html</id><summary type="html"></summary></entry><entry><title>July 2010: No Meeting</title><link href="http://nwcpp.org/july-2010.html" rel="alternate"></link><updated>2010-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-07-01:july-2010.html</id><summary type="html"></summary></entry><entry><title>June 16th, 2010 — Massive Multithreading on the GPU — Gavriel Plotke</title><link href="http://nwcpp.org/june-2010.html" rel="alternate"></link><updated>2010-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-06-01:june-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;GigaFlops or… TerraFlops?
-The modern GPU is a massively parallel supercomputer
-that has 2 orders of magnitude more processing power than a single CPU Core.
-But the threading model is very different than the CPU.
-Don’t get left behind on knowing about this different paradigm.&lt;/p&gt;
+The modern &lt;span class="caps"&gt;GPU&lt;/span&gt; is a massively parallel supercomputer
+that has 2 orders of magnitude more processing power than a single &lt;span class="caps"&gt;CPU&lt;/span&gt; Core.
+But the threading model is very different than the &lt;span class="caps"&gt;CPU&lt;/span&gt;.
+Don’t get left behind on knowing about this different&amp;nbsp;paradigm.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Gavriel Plotke, Microsoft Senior SDET.
-I've been with Microsoft for 3 years on the DirectX High Level Shader Language compiler test team.
+&lt;p&gt;Gavriel Plotke, Microsoft Senior &lt;span class="caps"&gt;SDET&lt;/span&gt;.
+I&amp;#8217;ve been with Microsoft for 3 years on the DirectX High Level Shader Language compiler test team.
 I’ve been a champion of the new Compute Shader features of DirectX11.
 While I have some graphics background,
 it was my assembler language and compiler writing background that got me the job.
 Early in my career I worked on the internals of
 a mainframe spreadsheet product as a competitor to VisiCalc and Lotus123.
 It was a time when everyone in a big office would have a mainframe terminal and
-no one had a PC.
+no one had a &lt;span class="caps"&gt;PC&lt;/span&gt;.
 It was a great product, but time moved on, and Excel on inexpensive PCs ate our lunch.
 After that I spent many years doing business contract work
 — different projects, different platforms, lots of database design.
-Now I help support programming on today’s supercomputer, the modern graphics card.&lt;/p&gt;
+Now I help support programming on today’s supercomputer, the modern graphics&amp;nbsp;card.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 19th, 2010 — The Anatomy of Message Passing — Bartosz Milewski</title><link href="http://nwcpp.org/may-2010.html" rel="alternate"></link><updated>2010-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-05-01:may-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
+</summary></entry><entry><title>May 19th, 2010 — The Anatomy of Message Passing — Bartosz Milewski</title><link href="http://nwcpp.org/may-2010.html" rel="alternate"></link><updated>2010-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-05-01:may-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The message passing paradigm makes multithreaded programming safer.
-In this talk I'll be trying to get to the bottom of message passing--
+In this talk I&amp;#8217;ll be trying to get to the bottom of message passing&amp;#8212;
 finding low level primitives from which a variety of message queues or
 mailboxes may be built.
-I'll make a few digressions into Haskell's MVars and OCaml's channels,
-but mainly I'll talk about C++.
-I'll show you how to separate synchronization from message storage
-for a composable and type-safe system.&lt;/p&gt;
+I&amp;#8217;ll make a few digressions into Haskell&amp;#8217;s MVars and OCaml&amp;#8217;s channels,
+but mainly I&amp;#8217;ll talk about C++.
+I&amp;#8217;ll show you how to separate synchronization from message storage
+for a composable and type-safe&amp;nbsp;system.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;I'm one part physicist, one part software engineer, and one part computer scientist.
+&lt;p&gt;I&amp;#8217;m one part physicist, one part software engineer, and one part computer scientist.
 I have a Ph.D. in Theoretical Physics;
 I worked for Microsoft and for my own company, Reliable Software;
 and I frequent graduate seminars in programming languages at the University of Washington.
 I also keep a blog at
 &lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;,
-mostly about concurrent programming.&lt;/p&gt;
+mostly about concurrent&amp;nbsp;programming.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark Roberts</title><link href="http://nwcpp.org/april-2010.html" rel="alternate"></link><updated>2010-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-04-01:april-2010.html</id><summary type="html">&lt;p&gt;On Wednesday, April 21st, 2010 at 7pm, Mark Roberts from Microsoft will
-talk about new C++0x features implemented in Visual&amp;nbsp;Studio 2010.&lt;/p&gt;
+</summary></entry><entry><title>April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark Roberts</title><link href="http://nwcpp.org/april-2010.html" rel="alternate"></link><updated>2010-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-04-01:april-2010.html</id><summary type="html">&lt;p&gt;On Wednesday, April 21st, 2010 at 7pm, Mark Roberts from Microsoft will
+talk about new C++0x features implemented in Visual&amp;nbsp;Studio&amp;nbsp;2010.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Why wait for the C++ committee to finish the specification when you can
@@ -157,43 +157,43 @@ It will illustrate how new constructs such as lambda expressions
 enable better use of existing libraries
 and how your code can be simpler, safer and faster all at the same time.
 If you are itching to show off how C++ is one of the coolest languages on the planet,
-this talk is for you!&lt;/p&gt;
+this talk is for&amp;nbsp;you!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Mark Roberts is a program manager on the Microsoft Visual C++ compiler team.
 He has worked on various aspects of the C++ development experience
-over the past 3 years, including the debugger and IDE.
+over the past 3 years, including the debugger and &lt;span class="caps"&gt;IDE&lt;/span&gt;.
 He is currently focused on implementing new language features in the C++ compiler
-while enhancing the accuracy and performance of intellisense.&lt;/p&gt;
+while enhancing the accuracy and performance of&amp;nbsp;intellisense.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 17th, 2010 — Short Talks on Concurrency</title><link href="http://nwcpp.org/march-2010.html" rel="alternate"></link><updated>2010-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-03-01:march-2010.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and Location&lt;/h2&gt;
+</summary></entry><entry><title>March 17th, 2010 — Short Talks on Concurrency</title><link href="http://nwcpp.org/march-2010.html" rel="alternate"></link><updated>2010-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-03-01:march-2010.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;p&gt;Wednesday, March 17th, 2010 at
 &lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft%20Building%2040,%20WA&amp;amp;encType=1"&gt;Building 40/1450&lt;/a&gt;
-(Steptoe), One Microsoft Way, Redmond, WA 98052, at 7pm.&lt;/p&gt;
+(Steptoe), One Microsoft Way, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052, at&amp;nbsp;7pm.&lt;/p&gt;
 &lt;p&gt;Three short talks on Concurrency from
-Bartosz Milewski, George Reilly, and Max Wilson.&lt;/p&gt;
+Bartosz Milewski, George Reilly, and Max&amp;nbsp;Wilson.&lt;/p&gt;
 &lt;div class="section" id="tasks-vs-sparks-comparing-ms-task-parallel-library-with-multicore-haskell-bartosz-milewski"&gt;
-&lt;h3&gt;Tasks vs. Sparks, comparing MS Task Parallel Library with Multicore Haskell — Bartosz Milewski&lt;/h3&gt;
+&lt;h3&gt;Tasks vs. Sparks, comparing &lt;span class="caps"&gt;MS&lt;/span&gt; Task Parallel Library with Multicore Haskell — Bartosz&amp;nbsp;Milewski&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Microsoft
-&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/magazine/cc163340.aspx"&gt;TPS&lt;/a&gt; is a
-.NET library that allows the programmer to parallelize fragments of
+&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/magazine/cc163340.aspx"&gt;&lt;span class="caps"&gt;TPS&lt;/span&gt;&lt;/a&gt; is a
+.&lt;span class="caps"&gt;NET&lt;/span&gt; library that allows the programmer to parallelize fragments of
 code. Haskell support for parallelization goes deeper into the runtime.
 Of course these are apples and oranges;
-Haskell is a functional language, TPS is mostly used from C#.
-But the implementation details are similar (both projects come from Microsoft Research).&lt;/p&gt;
+Haskell is a functional language, &lt;span class="caps"&gt;TPS&lt;/span&gt; is mostly used from C#.
+But the implementation details are similar (both projects come from Microsoft&amp;nbsp;Research).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://bartoszmilewski.wordpress.com/"&gt;Bartosz Milewski&lt;/a&gt; is the
-president of the NWCPP and has spoken many times.&lt;/p&gt;
+president of the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; and has spoken many&amp;nbsp;times.&lt;/p&gt;
 &lt;div class="section" id="read-mostly-data-structures-george-v-reilly"&gt;
-&lt;h3&gt;Read-Mostly Data Structures — George V. Reilly&lt;/h3&gt;
+&lt;h3&gt;Read-Mostly Data Structures — George V.&amp;nbsp;Reilly&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id1"&gt;
@@ -204,7 +204,7 @@ Callers are serialized on the lock and the memory underlying the lock
 sloshes between different processor caches.
 Since the data is rarely modified,
 it seems like we should be able to read it without taking a lock at all.
-This talk presents a safe, lock-free way to access shared data.&lt;/p&gt;
+This talk presents a safe, lock-free way to access shared&amp;nbsp;data.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id2"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -215,11 +215,11 @@ He became fascinated with concurrency during the seven years
 he spent on the Internet Information Services development team at Microsoft,
 where he concentrated on performance.
 He now works for &lt;a class="reference external" href="http://www.cozi.com/"&gt;Cozi&lt;/a&gt;,
-a small company in Seattle's Pioneer Square,
-which just won the WTIA's Consumer Product of the Year award
-for its software that simplifies family life.&lt;/p&gt;
+a small company in Seattle&amp;#8217;s Pioneer Square,
+which just won the &lt;span class="caps"&gt;WTIA&lt;/span&gt;&amp;#8217;s Consumer Product of the Year award
+for its software that simplifies family&amp;nbsp;life.&lt;/p&gt;
 &lt;div class="section" id="futures-in-c-max-wilson"&gt;
-&lt;h3&gt;Futures in C++ — Max Wilson&lt;/h3&gt;
+&lt;h3&gt;Futures in C++ — Max&amp;nbsp;Wilson&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id3"&gt;
@@ -230,12 +230,12 @@ In general, “futures” are a programming language abstraction for data
 that will be produced asynchronously by other threads. We will discuss
 the conceptual benefits to programming with futures vs. other
 synchronization mechanisms, and show which techniques can be used in C++
-and how they make concurrent APIs easier to consume.&lt;/p&gt;
+and how they make concurrent APIs easier to&amp;nbsp;consume.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id4"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Max Wilson is a bit of a language geek, and is a developer on Microsoft’s
-&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/netframework/aa663324.aspx"&gt;WCF&lt;/a&gt; team.
-Other than that he is a totally normal guy.&lt;/p&gt;
+&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/netframework/aa663324.aspx"&gt;&lt;span class="caps"&gt;WCF&lt;/span&gt;&lt;/a&gt; team.
+Other than that he is a totally normal&amp;nbsp;guy.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry></feed>
+</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry></feed>

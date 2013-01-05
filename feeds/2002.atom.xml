@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users' Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2002.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2002-12-01T00:00:00-08:00</updated><entry><title>December 2002: No Meeting</title><link href="http://nwcpp.org/december-2002.html" rel="alternate"></link><updated>2002-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-12-01:december-2002.html</id><summary type="html"></summary></entry><entry><title>November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David Brownell</title><link href="http://nwcpp.org/november-2002.html" rel="alternate"></link><updated>2002-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-11-01:november-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2002.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2002-12-01T00:00:00-08:00</updated><entry><title>December 2002: No Meeting</title><link href="http://nwcpp.org/december-2002.html" rel="alternate"></link><updated>2002-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-12-01:december-2002.html</id><summary type="html"></summary></entry><entry><title>November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David Brownell</title><link href="http://nwcpp.org/november-2002.html" rel="alternate"></link><updated>2002-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-11-01:november-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue NE&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, WA 98052&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This presentation will illustrate techniques to ensure code correctness
-at compile time, extend the STL, and enhance C++ using the freely
+at compile time, extend the &lt;span class="caps"&gt;STL&lt;/span&gt;, and enhance C++ using the freely
 available and portable boost libraries,
 &lt;a class="reference external" href="http://www.boost.org"&gt;www.boost.org&lt;/a&gt;. Beginning with brief overviews
 of the boost organization and the boost libraries, we will then explore
 ten specific boost libraries, covering the why’s, what’s, and how’s
-behind the concepts that enable all three of the techniques listed
-above.&lt;/p&gt;
-&lt;p&gt;This presentation assumes familiarity with C++ templates.&lt;/p&gt;
+behind the concepts that enable all three of the techniques listed&amp;nbsp;above.&lt;/p&gt;
+&lt;p&gt;This presentation assumes familiarity with C++&amp;nbsp;templates.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;David Brownell has been using C++ in a professional environment for the
-past 5 years. Graduating with a BSCS from Seattle University in 1998,
+past 5 years. Graduating with a &lt;span class="caps"&gt;BSCS&lt;/span&gt; from Seattle University in 1998,
 David has worked on faxing applications, automated scripting utilities,
 secure communications technologies, generic programming techniques, and
 peer-to-peer applications. David currently works as a Software Engineer
-at Aegis Design in Seattle, Washington.&lt;/p&gt;
+at Aegis Design in Seattle,&amp;nbsp;Washington.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/static/talks/2002/BoostPresentation.zip"&gt;Click here&lt;/a&gt;
-to download the slides and source code from the presentation&lt;/p&gt;
+to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb Sutter</title><link href="http://nwcpp.org/october-2002.html" rel="alternate"></link><updated>2002-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-10-01:october-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb Sutter</title><link href="http://nwcpp.org/october-2002.html" rel="alternate"></link><updated>2002-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-10-01:october-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue NE&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, WA 98052&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -48,27 +47,27 @@ the features are useful, where they have areas or effects that can be
 dangerous or result in unintended effects, what kinds of coding idioms
 and techniques they make possible, when you can expect them to be stable
 in shipping compilers, who the people and companies behind them are, and
-how you can use them safely and effectively.&lt;/p&gt;
-&lt;p&gt;Talk first given at &lt;a class="reference external" href="http://www.thecppseminar.com"&gt;The C++ Seminar&lt;/a&gt;&lt;/p&gt;
+how you can use them safely and&amp;nbsp;effectively.&lt;/p&gt;
+&lt;p&gt;Talk first given at &lt;a class="reference external" href="http://www.thecppseminar.com"&gt;The C++&amp;nbsp;Seminar&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Herb Sutter is conveyor and secretary, respectively, of the &lt;a class="reference external" href="http://std.dkuug.dk/jtc1/sc22/wg21/"&gt;ISO and
-ANSI C++ standards committees&lt;/a&gt;,
+&lt;p&gt;Herb Sutter is conveyor and secretary, respectively, of the &lt;a class="reference external" href="http://std.dkuug.dk/jtc1/sc22/wg21/"&gt;&lt;span class="caps"&gt;ISO&lt;/span&gt; and
+&lt;span class="caps"&gt;ANSI&lt;/span&gt; C++ standards committees&lt;/a&gt;,
 contributing editor and columnist for &lt;a class="reference external" href="http://www.cuj.com"&gt;C/C++ Users Journal
-(CUJ)&lt;/a&gt;, C++ community liaison for Microsoft, and
+(&lt;span class="caps"&gt;CUJ&lt;/span&gt;)&lt;/a&gt;, C++ community liaison for Microsoft, and
 former editor-in-chief of C++ Report. He is also the author of more than
 150 &lt;a class="reference external" href="http://www.gotw.ca/publications/index.htm"&gt;technical articles&lt;/a&gt;
 and of the widely acclaimed books Exceptional C++, More Exceptional C++,
 and the forthcoming titles C++ Coding Standards (with Andrei
-Alexandrescu) and Exceptional C++ Style.&lt;/p&gt;
+Alexandrescu) and Exceptional C++&amp;nbsp;Style.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 18th, 2002 — Understanding templates as a form of weak typing — Bruce Eckel</title><link href="http://nwcpp.org/september-2002.html" rel="alternate"></link><updated>2002-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-09-01:september-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>September 18th, 2002 — Understanding templates as a form of weak typing — Bruce Eckel</title><link href="http://nwcpp.org/september-2002.html" rel="alternate"></link><updated>2002-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-09-01:september-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue NE&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, WA 98052&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -82,27 +81,26 @@ also to understand C++ templates in terms of weak typing. I found this
 gave me a much deeper understanding of the value and use of templates.
 In this talk, I will introduce the Python language and the concept of
 weak typing, and I will show C++ templates in the same light. You should
-come away with a deeper grasp of templates and where they can be put to
-use.&lt;/p&gt;
+come away with a deeper grasp of templates and where they can be put to&amp;nbsp;use.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Bruce Eckel (&lt;a class="reference external" href="http://www.bruceeckel.com"&gt;www.BruceEckel.com&lt;/a&gt;) is the
 author of Thinking in Java (Prentice-Hall, 1998, 2nd Edition, 2000), the
-Hands-On Java Seminar CD ROM (available on the Web site), Thinking in
-C++ (PH 1995; 2nd edition 2000), C++ Inside &amp;amp; Out (Osborne/McGraw-Hill
-1993), among others. He's given hundreds of presentations throughout the
+Hands-On Java Seminar &lt;span class="caps"&gt;CD&lt;/span&gt; &lt;span class="caps"&gt;ROM&lt;/span&gt; (available on the Web site), Thinking in
+C++ (&lt;span class="caps"&gt;PH&lt;/span&gt; 1995; 2nd edition 2000), C++ Inside &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Out (Osborne/McGraw-Hill
+1993), among others. He&amp;#8217;s given hundreds of presentations throughout the
 world, published over 150 articles in numerous magazines, was a founding
-member of the ANSI/ISO C++ committee and speaks regularly at
-conferences. He provides public and private seminars &amp;amp; design consulting
-in C++ and Java.&lt;/p&gt;
+member of the &lt;span class="caps"&gt;ANSI&lt;/span&gt;/&lt;span class="caps"&gt;ISO&lt;/span&gt; C++ committee and speaks regularly at
+conferences. He provides public and private seminars &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; design consulting
+in C++ and&amp;nbsp;Java.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 2002: No Meeting</title><link href="http://nwcpp.org/august-2002.html" rel="alternate"></link><updated>2002-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-08-01:august-2002.html</id><summary type="html"></summary></entry><entry><title>July 2002: No Meeting</title><link href="http://nwcpp.org/july-2002.html" rel="alternate"></link><updated>2002-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-07-01:july-2002.html</id><summary type="html"></summary></entry><entry><title>June 2002: No Meeting</title><link href="http://nwcpp.org/june-2002.html" rel="alternate"></link><updated>2002-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-06-01:june-2002.html</id><summary type="html"></summary></entry><entry><title>May 8th, 2002 — Embedded C++ : An Overview — Robert Blumberg</title><link href="http://nwcpp.org/may-2002.html" rel="alternate"></link><updated>2002-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-05-01:may-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>August 2002: No Meeting</title><link href="http://nwcpp.org/august-2002.html" rel="alternate"></link><updated>2002-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-08-01:august-2002.html</id><summary type="html"></summary></entry><entry><title>July 2002: No Meeting</title><link href="http://nwcpp.org/july-2002.html" rel="alternate"></link><updated>2002-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-07-01:july-2002.html</id><summary type="html"></summary></entry><entry><title>June 2002: No Meeting</title><link href="http://nwcpp.org/june-2002.html" rel="alternate"></link><updated>2002-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-06-01:june-2002.html</id><summary type="html"></summary></entry><entry><title>May 8th, 2002 — Embedded C++ : An Overview — Robert Blumberg</title><link href="http://nwcpp.org/may-2002.html" rel="alternate"></link><updated>2002-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-05-01:may-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue NE&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, WA 98052&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -111,26 +109,26 @@ in C++ and Java.&lt;/p&gt;
 programming small- to moderately-sized embedded systems in C++. It then
 delves into C++ techniques to work within the resource-limited,
 cost-sensitive, required-robustness confines of embedded systems. These
-techniques are also useful when building PC applications.&lt;/p&gt;
+techniques are also useful when building &lt;span class="caps"&gt;PC&lt;/span&gt;&amp;nbsp;applications.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Robert Blumberg has over 35 years of programming experience, having
-started by programming on IBM 7090 mainframes. As an executive, he has
-been the director of Engineering at Bitstream and a VP of a speech
+started by programming on &lt;span class="caps"&gt;IBM&lt;/span&gt; 7090 mainframes. As an executive, he has
+been the director of Engineering at Bitstream and a &lt;span class="caps"&gt;VP&lt;/span&gt; of a speech
 recognition company among other posts. However, he really enjoys
 throwing C++ code, which he has been doing as a freelance programmer for
 the last fifteen years or so, mostly for embedded systems and drivers.
 Among other projects, he designed and coded the kernel, drivers and
 coin-movement software for Coinstar’s big green coin-counting machines
-often found in super markets.&lt;/p&gt;
+often found in super&amp;nbsp;markets.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei Alexandrescu</title><link href="http://nwcpp.org/april-2002.html" rel="alternate"></link><updated>2002-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-04-01:april-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei Alexandrescu</title><link href="http://nwcpp.org/april-2002.html" rel="alternate"></link><updated>2002-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-04-01:april-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue NE&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, WA 98052&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -139,7 +137,7 @@ often found in super markets.&lt;/p&gt;
 C++ multithreaded programs. We will cover three idioms for single-object
 transactions and two idioms for multi-object transactions, with
 examples. Warning: This talk is rated R for (C++) language abuse,
-violence (of debate), and subliminal content.&lt;/p&gt;
+violence (of debate), and subliminal&amp;nbsp;content.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -147,79 +145,79 @@ violence (of debate), and subliminal content.&lt;/p&gt;
 C++ community, he is best known for his book, Modern C++ Design (Addison
 Wesley, 2001). Also, Andrei is a former columnist for the C++ Report, a
 columnist for C/C++ Users Journal, and a sought-after speaker at
-conferences worldwide.&lt;/p&gt;
+conferences&amp;nbsp;worldwide.&lt;/p&gt;
 &lt;p&gt;After working in large-scale projects ranging from financial software on
 Wall Street to networking software to user interfaces, Andrei is
-pursuing a Ph.D. in Computer Science at University of Washington.&lt;/p&gt;
+pursuing a Ph.D. in Computer Science at University of&amp;nbsp;Washington.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between ANSI C++ and the ‘Managed C++’ of .NET — Matthew Griscom</title><link href="http://nwcpp.org/march-2002.html" rel="alternate"></link><updated>2002-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-03-01:march-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between ANSI C++ and the ‘Managed C++’ of .NET — Matthew Griscom</title><link href="http://nwcpp.org/march-2002.html" rel="alternate"></link><updated>2002-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-03-01:march-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue NE&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, WA 98052&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Microsoft Visual Studio 7 .NET has shipped with improved support for
-ANSI C++. The whole .NET aspect of this tool, discussed extensively in
+&lt;p&gt;Microsoft Visual Studio 7 .&lt;span class="caps"&gt;NET&lt;/span&gt; has shipped with improved support for
+&lt;span class="caps"&gt;ANSI&lt;/span&gt; C++. The whole .&lt;span class="caps"&gt;NET&lt;/span&gt; aspect of this tool, discussed extensively in
 this and other forums, is radically new and at first blush is
-incompatible with ANSI C++, native code COM objects, etc. This talk will
+incompatible with &lt;span class="caps"&gt;ANSI&lt;/span&gt; C++, native code &lt;span class="caps"&gt;COM&lt;/span&gt; objects, etc. This talk will
 address some of the aspects of how Microsoft proposes to bridge the gap
-between existing source code, COM objects, etc. and executables using
-the new suite of .NET technologies, in particular using the ‘Managed
-C++’ syntax.&lt;/p&gt;
+between existing source code, &lt;span class="caps"&gt;COM&lt;/span&gt; objects, etc. and executables using
+the new suite of .&lt;span class="caps"&gt;NET&lt;/span&gt; technologies, in particular using the ‘Managed
+C++’&amp;nbsp;syntax.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Matthew Griscom has coded medical communications protocols, database
-integrity tools, a multi-user database engine, XSL-driven web pages, you
+integrity tools, a multi-user database engine, &lt;span class="caps"&gt;XSL&lt;/span&gt;-driven web pages, you
 name it, for both Unix and Windows. Now, if only one of the cosmonauts
 on the Space Station would push the button to use the connectivity
 software he designed and wrote, that would be sincerely cool… Matt’s
-been dot-bombed and is looking for C++ and .NET work in greater Seattle.&lt;/p&gt;
+been dot-bombed and is looking for C++ and .&lt;span class="caps"&gt;NET&lt;/span&gt; work in greater&amp;nbsp;Seattle.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="/static/talks/2002/Meeting_2002-03.zip"&gt;Click here&lt;/a&gt;
-to download the slides and source code from the presentation&lt;/p&gt;
+to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 13th, 2002 — Visual C++ .NET — Christian Harlass</title><link href="http://nwcpp.org/february-2002.html" rel="alternate"></link><updated>2002-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-02-01:february-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>February 13th, 2002 — Visual C++ .NET — Christian Harlass</title><link href="http://nwcpp.org/february-2002.html" rel="alternate"></link><updated>2002-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-02-01:february-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue NE&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, WA 98052&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Microsoft Visual Studio .NET will ship in the coming weeks (at least
-they say so) and everybody is talking about C#, VB, ASP, and ADO. What
+&lt;p&gt;Microsoft Visual Studio .&lt;span class="caps"&gt;NET&lt;/span&gt; will ship in the coming weeks (at least
+they say so) and everybody is talking about C#, &lt;span class="caps"&gt;VB&lt;/span&gt;, &lt;span class="caps"&gt;ASP&lt;/span&gt;, and &lt;span class="caps"&gt;ADO&lt;/span&gt;. What
 about C++? How does it fit with new technologies? We will explore a
 closer look at the new features of the compiler, the C Run-Time, and
-three other libraries, namely STL, MFC and ATL.&lt;/p&gt;
+three other libraries, namely &lt;span class="caps"&gt;STL&lt;/span&gt;, &lt;span class="caps"&gt;MFC&lt;/span&gt; and&amp;nbsp;&lt;span class="caps"&gt;ATL&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Christian has come a long way from DOS to Unix and now to MS Windows (as
+&lt;p&gt;Christian has come a long way from &lt;span class="caps"&gt;DOS&lt;/span&gt; to Unix and now to &lt;span class="caps"&gt;MS&lt;/span&gt; Windows (as
 well as from Germany to Seattle!). Currently he works for Saxonia
 Systems, a software consulting company based out of Dresden, Germany.
-Besides his duties heading up Saxonia's U.S. consulting division in C++
+Besides his duties heading up Saxonia&amp;#8217;s &lt;span class="caps"&gt;U.S.&lt;/span&gt; consulting division in C++
 programming, he is constantly keeping an eye on the market for new and
-useful programming tools.&lt;/p&gt;
+useful programming&amp;nbsp;tools.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2002/VC7Demo.zip"&gt;Click here&lt;/a&gt; to download the source code from the presentation&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2002/VC7Demo.zip"&gt;Click here&lt;/a&gt; to download the source code from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 9th, 2002 — Inter-Process Communications Using Shared Memory — Bartosz Milewski</title><link href="http://nwcpp.org/january-2002.html" rel="alternate"></link><updated>2002-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-01-01:january-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>January 9th, 2002 — Inter-Process Communications Using Shared Memory — Bartosz Milewski</title><link href="http://nwcpp.org/january-2002.html" rel="alternate"></link><updated>2002-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-01-01:january-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue NE&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, WA 98052&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -228,17 +226,17 @@ useful programming tools.&lt;/p&gt;
 memory and a waitable timer. You are supposed to implement robust
 inter-process communications in C++. Bartosz will explain the concept of
 shared memory in Win32 and its use in establishing a protocol for data
-exchange between processes. It's better than DDE and simpler than COM.&lt;/p&gt;
+exchange between processes. It&amp;#8217;s better than &lt;span class="caps"&gt;DDE&lt;/span&gt; and simpler than&amp;nbsp;&lt;span class="caps"&gt;COM&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Bartosz is the author of C++ In Action, Industrial Strength Programming
 Techniques, published by Addison-Wesley in 2001. During his years at
 Microsoft he worked on several projects involving various aspects of
-operating systems. He ported the Mach OS virtual memory system to the
-x86 platform, took part in the development of the HPFS and OFS file
+operating systems. He ported the Mach &lt;span class="caps"&gt;OS&lt;/span&gt; virtual memory system to the
+x86 platform, took part in the development of the &lt;span class="caps"&gt;HPFS&lt;/span&gt; and &lt;span class="caps"&gt;OFS&lt;/span&gt; file
 systems, was the architect and development lead of the Windows 2000
 content index. He is now the president of Reliable Software, a
-distributed software company.&lt;/p&gt;
+distributed software&amp;nbsp;company.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry></feed>
