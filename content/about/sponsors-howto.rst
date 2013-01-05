@@ -1,6 +1,9 @@
 How to Sponsor NWCPP
---------------------
+####################
 
+:date: 2011-06-13
+:slug: sponsors-howto
+:author: George Reilly
 
 Several companies have chosen to sponsor our monthly meetings.
 Often these companies supply free pizza for the meeting.
@@ -10,7 +13,6 @@ If you sponsor us, we will add a brief mention on the front page which
 links to our `sponsorship page <index.php?id=60&view=article>`_.
 
 NWCPP welcomes your sponsorship, subject to the following guidelines.
- 
 
 #. Donations to get onto the sponsor page must be at least $50 in value.
 #. All contributions must go to one or more members of our organization;
@@ -25,6 +27,4 @@ NWCPP welcomes your sponsorship, subject to the following guidelines.
    Each month we will add the latest sponsors to the top of the page,
    and remove the postings that are 1+ years old.
 
-NWCPP is a 501(c)3 organization. Our EIN is 91-1718733.
-
-Last Updated on Monday, 13 June 2011 20:43  
+NWCPP is a 501(c)3 organization. Our EIN is **91-1718733**.
