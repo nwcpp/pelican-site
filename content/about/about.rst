@@ -1,8 +1,8 @@
 Welcome to the Northwest C++ Users' Group
 #########################################
 
-:date: 2010-02-01
-:slug: welcome-nwcpp
+:date: 2013-01-01
+:slug: about
 :author: George Reilly
 
 The Northwest C++ Users' Group (NWCPP) is a group of professional developers and hobbyists
@@ -21,12 +21,12 @@ Meetings
 ~~~~~~~~
 
 Our meetings are held at the
-`main Microsoft campus <old/Downloads/MicrosoftMainCampusMap.jpg>`_,
+`main Microsoft campus </static/images/MicrosoftMainCampusMap.jpg>`_,
 One Microsoft Way, Redmond, WA 98052,
-in `Building 41/1511
-(Townsend) <http://www.bing.com/maps/?v=2&where1=Microsoft%20Building%2041,%20WA&encType=1>`_,
+in `Building 41/1511–Townsend
+<http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_,
 at the corner of NE 31st and 156th Ave NE.
-Usually, we meet at 7pm on the *third Wednesday* of the month.
+Usually, we meet at 7pm on the *third Wednesday* of the month.
 You may need to knock on the window so that we can let you into the building.
 
 Disclaimer: NWCPP is not associated with Microsoft—although we
@@ -54,14 +54,8 @@ follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter,
 join our `Facebook group <http://www.facebook.com/group.php?gid=344125680930>`_,
 follow our `Google+ page <https://plus.google.com/104974891006782790528/>`_,
 follow our `Vimeo channel <https://vimeo.com/nwcpp>`_,
-and join our \ `LinkedIn group <http://www.linkedin.com/groups?gid=2770106>`_.
+and join our `LinkedIn group <http://www.linkedin.com/groups?gid=2770106>`_.
 
 Seeking or offering a job?
-Use our \ `LinkedIn Jobs Board
+Use our `LinkedIn Jobs Board
 <http://www.linkedin.com/groupAnswers?viewQuestions=&gid=2770106&forumID=5&sik=1268291239461>`_.
-
-Old Website
-^^^^^^^^^^^
-
-We have moved our website to a new host in early 2010 and started using Joomla.
-The *old* site content can be found \ `here <old/index.html>`_.
