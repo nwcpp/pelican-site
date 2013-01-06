@@ -12,7 +12,7 @@ Donate towards better video recordings
     .right-float {float: right; padding-left: 5em; }
     </style>
 
-.. figure:: http://www.nwcpp.org/images/stories/thermometer.jpg
+.. figure:: /static/images/thermometer.jpg
    :class: right-float
    :alt: Donation Thermometer
 
