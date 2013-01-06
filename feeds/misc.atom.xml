@@ -3,7 +3,7 @@
 .left-float  {float: left}
 .right-float {float: right; padding-left: 5em; }
 &lt;/style&gt;&lt;div class="figure"&gt;
-&lt;img alt="Donation Thermometer" class="right-float" src="http://www.nwcpp.org/images/stories/thermometer.jpg" /&gt;
+&lt;img alt="Donation Thermometer" class="right-float" src="/static/images/thermometer.jpg" /&gt;
 &lt;/div&gt;
 &lt;p&gt;The bulk of the feedback we have received over the last year
 on the videotaping of our meetings
