@@ -12,7 +12,7 @@ Donate towards better video recordings
     .right-float {float: right; padding-left: 5em; }
     </style>
 
-.. figure:: /static/images/thermometer.jpg
+.. figure:: |filename|images/thermometer.jpg
    :class: right-float
    :alt: Donation Thermometer
 
