@@ -1,0 +1,65 @@
+February 20th, 2008 — Memory Allocation: Either Love It or Hate It. (Or Just Think It's OK.) — Andrei Alexandrescu
+##################################################################################################################
+
+:date: 2008-02-01
+:slug: february-2008
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+Memory allocation is a problem so wicked,
+many people think it's either solved or unsolvable.
+This talk goes through the gory details of memory allocation;
+what the classic designs are;
+how special handcrafted allocators may improve (or degrade)
+the bottom line performance of your application;
+how to write a policy-based allocator with a modular design
+that beats a monolithic handcrafted one;
+and how the advent of manycores influences allocator designs.
+Ninety leak-free minutes.
+
+Bio
+~~~
+
+Andrei Alexandrescu has achieved the rare feat of becoming an authority
+in both industry and research circles.
+He almost single-handedly revolutionized and reinvented C++ programming
+with his seminal book, *Modern C++ Design*.
+Andrei's other publications include the
+award-winning *C++ Coding Standards* book (as a coauthor),
+four peer-reviewed academic papers,
+and dozens of articles in top trade journals,
+either under the byline of his Generic<Programming> column,
+or as a featured author.
+
+After having worked in fields as varied as banking, databases, and Internet applications,
+Andrei is focusing on graph-based statistical modeling
+for natural language processing (NLP),
+field rife with huge data sets,
+computationally-intensive algorithms,
+and massively parallel execution.
+His vast expertise, presence, and humor
+make Andrei a sought-after speaker at technical conferences.
+
+Andrei holds a BS in Electrical Engineering from University "Politehnica" Bucharest
+and an MS in Computer Science from University of Washington,
+where he is also a graduating PhD in Summer 2008.
+(N.B. He will soon be looking for a job.)
+His web site is `http://erdani.com/ <http://erdani.com/>`_.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </static/talks/2008/memory-allocation.screen.pdf>`_
+from the presentation.
+
+Watch the `video <http://video.google.com/videoplay?docid=8718136231005757634>`_
+of the presentation.

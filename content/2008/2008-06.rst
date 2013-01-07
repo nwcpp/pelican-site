@@ -1,0 +1,46 @@
+June 18th, 2008 — The C++ Memory Model — Bartosz Milewski
+#########################################################
+
+:date: 2008-06-01
+:slug: june-2008
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+What is a memory model and why does C++ need it so badly?
+I'll try to explain both the practical and the theoretical side of things.
+We'll look into a few simple multithreaded idioms,
+sketch the Java memory model,
+and show the differences between Java and C++.
+For the theoretically minded, I'll do my best to explain sequential consistency
+and the "happens before" relationship necessary to describe data races.
+We'll look into the C++ atomic library.
+
+Bio
+~~~
+
+Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, *C++ In Action*.
+Bartosz keeps up with the latest developments in CS
+by attending graduate courses and seminars at the UW.
+He actively works on the design of the D language.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </static/talks/2008/C___Memory_Model.pdf>`_
+of the presentation.
+
+Watch the `video <http://video.google.com/videoplay?docid=1457624331939812949>`_
+of the presentation.

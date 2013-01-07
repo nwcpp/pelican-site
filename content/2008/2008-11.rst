@@ -1,0 +1,47 @@
+November 19th, 2008 — Things You Never Wanted to Know about Memory Fences — Bartosz Milewski
+############################################################################################
+
+:date: 2008-11-01
+:slug: november-2008
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Things You Never Wanted to Know about Memory Fences (But were afraid would be explained to you anyway)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Why study fences on an x86, other than to satisfy one’s curiosity?
+One reason is that, even when you program in a higher-level language (C++ included),
+you want to know a bit of assembly to understand some of the tradeoffs.
+The other is to fight the temptation to do low-level concurrency tricks.
+If you don’t appreciate the complexities of even the simplest relaxed memory model,
+that of the x86,
+you may be tempted to join the dark side—\
+to feel the power of lock-free programming.
+
+I’ll analyze a simple algorithm, the Peterson lock,
+which, unlike the double-checked locking pattern,
+will not work on an x86 multicore without actual fences.
+I’ll show how Java and C++0x deal with this problem.
+
+Bio
+~~~
+
+Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, *C++ In Action*.
+Bartosz keeps up with the latest developments in CS
+by attending graduate courses and seminars at the UW.
+He actively works on the design of the D language.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </static/talks/2008/Memory_Fences.pdf>`_ of the presentation.

@@ -1,0 +1,60 @@
+May 20th, 2008 — Enforcing Code Feature Requirements in C++ — Scott Meyers
+##########################################################################
+
+:date: 2008-05-01
+:slug: may-2008
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+Functions often depend on particular behavioral characteristics ("features")
+of code they invoke.
+For example, thread-safe code must invoke only thread-safe code
+if it is to remain thread-safe,
+and exception-safe code must invoke only exception-safe code.
+This talk describes a technique that
+enables the specification of arbitrary combinations of user-defined code features
+on a per-function basis and
+that detects violations of feature constraints during compilation.
+The technique applies to member functions (both nonvirtual and virtual),
+non-member functions, and function templates;
+operators are excluded.
+
+(This is an updated version of the talk Scott gave in April 2007.
+Since then, he's revised his approach to operate entirely during compilation
+and to support overloading on feature sets.
+He also no longer shows film clips during the presentation :-})
+
+Bio
+~~~
+
+Scott Meyers is one of the world's foremost authorities on C++;
+he provides training and consulting services to clients worldwide.
+He wrote the best-selling *Effective C++* series
+(`Effective C++ <http://www.awl.com/cseng/titles/0-201-92488-9/>`_,
+`More Effective C++ <http://www.awl.com/cseng/titles/0-201-63371-X/>`_,
+and `Effective STL <http://www.awl.com/cseng/titles/0-201-74962-9/>`_);
+wrote and designed the innovative
+`Effective C++ CD <http://www.awl.com/cseng/titles/0-201-31015-5/>`_;
+is consulting editor for Addison Wesley's *Effective Software Development Series*;
+was a founding member of the Advisory Board
+for `The C++ Source <http://www.artima.com/cppsource>`_. 
+He has a Ph.D in Computer Science from Brown University.
+His web site is `aristeia.com <http://aristeia.com>`_. 
+
+Resources
+~~~~~~~~~
+
+Download the `slides </static/talks/2008/code_features.pdf>`_
+from the presentation.
+
+Watch the `video <http://video.google.com/videoplay?docid=1147577226734217890>`_
+of the presentation.
