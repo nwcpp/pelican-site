@@ -1,0 +1,43 @@
+November 15th, 2006 — What makes a Good Programmer? Things they never told you — Adair Dingle
+#############################################################################################
+
+:date: 2006-11-01
+:slug: november-2006
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 40
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+Time constraints and demands for breadth constrain academic instruction.
+Job experience fills in the gap between theory and practice.
+Here we discuss some circumvented hurdles
+(representation, resource management, failures)
+as well as key characteristics of students who succeed as professionals.   
+
+Bio
+~~~
+
+Adair Dingle has over 15 years of teaching experience.
+Currently an associate professor of Computer Science at Seattle University,
+she annually supervises capstone projects
+where seniors develop software products for industry sponsors.
+Between undergraduate and graduate studies,
+Adair worked in industry for 3 years as a software developer.
+Recently, she co-authored (with software consultant Tom Hildebrandt)
+*C++: Memory First*, a text for immediate-level programmers
+exploring background processes critical to software design. 
+
+Resources
+~~~~~~~~~
+
+Download the `slides </static/talks/2006/NWCPP1106.ppt>`_ from the presentation.
+
+Watch a `video <http://video.google.com/videoplay?docid=-3746958180505089789&q=nwcpp>`_
+of the presentation.

@@ -1,0 +1,45 @@
+January 18th, 2006 — Policy-Based Memory Allocation — Andrei Alexandrescu
+#########################################################################
+
+:date: 2006-01-01
+:slug: january-2006
+
+Location
+~~~~~~~~
+
+| `Construx Software <http://www.construx.com>`_
+| 11820 Northup Way #E200
+| Bellevue, Washington 98005
+
+Abstract
+~~~~~~~~
+
+Traditionally, memory allocation is approached as a monolithic, rigid design
+influenced by a performance-minded implementation.
+However, compile-time C++ techniques can yield
+a highly flexible and configurable design
+with the same performance profile
+as equivalent hand-implemented designs.
+This talk describes work by Emery Berger and others
+who have designed and implemented a policy-based allocator.
+
+Bio
+~~~
+
+Andrei Alexandrescu is working on a graduate degree
+at the University of Washington in Seattle,
+specializing in automatic speech recognition.
+In the C++ community, Andrei is best known for his books *Modern C++ Design*
+and *C++ Coding Standards* (the latter coauthored with Herb Sutter).
+Andrei is also a columnist for *C/C++ Users Journal*,
+a C++ former columnist for the *C++ Report*,
+a guest speaker at numerous conferences,
+and one of the featured instructors of
+`The C++ Seminar <http://www.thecppseminar.com>`_).
+His website is `www.erdani.com <http://www.erdani.com>`_.
+
+Resources
+~~~~~~~~~
+
+`Click here </static/talks/2006/ChromedMetal.ppt>`_
+to download the slides from the presentation

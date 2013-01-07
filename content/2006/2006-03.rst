@@ -1,0 +1,48 @@
+March 15th, 2006 — Functional Programming in C++ using Boost.Lambda — Bartosz Milewski
+######################################################################################
+
+:date: 2006-03-01
+:slug: march-2006
+
+Location
+~~~~~~~~
+
+| `Construx Software <http://www.construx.com>`_
+| 11820 Northup Way #E200
+| Bellevue, Washington 98005
+
+Abstract
+~~~~~~~~
+
+The power of STL is partially due to its embracing elements of functional programming.
+Algorithms implemented in STL, such as ``for_each``, ``accumulate``, ``find``, etc.,
+have functional customization points.
+You can customize them by providing your own function objects—\
+be it a pointer to a function, a functor object, or a predicate object.
+Unfortunately, STL provides very limited (and syntactically awkward)
+support for creating and combining function objects.
+
+C++ programmers have been eying lambda calculus with envy for some time now.
+Several libraries have been proposed that implement elements of lambda calculus
+using template metaprogramming in C++,
+one of them being Boost.Lambda.
+With these facilities, you can easily create and manipulate function objects on the fly.
+What's more important, you can then pass such objects to STL algorithms to tap their full power.
+
+The slides for this talk were created by David Abrahams and Eric Niebler.
+
+Bio
+~~~
+
+Bartosz is a theoretical physicist turned programmer.
+He is the author of *C++ In Action*, published by Addison-Wesley in 2001.
+He founded `Reliable Software LLC <http://www.relisoft.com>`_ in 1996
+to get first-hand experience in creating and maintaining a large software project—\
+a version-control system called Code Co-op.
+Studying complexity is his main interest.
+
+Resources
+~~~~~~~~~
+
+`Click here </static/talks/2006/Customization_Points_and_Polymorphism.ppt>`_
+to download the slides from the presentation
