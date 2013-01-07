@@ -1,0 +1,59 @@
+May 18th, 2005 — Writing safer code with the Visual C++ 8.0 Libraries — Martyn Lovell
+#####################################################################################
+
+:date: 2005-05-01
+:slug: may-2005
+
+Location
+~~~~~~~~
+
+| `Construx Software <http://www.construx.com>`_
+| 11820 Northup Way #E200
+| Bellevue, Washington 98005
+
+Abstract
+~~~~~~~~
+
+Over the past 5 years,
+Microsoft has conducted extensive and detailed security reviews
+and upgrades of its very large code bases.
+We’ve learnt a lot about how to build safer code,
+and in Visual C++ 8.0, we’re applying that to the Visual C++ Libraries
+to help protect against classic security problems (such as buffer overruns).
+The Standard C Library includes many venerable functions with security problems.
+Visual C++ 8.0 includes a full revamp of this library to help programmers
+build safer code with minimal source changes.
+The Standard C++ library provides a clean and simple abstraction
+for algorithms, iterators and containers that provides much better protection
+than the traditional C library.
+We extended our implementation of the Standard C++ Libraries to
+try to make them apply, by default,
+the lessons we’ve learnt from reviewing our code.
+The result is a much safer implementation of the Standard Libraries
+with only a small amount of reduced functionality.
+This talk describes the changes made and their impact on application code,
+as well as some of the internals of the implementation.
+
+Bio
+~~~
+
+Martyn Lovell is the Development Lead on the Visual C++ Libraries Team,
+which is responsible for the C and C++ runtime libraries, MFC, ATL,
+STL/CLR and other libraries supporting managed code development in C++.
+His recent focus has been security in the standard libraries,
+and support for mixing managed and native code in a single program.
+As a long-standing member of the developer tools division,
+he has worked on a broad range of features.
+These include architecture, design and implementation for:
+the extensibility of the Visual Studio Shell;
+source control and Visual SourceSafe;
+source control integration and other team development features;
+the Visual Studio Analyzer infrastructure and user interface;
+the common development shell;
+web development;
+and the Visual Studio user interface.
+He is a frequent speaker at TechEd and other conferences,
+and a regular contributor to online communities.
+
+`Click here </static/talks/2005/Secure_NWCPP_May_2005.ppt>`_
+to download the slides from the presentation
