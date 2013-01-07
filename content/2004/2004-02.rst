@@ -1,0 +1,59 @@
+February 11th, 2004 — C++ Development for PocketPC, SmartPhone, and Windows CE — Nishan Jebanasam & Rich Hanbidge
+#################################################################################################################
+
+:date: 2004-02-01
+:slug: february-2004
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Learn about the new native device development feature
+in the next release of Visual Studio.
+This talk will cover developing, debugging and deploying C++ applications
+to Pocket PC, Smartphone and Windows CE.
+It will also cover improvements made since eMbedded Visual C++
+and the work being done in the native frameworks such as MFC and ATL
+
+Bios
+~~~~
+
+Nishan Jebanasam
+----------------
+
+I graduated from the University of New South Wales in Sydney, Australia
+with a double degree in Computer Engineering and Goofing Off,
+and gave up the miserable weather and horrid beaches
+for the fairer climate of Seattle.
+I’ve been in the Smart Devices team for over two-and-a-half years now,
+first as a Release Program Manager,
+and subsequently as the PM for Native C++ for Device development features.
+In my spare time I like to scuba dive, snowboard, play Halo
+and flirt with the Seattle Police in my Lancer Evo.
+I’m desperately hoping MS stock will one day allow me to afford the 911 Turbo that I long for.
+
+Rich Hanbidge
+-------------
+
+I graduated from University of Michigan in 98 with a BSE in Computer Engineering.
+I grew up just outside of Detroit, and saw my first mountain
+during an interview with HP in Fort Collins, CO.
+I promptly decided to flee the flatness of the Midwest.
+My first job was working on avionics software with Honeywell,
+until I realized they were actually putting my code on airplanes… 
+Since I need to fly back to Detroit to see my family, this was a problem for me.
+Now I am a developer in Visual Studio for Devices to support my snowboarding problem.
+I’ve been here about 3.5 years,
+and holding a close second for “grumpy old man” of this group.
+When I’m not complaining to the newbies
+about how fun this group was before they got here,
+I’m trying to help write a kick-ass native debugger for devices.
+
+`Click here </static/talks/2004/C_UserGroup-_Developing_for_Devices_Using_Native_C___with_Visual_Studio__With_Notes_.ppt>`_
+to download the slides and source code from Nishan Jebanasam's presentation

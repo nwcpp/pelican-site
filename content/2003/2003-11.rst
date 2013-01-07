@@ -18,7 +18,7 @@ Please note that in order to offset some of the costs necessary to host
 this meeting, there will be a **$10 charge to non-NWCPP and non-WSA members**.
 Membership in the NWCPP is **free**, and is a great way to
 ensure that you may attend this meeting for free.
-To become a member, visit the `Membership <../../Membership/index.html>`_ page
+To become a member, visit the `Membership <|filename|/about/about.rst>`_ page
 and join our mailing list.
 **Only members on the NWCPP mailing list and WSA members may attend the meeting for free!**
 
