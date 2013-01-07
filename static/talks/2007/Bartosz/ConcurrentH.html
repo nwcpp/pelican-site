@@ -1,0 +1,45 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="Haskell.html">Prev</a>   </td>
+    <td><a href="STMMonad.html">Next</a>   </td>
+  </tr>
+</table>
+<h1> Concurrent Haskell
+</h1>
+<ul>
+  <li> Control over I/O
+</li>
+  <ul>
+    <li> The use of I/O part of the type system (IO monad)
+</li>
+  </ul>
+</ul>
+<pre> main :: IO ()
+ main = do { c &lt;- getChar; putChar c; putChar c }
+</pre>
+<ul>
+  <ul>
+    <li> Thread primitives
+</li>
+  </ul>
+</ul>
+<pre> forkIO :: IO a -> IO ThreadId
+ main = do { forkIO (print ’x’); print ’y’ }
+</pre>
+<table>
+  <tr>
+    <td><small>24</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>

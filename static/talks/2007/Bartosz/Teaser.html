@@ -1,0 +1,65 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="Intro.html">Prev</a>   </td>
+    <td><a href="Deadlock.html">Next</a>   </td>
+  </tr>
+</table>
+<h1> STM Teaser
+</h1>
+<ul>
+  <li>Implementation of Producer/Consumer in Haskell with STM
+</li>
+  <ul>
+    <li>Integer resource:
+</li>
+  </ul>
+</ul>
+<pre> type Resource = <b>TVar</b> Int
+</pre>
+<ul>
+  <ul>
+    <li>Producer: Put i units of resource into r:
+</li>
+  </ul>
+</ul>
+<pre> putR :: Resource -> Int -> STM ()
+ putR r i = do { v &lt;- <b>readTVar</b> r
+               ; <b>writeTVar</b> r (v+i) }
+</pre>
+<ul>
+  <ul>
+    <li>Consumer: Acquire i units of resource r, blocking if r holds insufficient units
+</li>
+  </ul>
+</ul>
+<pre> getR :: Resource -> Int -> STM ()
+ getR r i = do { v &lt;- <b>readTVar</b> r
+               ; if (v &lt; i) then <b>retry</b>
+                 else <b>writeTVar</b> r (v-i) }
+</pre>
+<ul>
+  <ul>
+    <li> Client code
+</li>
+  </ul>
+</ul>
+<pre> atomic ( getR r x )
+ atomic ( putR r x )
+</pre>
+<table>
+  <tr>
+    <td><small>2</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>
