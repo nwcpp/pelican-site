@@ -1,0 +1,49 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="WReadWrite.html">Prev</a>   </td>
+    <td><a href="WContend.html">Next</a>   </td>
+  </tr>
+</table>
+<h1> Uncontended Commit
+</h1>
+<ul>
+  <li> Install transaction pointer in orecs
+</li>
+  <ul>
+    <li> Sort write entries (old_version != new_version) by address
+</li>
+    <li> Replace old version number with transaction pointer using CAS
+</li>
+    <li> CAS transaction state from UNDECIDED to READ-CHECK
+</li>
+    <li> Validate all read entries to make sure we have a consistent snapshot
+</li>
+    <li> CAS transaction state to SUCESSFUL. This changes all logical values
+</li>
+    <li> Update heap locations with new values (no logical change)
+</li>
+    <li> CAS new version numbers into orecs (provided they still point to our transaction)
+</li>
+    <li> Transaction record no longer visible, free it.
+</li>
+  </ul>
+  <li> How is read check <a href="atomic.html">atomic</a>?
+</li>
+</ul>
+<table>
+  <tr>
+    <td><small>15</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>

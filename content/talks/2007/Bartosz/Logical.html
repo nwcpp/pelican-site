@@ -1,0 +1,63 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="WSTMImpl.html">Prev</a>   </td>
+    <td><a href="Validate.html">Next</a>   </td>
+  </tr>
+</table>
+<h1> Logical State
+</h1>
+<ul>
+  <li> Orec defines a unique <b>logical state</b> of a heap location
+</li>
+</ul>
+<table>
+  <tr>
+    <th>Orec contains   </th>
+    <th>Logical State   </th>
+  </tr>
+  <tr>
+    <td>Version number (always odd)   </td>
+    <td>Value from the heap, version from orec   </td>
+  </tr>
+  <tr>
+    <td>Pointer to transaction, which contains entry for this address   </td>
+    <td>If transaction committed: new value/version, else: old value/version   </td>
+  </tr>
+  <tr>
+    <td>Pointer to transaction with no entry for this address   </td>
+    <td>One orec serving multiple memory locations: use value from the heap, version from another entry mapped to the same orec   </td>
+  </tr>
+</table>
+<p>Consistent snapshot guaranteed by:
+<pre> do {
+    orec := orec_of (addr);
+    <i>directly compute logical state based on orec</i>
+ } while (orec_of (addr) != orec);
+</pre>
+<ul>
+  <ul>
+    <li> Orecs contain pointer only when a tranasction is committing
+</li>
+    <li> Logical value changes atomically with the change of transaction status
+</li>
+    <li> Undefined when transaction in READ-CHECK state. Possible reaction: help or kill.
+</li>
+  </ul>
+</ul>
+</p><table>
+  <tr>
+    <td><small>12</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>

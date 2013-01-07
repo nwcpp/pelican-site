@@ -1,0 +1,40 @@
+January 17th, 2007 — Advanced D Programming Language Features — Walter Bright
+#############################################################################
+
+:date: 2007-01-01
+:slug: january-2007
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+This talk assumes you're bored with the usual macguffins—\
+expressions, statements, and core strings vs library strings.
+We'll skip right to the naughty bits—\
+lambdas, mixins, tuples, scope guards, lazy arguments, and static if's.
+What are they, and what they are good for, will be explored.
+
+Bio
+~~~
+
+Walter Bright's first major program was the groundbreaking wargame Empire.
+He then became interested in compilers and computer languages.
+He's written compilers for ABEL, Pascal, C, C++, Java, Javascript, and now D.
+His extensive experience writing C++ compilers
+and well over a decade being on the front lines of doing C++ customer support
+is an ideal background for improving on the language.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </static/talks/2007/AdvancedD.html>`_ from the presentation.
+
+Watch the `video <http://video.google.com/videoplay?docid=-7073020265668105471>`_
+of the presentation.
