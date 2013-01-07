@@ -1086,7 +1086,401 @@ and how they make concurrent APIs easier to&amp;nbsp;consume.&lt;/p&gt;
 &lt;a class="reference external" href="http://msdn.microsoft.com/en-us/netframework/aa663324.aspx"&gt;&lt;span class="caps"&gt;WCF&lt;/span&gt;&lt;/a&gt; team.
 Other than that he is a totally normal&amp;nbsp;guy.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry><entry><title>December 10th, 2003 — The Future of C++ on .NET: A Tour of C++/CLI — Herb Sutter</title><link href="http://nwcpp.org/december-2003.html" rel="alternate"></link><updated>2003-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-12-01:december-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry><entry><title>December 2004: No Meeting</title><link href="http://nwcpp.org/december-2004.html" rel="alternate"></link><updated>2004-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-12-01:december-2004.html</id><summary type="html"></summary></entry><entry><title>November 10th, 2004 — STL/CLI — Stan Lippman</title><link href="http://nwcpp.org/november-2004.html" rel="alternate"></link><updated>2004-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-11-01:november-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Building 43, Adams Conference Room&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; — &lt;span class="caps"&gt;STL&lt;/span&gt; containers and generic algorithms for Microsoft .&lt;span class="caps"&gt;NET&lt;/span&gt;
+Framework and &lt;span class="caps"&gt;ECMA&lt;/span&gt; Common Language&amp;nbsp;Infrastructure&lt;/p&gt;
+&lt;p&gt;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; brings C++ idioms to managed code development.
+With templates and &lt;span class="caps"&gt;CLI&lt;/span&gt; Generics, &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; brings the Standard Library containers,
+iterator and algorithms to .&lt;span class="caps"&gt;NET&lt;/span&gt; development,
+while leveraging the runtime facilities like garbage collection,
+verifiability, and versionable binary&amp;nbsp;interfaces.&lt;/p&gt;
+&lt;p&gt;This talk will discuss the rationale, design decisions and techniques of&amp;nbsp;&lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Stan Lippman is an Architect with the Visual C++ team at Microsoft.
+He began working on C++ with its inventor Bjarne Stroustrup back in 1984
+within Bell Laboratories.
+In between, he worked in Feature Animation at Disney and DreamWorks,
+was a Distinguished Consultant with &lt;span class="caps"&gt;JPL&lt;/span&gt;,
+and was a Software Technical Director on Fantasia 2000 in the Firebird segment.
+He is the author of &lt;em&gt;C++ Primer&lt;/em&gt; and &lt;em&gt;Inside the C++ Object Model&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="additional-information"&gt;
+&lt;h2&gt;Additional&amp;nbsp;Information&lt;/h2&gt;
+&lt;p&gt;Please note that in order to accommodate the increased attendance,
+this meeting will be held at the &lt;strong&gt;Microsoft Corporation&lt;/strong&gt;
+rather than our usual meeting location.
+Due to increased security, those attending the meeting
+will be required to check in at the front desk.
+Like other &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meetings, this meeting is free
+and you are welcome to attend without prior registration.
+However, we do ask that you register if you know beforehand
+that you will be attending this&amp;nbsp;meeting.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>October 13th, 2004 — The D Programming Language — Walter Bright</title><link href="http://nwcpp.org/october-2004.html" rel="alternate"></link><updated>2004-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-10-01:october-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The D Programming Language is the result of many years of experience
+with compilers and languages, especially C++.
+C++ is a powerful, groundbreaking language.
+D comes from looking at what works in C++, what doesn&amp;#8217;t work,
+and refactoring the language to take advantage of hindsight
+in how things can work better.
+D adds in proven capabilities from other modern languages that are sorely missed in C++.
+This talk is an overview of D—what it is, why it is that way,
+and how it works out in&amp;nbsp;practice.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright&amp;#8217;s first major program was the groundbreaking wargame Empire.
+He then became interested in compilers and computer languages.
+He&amp;#8217;s written compilers for &lt;span class="caps"&gt;ABEL&lt;/span&gt;, Pascal, C, C++, Java, Javascript, and now D.
+His extensive experience writing C++ compilers
+and well over a decade being on the front lines of doing C++ customer support
+is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>September 8th, 2004 — Achieving Source-Level Software Portability Using GNU Autoconf, Automake, Libtool, and Make — Robert P. Goddard</title><link href="http://nwcpp.org/september-2004.html" rel="alternate"></link><updated>2004-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-09-01:september-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;If you have ever downloaded &amp;#8220;open-source&amp;#8221; software as source code from &lt;span class="caps"&gt;GNU&lt;/span&gt; or elsewhere,
+you have witnessed the following&amp;nbsp;magic:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+./configure
+make
+make check
+make install
+&lt;/pre&gt;
+&lt;p&gt;after which the software just works, even for very complex packages,
+no matter which of a very large range of systems you happen to be&amp;nbsp;running.&lt;/p&gt;
+&lt;p&gt;Yes, it even does Windows.
+I will describe a powerful set of tools that
+will help you to achieve this level of simplicity (for the user)
+and portability for your applications.
+The cost is surprisingly low in time and effort, and zero for the&amp;nbsp;tools.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bob Goddard has been an active member of &lt;span class="caps"&gt;NW&lt;/span&gt; C++ &lt;span class="caps"&gt;UG&lt;/span&gt; for many years.
+You will recognize his face.
+He has worked at the University of Washington Applied Physics Laboratory since 1980.
+He is the primary author of the Sonar Simulation Toolset (&lt;span class="caps"&gt;SST&lt;/span&gt;) software,
+a large C++ system for simulation of sound in the sea.
+&lt;span class="caps"&gt;SST&lt;/span&gt; is being used at several Navy and university laboratories
+to generate artificial underwater sound,
+which is used to develop new sonar systems, train sonar operators,
+and predict performance of new and existing sonar systems and tactics.
+He has also worked on other projects related to underwater acoustics,
+including simulation, analysis, and data acquisition applications.
+His niche is in the gray overlap area between software engineering and &amp;#8220;real&amp;#8221;&amp;nbsp;science.&lt;/p&gt;
+&lt;p&gt;For more details, go to
+&lt;a class="reference external" href="http://staff.washington.edu/rpg3/"&gt;http://staff.washington.edu/rpg3/&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.apl.washington.edu/"&gt;http://www.apl.washington.edu/&lt;/a&gt;,
+and &lt;a class="reference external" href="http://eis.apl.washington.edu/projects/projects.php"&gt;http://eis.apl.washington.edu/projects/projects.php&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2004/GNU_Autotools_040908.ppt"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>August 11th, 2004 — “Square Table” Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2004.html" rel="alternate"></link><updated>2004-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-08-01:august-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring money for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>July 14th, 2004 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2004.html" rel="alternate"></link><updated>2004-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-07-01:july-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring money for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>June 9th, 2004 — Roundtable Meeting: The Virtues of Linux — Open Discussion</title><link href="http://nwcpp.org/june-2004.html" rel="alternate"></link><updated>2004-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-06-01:june-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring money for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>May 12th, 2004 — Improving Testability — Dave Catlett</title><link href="http://nwcpp.org/may-2004.html" rel="alternate"></link><updated>2004-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-05-01:may-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="improving-testability-decreasing-the-cost-of-developing-and-maintaining-software-while-increasing-quality"&gt;
+&lt;h2&gt;Improving Testability: Decreasing the cost of developing and maintaining software while increasing&amp;nbsp;quality&lt;/h2&gt;
+&lt;p&gt;Thorough testing can be expensive in terms of time and resources,
+especially if the software component or the systems it interacts with
+are difficult to test.
+It is necessary though in order to deliver high quality software
+that meets the user&amp;#8217;s needs.
+By designing testability features into the component, not only is testing easier,
+it helps enforce good design principles,
+it makes diagnosing unexpected behavior go faster,
+it can improve manageability of the component,
+and it reduces the cost of supporting the software after it &amp;#8220;ships.&amp;#8221;
+In short, it increases quality while reducing&amp;nbsp;cost.&lt;/p&gt;
+&lt;p&gt;Determining testability can be achieved using the &lt;span class="caps"&gt;SOCK&lt;/span&gt; analysis method,
+where S=Simplicity, O=Observability, C=Control, and K=Knowledge of expected results.
+For example, using an observer design pattern class to increase observability
+will not only make it easier for an automated test to determine pass or fail
+at any given point in time,
+it will provide a history of events
+making diagnosis of a bug much easier both during the development cycle
+and by the support team after the software is shipped.
+We will go through this and other practical examples
+of how to improve testability by improve in each area of&amp;nbsp;&lt;span class="caps"&gt;SOCK&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Dave Catlett has been testing software
+and developing people, tools and techniques for testing software for over 12 years.
+In his current role as Test Architect for the Microsoft Windows Networking &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Devices group,
+Dave has been researching and implementing methods to decrease the costs
+while increasing the quality of software throughout the engineering lifecycle.
+Dave holds a &lt;span class="caps"&gt;B.S.&lt;/span&gt; in Computer Science/Math from the University of Puget Sound
+and more importantly is a husband to Erika and dad to Josh, Emilie and Sara.
+He&amp;#8217;s also pursuing a career as world-famous groundskeeper
+for the Eastlake Little League Dodgers of which his son is a starting pitcher.
+Go&amp;nbsp;blue!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2004/ImprovingTestabilityNWCPP.ppt"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>April 14, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott Meyers</title><link href="http://nwcpp.org/april-2004.html" rel="alternate"></link><updated>2004-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-04-01:april-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Double-Checked Locking Pattern is a common approach to efficient lazy initialization.
+Unfortunately, it&amp;#8217;s not reliable in threaded systems,
+it can fail for different reasons in uniprocessor and multiprocessor environments,
+and there&amp;#8217;s no portable way to make it reliable.
+Every C++ programmer needs to understand why this is the case,
+because it affects the very core of software development:
+code generation and program execution.
+This presentation takes a deep look at code generation,
+compiler and hardware optimization, sequence points,
+&amp;#8220;observable behavior,&amp;#8221; the significance of &amp;#8220;volatile,&amp;#8221;
+cache coherency problems, and memory barriers.
+It concludes with suggestions for those who want the efficiency of lazy initialization,
+but who value correct program behavior even&amp;nbsp;more.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Scott Meyers is one of the world&amp;#8217;s foremost experts on C++ software development.
+He wrote the best-selling &lt;em&gt;Effective C++&lt;/em&gt; series
+(&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-92488-9/"&gt;Effective C++&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-63371-X/"&gt;More Effective C++&lt;/a&gt;,
+and &lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-74962-9/"&gt;Effective &lt;span class="caps"&gt;STL&lt;/span&gt;&lt;/a&gt;);
+wrote and designed the innovative
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-31015-5/"&gt;Effective C++ &lt;span class="caps"&gt;CD&lt;/span&gt;&lt;/a&gt;;
+is consulting editor for Addison Wesley&amp;#8217;s &lt;em&gt;Effective Software Development Series&lt;/em&gt;;
+and is a member of the advisory board for
+&lt;a class="reference external" href="http://www.sdmagazine.com/"&gt;Software Development&lt;/a&gt; magazine.
+He also sits on technical advisory boards for several start-up companies.
+A programmer since 1972, he holds an &lt;span class="caps"&gt;M.S.&lt;/span&gt; in Computer Science from Stanford University
+and a Ph.D. from Brown&amp;nbsp;University.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2004/DCLP_notes.pdf"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>March 8th, 2004 — Code Complete 2: A Decade of Advances in Software Construction — Steve McConnell</title><link href="http://nwcpp.org/march-2004.html" rel="alternate"></link><updated>2004-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-03-01:march-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.overlakehospital.org/conferencecenter/fs.htm"&gt;Overlake Hospital Conference Center&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;1035 116th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington, 98004&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Please note that in order to offset some of the costs necessary to host
+this meeting, there will be a &lt;strong&gt;$10 charge to non-&lt;span class="caps"&gt;NWCPP&lt;/span&gt; and non-&lt;span class="caps"&gt;WSA&lt;/span&gt; members&lt;/strong&gt;.
+Membership in the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is &lt;strong&gt;free&lt;/strong&gt;, and is a great way to
+ensure that you may attend this meeting for free.
+To become a member, visit the &lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;Membership&lt;/a&gt; page
+and join our mailing list.
+&lt;strong&gt;Only members on the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; mailing list and &lt;span class="caps"&gt;WSA&lt;/span&gt; members may attend the meeting for&amp;nbsp;free!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For more than 10 years, Code Complete has been a computing-industry bestseller.
+The past decade has seen the emergence of object-oriented programming,
+the Internet, the &lt;span class="caps"&gt;CMM&lt;/span&gt;, offshore outsourcing, Java, Visual Basic,
+and the Agile movement,
+as well as staggering advances in computing power and numerous other developments.
+How have 10 years of advances changed software construction?
+Has the general state of programming improved?
+Are any of the old techniques still relevant?
+Has anything moved backward?
+Award-winning author Steve McConnell explores the software issues
+of yesterday and today
+and arrives at a few lasting truths about software development.
+This talk is based on Code Complete Second Edition, available in June&amp;nbsp;2004.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Steve McConnell is &lt;span class="caps"&gt;CEO&lt;/span&gt; and Chief Software Engineer at
+&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;,
+where he writes books and articles, teaches classes,
+and oversees Construx’s software engineering&amp;nbsp;practices.&lt;/p&gt;
+&lt;p&gt;Steve is the author of Code Complete (1993) and Rapid Development (1996),
+both winners of Software Development magazine&amp;#8217;s Jolt award for
+outstanding software development books of their respective years.
+In 1998, he published Software Project Survival Guide.
+His most recent book is Professional Software Development&amp;nbsp;(2003).&lt;/p&gt;
+&lt;p&gt;Steve has worked in the desktop software industry since 1984
+and has expertise in rapid development methodologies, project estimation,
+software construction practices, performance tuning, system integration,
+and third-party contract&amp;nbsp;management.&lt;/p&gt;
+&lt;p&gt;Steve also served as Editor in Chief of &lt;span class="caps"&gt;IEEE&lt;/span&gt; Software from 1998-2002 and
+is a member of &lt;span class="caps"&gt;IEEE&lt;/span&gt; Computer Society and&amp;nbsp;&lt;span class="caps"&gt;ACM&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Steve earned a master&amp;#8217;s degree in software engineering from Seattle University
+and a bachelor&amp;#8217;s degree from Whitman College in Walla Walla,&amp;nbsp;Washington.&lt;/p&gt;
+&lt;p&gt;Send email to &lt;a class="reference external" href="mailto:steve.mcconnell&amp;#64;construx.com"&gt;Steve McConnell&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please note that in order to accommodate the increased attendance, this
+meeting will be held on &lt;strong&gt;Monday&lt;/strong&gt; at the &lt;strong&gt;Overlake Medical Conference
+Center&lt;/strong&gt; rather than our usual Wednesday meeting at&amp;nbsp;Avaya.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2004/CodeComplete-Keynote.pdf"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>February 11th, 2004 — C++ Development for PocketPC, SmartPhone, and Windows CE — Nishan Jebanasam &amp; Rich Hanbidge</title><link href="http://nwcpp.org/february-2004.html" rel="alternate"></link><updated>2004-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-02-01:february-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Learn about the new native device development feature
+in the next release of Visual Studio.
+This talk will cover developing, debugging and deploying C++ applications
+to Pocket &lt;span class="caps"&gt;PC&lt;/span&gt;, Smartphone and Windows &lt;span class="caps"&gt;CE&lt;/span&gt;.
+It will also cover improvements made since eMbedded Visual C++
+and the work being done in the native frameworks such as &lt;span class="caps"&gt;MFC&lt;/span&gt; and&amp;nbsp;&lt;span class="caps"&gt;ATL&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bios"&gt;
+&lt;h2&gt;Bios&lt;/h2&gt;
+&lt;div class="section" id="nishan-jebanasam"&gt;
+&lt;h3&gt;Nishan&amp;nbsp;Jebanasam&lt;/h3&gt;
+&lt;p&gt;I graduated from the University of New South Wales in Sydney, Australia
+with a double degree in Computer Engineering and Goofing Off,
+and gave up the miserable weather and horrid beaches
+for the fairer climate of Seattle.
+I’ve been in the Smart Devices team for over two-and-a-half years now,
+first as a Release Program Manager,
+and subsequently as the &lt;span class="caps"&gt;PM&lt;/span&gt; for Native C++ for Device development features.
+In my spare time I like to scuba dive, snowboard, play Halo
+and flirt with the Seattle Police in my Lancer Evo.
+I’m desperately hoping &lt;span class="caps"&gt;MS&lt;/span&gt; stock will one day allow me to afford the 911 Turbo that I long&amp;nbsp;for.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rich-hanbidge"&gt;
+&lt;h3&gt;Rich&amp;nbsp;Hanbidge&lt;/h3&gt;
+&lt;p&gt;I graduated from University of Michigan in 98 with a &lt;span class="caps"&gt;BSE&lt;/span&gt; in Computer Engineering.
+I grew up just outside of Detroit, and saw my first mountain
+during an interview with &lt;span class="caps"&gt;HP&lt;/span&gt; in Fort Collins, &lt;span class="caps"&gt;CO&lt;/span&gt;.
+I promptly decided to flee the flatness of the Midwest.
+My first job was working on avionics software with Honeywell,
+until I realized they were actually putting my code on airplanes…
+Since I need to fly back to Detroit to see my family, this was a problem for me.
+Now I am a developer in Visual Studio for Devices to support my snowboarding problem.
+I’ve been here about 3.5 years,
+and holding a close second for “grumpy old man” of this group.
+When I’m not complaining to the newbies
+about how fun this group was before they got here,
+I’m trying to help write a kick-ass native debugger for&amp;nbsp;devices.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2004/C_UserGroup-_Developing_for_Devices_Using_Native_C___with_Visual_Studio__With_Notes_.ppt"&gt;Click here&lt;/a&gt;
+to download the slides and source code from Nishan Jebanasam&amp;#8217;s&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>January 14th, 2004 — for_each — Eric Niebler</title><link href="http://nwcpp.org/january-2004.html" rel="alternate"></link><updated>2004-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-01-01:january-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Writing loops over sequences is harder in C++ than in other languages,
+many of which provide a dedicated &lt;tt class="docutils literal"&gt;for_each&lt;/tt&gt; looping construct.
+In this talk, Eric describes how to implement and use
+a generic, type-safe and extensible foreach construct in C++
+with the help of the preprocessor and some sneaky template tricks.
+The techniques, first presented in the Nov. C/C++ Users&amp;#8217; Journal,
+are extended to work with &lt;span class="caps"&gt;STL&lt;/span&gt; containers.
+Time permitting, Eric will describe why &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;std::for_each&lt;/span&gt;&lt;/tt&gt; doesn&amp;#8217;t cut it,
+and why we need a language&amp;nbsp;extension.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Eric is an independent software consultant currently working with
+Dave Abrahams and Boost Consulting.
+He is a former employee of Microsoft Research and Visual C++,
+and his writings about C++ have been published
+in the C/C++ User&amp;#8217;s Journal and &lt;span class="caps"&gt;MSDN&lt;/span&gt; Magazine.
+When he&amp;#8217;s not writing C++ for money, Eric has been known to write C++ for&amp;nbsp;fun.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2004/foreach.zip"&gt;Click here&lt;/a&gt;
+to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>December 10th, 2003 — The Future of C++ on .NET: A Tour of C++/CLI — Herb Sutter</title><link href="http://nwcpp.org/december-2003.html" rel="alternate"></link><updated>2003-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-12-01:december-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Microsoft Corporation&lt;/div&gt;
@@ -1151,7 +1545,7 @@ to download the source code and slides from the&amp;nbsp;presentation&lt;/p&gt;
 this meeting, there will be a &lt;strong&gt;$10 charge to non-&lt;span class="caps"&gt;NWCPP&lt;/span&gt; and non-&lt;span class="caps"&gt;WSA&lt;/span&gt; members&lt;/strong&gt;.
 Membership in the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is &lt;strong&gt;free&lt;/strong&gt;, and is a great way to
 ensure that you may attend this meeting for free.
-To become a member, visit the &lt;a class="reference external" href="../../Membership/index.html"&gt;Membership&lt;/a&gt; page
+To become a member, visit the &lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;Membership&lt;/a&gt; page
 and join our mailing list.
 &lt;strong&gt;Only members on the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; mailing list and &lt;span class="caps"&gt;WSA&lt;/span&gt; members may attend the meeting for&amp;nbsp;free!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This meeting is a great opportunity to pick the minds of some of the
