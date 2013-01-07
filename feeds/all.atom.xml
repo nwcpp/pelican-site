@@ -1087,7 +1087,792 @@ and how they make concurrent APIs easier to&amp;nbsp;consume.&lt;/p&gt;
 &lt;a class="reference external" href="http://msdn.microsoft.com/en-us/netframework/aa663324.aspx"&gt;&lt;span class="caps"&gt;WCF&lt;/span&gt;&lt;/a&gt; team.
 Other than that he is a totally normal&amp;nbsp;guy.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry><entry><title>December 2007: No Meeting</title><link href="http://nwcpp.org/december-2007.html" rel="alternate"></link><updated>2007-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-12-01:december-2007.html</id><summary type="html"></summary></entry><entry><title>November 14th, 2007 — Domain-Specific Languages with Boost — Eric Niebler</title><link href="http://nwcpp.org/november-2007.html" rel="alternate"></link><updated>2007-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-11-01:november-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry><entry><title>December 2009: No Meeting</title><link href="http://nwcpp.org/december-2009.html" rel="alternate"></link><updated>2009-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-12-01:december-2009.html</id><summary type="html"></summary></entry><entry><title>November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill Baxter</title><link href="http://nwcpp.org/november-2009.html" rel="alternate"></link><updated>2009-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-11-01:november-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In the D Programming Language
+it is possible for even mere mortals to write code that executes at compile-time.
+And the resulting code is generally even human readable!
+In this talk I&amp;#8217;ll show some of the metaprogramming techniques available in D today,
+primarily by examining various tricks I&amp;#8217;ve found useful in my own code —
+in vector and matrix classes, in my port of the OpenMesh C++ library to D, and so on.
+I&amp;#8217;ll make some attempt to relate these back to C++ as well,
+though my threshold for pain is not very&amp;nbsp;high.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bill Baxter is a researcher in the eXtreme Computing Group of Microsoft Research,
+currently working on &lt;span class="caps"&gt;GPU&lt;/span&gt; applications.
+Before moving to Washington earlier this year,
+Bill was a computer graphics researcher and frequent sushi consumer at &lt;span class="caps"&gt;OLM&lt;/span&gt; Digital in Tokyo,
+the company best known for its Pokemon animations.
+Bill has been using C++ for about 15 years, and D for the last three.
+Bill has a Ph.D. in computer science from the University of North Carolina at Chapel Hill.
+Sometimes he can be found strumming a guitar
+to temporarily escape the workaday worries of the&amp;nbsp;world.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2009/NWCPP-D-meta-baxter-11-18-2009.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz Milewski</title><link href="http://nwcpp.org/october-2009.html" rel="alternate"></link><updated>2009-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-10-01:october-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;It’s a well known fact in C++ metaprogramming circles
+that it’s all based on functional programming.
+What else is based on functional programming?
+Haskell!
+I will go through functional features of Haskell, one by one,
+and show you how they are implemented using C++ templates.
+Functions, recursion, pattern matching, higher-order functions,
+list processing, list comprehension and more…
+No previous contact with Haskell is required,
+although some familiarity with C++ templates will be assumed.
+I’ll also talk about C++0x variadic templates and template parameter&amp;nbsp;packs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, &lt;em&gt;C++ In Action&lt;/em&gt;.
+Bartosz keeps up with the latest developments in &lt;span class="caps"&gt;CS&lt;/span&gt;
+by attending graduate courses and seminars at the &lt;span class="caps"&gt;UW&lt;/span&gt;.
+He actively works on the design of the D language.
+He regularly blogs about programming languages and concurrency at
+&lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2009/Haskell_and_C___Template.pdf"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="http://www.vimeo.com/7211030"&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>September 16th, 2009 — Ownership System Against Data Races — Bartosz Milewski</title><link href="http://nwcpp.org/september-2009.html" rel="alternate"></link><updated>2009-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-09-01:september-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;After reading a bunch of papers about type systems
+that prevent data races in multithreaded programs,
+I asked myself the question:
+Short of a type system, can a clever methodology be used to prevent data races?
+It turns out that clear understanding of what data is shared
+and which operations are inherently unsafe
+goes a long way towards eliminating sources of data races.
+I&amp;#8217;ll talk about monitors, ownership, alias control,
+unique objects and lock-free programming,
+all in the service of race-free&amp;nbsp;concurrency.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, &lt;em&gt;C++ In Action&lt;/em&gt;.
+Bartosz keeps up with the latest developments in &lt;span class="caps"&gt;CS&lt;/span&gt;
+by attending graduate courses and seminars at the &lt;span class="caps"&gt;UW&lt;/span&gt;.
+He actively works on the design of the D language.
+He regularly blogs about concurrency at
+&lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/static/talks/2009/Ownership_Systems_against_Data_Races.pdf"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="http://www.vimeo.com/6689999"&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>August 2009: No Meeting</title><link href="http://nwcpp.org/august-2009.html" rel="alternate"></link><updated>2009-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-08-01:august-2009.html</id><summary type="html"></summary></entry><entry><title>July 2009: No Meeting</title><link href="http://nwcpp.org/july-2009.html" rel="alternate"></link><updated>2009-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-07-01:july-2009.html</id><summary type="html"></summary></entry><entry><title>June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter Bright</title><link href="http://nwcpp.org/june-2009.html" rel="alternate"></link><updated>2009-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-06-01:june-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many-core concurrent programming offers exciting and compelling advantages.
+The single-core, single-thread programming model
+is assumed by imperative programming languages.
+This model offers sequential consistency as its fundamental characteristic.
+Because many-core systems use layered cache memory systems,
+sequential consistency is not guaranteed among threads.
+Because imperative programming languages
+allow implicit sharing of data between threads,
+many misguided idioms and optimizations are possible
+that erroneously assume sequential consistency.
+One example of this is the double-checked locking optimization.
+The pernicious nature of these sorts of bugs is
+they defy programmers&amp;#8217; natural intuition about how programs behave,
+they are not statically detectable,
+and there is no way to reliably test a program to rule out the existence of such bugs.
+A program may appear to work, but have problems appear years later,
+fail when ported to a different platform,
+and such problems may be extremely hard to reproduce and&amp;nbsp;track down.
+In essence, the correctness of the program
+relies entirely on the expertise and care of the programmer.
+This is not an acceptable situation for developers of programs that require high&amp;nbsp;reliability.&lt;/p&gt;
+&lt;p&gt;The D programming language is an imperative programming language
+with an innovative type system that prevents implicit sharing
+and also fosters a complete, integrated pure functional subset.
+It is possible to statically verify that D programs do not have sequential consistency bugs.
+The double-checked locking optimization bug is not possible.
+Type support for shared data and immutable data, as well as pure functions,
+means that mutating data interactions between threads
+can occur only under carefully controlled conditions.
+This dramatically reduces the problem space for concurrency bugs
+from the whole of the source code to a small subset of it,
+making it a much more tractable&amp;nbsp;problem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever&amp;nbsp;since.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2009/accu.pdf"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick Molloy</title><link href="http://nwcpp.org/may-2009.html" rel="alternate"></link><updated>2009-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-05-01:may-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="c-building-scalable-applications-in-visual-studio-2010-with-the-concurrency-runtime-and-parallel-pattern-library"&gt;
+&lt;h2&gt;C++: Building scalable applications in Visual Studio 2010 with the Concurrency Runtime and Parallel Pattern&amp;nbsp;Library&lt;/h2&gt;
+&lt;p&gt;In this talk, we&amp;#8217;ll do a deep dive of the Concurrency Runtime
+and the Parallel Libraries built on top of them,
+and talk about what&amp;#8217;s new since the Visual Studio 2010 &lt;span class="caps"&gt;CTP&lt;/span&gt;.
+We&amp;#8217;ll provide a hands on look at how to use the Parallel Pattern Library
+and the Asynchronous Agents Library together
+to express parallelism and maintain responsiveness in applications.
+We&amp;#8217;ll discuss how to use the Concurrency Runtime
+to manage multiple scheduler instances within an application,
+how to extend the Concurrency Runtime itself for additional programming models,
+and how to fulfill quality of service requirements with the Resource Manager.
+Finally we&amp;#8217;ll talk about how the Concurrency Runtime
+takes advantage of the new Windows 7 functionality,
+User Mode Scheduled Threads and support for &amp;gt; 64 processors,
+to enable additional scalability on the Windows&amp;nbsp;Platform.&lt;/p&gt;
+&lt;p&gt;The presentation will be given by members of the Concurrency Runtime team:
+Dana Groff, Don McCrady and Rick&amp;nbsp;Molloy.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>April 15th, 2009 — Axum: The Language Of Agents — Artur Laksberg</title><link href="http://nwcpp.org/april-2009.html" rel="alternate"></link><updated>2009-04-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-04-01:april-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Axum is an incubation project in Microsoft&amp;#8217;s Parallel Computing Team.
+A .Net programming language based on asynchronous agents, isolation, and message-passing,
+Axum allows developers to partition their applications
+into isolated components that communicate with each other via message passing
+and access shared state in a disciplined&amp;nbsp;way.&lt;/p&gt;
+&lt;p&gt;Axum has not yet been released by Microsoft but it is nearing its first public beta.
+Please check out Axum team blog at
+&lt;a class="reference external" href="http://blogs.msdn.com/maestroteam"&gt;http://blogs.msdn.com/maestroteam&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Artur Laksberg is a software design engineer in the Parallel Computing Team at Microsoft.
+During his career, Artur was involved in various projects
+including Visual C++ compiler and &lt;span class="caps"&gt;SQL&lt;/span&gt; Server.
+Over the last year, Artur has been a member of a small team in the Developer Division
+incubating new technologies for parallel programming.
+Native of Estonia, Artur lives in Redmond with his wife and&amp;nbsp;son.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Download the &lt;a class="reference external" href="/static/talks/2009/Axum_Presentation.pptx"&gt;slides&lt;/a&gt;
+and &lt;a class="reference external" href="/static/talks/2009/Axum_Presentation_code.zip"&gt;source code&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/li&gt;
+&lt;li&gt;Watch the &lt;a class="reference external" href="http://www.vimeo.com/4438927"&gt;video&lt;/a&gt; for a video of the&amp;nbsp;presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/maestroteam/archive/2009/05/07/the-first-axum-bits-are-now-available.aspx"&gt;Axum is now publicly&amp;nbsp;available!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>March 18th, 2009 — How Compilers Work — Walter Bright</title><link href="http://nwcpp.org/march-2009.html" rel="alternate"></link><updated>2009-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-03-01:march-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Compilers are a fundamental tool for programmers.
+Knowing how they work enables a much more effective use of them.
+This presentation covers how they work—the various passes like lexing, parsing semantic analysis,
+optimization, and code generation—and how they fit together to transform source code into executable&amp;nbsp;code.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever since.
+He&amp;#8217;s written compilers for Pascal, &lt;span class="caps"&gt;ABEL&lt;/span&gt;, C, C++, Javascript, Java,
+and now the D programming&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>February 18th, 2009 — CCR: Concurrency and Coordination Runtime — Andreas Ulbrich</title><link href="http://nwcpp.org/february-2009.html" rel="alternate"></link><updated>2009-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-02-01:february-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Concurrency and Coordination Runtime (&lt;span class="caps"&gt;CCR&lt;/span&gt;)
+provides developers an easy way to create and coordinate
+loosely-coupled, data-driven applications.
+It is one of the core building blocks of Microsoft Robotics Developer Studio
+but has applications far beyond robotics.
+&lt;span class="caps"&gt;CCR&lt;/span&gt; provides a message-passing architecture with powerful orchestration primitives
+enabling the coordination of data and&amp;nbsp;work.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andreas is a Senior Engineer in the Microsoft Robotics Group,
+where he works on &lt;span class="caps"&gt;CCR&lt;/span&gt;, &lt;span class="caps"&gt;DSS&lt;/span&gt;, and the Visual Programming Language.
+Prior to joining Microsoft,
+he worked on telecommunication and interactive television products
+and was a Research Assistant at Technische Universtitaet Berlin in&amp;nbsp;Germany.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2009/NWCPP-CCR.pptx"&gt;slides&lt;/a&gt;
+and &lt;a class="reference external" href="/static/talks/2009/NWCPPDemos.zip"&gt;source code&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>January 21st, 2009 — Metaprogramming in D — Walter Bright</title><link href="http://nwcpp.org/january-2009.html" rel="alternate"></link><updated>2009-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-01-01:january-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Metaprograms are programs that output other programs.
+They can greatly increase the expressive power of a language.
+Familiar metaprogramming languages are the C text preprocessor and C++ templates.
+Walter will show how some simple language features
+like string mixins and compile time function execution
+can lead to powerful metaprogramming facilities,
+with examples in the D programming&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever since.
+He&amp;#8217;s written compilers for Pascal, &lt;span class="caps"&gt;ABEL&lt;/span&gt;, C, C++, Javascript, Java,
+and now the D programming&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://www.vimeo.com/4333802"&gt;video&lt;/a&gt; of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>December 2008: No Meeting</title><link href="http://nwcpp.org/december-2008.html" rel="alternate"></link><updated>2008-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-12-01:december-2008.html</id><summary type="html"></summary></entry><entry><title>November 19th, 2008 — Things You Never Wanted to Know about Memory Fences — Bartosz Milewski</title><link href="http://nwcpp.org/november-2008.html" rel="alternate"></link><updated>2008-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-11-01:november-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="things-you-never-wanted-to-know-about-memory-fences-but-were-afraid-would-be-explained-to-you-anyway"&gt;
+&lt;h2&gt;Things You Never Wanted to Know about Memory Fences (But were afraid would be explained to you&amp;nbsp;anyway)&lt;/h2&gt;
+&lt;p&gt;Why study fences on an x86, other than to satisfy one’s curiosity?
+One reason is that, even when you program in a higher-level language (C++ included),
+you want to know a bit of assembly to understand some of the tradeoffs.
+The other is to fight the temptation to do low-level concurrency tricks.
+If you don’t appreciate the complexities of even the simplest relaxed memory model,
+that of the x86,
+you may be tempted to join the dark side—to feel the power of lock-free&amp;nbsp;programming.&lt;/p&gt;
+&lt;p&gt;I’ll analyze a simple algorithm, the Peterson lock,
+which, unlike the double-checked locking pattern,
+will not work on an x86 multicore without actual fences.
+I’ll show how Java and C++0x deal with this&amp;nbsp;problem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, &lt;em&gt;C++ In Action&lt;/em&gt;.
+Bartosz keeps up with the latest developments in &lt;span class="caps"&gt;CS&lt;/span&gt;
+by attending graduate courses and seminars at the &lt;span class="caps"&gt;UW&lt;/span&gt;.
+He actively works on the design of the D&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2008/Memory_Fences.pdf"&gt;slides&lt;/a&gt; of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>October 15th, 2008 — Concepts in C++0X — Gary Powell</title><link href="http://nwcpp.org/october-2008.html" rel="alternate"></link><updated>2008-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-10-01:october-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;An introduction to the Standard Library and Concepts in C++0X.
+A general overview, and a couple of in-depth analyses of
+how to understand and use this new feature of the&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Programming since &amp;#8216;74, using C++ since &amp;#8216;87.
+Gary has been one of the early abusers of the C++ language and compiler
+to twist it to make functional programing a reality.
+A technical consultant and volunteer to the C++ standards committee since 2001
+where he has worked with many others on getting
+&amp;#8220;bind&amp;#8221;, &amp;#8220;variadac templates&amp;#8221;, &amp;#8220;lambda&amp;#8221;, &amp;#8220;decl_type&amp;#8221;
+and other useful stuff into the C++0X standard.
+A Google search of &lt;tt class="docutils literal"&gt;&amp;#8220;Gary Powell&amp;#8221; C++&lt;/tt&gt; will yield a large number of hits
+only a few of which are not&amp;nbsp;him.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2008/concepts-intro.ppt"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>September 17th, 2008 — Functional Programming with F# — Chris Smith</title><link href="http://nwcpp.org/september-2008.html" rel="alternate"></link><updated>2008-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-09-01:september-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;With developers reaching the limits for what Object-Oriented programming can do,
+they are looking for a new programming paradigm to lead to
+cleaner, more elegant solutions.
+Functional Programming has been around since the 1930s
+but has never been able to go mainstream&amp;#8230; until now.
+This talk will cover Functional Programming
+and how it improves on traditional Imperative or Object-Oriented paradigms
+by introducing the F# programming language,
+Microsoft&amp;#8217;s latest addition to the .&lt;span class="caps"&gt;NET&lt;/span&gt;&amp;nbsp;pantheon.&lt;/p&gt;
+&lt;p&gt;As for concurrency,
+F# can not only build off the .&lt;span class="caps"&gt;NET&lt;/span&gt; threading libraries (which are &lt;span class="caps"&gt;OK&lt;/span&gt;)
+but also introduces a concept called
+&lt;a class="reference external" href="http://www.strangelights.com/blog/archive/2007/10/15/1599.aspx"&gt;Asynchronous Workflows&lt;/a&gt;,
+which makes writing async code trivial.
+I&amp;#8217;ll be sure to cover that in my&amp;nbsp;talk.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Chris Smith is a tester at Microsoft on the F# team,
+working hard to bring functional programming to the .&lt;span class="caps"&gt;NET&lt;/span&gt; community.
+Before joining with F#, Chris worked on various parts of Visual Studio
+from &lt;span class="caps"&gt;WCF&lt;/span&gt; support to the Settings and Resource designers.
+Chris lives in the Seattle area and enjoys skiing, indoor soccer,
+and blogging about F# at
+&lt;a class="reference external" href="http://blogs.msdn.com/chrsmith"&gt;http://blogs.msdn.com/chrsmith&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2008/Functional_Programming_with_F.pdf"&gt;slides&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>August 20th, 2008 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2008.html" rel="alternate"></link><updated>2008-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-08-01:august-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&amp;nbsp;members.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>July 16th, 2008 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2008.html" rel="alternate"></link><updated>2008-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-07-01:july-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&amp;nbsp;members.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>June 18th, 2008 — The C++ Memory Model — Bartosz Milewski</title><link href="http://nwcpp.org/june-2008.html" rel="alternate"></link><updated>2008-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-06-01:june-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;What is a memory model and why does C++ need it so badly?
+I&amp;#8217;ll try to explain both the practical and the theoretical side of things.
+We&amp;#8217;ll look into a few simple multithreaded idioms,
+sketch the Java memory model,
+and show the differences between Java and C++.
+For the theoretically minded, I&amp;#8217;ll do my best to explain sequential consistency
+and the &amp;#8220;happens before&amp;#8221; relationship necessary to describe data races.
+We&amp;#8217;ll look into the C++ atomic&amp;nbsp;library.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, &lt;em&gt;C++ In Action&lt;/em&gt;.
+Bartosz keeps up with the latest developments in &lt;span class="caps"&gt;CS&lt;/span&gt;
+by attending graduate courses and seminars at the &lt;span class="caps"&gt;UW&lt;/span&gt;.
+He actively works on the design of the D&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2008/C___Memory_Model.pdf"&gt;slides&lt;/a&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://video.google.com/videoplay?docid=1457624331939812949"&gt;video&lt;/a&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>May 20th, 2008 — Enforcing Code Feature Requirements in C++ — Scott Meyers</title><link href="http://nwcpp.org/may-2008.html" rel="alternate"></link><updated>2008-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-05-01:may-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Functions often depend on particular behavioral characteristics (&amp;#8220;features&amp;#8221;)
+of code they invoke.
+For example, thread-safe code must invoke only thread-safe code
+if it is to remain thread-safe,
+and exception-safe code must invoke only exception-safe code.
+This talk describes a technique that
+enables the specification of arbitrary combinations of user-defined code features
+on a per-function basis and
+that detects violations of feature constraints during compilation.
+The technique applies to member functions (both nonvirtual and virtual),
+non-member functions, and function templates;
+operators are&amp;nbsp;excluded.&lt;/p&gt;
+&lt;p&gt;(This is an updated version of the talk Scott gave in April 2007.
+Since then, he&amp;#8217;s revised his approach to operate entirely during compilation
+and to support overloading on feature sets.
+He also no longer shows film clips during the presentation&amp;nbsp;:-})&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Scott Meyers is one of the world&amp;#8217;s foremost authorities on C++;
+he provides training and consulting services to clients worldwide.
+He wrote the best-selling &lt;em&gt;Effective C++&lt;/em&gt; series
+(&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-92488-9/"&gt;Effective C++&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-63371-X/"&gt;More Effective C++&lt;/a&gt;,
+and &lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-74962-9/"&gt;Effective &lt;span class="caps"&gt;STL&lt;/span&gt;&lt;/a&gt;);
+wrote and designed the innovative
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-31015-5/"&gt;Effective C++ &lt;span class="caps"&gt;CD&lt;/span&gt;&lt;/a&gt;;
+is consulting editor for Addison Wesley&amp;#8217;s &lt;em&gt;Effective Software Development Series&lt;/em&gt;;
+was a founding member of the Advisory Board
+for &lt;a class="reference external" href="http://www.artima.com/cppsource"&gt;The C++ Source&lt;/a&gt;.
+He has a Ph.D in Computer Science from Brown University.
+His web site is &lt;a class="reference external" href="http://aristeia.com"&gt;aristeia.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2008/code_features.pdf"&gt;slides&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://video.google.com/videoplay?docid=1147577226734217890"&gt;video&lt;/a&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>April 16th, 2008 — Programming Declaratively in C++ Using the Logic Paradigm — Roshan Naik</title><link href="http://nwcpp.org/april-2008.html" rel="alternate"></link><updated>2008-04-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-04-01:april-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Logic paradigm (&lt;span class="caps"&gt;LP&lt;/span&gt;) is a powerful, Turing-complete programming paradigm
+that has seen little representation in mainstream languages
+as compared to the Object-Oriented, Imperative and Functional paradigms.
+&lt;span class="caps"&gt;LP&lt;/span&gt; is an important approach in Computer Science towards
+what is sometimes referred to as the Holy-Grail of programming,
+&amp;#8220;The user states the problem, the computer solves it&amp;#8221;.
+Origins of the theory underlying Logic dates back to about 300 &lt;span class="caps"&gt;B.C.
+&lt;/span&gt;when Aristotle founded Formal Logic to bring rigor to logical inferencing.
+The theory matured into Modern Logic more recently (early 1900s)
+when Russell &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Whitehead showed that all of Mathematics could be reduced to Logic.
+This talk will provide an introduction to the basics of &lt;span class="caps"&gt;LP&lt;/span&gt; in C++,
+followed by examples to develop a feel for thinking
+in terms of this paradigm and understand how it blends with the other paradigms.
+We finally broaden the scope to see how powerful multiparadigm solutions emerge
+when programmers can freely mix and match paradigms.
+All code will use standard C++ and
+Castor, an open source library
+(available from &lt;a class="reference external" href="http://www.mpprogramming.com"&gt;www.mpprogramming.com&lt;/a&gt;)
+which brings the Logic paradigm to&amp;nbsp;C++.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="mailto:roshan&amp;#64;mpprogramming.com"&gt;Roshan Naik&lt;/a&gt;
+is an R&amp;amp;D engineer at Hewlett-Packard.
+He specializes in multiparadigm programming techniques.
+Roshan is also author of &lt;a class="reference external" href="http://www.mpprogramming.com"&gt;Castor&lt;/a&gt;,
+an open source library which brings the Logic Paradigm to&amp;nbsp;C++.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2008/Roshan_Naik_Programming_Declaratively_In_C___using_the_Logic_Paradigm.pptx"&gt;slides&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>March 19th, 2008 — shared_ptr, Or: How I Learned To Stop Worrying And Love Resource Management — Stephan T. Lavavej</title><link href="http://nwcpp.org/march-2008.html" rel="alternate"></link><updated>2008-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-03-01:march-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;shared_ptr is the most powerful addition to the Standard C++ Library
+since the &lt;span class="caps"&gt;STL&lt;/span&gt; itself.
+This presentation begins with an overview of shared_ptr&amp;#8217;s design
+and the philosophy behind it.
+Next, important uses of shared_ptr are explained in detail—shared_ptr isn&amp;#8217;t just for sharing!
+Of course, new technologies come with new pitfalls.
+Fortunately, shared_ptr&amp;#8217;s pitfalls, covered here, can be easily avoided.
+This presentation ends with advanced topics:
+thread safety, custom deleters, custom allocators, other C++0x features,
+and a tour of shared_ptr&amp;#8217;s internals as implemented by Dinkumware.
+Whether you haven&amp;#8217;t had a chance to use shared_ptr yet,
+or you&amp;#8217;ve done everything but implement it,
+this presentation should be useful to&amp;nbsp;you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Stephan T. Lavavej, who frequently uses his auspicious initials,
+joined the Visual C++ Libraries team in January 2007.
+He mainly works on the Standard C++ Library,
+doing things like fixing epic conformance bugs and nuking iterator bloat.
+Recently, he&amp;#8217;s worked with Dinkumware to integrate their &lt;span class="caps"&gt;TR1&lt;/span&gt; implementation
+as part of the Visual C++ 2008 Feature&amp;nbsp;Pack.&lt;/p&gt;
+&lt;p&gt;He originally joined Microsoft in July 2004,
+after receiving the degree of Bachelor Of Science With Honor in Computer Science
+from the California Institute Of Technology,
+and worked on Outlook 2007 Search.
+Among other things, he implemented hit highlighting, making stuff light up&amp;nbsp;yellow.&lt;/p&gt;
+&lt;p&gt;His favorite data structure is the vector.
+His second favorite data structure is the suffix tree,
+which can be used to sort the suffixes of a string in linear time,
+because that can be used to implement his favorite algorithm,
+the Burrows-Wheeler Transform,
+and also because it sounds totally&amp;nbsp;impossible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2008/nwcpp-2008.03.19.pdf"&gt;slides&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>February 20th, 2008 — Memory Allocation: Either Love It or Hate It. (Or Just Think It’s OK.) — Andrei Alexandrescu</title><link href="http://nwcpp.org/february-2008.html" rel="alternate"></link><updated>2008-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-02-01:february-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Memory allocation is a problem so wicked,
+many people think it&amp;#8217;s either solved or unsolvable.
+This talk goes through the gory details of memory allocation;
+what the classic designs are;
+how special handcrafted allocators may improve (or degrade)
+the bottom line performance of your application;
+how to write a policy-based allocator with a modular design
+that beats a monolithic handcrafted one;
+and how the advent of manycores influences allocator designs.
+Ninety leak-free&amp;nbsp;minutes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andrei Alexandrescu has achieved the rare feat of becoming an authority
+in both industry and research circles.
+He almost single-handedly revolutionized and reinvented C++ programming
+with his seminal book, &lt;em&gt;Modern C++ Design&lt;/em&gt;.
+Andrei&amp;#8217;s other publications include the
+award-winning &lt;em&gt;C++ Coding Standards&lt;/em&gt; book (as a coauthor),
+four peer-reviewed academic papers,
+and dozens of articles in top trade journals,
+either under the byline of his Generic&amp;lt;Programming&amp;gt;&amp;nbsp;column,
+or as a featured&amp;nbsp;author.&lt;/p&gt;
+&lt;p&gt;After having worked in fields as varied as banking, databases, and Internet applications,
+Andrei is focusing on graph-based statistical modeling
+for natural language processing (&lt;span class="caps"&gt;NLP&lt;/span&gt;),
+field rife with huge data sets,
+computationally-intensive algorithms,
+and massively parallel execution.
+His vast expertise, presence, and humor
+make Andrei a sought-after speaker at technical&amp;nbsp;conferences.&lt;/p&gt;
+&lt;p&gt;Andrei holds a &lt;span class="caps"&gt;BS&lt;/span&gt; in Electrical Engineering from University &amp;#8220;Politehnica&amp;#8221; Bucharest
+and an &lt;span class="caps"&gt;MS&lt;/span&gt; in Computer Science from University of Washington,
+where he is also a graduating PhD in Summer 2008.
+(&lt;span class="caps"&gt;N.B.&lt;/span&gt; He will soon be looking for a job.)
+His web site is &lt;a class="reference external" href="http://erdani.com/"&gt;http://erdani.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/static/talks/2008/memory-allocation.screen.pdf"&gt;slides&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://video.google.com/videoplay?docid=8718136231005757634"&gt;video&lt;/a&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>January 16th, 2008 — Design Patterns in an Agile Environment — Alan Shalloway</title><link href="http://nwcpp.org/january-2008.html" rel="alternate"></link><updated>2008-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-01-01:january-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="design-patterns-in-an-agile-environment-the-object-pool-an-example-of-emergent-design"&gt;
+&lt;h2&gt;Design Patterns in an Agile Environment – The Object Pool An Example of Emergent&amp;nbsp;Design&lt;/h2&gt;
+&lt;p&gt;There runs a heated debate about how to build application architectures.
+Many practitioners believe you must design up front,
+others feel that doing so leads to over-design.
+Unfortunately, much of this debate is based on practices, not principles.
+Practices must change when one finds themselves in different contexts.
+Principles do&amp;nbsp;not.&lt;/p&gt;
+&lt;p&gt;This talk presents a background of several useful principles
+which can help in building an application architecture dynamically.
+Many modern design practices suggest that code should be developed
+in a highly incremental way, with frequent opportunities for validation,
+refactoring,
+and that we should embrace change as an ally,
+rather than seeking to avoid it through heavy analysis.
+At the same time, the Design Patterns movement has opened up powerful new ways
+of thinking about Objects and their relationships,
+and how we can efficiently find our way
+to the best designs in a given context.
+Initially, these two points of view would seem to be at odds with one another.
+However, layered architectures suggested by the proper use of patterns
+leads to more flexible designs,
+designs that tolerate change better than traditional &lt;span class="caps"&gt;OO&lt;/span&gt; would,
+and patterns are a great enabler for an incremental approach.
+Furthermore, we have found that refactoring existing code,
+in the light of new and/or better-defined requirements,
+often leads to patterns,
+and that an understanding of this can make for a much more efficient development process overall.
+This talk integrates these ideas
+by presenting a project done by following the guidelines
+of Agile development, refactoring and design&amp;nbsp;patterns.&lt;/p&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What is Lean-Agile Software&amp;nbsp;Development?&lt;/li&gt;
+&lt;li&gt;What is the Role of&amp;nbsp;Architecture?&lt;/li&gt;
+&lt;li&gt;What are design&amp;nbsp;patterns?&lt;/li&gt;
+&lt;li&gt;What is&amp;nbsp;Refactoring?&lt;/li&gt;
+&lt;li&gt;Refactoring to the Open&amp;nbsp;Closed&lt;/li&gt;
+&lt;li&gt;A case study in using the methods&amp;nbsp;described&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Learn:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A different view of Agile&amp;nbsp;development&lt;/li&gt;
+&lt;li&gt;What Emergent Design&amp;nbsp;is&lt;/li&gt;
+&lt;li&gt;What the Object-Pool Pattern&amp;nbsp;is&lt;/li&gt;
+&lt;li&gt;Why following principles and practices is more important than following rote&amp;nbsp;doctrine&lt;/li&gt;
+&lt;li&gt;Synthesize the seemingly disparate views of test-driven-development and design&amp;nbsp;patterns&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This seminar is intended for those people who have some experience already
+with design patterns and agile methods.
+However, value should be great even without this&amp;nbsp;background.&lt;/p&gt;
+&lt;p&gt;Seminar notes will be available at
+&lt;a class="reference external" href="http://www.netobjectives.com/free-seminars-notes/"&gt;http://www.netobjectives.com/free-seminars-notes/&lt;/a&gt;
+by January 10.
+Registration on the Net Objectives site will be required to get&amp;nbsp;them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Alan Shalloway is the founder and &lt;span class="caps"&gt;CEO&lt;/span&gt; of Net Objectives.
+With almost 40 years of experience,
+Alan is an industry thought leader, trainer and coach
+in the areas of Lean Software Development, The Lean-Agile Connection
+and using Design Patterns in agile environments.
+Alan has developed training and coaching methods for Lean-Agile
+that have helped his clients achieve long-term, sustainable productivity gains
+using the methods.
+He is a popular speaker at prestigious conferences worldwide as well as a trainer/coach.
+He is the primary author of
+&lt;em&gt;Design Patterns Explained: A New Perspective on Object-Oriented Design&lt;/em&gt;
+and is currently writing &lt;em&gt;Lean Anti-Patterns and What to do About Them&lt;/em&gt;.
+He is a &lt;span class="caps"&gt;SM&lt;/span&gt;-C Trainer and has a Masters in Computer Science from&amp;nbsp;&lt;span class="caps"&gt;M.I.T.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>December 2007: No Meeting</title><link href="http://nwcpp.org/december-2007.html" rel="alternate"></link><updated>2007-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-12-01:december-2007.html</id><summary type="html"></summary></entry><entry><title>November 14th, 2007 — Domain-Specific Languages with Boost — Eric Niebler</title><link href="http://nwcpp.org/november-2007.html" rel="alternate"></link><updated>2007-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-11-01:november-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;

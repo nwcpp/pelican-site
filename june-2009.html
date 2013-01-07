@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter Bright</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="./theme/css/main.css" type="text/css" />
+                <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users’ Group Atom Feed" />
+                
+        <!--[if IE]>
+                <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+        <!--[if lte IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="./css/ie.css"/>
+                <script src="./js/IE8.js" type="text/javascript"></script><![endif]-->
+
+        <!--[if lt IE 7]>
+                <link rel="stylesheet" type="text/css" media="all" href="./css/ie6.css"/><![endif]-->
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Northwest C++ Users’ Group </a></h1>
+                <nav><ul>
+                                                                                                    <li ><a href="./category/2000.html">2000</a></li>
+                                    <li ><a href="./category/2001.html">2001</a></li>
+                                    <li ><a href="./category/2002.html">2002</a></li>
+                                    <li ><a href="./category/2003.html">2003</a></li>
+                                    <li ><a href="./category/2004.html">2004</a></li>
+                                    <li ><a href="./category/2005.html">2005</a></li>
+                                    <li ><a href="./category/2006.html">2006</a></li>
+                                    <li ><a href="./category/2007.html">2007</a></li>
+                                    <li ><a href="./category/2008.html">2008</a></li>
+                                    <li class="active"><a href="./category/2009.html">2009</a></li>
+                                    <li ><a href="./category/2010.html">2010</a></li>
+                                    <li ><a href="./category/2011.html">2011</a></li>
+                                    <li ><a href="./category/2012.html">2012</a></li>
+                                    <li ><a href="./category/2013.html">2013</a></li>
+                                    <li ><a href="./category/about.html">about</a></li>
+                                    <li ><a href="./category/misc.html">misc</a></li>
+                                </ul></nav>
+        </header><!-- /#banner -->
+        <section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="./june-2009.html" rel="bookmark"
+           title="Permalink to June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter Bright">June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter&nbsp;Bright</a></h1>
+          </header>
+
+    <div class="entry-content">
+      <footer class="post-info">
+        <abbr class="published" title="2009-06-01T00:00:00">
+                Mon 01 June 2009
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="./author/nwcpp.html">nwcpp</a>
+        </address>
+        <p>In <a href="./category/2009.html">2009</a>. </p>
+
+</footer><!-- /.post-info -->      <div class="section" id="location">
+<h2>Location</h2>
+<div class="line-block">
+<div class="line"><a class="reference external" href="http://www.microsoft.com">Microsoft Corporation</a></div>
+<div class="line">Building 41</div>
+<div class="line">One Microsoft Way</div>
+<div class="line">Redmond, Washington 98052</div>
+</div>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>Many-core concurrent programming offers exciting and compelling advantages.
+The single-core, single-thread programming model
+is assumed by imperative programming languages.
+This model offers sequential consistency as its fundamental characteristic.
+Because many-core systems use layered cache memory systems,
+sequential consistency is not guaranteed among threads.
+Because imperative programming languages
+allow implicit sharing of data between threads,
+many misguided idioms and optimizations are possible
+that erroneously assume sequential consistency.
+One example of this is the double-checked locking optimization.
+The pernicious nature of these sorts of bugs is
+they defy programmers&#8217; natural intuition about how programs behave,
+they are not statically detectable,
+and there is no way to reliably test a program to rule out the existence of such bugs.
+A program may appear to work, but have problems appear years later,
+fail when ported to a different platform,
+and such problems may be extremely hard to reproduce and&nbsp;track down.
+In essence, the correctness of the program
+relies entirely on the expertise and care of the programmer.
+This is not an acceptable situation for developers of programs that require high&nbsp;reliability.</p>
+<p>The D programming language is an imperative programming language
+with an innovative type system that prevents implicit sharing
+and also fosters a complete, integrated pure functional subset.
+It is possible to statically verify that D programs do not have sequential consistency bugs.
+The double-checked locking optimization bug is not possible.
+Type support for shared data and immutable data, as well as pure functions,
+means that mutating data interactions between threads
+can occur only under carefully controlled conditions.
+This dramatically reduces the problem space for concurrency bugs
+from the whole of the source code to a small subset of it,
+making it a much more tractable&nbsp;problem.</p>
+</div>
+<div class="section" id="bio">
+<h2>Bio</h2>
+<p>Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever&nbsp;since.</p>
+</div>
+<div class="section" id="resources">
+<h2>Resources</h2>
+<p>Download the <a class="reference external" href="/static/talks/2009/accu.pdf">slides</a> from the&nbsp;presentation.</p>
+</div>
+
+    </div><!-- /.entry-content -->
+    
+  </article>
+</section>
+        <section id="extras" class="body">
+                        <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                                                    <li><a href="http://docs.notmyidea.org/alexis/pelican/">Pelican</a></li>
+                                                    <li><a href="http://python.org">Python.org</a></li>
+                                                    <li><a href="http://jinja.pocoo.org">Jinja2</a></li>
+                                                    <li><a href="#">You can modify those links in your config file</a></li>
+                                                </ul>
+                </div><!-- /.blogroll -->
+                                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                            
+                                                    <li><a href="#">You can add links in your config file</a></li>
+                                                    <li><a href="#">Another social link</a></li>
+                                                </ul>
+                </div><!-- /.social -->
+                </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
