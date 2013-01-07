@@ -7,6 +7,7 @@ NWCPP Sponsors
 
 NWCPP thanks the following organizations for their sponsorship.
 
+- `Microsoft <http://www.microsoft.com/>`_
 - `Randstad Technologies <http://technologies.randstadusa.com/>`_
 - `Summit Group Solutions <http://www.summitgroupsolutions.com/>`_
 - `Amazon Digital <http://www.amazon.com/gp/digital/careers/jobs.html>`_
