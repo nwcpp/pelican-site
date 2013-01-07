@@ -1,0 +1,63 @@
+June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter Bright
+######################################################################################
+
+:date: 2009-06-01
+:slug: june-2009
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+Many-core concurrent programming offers exciting and compelling advantages.
+The single-core, single-thread programming model
+is assumed by imperative programming languages.
+This model offers sequential consistency as its fundamental characteristic.
+Because many-core systems use layered cache memory systems,
+sequential consistency is not guaranteed among threads.
+Because imperative programming languages
+allow implicit sharing of data between threads,
+many misguided idioms and optimizations are possible
+that erroneously assume sequential consistency.
+One example of this is the double-checked locking optimization.
+The pernicious nature of these sorts of bugs is
+they defy programmers' natural intuition about how programs behave,
+they are not statically detectable,
+and there is no way to reliably test a program to rule out the existence of such bugs.
+A program may appear to work, but have problems appear years later,
+fail when ported to a different platform,
+and such problems may be extremely hard to reproduce and track down.
+In essence, the correctness of the program
+relies entirely on the expertise and care of the programmer.
+This is not an acceptable situation for developers of programs that require high reliability.
+
+The D programming language is an imperative programming language
+with an innovative type system that prevents implicit sharing
+and also fosters a complete, integrated pure functional subset.
+It is possible to statically verify that D programs do not have sequential consistency bugs.
+The double-checked locking optimization bug is not possible.
+Type support for shared data and immutable data, as well as pure functions,
+means that mutating data interactions between threads
+can occur only under carefully controlled conditions.
+This dramatically reduces the problem space for concurrency bugs
+from the whole of the source code to a small subset of it,
+making it a much more tractable problem.
+
+Bio
+~~~
+
+Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever since.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </static/talks/2009/accu.pdf>`_ from the presentation.
