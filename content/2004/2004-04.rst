@@ -1,5 +1,5 @@
-April 14, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott Meyers
-#################################################################################################
+April 14th, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott Meyers
+###################################################################################################
 
 :date: 2004-04-01
 :slug: april-2004
