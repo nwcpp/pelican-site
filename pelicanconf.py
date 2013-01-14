@@ -14,6 +14,8 @@ DEFAULT_LANG = u'en'
 LINKS =  ((u'Standard C++ Foundation', 'http://isocpp.org/'),
           (u'Sutter’s Mill', 'http://herbsutter.com/'),
           (u'Visual C++ Team Blog', 'http://blogs.msdn.com/b/vcblog/'),
+          (u'Bartosz Milewski', 'http://bartoszmilewski.com/'),
+          (u'Walter Bright', 'http://www.drdobbs.com/author/Walter-Bright'),
           (u'C++ Soup!', 'http://www.cplusplus-soup.com/'),
           (u'Dr. Dobb’s C++', 'http://www.drdobbs.com/cpp'),
           (u'C++Next', 'http://cpp-next.com/'),
