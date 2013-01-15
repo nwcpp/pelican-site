@@ -38,12 +38,22 @@
     http://www.justhost.com/
 .. _Joomla:
     http://www.joomla.org/
-.. _Pandoc:
-    http://johnmacfarlane.net/pandoc/
+.. _Network Solutions:
+    https://www.networksolutions.com/
+.. _reStructuredText:
+    http://docutils.sf.net/rst.html
 .. _history with reStructuredText:
     http://www.georgevreilly.com/blog/CategoryView,category,reStructuredText.aspx
+.. _Pandoc:
+    http://johnmacfarlane.net/pandoc/
+.. _html2rest:
+    http://pypi.python.org/pypi/html2rest
 .. _multiple Github identities:
     http://stackoverflow.com/a/922461/6364
+.. _Github repo:
+    https://github.com/nwcpp/pelican-site/
+.. _publishing to Github pages
+    http://docs.getpelican.com/en/3.1.1/tips.html
 .. _Google Docs contact form:
     http://www.bloggerbuster.com/2012/04/create-contact-form-with-google-docs.html
 .. _Custom domain:
