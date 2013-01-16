@@ -15,7 +15,8 @@ January 16, 2013 at 7:00 PM, Microsoft Campus.
 <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
 **Note: not our normal meeting room**
 
-Come at 6:45 for pizza sponsored by
+Come at 6:45 for pizza
+`sponsored <|filename|/about/sponsors-howto.rst>`_ by
 `Randstad Technologies <http://technologies.randstadusa.com/>`_.
 
 Abstract
