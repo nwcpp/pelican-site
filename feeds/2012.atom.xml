@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2012.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2012-12-01T00:00:00-08:00</updated><entry><title>December 2012: No Meeting</title><link href="http://nwcpp.org/december-2012.html" rel="alternate"></link><updated>2012-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-12-01:december-2012.html</id><summary type="html"></summary></entry><entry><title>November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch — Tom Ball</title><link href="http://nwcpp.org/november-2012.html" rel="alternate"></link><updated>2012-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-11-01:november-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2012.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2012-12-31T00:00:00-08:00</updated><entry><title>2012</title><link href="http://nwcpp.org/2012-summary.html" rel="alternate"></link><updated>2012-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-12-31:2012-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2012.html"&gt;January 25th,&amp;nbsp;2012 — Finding Race Condition and Data Races Effectively — Madan&amp;nbsp;Musuvathi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2012.html"&gt;February 15th,&amp;nbsp;2012 — Expressing Parallel Patterns in Modern C++ — Rahul V.&amp;nbsp;Patil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2012.html"&gt;March 21st,&amp;nbsp;2012 — A Multi-Core Algorithmic Differentiation Benchmarking System — Brad&amp;nbsp;Bell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2012.html"&gt;April 18th, 2012 — Essential Skills for the Agile Developer – Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2012.html"&gt;May 16th, 2012 — An Introduction to Microsoft’s C++ Accelerated Massive Parallelism – Don&amp;nbsp;McCrady&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2012.html"&gt;June 20th, 2012 — LKRhash: The design of a scalable hashtable — George V.&amp;nbsp;Reilly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2012.html"&gt;July 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2012.html"&gt;August 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2012.html"&gt;September 19th, 2012 — Functional Patterns in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2012.html"&gt;October 17th, 2012 — Casablanca: C++ in the Cloud — Steve&amp;nbsp;Gates&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2012.html"&gt;November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch — Tom&amp;nbsp;Ball&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2012.html"&gt;December 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>December 2012: No Meeting</title><link href="http://nwcpp.org/december-2012.html" rel="alternate"></link><updated>2012-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-12-01:december-2012.html</id><summary type="html"></summary></entry><entry><title>November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch — Tom Ball</title><link href="http://nwcpp.org/november-2012.html" rel="alternate"></link><updated>2012-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-11-01:november-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;p&gt;November 21, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;, Microsoft Campus.
-&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building&amp;nbsp;41/1511–Townsend&lt;/a&gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;November 21, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -41,15 +56,18 @@ Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt;&amp;nbsp;Fellow.&lt;/p&g
 &lt;/div&gt;
 </summary></entry><entry><title>October 17th, 2012 — Casablanca: C++ in the Cloud — Steve Gates</title><link href="http://nwcpp.org/october-2012.html" rel="alternate"></link><updated>2012-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-10-01:october-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;p&gt;October 17, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;, Microsoft Campus.
-&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building&amp;nbsp;41/1511–Townsend&lt;/a&gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 17, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;In this talk, I&amp;#8217;ll introduce the Microsoft incubation project
 &lt;a class="reference external" href="http://msdn.microsoft.com/en-us/devlabs/casablanca.aspx"&gt;Casablanca&lt;/a&gt;,
-the aim of which is to help C++ developers productively
-take advantage of cloud based computing without sacrificing performance.
+the aim of which is to help C++ developers
+productively take advantage of cloud-based computing without sacrificing performance.
 Through a series of libraries and tooling,
 Casablanca provides support for accessing Azure&amp;#8217;s platform as a service (PaaS) functionality
 and general purpose client and server &lt;span class="caps"&gt;REST&lt;/span&gt; communication.
@@ -77,8 +95,11 @@ In his free time, Steve is interested in growing vegetables and food&amp;nbsp;pr
 &lt;/div&gt;
 </summary></entry><entry><title>September 19th, 2012 — Functional Patterns in C++ — Bartosz Milewski</title><link href="http://nwcpp.org/september-2012.html" rel="alternate"></link><updated>2012-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-09-01:september-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;p&gt;September 19, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;, Microsoft Campus.
-&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building&amp;nbsp;41/1511–Townsend&lt;/a&gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;September 19, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -114,8 +135,11 @@ and at &lt;a class="reference external" href="http://fpcomplete.com/blog"&gt;htt
 &lt;/div&gt;
 </summary></entry><entry><title>August 2012: No Meeting</title><link href="http://nwcpp.org/august-2012.html" rel="alternate"></link><updated>2012-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-08-01:august-2012.html</id><summary type="html"></summary></entry><entry><title>July 2012: No Meeting</title><link href="http://nwcpp.org/july-2012.html" rel="alternate"></link><updated>2012-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-07-01:july-2012.html</id><summary type="html"></summary></entry><entry><title>June 20th, 2012 — LKRhash: The design of a scalable hashtable — George V. Reilly</title><link href="http://nwcpp.org/june-2012.html" rel="alternate"></link><updated>2012-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-06-01:june-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;p&gt;June 20th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;, Microsoft Campus.
-&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building&amp;nbsp;41/1511–Townsend&lt;/a&gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;June 20th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -123,8 +147,9 @@ and at &lt;a class="reference external" href="http://fpcomplete.com/blog"&gt;htt
 LKRhash was invented at Microsoft in 1997 by Paul Larson, Murali Krishnan, and George Reilly,
 and has been used in many Microsoft products.
 George will discuss the techniques that give LKRhash its performance,
-including&amp;nbsp;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Linear_hashing"&gt;linear hashing&lt;/a&gt;,
-cache-friendly data structures, and fine-grained&amp;nbsp;locking.&lt;/p&gt;
+including &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Linear_hashing"&gt;linear hashing&lt;/a&gt;,
+cache-friendly data structures,
+and fine-grained&amp;nbsp;locking.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -315,10 +340,13 @@ or read the &lt;a class="reference external" href="/static/talks/2012/parallel_t
 &lt;/div&gt;
 </summary></entry><entry><title>January 25th, 2012 — Finding Race Condition and Data Races Effectively — Madan Musuvathi</title><link href="http://nwcpp.org/january-2012.html" rel="alternate"></link><updated>2012-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-01-01:january-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;p&gt;January 25th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;, Microsoft Campus.
-&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+43"&gt;Building 43/1540–Adams&lt;/a&gt;
-(note room change).
-This meeting was originally scheduled for Jan 18th but postponed due to&amp;nbsp;snow.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 25th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+43"&gt;Building 43/1540–Adams&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;(note room change).&lt;/div&gt;
+&lt;div class="line"&gt;This meeting was originally scheduled for Jan 18th but postponed due to snow.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Come at 6:30pm for pizza supplied by
 &lt;a class="reference external" href="http://bit.ly/STBjobs"&gt;Microsoft Server and Tools&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
