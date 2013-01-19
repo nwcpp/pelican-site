@@ -50,3 +50,10 @@ He has been a software engineer for the past 13 years
 and formerly worked at Microsoft on the Windows Core Networking team.
 He also currently does research in procedural content generation
 and graphics algorithms as well as making computer games.
+
+Resources
+~~~~~~~~~
+
+`Video <http://vimeo.com/57720314>`_ 
+
+Slides, source code: coming soon.
