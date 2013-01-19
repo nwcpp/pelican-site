@@ -8,17 +8,17 @@ October 17th, 2012 — Casablanca: C++ in the Cloud — Steve Gates
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
-October 17, 2012 at 7:00 PM, Microsoft Campus.
-`Building 41/1511–Townsend
-<http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
+| October 17, 2012 at 7:00 PM
+| Microsoft Campus.
+| `Building 41/1511–Townsend <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
 
 Abstract
 ~~~~~~~~
 
 In this talk, I'll introduce the Microsoft incubation project
 `Casablanca <http://msdn.microsoft.com/en-us/devlabs/casablanca.aspx>`_,
-the aim of which is to help C++ developers productively
-take advantage of cloud based computing without sacrificing performance.
+the aim of which is to help C++ developers
+productively take advantage of cloud-based computing without sacrificing performance.
 Through a series of libraries and tooling,
 Casablanca provides support for accessing Azure's platform as a service (PaaS) functionality
 and general purpose client and server REST communication.

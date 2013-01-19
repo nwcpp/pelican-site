@@ -8,11 +8,11 @@ January 25th, 2012 — Finding Race Condition and Data Races Effectively — Ma
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
-January 25th, 2012 at 7:00 PM, Microsoft Campus.
-`Building 43/1540–Adams
-<http://www.bing.com/maps/?v=2&where1=Microsoft+Building+43>`_
-(note room change).
-This meeting was originally scheduled for Jan 18th but postponed due to snow.
+| January 25th, 2012 at 7:00 PM
+| Microsoft Campus.
+| `Building 43/1540–Adams <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+43>`_
+| (note room change).
+| This meeting was originally scheduled for Jan 18th but postponed due to snow.
 
 Come at 6:30pm for pizza supplied by 
 `Microsoft Server and Tools <http://bit.ly/STBjobs>`_.
