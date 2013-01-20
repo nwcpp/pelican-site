@@ -54,7 +54,7 @@ Social Media
 * Sign up for our
   `Announcements <http://groups.google.com/group/NwcppAnnounce>`_ mailing list.
   If you want to be more heavily involved,
-  please sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list.
+  please sign up for our `Volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list.
 * Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter.
 * Join our `Facebook group <http://www.facebook.com/group.php?gid=344125680930>`_.
 * Follow our `Google+ page <https://plus.google.com/104974891006782790528/>`_.
