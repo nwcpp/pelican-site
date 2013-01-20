@@ -5,6 +5,7 @@ AUTHOR = u'nwcpp'
 SITENAME = u"Northwest C++ Users’ Group"
 SITEURL = 'http://nwcpp.org'
 THEME = 'theme'
+CSS_FILE = 'nwcpp.css'
 
 TIMEZONE = 'America/Los_Angeles'
 
