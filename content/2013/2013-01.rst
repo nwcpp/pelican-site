@@ -25,7 +25,7 @@ Abstract
 A robust reflection/metadata system in C++ can be extremely powerful
 and has many applications, particularly in game programming.
 It can facilitate sophisticated debug output and logging,
-trivial factory implementation, 
+trivial factory implementation,
 automatic serialization and deserialization for any arbitrary object,
 automatic binding to a GUI system,
 and even automatic binding of objects and functions to a scripting language
@@ -33,7 +33,7 @@ and even automatic binding of objects and functions to a scripting language
 The typeinfo/RTTI system currently in C++ however
 is simply not up to this level of functionality,
 so a more sophisticated solution is necessary.
-In this talk, I will implement a simple, yet powerful, meta reflection system in C++, 
+In this talk, I will implement a simple, yet powerful, meta reflection system in C++,
 completely from scratch,
 and using test-driven development.
 I will also show how I leverage a similar system in my own game engine.
@@ -42,11 +42,12 @@ Finally, I promise there will be no more than three PowerPoint slides.
 Bio
 ~~~
 
-Jeff Tucker is a lecturer of Computer Science
+Jeff Tucker is a `lecturer of Computer Science
+<https://www.digipen.edu/academics/faculty/department-of-computer-science/#c31719>`_
 at DigiPen Institute of Technology,
-where he teaches classes on networking, databases, programming, and 
+where he teaches classes on networking, databases, programming, and
 software engineering.
-He has been a software engineer for the past 13 years 
+He has been a software engineer for the past 13 years
 and formerly worked at Microsoft on the Windows Core Networking team.
 He also currently does research in procedural content generation
 and graphics algorithms as well as making computer games.
@@ -54,6 +55,5 @@ and graphics algorithms as well as making computer games.
 Resources
 ~~~~~~~~~
 
-`Video <http://vimeo.com/57720314>`_ 
-
-Slides, source code: coming soon.
+`Video <http://vimeo.com/57720314>`_ |
+`Code </static/talks/2013/MetaReflectionDemo.zip>`_
