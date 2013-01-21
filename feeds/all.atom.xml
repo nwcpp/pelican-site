@@ -142,7 +142,7 @@ Finally, I promise there will be no more than three PowerPoint&amp;nbsp;slides.&
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Jeff Tucker is a lecturer of Computer Science
+&lt;p&gt;Jeff Tucker is a &lt;a class="reference external" href="https://www.digipen.edu/academics/faculty/department-of-computer-science/#c31719"&gt;lecturer of Computer Science&lt;/a&gt;
 at DigiPen Institute of Technology,
 where he teaches classes on networking, databases, programming, and
 software engineering.
@@ -153,8 +153,8 @@ and graphics algorithms as well as making computer&amp;nbsp;games.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/57720314"&gt;Video&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Slides, source code: coming&amp;nbsp;soon.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/57720314"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/static/talks/2013/MetaReflectionDemo.zip"&gt;Code&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Welcome to the Northwest C++ Users’ Group</title><link href="http://nwcpp.org/about.html" rel="alternate"></link><updated>2013-01-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-01:about.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users&amp;#8217; Group (&lt;span class="caps"&gt;NWCPP&lt;/span&gt;) is a group of professional developers and hobbyists
 living and working in the Pacific Northwest
