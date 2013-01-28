@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-01-03T00:00:00-08:00</updated><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><updated>2013-01-03T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:january-2013.html</id><summary type="html">&lt;p&gt;Please &lt;a class="reference external" href="http://nwcpp.org/camera-donations.html"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-01-27T00:00:00-08:00</updated><entry><title>February 20, 2013—Component Programming in D—Walter Bright</title><link href="http://nwcpp.org/february-2013.html" rel="alternate"></link><updated>2013-01-27T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-27:february-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;February 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The idea of writing reusable software is as old as programming,
+and is so well ingrained into programmers that we take it as an axiom.
+It&amp;#8217;s accepted, and non-controversial.
+Of course we all strive to produce reusable software;
+after all, we&amp;#8217;re professionals.
+But as I look back on 35 years of programming,
+I note with chagrin that practically none of the code I&amp;#8217;ve written
+has been usable in another project.
+I will &amp;#8216;reuse&amp;#8217; code by copy-paste-modify, but that&amp;#8217;s cheating,
+and even that doesn&amp;#8217;t happen too often.
+Somehow, I seemed to have missed the boat somewhere.
+I ask other long-time programmers,
+and they seem to have the same frustrating experience.
+This starts out, then, as a journey into figuring out what went wrong.
+Why does that hash table I wrote before not work in another project?
+Why is my macro expander not reusable?
+Why did I chuck all my carefully written &lt;span class="caps"&gt;UTF&lt;/span&gt; code?
+Why do I write symbol tables over (and over again)?
+Why is that disassembler I wrote completely unusable in another application?
+Why do I keep reinventing the&amp;nbsp;wheel?&lt;/p&gt;
+&lt;p&gt;This talk tries to answer that question,
+and delves into how component programming works
+and how it can address code&amp;nbsp;reusability.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.walterbright.com/"&gt;Walter Bright&lt;/a&gt;
+is the creator and first implementer of the D programming language
+and has implemented compilers for several other languages.
+He&amp;#8217;s an expert in all areas of compiler technology,
+including front ends, optimizers, code generation,
+interpreter engines, and runtime libraries.
+Walter regularly writes articles about compilers and programming,
+is known for engaging and informative presentations,
+and provides training in compiler development techniques.
+Many are surprised to discover that
+Walter is also the creator of the wargame Empire,
+which is still popular today over 30 years after its&amp;nbsp;debut.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><updated>2013-01-03T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:january-2013.html</id><summary type="html">&lt;p&gt;Please &lt;a class="reference external" href="http://nwcpp.org/camera-donations.html"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
