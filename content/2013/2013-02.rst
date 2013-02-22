@@ -13,8 +13,9 @@ Time and Location
 | `Building 40/1450–Steptoe <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
 | **Note: Cafeteria, not our normal meeting room**
 
-Want to `sponsor <|filename|/about/sponsors-howto.rst>`_ pizza?
-Please `contact the NWCPP board <|filename|/about/contact.rst>`_.
+Come at 6:45 for pizza
+`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`Amazon Web Services <http://http://aws.amazon.com/>`_.
 
 Abstract
 ~~~~~~~~
