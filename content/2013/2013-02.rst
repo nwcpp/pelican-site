@@ -59,3 +59,9 @@ and provides training in compiler development techniques.
 Many are surprised to discover that
 Walter is also the creator of the wargame Empire,
 which is still popular today over 30 years after its debut.
+
+Resources
+~~~~~~~~~
+
+`Video <http://www.youtube.com/watch?v=0cX1f41Fnkc>`_ |
+`Code </static/talks/2013/ComponentProgrammingInD.pdf>`_
