@@ -32,6 +32,7 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
           (u'Twitter', 'https://twitter.com/nwcpp'),
           (u'Facebook', 'https://www.facebook.com/groups/344125680930/'),
           (u'Google+', 'https://plus.google.com/104974891006782790528/posts'),
+          (u'YouTube', 'http://www.youtube.com/user/NWCPP'),
           (u'Vimeo', 'http://vimeo.com/nwcpp'),
           (u'LinkedIn', 'http://www.linkedin.com/groups?gid=2770106'),
          )
