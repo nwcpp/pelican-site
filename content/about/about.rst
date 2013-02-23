@@ -35,6 +35,7 @@ in providing the venue (since 2006) and occasional speakers.
 
 Past speakers at our meetings include
 `Andrei Alexandrescu <http://www.moderncppdesign.com>`_,
+`Walter Bright <http://www.walterbright.com/>`_,
 `Bruce Eckel <http://www.bruceeckel.com/>`_,
 `Stan Lippman <http://blogs.msdn.com/slippman>`_,
 `Steve McConnell <http://www.construx.com/>`_,
@@ -44,7 +45,9 @@ Past speakers at our meetings include
 `Jeffrey Richter <http://www.wintellect.com/CS/blogs/jeffreyr/default.aspx>`_,
 `Bobby Schmidt <http://www.linkedin.com/in/rhschmidt>`_,
 `Alan Shalloway <http://www.netobjectives.com/bio-alan-shalloway>`_,
-and `Herb Sutter <http://www.gotw.ca/>`_.
+`Herb Sutter <http://www.gotw.ca/>`_,
+and
+`Steve Yegge <http://steve-yegge.blogspot.com/>`_.
 
 .. _social-media:
 
