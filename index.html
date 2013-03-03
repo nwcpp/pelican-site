@@ -45,8 +45,72 @@
 
                             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="./february-2013.html">February 20, 2013—Component Programming in D—Walter&nbsp;Bright</a></h1> 
+                    <h1 class="entry-title"><a href="./march-2013.html">March 20, 2013—Profile Guided Optimization—Ankit&nbsp;Asthana</a></h1> 
                     <footer class="post-info">
+        <abbr class="published" title="2013-03-02T00:00:00">
+                Sat 02 March 2013
+        </abbr>
+
+                <address class="vcard author">
+                By <a class="url fn" href="./author/george-reilly.html">George Reilly</a>
+        </address>
+        <p>In <a href="./category/2013.html">2013</a>. </p>
+
+</footer><!-- /.post-info --><div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">March 20th, 2013 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Microsoft Campus.</div>
+<div class="line"><a class="reference external" href="http://www.bing.com/maps/?v=2&amp;where1=Microsoft+Building+41">Building 41/1511–Townsend</a></div>
+</div>
+<p>Come at 6:45 for pizza
+<a class="reference external" href="./sponsors-howto.html">sponsored</a> by
+<a class="reference external" href="http://www.mimicsimulation.com/company/careers/">Mimic Simulation</a>.</p>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>This talk focuses on one of critical optimization
+provided as a part of the <span class="caps">VC</span>++ compiler:
+‘Profile Guided Optimization (<span class="caps">PGO</span>)’.
+<span class="caps">PGO</span> in simple words is somewhat a major component
+of the secret sauce for high performant Microsoft internal products
+(Windows, Internet Explorer, Lync, Office, Surface and many others).
+To summarize, <span class="caps">PGO</span> helps in improving the runtime performance
+of the application by training it for a set of common user scenarios.
+This talk will go over a brief description of this optimization,
+the improvements that we have made recently
+followed by an exercise and demo on how <span class="caps">PGO</span> can be performed
+to performance boost your native&nbsp;application.</p>
+</div>
+<div class="section" id="bio">
+<h2>Bio</h2>
+<p>Ankit Asthana is a program manager for the backend C/C++ compiler.
+He is knowledgeable in compiler technologies
+(dynamic and static compilation, optimizer, code generation),
+distributed computing and server side development.
+He has in the past worked for <span class="caps">IBM</span> and Oracle Canada
+as a developer building Java 7 (hotspot) and telecommunication products.
+Ankit back in 2008 also published a book on C++ titled
+<a class="reference external" href="http://www.amazon.com/C-Beginners-Masters-Ankit-Asthana/dp/8122420249">C++ for Beginners to Masters</a>
+which sold over a few thousand&nbsp;copies.</p>
+</div>
+                </article>
+                            </aside><!-- /#featured -->
+                            <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+                                                
+
+                 
+                        <li><article class="hentry">    
+                <header>
+                    <h1><a href="./february-2013.html" rel="bookmark"
+                           title="Permalink to February 20, 2013—Component Programming in D—Walter Bright">February 20, 2013—Component Programming in D—Walter&nbsp;Bright</a></h1>
+                </header>
+                
+                <div class="entry-content">
+                <footer class="post-info">
         <abbr class="published" title="2013-01-27T00:00:00">
                 Sun 27 January 2013
         </abbr>
@@ -56,7 +120,7 @@
         </address>
         <p>In <a href="./category/2013.html">2013</a>. </p>
 
-</footer><!-- /.post-info --><div class="section" id="time-and-location">
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
 <div class="line">February 20th, 2013 at 7:00 <span class="caps">PM</span></div>
@@ -71,56 +135,11 @@
 <div class="section" id="abstract">
 <h2>Abstract</h2>
 <p>The idea of writing reusable software is as old as programming,
-and is so well ingrained into programmers that we take it as an axiom.
-It&#8217;s accepted, and non-controversial.
-Of course we all strive to produce reusable software;
-after all, we&#8217;re professionals.
-But as I look back on 35 years of programming,
-I note with chagrin that practically none of the code I&#8217;ve written
-has been usable in another project.
-I will &#8216;reuse&#8217; code by copy-paste-modify, but that&#8217;s cheating,
-and even that doesn&#8217;t happen too often.
-Somehow, I seemed to have missed the boat somewhere.
-I ask other long-time programmers,
-and they seem to have the same frustrating experience.
-This starts out, then, as a journey into figuring out what went wrong.
-Why does that hash table I wrote before not work in another project?
-Why is my macro expander not reusable?
-Why did I chuck all my carefully written <span class="caps">UTF</span> code?
-Why do I write symbol tables over (and over again)?
-Why is that disassembler I wrote completely unusable in another application?
-Why do I keep reinventing the&nbsp;wheel?</p>
-<p>This talk tries to answer that question,
-and delves into how component programming works
-and how it can address code&nbsp;reusability.</p>
-</div>
-<div class="section" id="bio">
-<h2>Bio</h2>
-<p><a class="reference external" href="http://www.walterbright.com/">Walter Bright</a>
-is the creator and first implementer of the D programming language
-and has implemented compilers for several other languages.
-He&#8217;s an expert in all areas of compiler technology,
-including front ends, optimizers, code generation,
-interpreter engines, and runtime libraries.
-Walter regularly writes articles about compilers and programming,
-is known for engaging and informative presentations,
-and provides training in compiler development techniques.
-Many are surprised to discover that
-Walter is also the creator of the wargame Empire,
-which is still popular today over 30 years after its&nbsp;debut.</p>
-</div>
-<div class="section" id="resources">
-<h2>Resources</h2>
-<p><a class="reference external" href="http://www.youtube.com/watch?v=0cX1f41Fnkc">Video</a> |
-<a class="reference external" href="/static/talks/2013/ComponentProgrammingInD.pdf">Code</a></p>
-</div>
-                </article>
-                            </aside><!-- /#featured -->
-                            <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-                                                
+and is so well ...</p></div>
+                <a class="readmore" href="./february-2013.html">read more</a>
+                                </div><!-- /.entry-content -->
+            </article></li>
+                            
 
                  
                         <li><article class="hentry">    
@@ -452,30 +471,6 @@ Through a series of ...</p></div>
 Less known are some very powerful abstract patterns used primarily in functional languages.
 I will show you how ...</p></div>
                 <a class="readmore" href="./september-2012.html">read more</a>
-                                </div><!-- /.entry-content -->
-            </article></li>
-                            
-
-                 
-                        <li><article class="hentry">    
-                <header>
-                    <h1><a href="./august-2012.html" rel="bookmark"
-                           title="Permalink to August 2012: No Meeting">August 2012: No&nbsp;Meeting</a></h1>
-                </header>
-                
-                <div class="entry-content">
-                <footer class="post-info">
-        <abbr class="published" title="2012-08-01T00:00:00">
-                Wed 01 August 2012
-        </abbr>
-
-                <address class="vcard author">
-                By <a class="url fn" href="./author/nwcpp.html">nwcpp</a>
-        </address>
-        <p>In <a href="./category/2012.html">2012</a>. </p>
-
-</footer><!-- /.post-info -->                
-                <a class="readmore" href="./august-2012.html">read more</a>
                                 </div><!-- /.entry-content -->
             </article></li>
                             </ol><!-- /#posts-list -->

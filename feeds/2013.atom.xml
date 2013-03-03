@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-01-27T00:00:00-08:00</updated><entry><title>February 20, 2013—Component Programming in D—Walter Bright</title><link href="http://nwcpp.org/february-2013.html" rel="alternate"></link><updated>2013-01-27T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-27:february-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-03-02T00:00:00-08:00</updated><entry><title>March 20, 2013—Profile Guided Optimization—Ankit Asthana</title><link href="http://nwcpp.org/march-2013.html" rel="alternate"></link><updated>2013-03-02T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-03-02:march-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.mimicsimulation.com/company/careers/"&gt;Mimic Simulation&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk focuses on one of critical optimization
+provided as a part of the &lt;span class="caps"&gt;VC&lt;/span&gt;++ compiler:
+‘Profile Guided Optimization (&lt;span class="caps"&gt;PGO&lt;/span&gt;)’.
+&lt;span class="caps"&gt;PGO&lt;/span&gt; in simple words is somewhat a major component
+of the secret sauce for high performant Microsoft internal products
+(Windows, Internet Explorer, Lync, Office, Surface and many others).
+To summarize, &lt;span class="caps"&gt;PGO&lt;/span&gt; helps in improving the runtime performance
+of the application by training it for a set of common user scenarios.
+This talk will go over a brief description of this optimization,
+the improvements that we have made recently
+followed by an exercise and demo on how &lt;span class="caps"&gt;PGO&lt;/span&gt; can be performed
+to performance boost your native&amp;nbsp;application.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Ankit Asthana is a program manager for the backend C/C++ compiler.
+He is knowledgeable in compiler technologies
+(dynamic and static compilation, optimizer, code generation),
+distributed computing and server side development.
+He has in the past worked for &lt;span class="caps"&gt;IBM&lt;/span&gt; and Oracle Canada
+as a developer building Java 7 (hotspot) and telecommunication products.
+Ankit back in 2008 also published a book on C++ titled
+&lt;a class="reference external" href="http://www.amazon.com/C-Beginners-Masters-Ankit-Asthana/dp/8122420249"&gt;C++ for Beginners to Masters&lt;/a&gt;
+which sold over a few thousand&amp;nbsp;copies.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>February 20, 2013—Component Programming in D—Walter Bright</title><link href="http://nwcpp.org/february-2013.html" rel="alternate"></link><updated>2013-01-27T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-27:february-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
