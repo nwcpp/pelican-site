@@ -14,7 +14,7 @@ Time and Location
 
 Come at 6:45 for pizza
 `sponsored <|filename|/about/sponsors-howto.rst>`_ by
-`Mimic Simulation <http://www.mimicsimulation.com/company/careers/>`_.
+Gordon Churchill.
 
 Abstract
 ~~~~~~~~
@@ -45,3 +45,9 @@ Ankit back in 2008 also published a book on C++ titled
 `C++ for Beginners to Masters
 <http://www.amazon.com/C-Beginners-Masters-Ankit-Asthana/dp/8122420249>`_
 which sold over a few thousand copies.
+
+Resources
+~~~~~~~~~
+
+`Video <http://www.youtube.com/watch?v=zEsdBcu4R00>`_ |
+`Code </static/talks/2013/ProfileGuidedOptimizationMarch21st.pptx>`_
