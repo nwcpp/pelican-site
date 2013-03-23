@@ -35,6 +35,8 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
           (u'YouTube', 'http://www.youtube.com/user/NWCPP'),
           (u'Vimeo', 'http://vimeo.com/nwcpp'),
           (u'LinkedIn', 'http://www.linkedin.com/groups?gid=2770106'),
+          (u'Speaker Deck', 'https://speakerdeck.com/nwcpp'),
+          (u'SlideShare', 'http://www.slideshare.net/nwcpp'),
          )
 
 DEFAULT_PAGINATION = 12
