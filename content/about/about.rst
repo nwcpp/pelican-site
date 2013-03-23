@@ -64,6 +64,8 @@ Social Media
 * Follow our `YouTube channel <http://www.youtube.com/user/NWCPP>`_.
 * Follow our `Vimeo channel <https://vimeo.com/nwcpp>`_.
 * Join our `LinkedIn group <http://www.linkedin.com/groups?gid=2770106>`_.
+* View slides at `Speaker Deck <https://speakerdeck.com/nwcpp>`_.
+* View slides at `SlideShare <http://www.slideshare.net/nwcpp>`_.
 
 Jobs
 ^^^^
