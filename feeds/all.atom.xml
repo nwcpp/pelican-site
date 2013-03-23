@@ -8,7 +8,7 @@
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
 &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
-&lt;a class="reference external" href="http://www.mimicsimulation.com/company/careers/"&gt;Mimic Simulation&lt;/a&gt;.&lt;/p&gt;
+Gordon&amp;nbsp;Churchill.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -36,6 +36,11 @@ as a developer building Java 7 (hotspot) and telecommunication products.
 Ankit back in 2008 also published a book on C++ titled
 &lt;a class="reference external" href="http://www.amazon.com/C-Beginners-Masters-Ankit-Asthana/dp/8122420249"&gt;C++ for Beginners to Masters&lt;/a&gt;
 which sold over a few thousand&amp;nbsp;copies.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=zEsdBcu4R00"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/static/talks/2013/ProfileGuidedOptimizationMarch21st.pptx"&gt;Code&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>February 20, 2013—Component Programming in D—Walter Bright</title><link href="http://nwcpp.org/february-2013.html" rel="alternate"></link><updated>2013-01-27T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-27:february-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
