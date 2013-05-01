@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-04-08T00:00:00-07:00</updated><entry><title>April 17, 2013—No Meeting</title><link href="http://nwcpp.org/april-2013.html" rel="alternate"></link><updated>2013-04-08T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-08:april-2013.html</id><summary type="html">&lt;p&gt;The April 2013 Meeting has been rescheduled to&amp;nbsp;July.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-04-30T00:00:00-07:00</updated><entry><title>May 15, 2013—C++ In the Post-PC Era—Diego Dagum</title><link href="http://nwcpp.org/may-2013.html" rel="alternate"></link><updated>2013-04-30T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-30:may-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;May 15th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Smartphones and tablets made personal computing more personal than ever.
+This post-&lt;span class="caps"&gt;PC&lt;/span&gt; era, with its new platforms and technologies,
+disrupted how developers design, build and deliver software.
+Moreover the fact the traditional &lt;span class="caps"&gt;PC&lt;/span&gt; renewal / replacement cycle is now longer
+confirms the notion that attention has shifted to the new form&amp;nbsp;factors.&lt;/p&gt;
+&lt;p&gt;What role do C++ and C++ developers play in this new&amp;nbsp;scenario?&lt;/p&gt;
+&lt;p&gt;In this talk, Diego reviews aspects that make C++ unique for &lt;span class="caps"&gt;ARM&lt;/span&gt;-based development,
+together with the many challenges and overlooked costs
+that C++ developers face when jumping in.
+Diego shows how the leading platforms enable C++ through technologies and tools.
+He also discusses the state-of-the art in cross-platform approaches with their pros and&amp;nbsp;cons.&lt;/p&gt;
+&lt;p&gt;You’ll leave this talk with a panorama of the many ways
+to use C++ in the post-&lt;span class="caps"&gt;PC&lt;/span&gt; world,
+what’s already achieved and what still needs to be&amp;nbsp;done.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.linkedin.com/in/diegum"&gt;Diego Dagum&lt;/a&gt;
+is a professional developer and architect.
+He got his first job in C-language back in 1991.
+The new century, though, caught him applying Java during the first dot-com wave.
+During the last decade, he focused more in the .&lt;span class="caps"&gt;NET&lt;/span&gt; platform.
+However, Diego’s all-times passion is C++,
+precisely because he considers that true developers don’t need to be&amp;nbsp;managed.&lt;/p&gt;
+&lt;p&gt;Beside software development,
+he writes the column “New Age C++” for
+&lt;a class="reference external" href="http://visualstudiomagazine.com/articles/list/new-age-c.aspx"&gt;Visual Studio Magazine&lt;/a&gt;.
+You can follow him on Twitter, &lt;a class="reference external" href="http://twitter.com/diedagum"&gt;&amp;#64;diedagum&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>April 17, 2013—No Meeting</title><link href="http://nwcpp.org/april-2013.html" rel="alternate"></link><updated>2013-04-08T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-08:april-2013.html</id><summary type="html">&lt;p&gt;The April 2013 Meeting has been rescheduled to&amp;nbsp;July.&lt;/p&gt;
 &lt;p&gt;The speaker is unavailable, board members are not available to record talks,
 and we had no pizza&amp;nbsp;provider.&lt;/p&gt;
 </summary></entry><entry><title>March 20, 2013—Profile Guided Optimization—Ankit Asthana</title><link href="http://nwcpp.org/march-2013.html" rel="alternate"></link><updated>2013-03-02T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-03-02:march-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
