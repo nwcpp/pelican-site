@@ -49,3 +49,9 @@ Beside software development,
 he writes the column “New Age C++” for
 `Visual Studio Magazine <http://visualstudiomagazine.com/articles/list/new-age-c.aspx>`_.
 You can follow him on Twitter, `@diedagum <http://twitter.com/diedagum>`_.
+
+Resources
+~~~~~~~~~
+
+`Video <http://www.youtube.com/watch?v=hg7HhkbbEz4>`_ |
+`Slides </static/talks/2013/Cpp-post-pc.pdf>`_

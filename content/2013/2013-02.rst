@@ -65,4 +65,4 @@ Resources
 ~~~~~~~~~
 
 `Video <http://www.youtube.com/watch?v=0cX1f41Fnkc>`_ |
-`Code </static/talks/2013/ComponentProgrammingInD.pdf>`_
+`Slides </static/talks/2013/ComponentProgrammingInD.pdf>`_

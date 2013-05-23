@@ -50,4 +50,4 @@ Resources
 ~~~~~~~~~
 
 `Video <http://www.youtube.com/watch?v=zEsdBcu4R00>`_ |
-`Code </static/talks/2013/ProfileGuidedOptimizationMarch21st.pptx>`_
+`Slides </static/talks/2013/ProfileGuidedOptimizationMarch21st.pptx>`_
