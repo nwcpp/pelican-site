@@ -1,0 +1,80 @@
+June 19, 2013—Multi-Platform Applications with Qt—Tuukka Ahoniemi
+#################################################################
+
+:date: 2013-05-29
+:slug: june-2013
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| June 19th, 2013 at 7:00 PM
+| Microsoft Campus.
+| `Building 41/1511–Townsend <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
+
+Come at 6:45 for pizza
+`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`Coverity <http://www.coverity.com/>`_.
+
+Abstract
+~~~~~~~~
+
+Software services often have a requirement
+to run on multiple different platforms and operating systems.
+A basic use case of a cross-platform software service
+is to target across different desktop operating systems
+with the same code base.
+`Qt <http://en.wikipedia.org/wiki/Qt_(framework)>`_
+is a cross-platform application and user interface framework for C++
+that allows you to use the same code and deploy to multiple platforms.
+Going across different desktop operating systems
+has been the backbone for Qt users for over 15 years.
+Qt is well adopted within the Linux world,
+especially within the KDE community
+together with which Qt started way back then,
+forming the basis for KDE applications.
+ 
+Since the past decade
+the way software is used has changed
+from just personal computers to mobile phones
+and then lately to tablets, cars
+and all kinds of other different connected embedded devices.
+Regardless of being the same application
+the user experience can vary a lot across these different platforms.
+This adds a lot to the requirements of writing these software services:
+How to target all these different platforms with different user experiences
+and still try to maintain a reasonable workload,
+or not to re-write the application in its entirety for all the platforms.
+ 
+Qt in year 2013 with Qt 5 introduces technical enablers
+for creating modern, truly multi-platform applications
+that are written with Qt/C++
+and besides desktop OSs can run on Android, iOS, BlackBerry 10, embedded Linux,
+Windows Embedded and various Real-Time Operating Systems.
+With Qt Quick, the UI layout can be easily customized
+to match the desired user experience on the various devices
+yet re-using the same application code.
+ 
+In this talk, I will introduce Qt 5
+and discuss approaches on how to create multi-platform C++ applications
+with Qt from a technical and architectural perspective.
+No previous Qt knowledge required.
+Live coding is going to take place.
+
+Bio
+~~~
+
+`Tuukka Ahoniemi <http://www.cs.tut.fi/~ahoniemt/>`_
+works as a technical product marketing manager for
+`Qt by Digia <http://qt.digia.com/>`_. 
+For the past years he has traveled around the world
+spreading the message of Qt supremacy
+in the form of having held over 100 Qt training courses,
+speaking in various conferences and trade shows.
+Still trying to “finish” his PhD
+he holds a M.Sc (tech) in Computer Sciences
+with the background in academic teaching of C++ programming and research around it.
+Still being passionate about teaching
+he is a certified Qt trainer,
+Nokia Developer Certified Trainer, Certified Qt Specialist
+and a Nokia Developer Champion.
