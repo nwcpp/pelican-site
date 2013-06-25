@@ -1,0 +1,56 @@
+July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers
+##################################################################################
+
+:date: 2013-06-25
+:slug: july-2013
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| July 17th, 2013 at 7:00 PM
+| Microsoft Campus.
+| `Building 40/1261–Constance <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_
+
+Abstract
+~~~~~~~~
+To help address the confusion that arises
+when rvalue references become lvalue references through reference collapsing,
+Scott Meyers introduced the notion of "universal references."
+In this presentation, he builds on this foundation
+by explaining that overloading functions on rvalue references is sensible and useful,
+while seemingly similar overloading on universal references
+yields confusing, unhelpful behavior.
+But what do you do when you want to write a perfect forwarding function
+(which requires universal references),
+yet you want to customize its behavior for certain types?
+If overloading is off the table, what's on?
+In this talk, Scott surveys a variety of options.
+
+Though Scott will give a one-slide overview
+of the idea behind universal references at the beginning of the presentation,
+attendees are encouraged to familiarize themselves with the notion
+in more detail prior to the talk.
+Links to written and video introductions to universal references are available
+`here <http://scottmeyers.blogspot.com/2012/11/universal-references-in-c11-now-online.html>`_.
+
+Bio
+~~~
+
+`Scott Meyers <http://aristeia.com/>`_ is one of the world's foremost authorities on C++.
+He wrote the best-selling *Effective C++* series
+(`Effective C++ <http://www.awl.com/cseng/titles/0-201-92488-9/>`_,
+`More Effective C++ <http://www.awl.com/cseng/titles/0-201-63371-X/>`_,
+and `Effective STL <http://www.awl.com/cseng/titles/0-201-74962-9/>`_);
+published and maintains the annotated training materials
+`Overview of the New C++ (C++11) <http://www.artima.com/shop/overview_of_the_new_cpp>`_
+and `Effective C++ in an Embedded Environment
+<http://www.artima.com/shop/effective_cpp_in_an_embedded_environment>`_;
+is Consulting Editor for Addison Wesley's
+`Effective Software Development Series
+<http://www.informit.com/imprint/series_detail.aspx?st=61267>`_,
+and, with Herb Sutter and Andrei Alexandrescu, is a principal in
+`C++ and Beyond <http://cppandbeyond.com/>`_.
+He has a Ph.D in Computer Science from Brown University.
+He's currently working on a new book, Effective C++11/14,
+which he hopes to publish in early 2014.
