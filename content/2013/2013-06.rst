@@ -78,3 +78,9 @@ Still being passionate about teaching
 he is a certified Qt trainer,
 Nokia Developer Certified Trainer, Certified Qt Specialist
 and a Nokia Developer Champion.
+
+Resources
+~~~~~~~~~
+
+`Video <http://www.youtube.com/watch?v=lCyfWRef5Oo>`_ |
+`Slides </static/talks/2013/Multi_platform_apps_with_Qt.pdf>`_
