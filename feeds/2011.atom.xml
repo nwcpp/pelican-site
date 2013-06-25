@@ -62,7 +62,7 @@ and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/32281584"&gt;Video&lt;/a&gt; and
-&lt;a class="reference external" href="/static/talks/2011/scientificcomputing.pdf"&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="/talks/2011/scientificcomputing.pdf"&gt;slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>October 19th, 2011 — Asynchronous Tasks in C++11 — Bartosz Milewski</title><link href="http://nwcpp.org/october-2011.html" rel="alternate"></link><updated>2011-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-10-01:october-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by
 &lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions, &lt;span class="caps"&gt;LLC&lt;/span&gt;&lt;/a&gt;!&lt;/p&gt;
@@ -90,7 +90,7 @@ and a series of &lt;a class="reference external" href="http://www.corensic.com/L
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/asynctasksinc11.pptx"&gt;Slides&lt;/a&gt; and
+&lt;p&gt;&lt;a class="reference external" href="/talks/2011/asynctasksinc11.pptx"&gt;Slides&lt;/a&gt; and
 &lt;a class="reference external" href="http://vimeo.com/30868784"&gt;video&lt;/a&gt; of Bartosz&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>September 21st, 2011 — Beyond Threads — Rick Molloy</title><link href="http://nwcpp.org/september-2011.html" rel="alternate"></link><updated>2011-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-09-01:september-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by &lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon Digital&lt;/a&gt;!&lt;/p&gt;
@@ -119,8 +119,8 @@ and a passion for performance when working on&amp;nbsp;Windows.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/beyondthreads-rickmolloy-2011-09-21.pptx"&gt;Slides&lt;/a&gt;,
-&lt;a class="reference external" href="/static/talks/2011/beyondthreads-code-rickmolloy-2011-09-21.zip"&gt;code&lt;/a&gt;,
+&lt;p&gt;&lt;a class="reference external" href="/talks/2011/beyondthreads-rickmolloy-2011-09-21.pptx"&gt;Slides&lt;/a&gt;,
+&lt;a class="reference external" href="/talks/2011/beyondthreads-code-rickmolloy-2011-09-21.zip"&gt;code&lt;/a&gt;,
 and &lt;a class="reference external" href="http://www.vimeo.com/29672551"&gt;video&lt;/a&gt; of Rick&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>August 2011: No Meeting</title><link href="http://nwcpp.org/august-2011.html" rel="alternate"></link><updated>2011-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-08-01:august-2011.html</id><summary type="html"></summary></entry><entry><title>July 2011: No Meeting</title><link href="http://nwcpp.org/july-2011.html" rel="alternate"></link><updated>2011-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-07-01:july-2011.html</id><summary type="html"></summary></entry><entry><title>June 15th, 2011 — Avoiding Over and Under Design — Alan Shalloway</title><link href="http://nwcpp.org/june-2011.html" rel="alternate"></link><updated>2011-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-01:june-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for the pizza provided by &lt;a class="reference external" href="http://www.corensic.com/"&gt;Corensic&lt;/a&gt;.&lt;/p&gt;
@@ -166,7 +166,7 @@ You can follow Alan on Twitter,
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/avoidingoverandunderdesigncpp.pdf"&gt;Slides&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2011/avoidingoverandunderdesigncpp.pdf"&gt;Slides&lt;/a&gt;
 and &lt;a class="reference external" href="http://vimeo.com/25209064"&gt;video&lt;/a&gt; of Alan&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>May 18th, 2011 — C++0x Lambda Functions — Herb Sutter</title><link href="http://nwcpp.org/may-2011.html" rel="alternate"></link><updated>2011-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-05-01:may-2011.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users Group&amp;#8217; would like to extend a very special
@@ -201,7 +201,7 @@ notably capture defaults and final&amp;nbsp;syntax.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/lambda.pdf"&gt;Slides&lt;/a&gt; and
+&lt;p&gt;&lt;a class="reference external" href="/talks/2011/lambda.pdf"&gt;Slides&lt;/a&gt; and
 &lt;a class="reference external" href="http://vimeo.com/23975522"&gt;video&lt;/a&gt; of Herb&amp;#8217;s standing-room-only&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd Moore</title><link href="http://nwcpp.org/april-2011.html" rel="alternate"></link><updated>2011-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-04-01:april-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by Amazon&amp;nbsp;Digital!&lt;/p&gt;
@@ -226,7 +226,7 @@ with his formal training in biological based artificial intelligence, electronic
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/c%20for%20microcontrollers.ppt"&gt;Slides&lt;/a&gt; and
+&lt;p&gt;&lt;a class="reference external" href="/talks/2011/c%20for%20microcontrollers.ppt"&gt;Slides&lt;/a&gt; and
 &lt;a class="reference external" href="http://vimeo.com/nwcpp/april2011"&gt;video&lt;/a&gt; of Lloyd&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>March 16th, 2011 — Debuggers and Mago — Aldo Nunez</title><link href="http://nwcpp.org/march-2011.html" rel="alternate"></link><updated>2011-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-03-01:march-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm to socialize and eat pizza provided by
@@ -253,7 +253,7 @@ and is interested in programming language tools and video&amp;nbsp;games.&lt;/p&
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;Aldo&amp;#8217;s &lt;a class="reference external" href="/static/talks/2011/mago%20debugger%20inner%20workings.pptx"&gt;slides&lt;/a&gt;.
+&lt;p&gt;Aldo&amp;#8217;s &lt;a class="reference external" href="/talks/2011/mago%20debugger%20inner%20workings.pptx"&gt;slides&lt;/a&gt;.
 Video, &lt;a class="reference external" href="http://vimeo.com/21323893"&gt;Part I&lt;/a&gt; and &lt;a class="reference external" href="http://vimeo.com/21605995"&gt;Part &lt;span class="caps"&gt;II&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>February 16th, 2011 — The Thought Process of Patterns: Essential Design Skills — Alan Shalloway</title><link href="http://nwcpp.org/february-2011.html" rel="alternate"></link><updated>2011-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-02-01:february-2011.html</id><summary type="html">&lt;p&gt;Pizza will be supplied by &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net&amp;nbsp;Objectives&lt;/a&gt;&lt;/p&gt;
@@ -345,6 +345,6 @@ He co-founded Corensic, a &lt;span class="caps"&gt;UW&lt;/span&gt;-&lt;span clas
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2011/nwcpp-jan2011.pdf"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2011/nwcpp-jan2011.pdf"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry></feed>

@@ -62,7 +62,7 @@ David has worked on voice recognition software, peer-to-peer applications,
 secure communications technologies, automated scripting utilities,
 generic programming techniques, and faxing applications.
 David currently serves as president for the Northwest C++ Users&amp;#8217;&amp;nbsp;Group.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2005/C__InTheTrenches.pdf"&gt;Click here&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/C__InTheTrenches.pdf"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>September 21st, 2005 — Two Views of C++ — Scott Meyers</title><link href="http://nwcpp.org/september-2005.html" rel="alternate"></link><updated>2005-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-09-01:september-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
@@ -114,7 +114,7 @@ and is a member of the advisory board for
 He also sits on technical advisory boards for several start-up companies.
 A programmer since 1972, he holds an &lt;span class="caps"&gt;M.S.&lt;/span&gt; in Computer Science from Stanford University
 and a Ph.D. from Brown&amp;nbsp;University.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2005/twoViews.pdf"&gt;Click here&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/twoViews.pdf"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>August 17th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2005.html" rel="alternate"></link><updated>2005-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-08-01:august-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
@@ -214,7 +214,7 @@ web development;
 and the Visual Studio user interface.
 He is a frequent speaker at TechEd and other conferences,
 and a regular contributor to online&amp;nbsp;communities.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2005/Secure_NWCPP_May_2005.ppt"&gt;Click here&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/Secure_NWCPP_May_2005.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric Niebler</title><link href="http://nwcpp.org/april-2005.html" rel="alternate"></link><updated>2005-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-04-01:april-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
@@ -242,7 +242,7 @@ He is a former employee of Microsoft Research and Visual C++,
 and his writings about C++ have been published
 in the &lt;em&gt;C/C++ User&amp;#8217;s Journal&lt;/em&gt; and &lt;em&gt;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Magazine&lt;/em&gt;.
 When he&amp;#8217;s not writing C++ for money, Eric has been known to write C++ for&amp;nbsp;fun.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2005/xpressive.ppt"&gt;Click here&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/xpressive.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>March 23rd, 2005 — Evolving C++ onto the CLI — Stan Lippman</title><link href="http://nwcpp.org/march-2005.html" rel="alternate"></link><updated>2005-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-03-01:march-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
@@ -277,7 +277,7 @@ and was a Software Technical Director on Fantasia 2000.
 He is the author of &lt;em&gt;C++ Primer, 4e&lt;/em&gt; (2005) and &lt;em&gt;Inside the C++ Object Model&lt;/em&gt;.
 For the last three years,
 he has been involved in the work to adapt C++ onto the &lt;span class="caps"&gt;CLI&lt;/span&gt;&amp;nbsp;environment.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2005/EvolvingC___Short.ppt"&gt;Click here&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/EvolvingC___Short.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>February 9th, 2005 — Dealing with Software Complexity — Bartosz Milewski</title><link href="http://nwcpp.org/february-2005.html" rel="alternate"></link><updated>2005-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-02-01:february-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
@@ -305,7 +305,7 @@ He founded &lt;a class="reference external" href="http://www.relisoft.com"&gt;Re
 to get first-hand experience in creating and maintaining
 a large software project—a version-control system called Code Co-op.
 Studying complexity is his main&amp;nbsp;interest.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2005/Complexity.ppt"&gt;Click here&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/Complexity.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>January 12th, 2005 — Lock-Free Programming — Andrei Alexandrescu</title><link href="http://nwcpp.org/january-2005.html" rel="alternate"></link><updated>2005-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-01-01:january-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
@@ -341,7 +341,7 @@ columnist for the &lt;em&gt;C++ Report&lt;/em&gt;, a guest speaker at numerous c
 and one of the featured instructors of
 &lt;a class="reference external" href="http://www.thecppseminar.com"&gt;The C++ Seminar&lt;/a&gt;).
 His website is &lt;a class="reference external" href="http://www.moderncppdesign.com"&gt;www.moderncppdesign.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="/static/talks/2005/Lock-Free.pdf"&gt;Click here&lt;/a&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/Lock-Free.pdf"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry></feed>

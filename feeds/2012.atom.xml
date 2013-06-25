@@ -52,7 +52,7 @@ Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt;&amp;nbsp;Fellow.&lt;/p&g
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/54243075"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/static/talks/2012/touchdevelop2012.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="/talks/2012/touchdevelop2012.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>October 17th, 2012 — Casablanca: C++ in the Cloud — Steve Gates</title><link href="http://nwcpp.org/october-2012.html" rel="alternate"></link><updated>2012-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-10-01:october-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
@@ -91,7 +91,7 @@ In his free time, Steve is interested in growing vegetables and food&amp;nbsp;pr
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://vimeo.com/51695153"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/static/talks/2012/casablanca.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="/talks/2012/casablanca.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>September 19th, 2012 — Functional Patterns in C++ — Bartosz Milewski</title><link href="http://nwcpp.org/september-2012.html" rel="alternate"></link><updated>2012-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-09-01:september-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
@@ -168,8 +168,8 @@ and the Secretary/Webmaster of &lt;a class="reference external" href="http://nwc
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://vimeo.com/44575071"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/static/talks/2012/lkrhash.pptx"&gt;Slides&lt;/a&gt; |
-&lt;a class="reference external" href="/static/talks/2012/hashtable.py.txt"&gt;Python hashtable simulator&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/lkrhash.pptx"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/hashtable.py.txt"&gt;Python hashtable simulator&lt;/a&gt; |
 &lt;a class="reference external" href="http://www.csd.uoc.gr/~hy460/pdf/Dynamic%20Hash%20Tables.pdf"&gt;Linear Hashing&amp;nbsp;paper&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>May 16th, 2012 — An Introduction to Microsoft’s C++ Accelerated Massive Parallelism – Don McCrady</title><link href="http://nwcpp.org/may-2012.html" rel="alternate"></link><updated>2012-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-05-01:may-2012.html</id><summary type="html">&lt;p&gt;Come at 6:45 for pizza sponsored by
@@ -199,7 +199,7 @@ In his spare time, he is an avid (if highly frustrated) astrophotographer and am
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/42419539"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/static/talks/2012/accelerated-massive-parallelism.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="/talks/2012/accelerated-massive-parallelism.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>April 18th, 2012 — Essential Skills for the Agile Developer – Alan Shalloway</title><link href="http://nwcpp.org/april-2012.html" rel="alternate"></link><updated>2012-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-04-01:april-2012.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -254,7 +254,7 @@ You can follow Alan on Twitter,
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/40726192"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/static/talks/2012/essential-skills-for-the-agile-developer-2012.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="/talks/2012/essential-skills-for-the-agile-developer-2012.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>March 21st, 2012 — A Multi-Core Algorithmic Differentiation Benchmarking System — Brad Bell</title><link href="http://nwcpp.org/march-2012.html" rel="alternate"></link><updated>2012-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-03-01:march-2012.html</id><summary type="html">&lt;p&gt;Please join us at 6:45 for pizza sponsored by
 &lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions&lt;/a&gt;.&lt;/p&gt;
@@ -296,7 +296,7 @@ nonlinear mixed effects estimation, optimization, and monte-carlo&amp;nbsp;simul
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/39008544"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/static/talks/2012/cppad-benchmark.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="/talks/2012/cppad-benchmark.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;CppAD pages are best viewed with Firefox, as they make heavy use of
 &lt;a class="reference external" href="http://en.wikipedia.org/wiki/MathML"&gt;MathML&lt;/a&gt; to display&amp;nbsp;math.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.coin-or.org/CppAD/"&gt;CppAD homepage&lt;/a&gt;
@@ -336,7 +336,7 @@ so they may take advantage of the multi-cores and GPUs on the&amp;nbsp;machine.&
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;Watch the &lt;a class="reference external" href="http://vimeo.com/36917212"&gt;video&lt;/a&gt; of Rahul&amp;#8217;s talk
-or read the &lt;a class="reference external" href="/static/talks/2012/parallel_talk_nwcpp_redux.pptx"&gt;slides&lt;/a&gt;.&lt;/p&gt;
+or read the &lt;a class="reference external" href="/talks/2012/parallel_talk_nwcpp_redux.pptx"&gt;slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>January 25th, 2012 — Finding Race Condition and Data Races Effectively — Madan Musuvathi</title><link href="http://nwcpp.org/january-2012.html" rel="alternate"></link><updated>2012-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-01-01:january-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
@@ -376,7 +376,7 @@ building analysis tools to improve the productivity of software developers and&a
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/35722387"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/static/talks/2012/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx"&gt;Slides&lt;/a&gt; |
 &lt;a class="reference external" href="http://research.microsoft.com/pubs/118655/asplos277-pct.pdf"&gt;Cuzz paper&lt;/a&gt; |
 &lt;a class="reference external" href="http://research.microsoft.com/pubs/139266/DataCollider%20-%20OSDI2010.pdf"&gt;DataCollider paper&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
