@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>August 11th, 2004 — “Square Table” Meeting — Open Discussion</title>
+        <title>July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers</title>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="http://nwcpp.org/theme/css/nwcpp.css" type="text/css" />
                 <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users’ Group Atom Feed" />
@@ -26,7 +26,7 @@
                                     <li ><a href="http://nwcpp.org/category/2001.html">2001</a></li>
                                     <li ><a href="http://nwcpp.org/category/2002.html">2002</a></li>
                                     <li ><a href="http://nwcpp.org/category/2003.html">2003</a></li>
-                                    <li class="active"><a href="http://nwcpp.org/category/2004.html">2004</a></li>
+                                    <li ><a href="http://nwcpp.org/category/2004.html">2004</a></li>
                                     <li ><a href="http://nwcpp.org/category/2005.html">2005</a></li>
                                     <li ><a href="http://nwcpp.org/category/2006.html">2006</a></li>
                                     <li ><a href="http://nwcpp.org/category/2007.html">2007</a></li>
@@ -35,7 +35,7 @@
                                     <li ><a href="http://nwcpp.org/category/2010.html">2010</a></li>
                                     <li ><a href="http://nwcpp.org/category/2011.html">2011</a></li>
                                     <li ><a href="http://nwcpp.org/category/2012.html">2012</a></li>
-                                    <li ><a href="http://nwcpp.org/category/2013.html">2013</a></li>
+                                    <li class="active"><a href="http://nwcpp.org/category/2013.html">2013</a></li>
                                     <li ><a href="http://nwcpp.org/category/about.html">about</a></li>
                                     <li ><a href="http://nwcpp.org/category/misc.html">misc</a></li>
                                 </ul></nav>
@@ -44,36 +44,67 @@
   <article>
     <header>
       <h1 class="entry-title">
-        <a href="http://nwcpp.org/august-2004.html" rel="bookmark"
-           title="Permalink to August 11th, 2004 — “Square Table” Meeting — Open Discussion">August 11th, 2004 — &#8220;Square Table&#8221; Meeting — Open&nbsp;Discussion</a></h1>
+        <a href="http://nwcpp.org/july-2013.html" rel="bookmark"
+           title="Permalink to July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers">July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott&nbsp;Meyers</a></h1>
           </header>
 
     <div class="entry-content">
       <footer class="post-info">
-        <abbr class="published" title="2004-08-01T00:00:00">
-                Sun 01 August 2004
+        <abbr class="published" title="2013-06-25T00:00:00">
+                Tue 25 June 2013
         </abbr>
 
                 <address class="vcard author">
-                By <a class="url fn" href="http://nwcpp.org/author/nwcpp.html">nwcpp</a>
+                By <a class="url fn" href="http://nwcpp.org/author/george-reilly.html">George Reilly</a>
         </address>
-        <p>In <a href="http://nwcpp.org/category/2004.html">2004</a>. </p>
+        <p>In <a href="http://nwcpp.org/category/2013.html">2013</a>. </p>
 
-</footer><!-- /.post-info -->      <div class="section" id="location">
-<h2>Location</h2>
+</footer><!-- /.post-info -->      <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line">Desert Fire</div>
-<div class="line">7211 166th Avenue Northeast</div>
-<div class="line">Redmond, Washington 98052</div>
+<div class="line">July 17th, 2013 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Microsoft Campus.</div>
+<div class="line"><a class="reference external" href="http://www.bing.com/maps/?v=2&amp;where1=Microsoft+Building+40">Building 40/1261–Constance</a></div>
 </div>
 </div>
-<div class="section" id="description">
-<h2>Description</h2>
-<p>This will be an informal discussion over dinner.
-The topic is just a suggestion,
-and we may find that we prefer to socialize rather than discuss anything in particular.
-Come ready to chat and get to know your fellow <span class="caps">NWCPP</span> members.
-If you plan on eating, please bring money for food and&nbsp;drinks.</p>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>To help address the confusion that arises
+when rvalue references become lvalue references through reference collapsing,
+Scott Meyers introduced the notion of &#8220;universal references.&#8221;
+In this presentation, he builds on this foundation
+by explaining that overloading functions on rvalue references is sensible and useful,
+while seemingly similar overloading on universal references
+yields confusing, unhelpful behavior.
+But what do you do when you want to write a perfect forwarding function
+(which requires universal references),
+yet you want to customize its behavior for certain types?
+If overloading is off the table, what&#8217;s on?
+In this talk, Scott surveys a variety of&nbsp;options.</p>
+<p>Though Scott will give a one-slide overview
+of the idea behind universal references at the beginning of the presentation,
+attendees are encouraged to familiarize themselves with the notion
+in more detail prior to the talk.
+Links to written and video introductions to universal references are available
+<a class="reference external" href="http://scottmeyers.blogspot.com/2012/11/universal-references-in-c11-now-online.html">here</a>.</p>
+</div>
+<div class="section" id="bio">
+<h2>Bio</h2>
+<p><a class="reference external" href="http://aristeia.com/">Scott Meyers</a> is one of the world&#8217;s foremost authorities on C++.
+He wrote the best-selling <em>Effective C++</em> series
+(<a class="reference external" href="http://www.awl.com/cseng/titles/0-201-92488-9/">Effective C++</a>,
+<a class="reference external" href="http://www.awl.com/cseng/titles/0-201-63371-X/">More Effective C++</a>,
+and <a class="reference external" href="http://www.awl.com/cseng/titles/0-201-74962-9/">Effective <span class="caps">STL</span></a>);
+published and maintains the annotated training materials
+<a class="reference external" href="http://www.artima.com/shop/overview_of_the_new_cpp">Overview of the New C++ (C++11)</a>
+and <a class="reference external" href="http://www.artima.com/shop/effective_cpp_in_an_embedded_environment">Effective C++ in an Embedded Environment</a>;
+is Consulting Editor for Addison Wesley&#8217;s
+<a class="reference external" href="http://www.informit.com/imprint/series_detail.aspx?st=61267">Effective Software Development Series</a>,
+and, with Herb Sutter and Andrei Alexandrescu, is a principal in
+<a class="reference external" href="http://cppandbeyond.com/">C++ and Beyond</a>.
+He has a Ph.D in Computer Science from Brown University.
+He&#8217;s currently working on a new book, Effective C++11/14,
+which he hopes to publish in early&nbsp;2014.</p>
 </div>
 
     </div><!-- /.entry-content -->

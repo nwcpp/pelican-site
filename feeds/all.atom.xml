@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-05-29T00:00:00-07:00</updated><entry><title>June 19, 2013—Multi-Platform Applications with Qt—Tuukka Ahoniemi</title><link href="http://nwcpp.org/june-2013.html" rel="alternate"></link><updated>2013-05-29T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-05-29:june-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-06-25T00:00:00-07:00</updated><entry><title>July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers</title><link href="http://nwcpp.org/july-2013.html" rel="alternate"></link><updated>2013-06-25T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-06-25:july-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;July 17th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1261–Constance&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;To help address the confusion that arises
+when rvalue references become lvalue references through reference collapsing,
+Scott Meyers introduced the notion of &amp;#8220;universal references.&amp;#8221;
+In this presentation, he builds on this foundation
+by explaining that overloading functions on rvalue references is sensible and useful,
+while seemingly similar overloading on universal references
+yields confusing, unhelpful behavior.
+But what do you do when you want to write a perfect forwarding function
+(which requires universal references),
+yet you want to customize its behavior for certain types?
+If overloading is off the table, what&amp;#8217;s on?
+In this talk, Scott surveys a variety of&amp;nbsp;options.&lt;/p&gt;
+&lt;p&gt;Though Scott will give a one-slide overview
+of the idea behind universal references at the beginning of the presentation,
+attendees are encouraged to familiarize themselves with the notion
+in more detail prior to the talk.
+Links to written and video introductions to universal references are available
+&lt;a class="reference external" href="http://scottmeyers.blogspot.com/2012/11/universal-references-in-c11-now-online.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://aristeia.com/"&gt;Scott Meyers&lt;/a&gt; is one of the world&amp;#8217;s foremost authorities on C++.
+He wrote the best-selling &lt;em&gt;Effective C++&lt;/em&gt; series
+(&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-92488-9/"&gt;Effective C++&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-63371-X/"&gt;More Effective C++&lt;/a&gt;,
+and &lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-74962-9/"&gt;Effective &lt;span class="caps"&gt;STL&lt;/span&gt;&lt;/a&gt;);
+published and maintains the annotated training materials
+&lt;a class="reference external" href="http://www.artima.com/shop/overview_of_the_new_cpp"&gt;Overview of the New C++ (C++11)&lt;/a&gt;
+and &lt;a class="reference external" href="http://www.artima.com/shop/effective_cpp_in_an_embedded_environment"&gt;Effective C++ in an Embedded Environment&lt;/a&gt;;
+is Consulting Editor for Addison Wesley&amp;#8217;s
+&lt;a class="reference external" href="http://www.informit.com/imprint/series_detail.aspx?st=61267"&gt;Effective Software Development Series&lt;/a&gt;,
+and, with Herb Sutter and Andrei Alexandrescu, is a principal in
+&lt;a class="reference external" href="http://cppandbeyond.com/"&gt;C++ and Beyond&lt;/a&gt;.
+He has a Ph.D in Computer Science from Brown University.
+He&amp;#8217;s currently working on a new book, Effective C++11/14,
+which he hopes to publish in early&amp;nbsp;2014.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>June 19, 2013—Multi-Platform Applications with Qt—Tuukka Ahoniemi</title><link href="http://nwcpp.org/june-2013.html" rel="alternate"></link><updated>2013-05-29T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-05-29:june-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;June 19th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -67,6 +114,11 @@ Still being passionate about teaching
 he is a certified Qt trainer,
 Nokia Developer Certified Trainer, Certified Qt Specialist
 and a Nokia Developer&amp;nbsp;Champion.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=lCyfWRef5Oo"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/static/talks/2013/Multi_platform_apps_with_Qt.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>May 15, 2013—C++ In the Post-PC Era—Diego Dagum</title><link href="http://nwcpp.org/may-2013.html" rel="alternate"></link><updated>2013-04-30T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-30:may-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
@@ -220,7 +272,7 @@ which is still popular today over 30 years after its&amp;nbsp;debut.&lt;/p&gt;
 from an instance of the &lt;a class="reference external" href="http://www.joomla.org/"&gt;Joomla&lt;/a&gt; &lt;span class="caps"&gt;CMS&lt;/span&gt; at &lt;a class="reference external" href="http://www.justhost.com/"&gt;Just Host&lt;/a&gt;
 to a static website generated by &lt;a class="reference external" href="http://blog.getpelican.com/"&gt;Pelican&lt;/a&gt; at &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="figure"&gt;
-&lt;a class="reference external image-reference" href="http://nwcpp.org/static/images/joomla-screenshot.png"&gt;&lt;img alt="Old Joomla-based website" src="http://nwcpp.org/static/images/joomla-screenshot.png" style="width: 500px;" /&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://nwcpp.org/images/joomla-screenshot.png"&gt;&lt;img alt="Old Joomla-based website" src="http://nwcpp.org/images/joomla-screenshot.png" style="width: 500px;" /&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;Old Joomla-based&amp;nbsp;website&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="the-background"&gt;
@@ -468,7 +520,7 @@ Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsor
 .left-float  {float: left}
 .right-float {float: right; padding-left: 5em; }
 &lt;/style&gt;&lt;div class="figure"&gt;
-&lt;img alt="Donation Thermometer" class="right-float" src="http://nwcpp.org/static/images/thermometer.jpg" /&gt;
+&lt;img alt="Donation Thermometer" class="right-float" src="http://nwcpp.org/images/thermometer.jpg" /&gt;
 &lt;/div&gt;
 &lt;p&gt;The bulk of the feedback we have received over the last year
 on the videotaping of our meetings
