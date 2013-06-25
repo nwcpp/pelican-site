@@ -33,4 +33,4 @@ useful programming tools.
 Resources
 ~~~~~~~~~
 
-`Click here </static/talks/2002/VC7Demo.zip>`_ to download the source code from the presentation
+`Click here </talks/2002/VC7Demo.zip>`_ to download the source code from the presentation

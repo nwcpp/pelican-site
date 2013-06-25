@@ -39,7 +39,7 @@ He actively works on the design of the D language.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2008/C___Memory_Model.pdf>`_
+Download the `slides </talks/2008/C___Memory_Model.pdf>`_
 of the presentation.
 
 Watch the `video <http://video.google.com/videoplay?docid=1457624331939812949>`_

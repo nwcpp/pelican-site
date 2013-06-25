@@ -44,4 +44,4 @@ He actively works on the design of the D language.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2008/Memory_Fences.pdf>`_ of the presentation.
+Download the `slides </talks/2008/Memory_Fences.pdf>`_ of the presentation.

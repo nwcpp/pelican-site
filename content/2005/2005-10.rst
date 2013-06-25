@@ -33,5 +33,5 @@ secure communications technologies, automated scripting utilities,
 generic programming techniques, and faxing applications.
 David currently serves as president for the Northwest C++ Users' Group.
 
-`Click here </static/talks/2005/C__InTheTrenches.pdf>`_
+`Click here </talks/2005/C__InTheTrenches.pdf>`_
 to download the slides from the presentation

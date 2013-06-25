@@ -53,7 +53,7 @@ His web site is `aristeia.com <http://aristeia.com>`_. 
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2008/code_features.pdf>`_
+Download the `slides </talks/2008/code_features.pdf>`_
 from the presentation.
 
 Watch the `video <http://video.google.com/videoplay?docid=1147577226734217890>`_

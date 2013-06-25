@@ -47,5 +47,5 @@ and blogging about F# at
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2008/Functional_Programming_with_F.pdf>`_
+Download the `slides </talks/2008/Functional_Programming_with_F.pdf>`_
 from the presentation.

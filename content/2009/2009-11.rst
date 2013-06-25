@@ -40,4 +40,4 @@ to temporarily escape the workaday worries of the world.
 Resources
 ~~~~~~~~~
 
-`Slides </static/talks/2009/NWCPP-D-meta-baxter-11-18-2009.pptx>`_
+`Slides </talks/2009/NWCPP-D-meta-baxter-11-18-2009.pptx>`_

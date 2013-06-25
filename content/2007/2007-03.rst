@@ -45,4 +45,4 @@ He's also the author of *C++ in Action*, Addison-Wesley, 2001.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2007/Bartosz/index.html>`_ from the presentation.
+Download the `slides </talks/2007/Bartosz/index.html>`_ from the presentation.

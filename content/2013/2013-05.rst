@@ -54,4 +54,4 @@ Resources
 ~~~~~~~~~
 
 `Video <http://www.youtube.com/watch?v=hg7HhkbbEz4>`_ |
-`Slides </static/talks/2013/Cpp-post-pc.pdf>`_
+`Slides </talks/2013/Cpp-post-pc.pdf>`_

@@ -31,5 +31,5 @@ with his formal training in biological based artificial intelligence, electronic
 Resources
 ~~~~~~~~~
 
-`Slides </static/talks/2011/c%20for%20microcontrollers.ppt>`_ and
+`Slides </talks/2011/c%20for%20microcontrollers.ppt>`_ and
 `video <http://vimeo.com/nwcpp/april2011>`_ of Lloyd's talk.

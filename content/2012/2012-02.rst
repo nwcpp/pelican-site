@@ -43,4 +43,4 @@ Resources
 ~~~~~~~~~
 
 Watch the `video <http://vimeo.com/36917212>`_ of Rahul's talk
-or read the `slides </static/talks/2012/parallel_talk_nwcpp_redux.pptx>`_.
+or read the `slides </talks/2012/parallel_talk_nwcpp_redux.pptx>`_.

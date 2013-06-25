@@ -51,5 +51,5 @@ He's also pursuing a career as world-famous groundskeeper
 for the Eastlake Little League Dodgers of which his son is a starting pitcher.
 Go blue!
 
-`Click here </static/talks/2004/ImprovingTestabilityNWCPP.ppt>`_
+`Click here </talks/2004/ImprovingTestabilityNWCPP.ppt>`_
 to download the slides from the presentation

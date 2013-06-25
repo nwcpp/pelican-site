@@ -38,8 +38,8 @@ Native of Estonia, Artur lives in Redmond with his wife and son.
 Resources
 ~~~~~~~~~
 
--  Download the `slides </static/talks/2009/Axum_Presentation.pptx>`_
-   and `source code </static/talks/2009/Axum_Presentation_code.zip>`_
+-  Download the `slides </talks/2009/Axum_Presentation.pptx>`_
+   and `source code </talks/2009/Axum_Presentation_code.zip>`_
    from the presentation.
 -  Watch the `video <http://www.vimeo.com/4438927>`_ for a video of the presentation.
 -  `Axum is now publicly available!

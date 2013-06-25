@@ -46,6 +46,6 @@ Resources
 ~~~~~~~~~
 
 `Video <http://vimeo.com/35722387>`_ \|
-`Slides </static/talks/2012/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx>`_ \|
+`Slides </talks/2012/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx>`_ \|
 `Cuzz paper <http://research.microsoft.com/pubs/118655/asplos277-pct.pdf>`_ \|
 `DataCollider paper <http://research.microsoft.com/pubs/139266/DataCollider%20-%20OSDI2010.pdf>`_.

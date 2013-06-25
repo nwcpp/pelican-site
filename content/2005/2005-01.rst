@@ -39,5 +39,5 @@ and one of the featured instructors of
 `The C++ Seminar <http://www.thecppseminar.com>`_).
 His website is `www.moderncppdesign.com <http://www.moderncppdesign.com>`_.
 
-`Click here </static/talks/2005/Lock-Free.pdf>`_
+`Click here </talks/2005/Lock-Free.pdf>`_
 to download the slides from the presentation

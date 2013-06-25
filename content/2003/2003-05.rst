@@ -37,5 +37,5 @@ His interests include data structures and algorithms; compiler,
 language, and library design; data serialization and persistence; and
 pattern matching.
 
-`Click here </static/talks/2003/Slides200305.ppt>`_
+`Click here </talks/2003/Slides200305.ppt>`_
 to download the slides from the presentation

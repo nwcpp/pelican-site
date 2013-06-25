@@ -45,4 +45,4 @@ Resources
 ~~~~~~~~~
 
 `Video <https://vimeo.com/51695153>`_ \|
-`Slides </static/talks/2012/casablanca.pptx>`_
+`Slides </talks/2012/casablanca.pptx>`_

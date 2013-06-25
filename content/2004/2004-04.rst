@@ -45,5 +45,5 @@ He also sits on technical advisory boards for several start-up companies.
 A programmer since 1972, he holds an M.S. in Computer Science from Stanford University
 and a Ph.D. from Brown University.
 
-`Click here </static/talks/2004/DCLP_notes.pdf>`_
+`Click here </talks/2004/DCLP_notes.pdf>`_
 to download the slides from the presentation

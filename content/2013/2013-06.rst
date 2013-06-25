@@ -83,4 +83,4 @@ Resources
 ~~~~~~~~~
 
 `Video <http://www.youtube.com/watch?v=lCyfWRef5Oo>`_ |
-`Slides </static/talks/2013/Multi_platform_apps_with_Qt.pdf>`_
+`Slides </talks/2013/Multi_platform_apps_with_Qt.pdf>`_

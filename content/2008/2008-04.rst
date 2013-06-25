@@ -47,5 +47,5 @@ an open source library which brings the Logic Paradigm to C++.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2008/Roshan_Naik_Programming_Declaratively_In_C___using_the_Logic_Paradigm.pptx>`_
+Download the `slides </talks/2008/Roshan_Naik_Programming_Declaratively_In_C___using_the_Logic_Paradigm.pptx>`_
 from the presentation.

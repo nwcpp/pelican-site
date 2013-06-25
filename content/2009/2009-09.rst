@@ -43,5 +43,5 @@ He regularly blogs about concurrency at
 Resources
 ~~~~~~~~~
 
-`Slides </static/talks/2009/Ownership_Systems_against_Data_Races.pdf>`_ |
+`Slides </talks/2009/Ownership_Systems_against_Data_Races.pdf>`_ |
 `Video <http://www.vimeo.com/6689999>`_

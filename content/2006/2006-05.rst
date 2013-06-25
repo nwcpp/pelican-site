@@ -49,5 +49,5 @@ His website is `www.erdani.org <http://www.erdani.org>`_.
 Resources
 ~~~~~~~~~
 
-`Click here </static/talks/2006/The_Power_of_None.ppt>`_
+`Click here </talks/2006/The_Power_of_None.ppt>`_
 to download the slides from the presentation

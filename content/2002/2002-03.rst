@@ -36,5 +36,5 @@ been dot-bombed and is looking for C++ and .NET work in greater Seattle.
 Resources
 ~~~~~~~~~
 
-`Click here </static/talks/2002/Meeting_2002-03.zip>`_
+`Click here </talks/2002/Meeting_2002-03.zip>`_
 to download the slides and source code from the presentation

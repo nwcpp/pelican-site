@@ -44,5 +44,5 @@ He regularly blogs about programming languages and concurrency at
 Resources
 ~~~~~~~~~
 
-`Slides </static/talks/2009/Haskell_and_C___Template.pdf>`_ |
+`Slides </talks/2009/Haskell_and_C___Template.pdf>`_ |
 `Video <http://www.vimeo.com/7211030>`_

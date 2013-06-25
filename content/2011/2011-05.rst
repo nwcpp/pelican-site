@@ -45,5 +45,5 @@ notably capture defaults and final syntax.
 Resources
 ~~~~~~~~~
 
-`Slides </static/talks/2011/lambda.pdf>`_ and
+`Slides </talks/2011/lambda.pdf>`_ and
 `video <http://vimeo.com/23975522>`_ of Herb's standing-room-only talk.

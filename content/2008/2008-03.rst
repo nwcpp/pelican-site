@@ -55,5 +55,5 @@ and also because it sounds totally impossible.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2008/nwcpp-2008.03.19.pdf>`_
+Download the `slides </talks/2008/nwcpp-2008.03.19.pdf>`_
 from the presentation.

@@ -44,5 +44,5 @@ Studying complexity is his main interest.
 Resources
 ~~~~~~~~~
 
-`Click here </static/talks/2006/Customization_Points_and_Polymorphism.ppt>`_
+`Click here </talks/2006/Customization_Points_and_Polymorphism.ppt>`_
 to download the slides from the presentation

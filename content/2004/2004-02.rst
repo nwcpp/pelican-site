@@ -55,5 +55,5 @@ When I’m not complaining to the newbies
 about how fun this group was before they got here,
 I’m trying to help write a kick-ass native debugger for devices.
 
-`Click here </static/talks/2004/C_UserGroup-_Developing_for_Devices_Using_Native_C___with_Visual_Studio__With_Notes_.ppt>`_
+`Click here </talks/2004/C_UserGroup-_Developing_for_Devices_Using_Native_C___with_Visual_Studio__With_Notes_.ppt>`_
 to download the slides and source code from Nishan Jebanasam's presentation

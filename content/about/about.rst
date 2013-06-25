@@ -21,7 +21,7 @@ Meetings
 ~~~~~~~~
 
 Our meetings are held at the
-`main Microsoft campus </static/images/MicrosoftMainCampusMap.jpg>`_,
+`main Microsoft campus </images/MicrosoftMainCampusMap.jpg>`_,
 One Microsoft Way, Redmond, WA 98052,
 in `Building 41/1511–Townsend
 <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_,

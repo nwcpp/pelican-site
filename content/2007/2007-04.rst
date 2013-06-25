@@ -57,7 +57,7 @@ His web site is `aristeia.com <http://aristeia.com>`_. 
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2007/redcode_-_updated.pdf>`_ from the presentation.
+Download the `slides </talks/2007/redcode_-_updated.pdf>`_ from the presentation.
 
 Watch the `video <http://video.google.com/videoplay?docid=-4728145737208991310&hl=en>`_
 of the presentation.

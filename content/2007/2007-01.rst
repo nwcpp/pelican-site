@@ -34,7 +34,7 @@ is an ideal background for improving on the language.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2007/AdvancedD.html>`_ from the presentation.
+Download the `slides </talks/2007/AdvancedD.html>`_ from the presentation.
 
 Watch the `video <http://video.google.com/videoplay?docid=-7073020265668105471>`_
 of the presentation.

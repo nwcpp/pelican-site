@@ -48,4 +48,4 @@ He co-founded Corensic, a UW-CSE spin-off company, where he is a part-time consu
 Resources
 ~~~~~~~~~
 
-`Slides </static/talks/2011/nwcpp-jan2011.pdf>`_.
+`Slides </talks/2011/nwcpp-jan2011.pdf>`_.

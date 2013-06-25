@@ -31,5 +31,5 @@ to get first-hand experience in creating and maintaining
 a large software project—a version-control system called Code Co-op.
 Studying complexity is his main interest.
 
-`Click here </static/talks/2005/Complexity.ppt>`_
+`Click here </talks/2005/Complexity.ppt>`_
 to download the slides from the presentation

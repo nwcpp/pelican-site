@@ -40,7 +40,7 @@ and wasting time in front of a variety of video games.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2006/ehc.ppt>`_ from the presentation.
+Download the `slides </talks/2006/ehc.ppt>`_ from the presentation.
 
 Watch a `video <http://video.google.com/videoplay?docid=9169999597330548749&hl=en>`_
 of the presentation.

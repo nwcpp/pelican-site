@@ -60,4 +60,4 @@ and has been writing them ever since.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2009/accu.pdf>`_ from the presentation.
+Download the `slides </talks/2009/accu.pdf>`_ from the presentation.

@@ -53,5 +53,5 @@ For more details, go to
 and `http://eis.apl.washington.edu/projects/projects.php
 <http://eis.apl.washington.edu/projects/projects.php>`_.
 
-`Click here </static/talks/2004/GNU_Autotools_040908.ppt>`_
+`Click here </talks/2004/GNU_Autotools_040908.ppt>`_
 to download the slides from the presentation

@@ -35,6 +35,6 @@ and was a Research Assistant at Technische Universtitaet Berlin in Germany.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2009/NWCPP-CCR.pptx>`_
-and `source code </static/talks/2009/NWCPPDemos.zip>`_
+Download the `slides </talks/2009/NWCPP-CCR.pptx>`_
+and `source code </talks/2009/NWCPPDemos.zip>`_
 from the presentation.

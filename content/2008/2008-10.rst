@@ -35,4 +35,4 @@ only a few of which are not him.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2008/concepts-intro.ppt>`_ from the presentation.
+Download the `slides </talks/2008/concepts-intro.ppt>`_ from the presentation.

@@ -29,7 +29,7 @@ now in progress to exploit increasingly parallel hardware.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2006/The_Concur_Project_-_NWCPP.pdf>`_
+Download the `slides </talks/2006/The_Concur_Project_-_NWCPP.pdf>`_
 from the presentation.
 
 Watch a `video <http://video.google.com/videoplay?docid=7625918717318948700&q=herb+sutter>`_

@@ -55,5 +55,5 @@ and the Visual Studio user interface.
 He is a frequent speaker at TechEd and other conferences,
 and a regular contributor to online communities.
 
-`Click here </static/talks/2005/Secure_NWCPP_May_2005.ppt>`_
+`Click here </talks/2005/Secure_NWCPP_May_2005.ppt>`_
 to download the slides from the presentation

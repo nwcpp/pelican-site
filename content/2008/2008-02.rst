@@ -58,7 +58,7 @@ His web site is `http://erdani.com/ <http://erdani.com/>`_.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2008/memory-allocation.screen.pdf>`_
+Download the `slides </talks/2008/memory-allocation.screen.pdf>`_
 from the presentation.
 
 Watch the `video <http://video.google.com/videoplay?docid=8718136231005757634>`_

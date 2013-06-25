@@ -36,5 +36,5 @@ Reliable Software (`www.relisoft.com <http://www.relisoft.com>`_), a
 Seattle-based company that makes a peer-to-peer version control system,
 Code Co-op. He was one of the architects of the Microsoft Index Server.
 
-`Click here </static/talks/2003/Bartosz.zip>`_
+`Click here </talks/2003/Bartosz.zip>`_
 to download the source code and slides from the presentation

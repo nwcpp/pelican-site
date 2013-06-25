@@ -67,5 +67,5 @@ Please note that in order to accommodate the increased attendance, this
 meeting will be held on **Monday** at the **Overlake Medical Conference
 Center** rather than our usual Wednesday meeting at Avaya.
 
-`Click here </static/talks/2004/CodeComplete-Keynote.pdf>`_
+`Click here </talks/2004/CodeComplete-Keynote.pdf>`_
 to download the slides from the presentation

@@ -39,5 +39,5 @@ He is the author of *C++ Primer, 4e* (2005) and *Inside the C++ Object Model*.
 For the last three years,
 he has been involved in the work to adapt C++ onto the CLI environment.
 
-`Click here </static/talks/2005/EvolvingC___Short.ppt>`_
+`Click here </talks/2005/EvolvingC___Short.ppt>`_
 to download the slides from the presentation

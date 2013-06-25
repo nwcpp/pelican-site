@@ -57,5 +57,5 @@ Please note that in order to accommodate the increased attendance, this
 meeting will be held at the **Microsoft Corporation** rather than our
 usual meeting at Avaya.
 
-`Click here </static/talks/2003/HerbSutterCLI.pdf>`_
+`Click here </talks/2003/HerbSutterCLI.pdf>`_
 to download the source code and slides from the presentation

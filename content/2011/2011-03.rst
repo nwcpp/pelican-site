@@ -34,5 +34,5 @@ and is interested in programming language tools and video games.
 Resources
 ~~~~~~~~~
 
-Aldo's `slides </static/talks/2011/mago%20debugger%20inner%20workings.pptx>`_.
+Aldo's `slides </talks/2011/mago%20debugger%20inner%20workings.pptx>`_.
 Video, `Part I <http://vimeo.com/21323893>`_ and `Part II <http://vimeo.com/21605995>`_.

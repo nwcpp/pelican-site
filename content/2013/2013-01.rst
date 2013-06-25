@@ -56,4 +56,4 @@ Resources
 ~~~~~~~~~
 
 `Video <http://vimeo.com/57720314>`_ |
-`Code </static/talks/2013/MetaReflectionDemo.zip>`_
+`Code </talks/2013/MetaReflectionDemo.zip>`_

@@ -39,5 +39,5 @@ dates back to his days as a graduate student at MIT in the late 1980's.
 Resources
 ~~~~~~~~~
 
-`Click here </static/talks/2006/Ayers_NWCPP_Talk.ppt>`_
+`Click here </talks/2006/Ayers_NWCPP_Talk.ppt>`_
 to download the slides from the presentation

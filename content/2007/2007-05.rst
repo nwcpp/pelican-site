@@ -56,4 +56,4 @@ blogs infrequently, and is a veteran of Amazon.com and RealNetworks.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2007/anatomy_of_zero.pdf>`_ from the presentation.
+Download the `slides </talks/2007/anatomy_of_zero.pdf>`_ from the presentation.

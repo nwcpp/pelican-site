@@ -50,7 +50,7 @@ now in progress to exploit increasingly parallel hardware
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2007/Machine_Architecture_-_NWCPP.pdf>`_
+Download the `slides </talks/2007/Machine_Architecture_-_NWCPP.pdf>`_
 from the presentation.
 
 Watch the `video <http://video.google.com/videoplay?docid=-4714369049736584770>`_

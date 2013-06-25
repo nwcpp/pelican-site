@@ -36,4 +36,4 @@ There will be door prizes—3 copies of Andrei Alexandrescu's book,
 Resources
 ~~~~~~~~~
 
-Here are `Walter's slides </static/talks/2010/nwcpp-2010-09.pdf>`_.
+Here are `Walter's slides </talks/2010/nwcpp-2010-09.pdf>`_.

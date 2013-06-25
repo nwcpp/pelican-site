@@ -45,6 +45,6 @@ Resources
 ~~~~~~~~~
 
 `Video <https://vimeo.com/44575071>`_ \|
-`Slides </static/talks/2012/lkrhash.pptx>`_ \|
-`Python hashtable simulator </static/talks/2012/hashtable.py.txt>`_ \|
+`Slides </talks/2012/lkrhash.pptx>`_ \|
+`Python hashtable simulator </talks/2012/hashtable.py.txt>`_ \|
 `Linear Hashing paper <http://www.csd.uoc.gr/~hy460/pdf/Dynamic%20Hash%20Tables.pdf>`_

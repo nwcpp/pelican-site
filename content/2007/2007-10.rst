@@ -42,4 +42,4 @@ is an ideal background for improving on the language.
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2007/FunctionHijack.html>`_ from the presentation.
+Download the `slides </talks/2007/FunctionHijack.html>`_ from the presentation.

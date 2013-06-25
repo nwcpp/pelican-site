@@ -37,7 +37,7 @@ exploring background processes critical to software design. 
 Resources
 ~~~~~~~~~
 
-Download the `slides </static/talks/2006/NWCPP1106.ppt>`_ from the presentation.
+Download the `slides </talks/2006/NWCPP1106.ppt>`_ from the presentation.
 
 Watch a `video <http://video.google.com/videoplay?docid=-3746958180505089789&q=nwcpp>`_
 of the presentation.

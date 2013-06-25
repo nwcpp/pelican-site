@@ -41,5 +41,5 @@ His website is `www.erdani.com <http://www.erdani.com>`_.
 Resources
 ~~~~~~~~~
 
-`Click here </static/talks/2006/ChromedMetal.ppt>`_
+`Click here </talks/2006/ChromedMetal.ppt>`_
 to download the slides from the presentation

@@ -39,5 +39,5 @@ peer-to-peer applications. David currently works as a Software Engineer
 at Orrtax Software in Bellevue, Washington and serves as president for
 the Northwest C++ Users Group.
 
-`Click here </static/talks/2003/ThreadSafeObject.zip>`_
+`Click here </talks/2003/ThreadSafeObject.zip>`_
 to download the source code and slides from the presentation
