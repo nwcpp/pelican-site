@@ -59,3 +59,9 @@ and, with Herb Sutter and Andrei Alexandrescu, is a principal in
 He has a Ph.D in Computer Science from Brown University.
 He's currently working on a new book, Effective C++11/14,
 which he hopes to publish in early 2014.
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/T5swP3dr190>`_ |
+`Slides </talks/2013/URefs-and-Overloading-revised.pdf>`_
