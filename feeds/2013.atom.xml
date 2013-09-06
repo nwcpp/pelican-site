@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-06-25T00:00:00-07:00</updated><entry><title>July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers</title><link href="http://nwcpp.org/july-2013.html" rel="alternate"></link><updated>2013-06-25T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-06-25:july-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-09-05T00:00:00-07:00</updated><entry><title>September 18, 2013—Stability in Numerical Programming: An Introduction—Robert Goddard</title><link href="http://nwcpp.org/september-2013.html" rel="alternate"></link><updated>2013-09-05T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-09-05:september-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;September 18th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.km.kongsberg.com/"&gt;Kongsberg Underwater Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many numerical algorithms involve feedback loops
+in which the results of each step of the algorithm
+act as inputs to the following&amp;nbsp;steps.&lt;/p&gt;
+&lt;p&gt;Examples include numerical solution of differential equations,
+filtering of sound (or other signals) using &lt;span class="caps"&gt;IIR&lt;/span&gt; (Infinite Impulse Response) filters,
+and control of device motion.
+Inevitably, small numerical errors are introduced at each step.
+In an unstable algorithm, the effects of those errors grow in subsequent feedback steps,
+eventually dominating over the &amp;#8220;right&amp;#8221; answer you are looking for.
+In a stable system, the effects of errors shrink,
+or at least do not grow, in subsequent steps.
+The consequences of instability vary from &amp;#8220;Huh?&amp;#8221; through &amp;#8220;aw, &amp;amp;%&amp;#64;%)$^&amp;amp;%*&amp;#8221; to&amp;nbsp;death.&lt;/p&gt;
+&lt;p&gt;In this talk, I will show examples of unstable and stable algorithms,
+investigate the differences,
+and introduce some methods for making sure your algorithms are stable.
+The presentation will include some college-level mathematics,
+but the emphasis will be on understanding
+why instability happens and how to avoid&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;The examples will be in C++, but the principles are not language-specific.
+This seminar will build on the general principles
+outlined in my &lt;a class="reference external" href="http://nwcpp.org/november-2011.html"&gt;previous &lt;span class="caps"&gt;NWCPP&lt;/span&gt; talk&lt;/a&gt;
+in November 2011, entitled &amp;#8220;Introduction to Scientific Computing.&amp;#8221;
+This talk begins where that one ends:
+with a demonstration of an unstable algorithm for solving a differential equation.
+(Sorry about the sound in that video.
+We have improved our technology since then, with your help.&amp;nbsp;Thanks.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Robert P. Goddard, Ph.D.&lt;/div&gt;
+&lt;div class="line"&gt;Principal Physicist, Applied Physics Laboratory, University of Washington&lt;/div&gt;
+&lt;div class="line"&gt;Treasurer (a.k.a. hat-passer), Northwest C++ Users&amp;#8217; Group&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Robert Goddard is a physicist and software developer.
+For the last 32 years, he has worked at
+the Applied Physics Laboratory of the University of Washington,
+mainly on computer modeling of underwater sound.
+He is the architect and team leader for the Sonar Simulation Toolset (&lt;span class="caps"&gt;SST&lt;/span&gt;),
+which produces simulated underwater sound,
+suitable as input to sophisticated signal processing systems
+(including human ears and brains),
+based on user-specified descriptions of the undersea environment,
+the listening system, and the sound sources and targets that might be out there.
+He has also developed systems for control of measurement devices,
+data analysis, visualization, modeling of quantum mechanical scattering,
+and optimization of parameter values to fit&amp;nbsp;observations.&lt;/p&gt;
+&lt;p&gt;Bob has been an active participant in &lt;span class="caps"&gt;NWCPP&lt;/span&gt; for most of its existence,
+and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers</title><link href="http://nwcpp.org/july-2013.html" rel="alternate"></link><updated>2013-06-25T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-06-25:july-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;July 17th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
