@@ -73,3 +73,9 @@ and optimization of parameter values to fit observations.
 
 Bob has been an active participant in NWCPP for most of its existence,
 and is currently Treasurer.
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/amez0WdSJX8>`_ |
+`Slides </talks/2013/Stability.pdf>`_
