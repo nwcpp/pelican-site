@@ -45,7 +45,68 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="http://nwcpp.org/september-2013.html">September 18, 2013—Stability in Numerical Programming: An Introduction—Robert&nbsp;Goddard</a></h1> 
+                    <h1 class="entry-title"><a href="http://nwcpp.org/october-2013.html">October 16, 2013—New Adventures in C++ with Cinder and More—Ale&nbsp;Contenti</a></h1> 
+<footer class="post-info">
+        <abbr class="published" title="2013-10-01T00:00:00">
+                Tue 01 October 2013
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="http://nwcpp.org/author/george-reilly.html">George Reilly</a>
+        </address>
+<p>In <a href="http://nwcpp.org/category/2013.html">2013</a>. </p>
+
+</footer><!-- /.post-info --><div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">October 16th, 2013 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Microsoft Campus.</div>
+<div class="line"><a class="reference external" href="http://www.bing.com/maps/?v=2&amp;where1=Microsoft+Building+41">Building 41/1511–Townsend</a></div>
+</div>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>Play and be productive with modern C++, graphics, on-the-fly projects and more!
+Starting from the latest
+<a class="reference external" href="http://channel9.msdn.com/Events/GoingNative/2013">Going Native 2013</a>
+talks as an inspiration,
+we will explore how easy is to mold ideas into graphics apps
+with C++ and <a class="reference external" href="http://libcinder.org/">Cinder</a>,
+and how simple tools and techniques can help us be more productive in Visual&nbsp;Studio!</p>
+</div>
+<div class="section" id="bio">
+<h2>Bio</h2>
+<p>Alessandro Contenti works as a Principal Development Manager
+in the Visual C++ team in Microsoft, Redmond.
+He oversees the development of the C++ FrontEnd Compiler,
+C++ <span class="caps">AMP</span>, the C++ <span class="caps">IDE</span>, the Graphics debugging tools,
+and the C++ Libraries shipped as part of Visual Studio.
+He has been working in Microsoft since June 2000:
+He worked as a developer on Team Server (a precursor of <span class="caps">TFS</span>),
+Venus (codename for Visual Web Developer), and Visual C++.
+Alessandro Contenti graduated in 1998 (magna cum laude)
+from Politecnico di Milano Master <span class="caps">CS</span> program
+and studied for 7 months at the École Polytechnique (aka X) in Paris,
+where he developed his thesis on functional languages.
+He currently lives in Seattle
+and he&#8217;s the busy and proud father of ~4 years old twin&nbsp;boys.</p>
+</div>
+                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+        
+
+ 
+            <li><article class="hentry">    
+                <header>
+                    <h1><a href="http://nwcpp.org/september-2013.html" rel="bookmark"
+                           title="Permalink to September 18, 2013—Stability in Numerical Programming: An Introduction—Robert Goddard">September 18, 2013—Stability in Numerical Programming: An Introduction—Robert&nbsp;Goddard</a></h1>
+                </header>
+                
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2013-09-05T00:00:00">
                 Thu 05 September 2013
@@ -56,7 +117,7 @@
         </address>
 <p>In <a href="http://nwcpp.org/category/2013.html">2013</a>. </p>
 
-</footer><!-- /.post-info --><div class="section" id="time-and-location">
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
 <div class="line">September 18th, 2013 at 7:00 <span class="caps">PM</span></div>
@@ -71,65 +132,10 @@
 <h2>Abstract</h2>
 <p>Many numerical algorithms involve feedback loops
 in which the results of each step of the algorithm
-act as inputs to the following&nbsp;steps.</p>
-<p>Examples include numerical solution of differential equations,
-filtering of sound (or other signals) using <span class="caps">IIR</span> (Infinite Impulse Response) filters,
-and control of device motion.
-Inevitably, small numerical errors are introduced at each step.
-In an unstable algorithm, the effects of those errors grow in subsequent feedback steps,
-eventually dominating over the &#8220;right&#8221; answer you are looking for.
-In a stable system, the effects of errors shrink,
-or at least do not grow, in subsequent steps.
-The consequences of instability vary from &#8220;Huh?&#8221; through &#8220;aw, &amp;%&#64;%)$^&amp;%*&#8221; to&nbsp;death.</p>
-<p>In this talk, I will show examples of unstable and stable algorithms,
-investigate the differences,
-and introduce some methods for making sure your algorithms are stable.
-The presentation will include some college-level mathematics,
-but the emphasis will be on understanding
-why instability happens and how to avoid&nbsp;it.</p>
-<p>The examples will be in C++, but the principles are not language-specific.
-This seminar will build on the general principles
-outlined in my <a class="reference external" href="http://nwcpp.org/november-2011.html">previous <span class="caps">NWCPP</span> talk</a>
-in November 2011, entitled &#8220;Introduction to Scientific Computing.&#8221;
-This talk begins where that one ends:
-with a demonstration of an unstable algorithm for solving a differential equation.
-(Sorry about the sound in that video.
-We have improved our technology since then, with your help.&nbsp;Thanks.)</p>
-</div>
-<div class="section" id="bio">
-<h2>Bio</h2>
-<div class="line-block">
-<div class="line">Robert P. Goddard, Ph.D.</div>
-<div class="line">Principal Physicist, Applied Physics Laboratory, University of Washington</div>
-<div class="line">Treasurer (a.k.a. hat-passer), Northwest C++ Users&#8217; Group</div>
-</div>
-<p>Robert Goddard is a physicist and software developer.
-For the last 32 years, he has worked at
-the Applied Physics Laboratory of the University of Washington,
-mainly on computer modeling of underwater sound.
-He is the architect and team leader for the Sonar Simulation Toolset (<span class="caps">SST</span>),
-which produces simulated underwater sound,
-suitable as input to sophisticated signal processing systems
-(including human ears and brains),
-based on user-specified descriptions of the undersea environment,
-the listening system, and the sound sources and targets that might be out there.
-He has also developed systems for control of measurement devices,
-data analysis, visualization, modeling of quantum mechanical scattering,
-and optimization of parameter values to fit&nbsp;observations.</p>
-<p>Bob has been an active participant in <span class="caps">NWCPP</span> for most of its existence,
-and is currently&nbsp;Treasurer.</p>
-</div>
-<div class="section" id="resources">
-<h2>Resources</h2>
-<p><a class="reference external" href="http://youtu.be/amez0WdSJX8">Video</a> |
-<a class="reference external" href="/talks/2013/Stability.pdf">Slides</a></p>
-</div>
-                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+act as inputs to the following ...</p></div>
+                <a class="readmore" href="http://nwcpp.org/september-2013.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
         
 
  

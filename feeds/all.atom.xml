@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-09-05T00:00:00-07:00</updated><entry><title>September 18, 2013—Stability in Numerical Programming: An Introduction—Robert Goddard</title><link href="http://nwcpp.org/september-2013.html" rel="alternate"></link><updated>2013-09-05T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-09-05:september-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-10-01T00:00:00-07:00</updated><entry><title>October 16, 2013—New Adventures in C++ with Cinder and More—Ale Contenti</title><link href="http://nwcpp.org/october-2013.html" rel="alternate"></link><updated>2013-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-10-01:october-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 16th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Play and be productive with modern C++, graphics, on-the-fly projects and more!
+Starting from the latest
+&lt;a class="reference external" href="http://channel9.msdn.com/Events/GoingNative/2013"&gt;Going Native 2013&lt;/a&gt;
+talks as an inspiration,
+we will explore how easy is to mold ideas into graphics apps
+with C++ and &lt;a class="reference external" href="http://libcinder.org/"&gt;Cinder&lt;/a&gt;,
+and how simple tools and techniques can help us be more productive in Visual&amp;nbsp;Studio!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Alessandro Contenti works as a Principal Development Manager
+in the Visual C++ team in Microsoft, Redmond.
+He oversees the development of the C++ FrontEnd Compiler,
+C++ &lt;span class="caps"&gt;AMP&lt;/span&gt;, the C++ &lt;span class="caps"&gt;IDE&lt;/span&gt;, the Graphics debugging tools,
+and the C++ Libraries shipped as part of Visual Studio.
+He has been working in Microsoft since June 2000:
+He worked as a developer on Team Server (a precursor of &lt;span class="caps"&gt;TFS&lt;/span&gt;),
+Venus (codename for Visual Web Developer), and Visual C++.
+Alessandro Contenti graduated in 1998 (magna cum laude)
+from Politecnico di Milano Master &lt;span class="caps"&gt;CS&lt;/span&gt; program
+and studied for 7 months at the École Polytechnique (aka X) in Paris,
+where he developed his thesis on functional languages.
+He currently lives in Seattle
+and he&amp;#8217;s the busy and proud father of ~4 years old twin&amp;nbsp;boys.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>September 18, 2013—Stability in Numerical Programming: An Introduction—Robert Goddard</title><link href="http://nwcpp.org/september-2013.html" rel="alternate"></link><updated>2013-09-05T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-09-05:september-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;September 18th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
