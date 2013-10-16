@@ -12,6 +12,10 @@ Time and Location
 | Microsoft Campus.
 | `Building 41/1511–Townsend <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
 
+Come at 6:45 for sandwiches and salads
+`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`Xtreme Consulting <http://www.xtremeconsulting.com/>`_.
+
 Abstract
 ~~~~~~~~
 
