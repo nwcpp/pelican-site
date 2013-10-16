@@ -115,7 +115,7 @@ service. Prior to Microsoft, Joe worked as a Senior Software Engineer at
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Overview of C++ exceptions, their rationale, and their usage. Followed
 with discussion of standard library support, exception safety
-considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;#8220;gotchas&amp;#8221;
+considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;quot;gotchas&amp;quot;
 and wisdom sprinkled throughout :^) Talk assumes you understand the
 rudiments of C++ exception&amp;nbsp;handling.&lt;/p&gt;
 &lt;/div&gt;
@@ -123,8 +123,8 @@ rudiments of C++ exception&amp;nbsp;handling.&lt;/p&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Bobby Schmidt is a writer, teacher, and programmer. For the past five
 years, he&amp;#8217;s been Contributing Editor and monthly columnist for the
-&amp;#8220;C/C++ Users Journal.&amp;#8221; He also writes the twice-monthly &amp;#8220;Deep C++&amp;#8221;
-column for &amp;#8220;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Online Voices&amp;#8221; magazine. Bobby has taught short
+&amp;quot;C/C++ Users Journal.&amp;quot; He also writes the twice-monthly &amp;quot;Deep C++&amp;quot;
+column for &amp;quot;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Online Voices&amp;quot; magazine. Bobby has taught short
 sessions and all-day tutorials at both the Software Development and
 Embedded Systems conferences. In previous incarnations, he was an
 astronomer, private investigator, radio &lt;span class="caps"&gt;DJ&lt;/span&gt;, and wild-animal&amp;nbsp;curator.&lt;/p&gt;

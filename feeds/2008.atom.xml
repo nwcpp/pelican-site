@@ -71,9 +71,9 @@ Gary has been one of the early abusers of the C++ language and compiler
 to twist it to make functional programing a reality.
 A technical consultant and volunteer to the C++ standards committee since 2001
 where he has worked with many others on getting
-&amp;#8220;bind&amp;#8221;, &amp;#8220;variadac templates&amp;#8221;, &amp;#8220;lambda&amp;#8221;, &amp;#8220;decl_type&amp;#8221;
+&amp;quot;bind&amp;quot;, &amp;quot;variadac templates&amp;quot;, &amp;quot;lambda&amp;quot;, &amp;quot;decl_type&amp;quot;
 and other useful stuff into the C++0X standard.
-A Google search of &lt;tt class="docutils literal"&gt;&amp;#8220;Gary Powell&amp;#8221; C++&lt;/tt&gt; will yield a large number of hits
+A Google search of &lt;tt class="docutils literal"&gt;&amp;quot;Gary Powell&amp;quot; C++&lt;/tt&gt; will yield a large number of hits
 only a few of which are not&amp;nbsp;him.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
@@ -165,7 +165,7 @@ We&amp;#8217;ll look into a few simple multithreaded idioms,
 sketch the Java memory model,
 and show the differences between Java and C++.
 For the theoretically minded, I&amp;#8217;ll do my best to explain sequential consistency
-and the &amp;#8220;happens before&amp;#8221; relationship necessary to describe data races.
+and the &amp;quot;happens before&amp;quot; relationship necessary to describe data races.
 We&amp;#8217;ll look into the C++ atomic&amp;nbsp;library.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
@@ -197,7 +197,7 @@ of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Functions often depend on particular behavioral characteristics (&amp;#8220;features&amp;#8221;)
+&lt;p&gt;Functions often depend on particular behavioral characteristics (&amp;quot;features&amp;quot;)
 of code they invoke.
 For example, thread-safe code must invoke only thread-safe code
 if it is to remain thread-safe,
@@ -253,7 +253,7 @@ that has seen little representation in mainstream languages
 as compared to the Object-Oriented, Imperative and Functional paradigms.
 &lt;span class="caps"&gt;LP&lt;/span&gt; is an important approach in Computer Science towards
 what is sometimes referred to as the Holy-Grail of programming,
-&amp;#8220;The user states the problem, the computer solves it&amp;#8221;.
+&amp;quot;The user states the problem, the computer solves it&amp;quot;.
 Origins of the theory underlying Logic dates back to about 300 &lt;span class="caps"&gt;B.C.
 &lt;/span&gt;when Aristotle founded Formal Logic to bring rigor to logical inferencing.
 The theory matured into Modern Logic more recently (early 1900s)
@@ -373,7 +373,7 @@ computationally-intensive algorithms,
 and massively parallel execution.
 His vast expertise, presence, and humor
 make Andrei a sought-after speaker at technical&amp;nbsp;conferences.&lt;/p&gt;
-&lt;p&gt;Andrei holds a &lt;span class="caps"&gt;BS&lt;/span&gt; in Electrical Engineering from University &amp;#8220;Politehnica&amp;#8221; Bucharest
+&lt;p&gt;Andrei holds a &lt;span class="caps"&gt;BS&lt;/span&gt; in Electrical Engineering from University &amp;quot;Politehnica&amp;quot; Bucharest
 and an &lt;span class="caps"&gt;MS&lt;/span&gt; in Computer Science from University of Washington,
 where he is also a graduating PhD in Summer 2008.
 (&lt;span class="caps"&gt;N.B.&lt;/span&gt; He will soon be looking for a job.)

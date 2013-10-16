@@ -23,9 +23,9 @@
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;In October 2003, a new &lt;span class="caps"&gt;ECMA&lt;/span&gt; standards committee was formed to create an
-international standard for &amp;#8220;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;,&amp;#8221; a set of C++ extensions for .&lt;span class="caps"&gt;NET&lt;/span&gt;
+international standard for &amp;quot;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;,&amp;quot; a set of C++ extensions for .&lt;span class="caps"&gt;NET&lt;/span&gt;
 programming designed by Microsoft in collaboration with C++ industry
-leaders as a successor to &amp;#8220;Managed C++.&amp;#8221;
+leaders as a successor to &amp;quot;Managed C++.&amp;quot;
 Formally, C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; is a binding between &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ and &lt;span class="caps"&gt;ISO&lt;/span&gt; &lt;span class="caps"&gt;CLI&lt;/span&gt;
 (Common Language Infrastructure, the standardized subset of
 the .&lt;span class="caps"&gt;NET&lt;/span&gt; runtime environment and frameworks class library);
@@ -254,7 +254,7 @@ and product&amp;nbsp;adoption.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Everybody knows the adage &amp;#8220;Resource acquisition is initialization.&amp;#8221;
+&lt;p&gt;Everybody knows the adage &amp;quot;Resource acquisition is initialization.&amp;quot;
 Not many people know that this simple principle gave rise to the whole
 methodology of Resource Management (&lt;span class="caps"&gt;RM&lt;/span&gt;).
 Bartosz will try to convince us that &lt;span class="caps"&gt;RM&lt;/span&gt; is better than garbage collection.
