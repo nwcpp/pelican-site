@@ -44,3 +44,9 @@ and studied for 7 months at the École Polytechnique (aka X) in Paris,
 where he developed his thesis on functional languages.
 He currently lives in Seattle
 and he's the busy and proud father of ~4 years old twin boys.
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/hwHYJM2GV1U>`_ |
+`Slides </talks/2013/new-adventures-in-cpp.pptx>`_
