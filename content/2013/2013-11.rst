@@ -1,5 +1,5 @@
 November 20, 2013—Real Time Debugging—Lloyd Moore
-########################################################################
+#################################################
 
 :date: 2013-11-01
 :slug: november-2013
@@ -13,9 +13,9 @@ Time and Location
 | `Building 40/1450–Steptoe <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
 | **Note: Cafeteria, not our normal meeting room**
 
-.. Come at 6:45 for pizza
-.. `sponsored <|filename|/about/sponsors-howto.rst>`_ by
-.. Your name goes here
+Come at 6:45 for pizza
+`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`Amazon Global Inventory Platform <http://www.amazon.com/gp/jobs>`_.
 
 Abstract
 ~~~~~~~~
