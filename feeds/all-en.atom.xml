@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-10-01T00:00:00-07:00</updated><entry><title>October 16, 2013—New Adventures in C++ with Cinder and More—Ale Contenti</title><link href="http://nwcpp.org/october-2013.html" rel="alternate"></link><updated>2013-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-10-01:october-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-11-01T00:00:00-07:00</updated><entry><title>November 20, 2013—Real Time Debugging—Lloyd Moore</title><link href="http://nwcpp.org/november-2013.html" rel="alternate"></link><updated>2013-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-11-01:november-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;November 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Come at 6:45 for pizza --&gt;
+&lt;!-- `sponsored &lt;|filename|/about/sponsors-howto.rst&gt;`_ by &amp;#8212;&gt;
+&lt;!-- Your name goes here --&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Debugging real time issues
+present a unique set of challenges and requirements to the developer.
+Normal debugging techniques such as breakpoints, printf statements, and logging
+frequently fail to locate the problem and can actually make the issue worse.
+This presentation will examine why common debugging techniques fail
+when applied to real time issues,
+and then present tools and techniques
+which can successfully address the unique challenges of real time&amp;nbsp;debugging.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Lloyd Moore is the founder and owner of
+&lt;a class="reference external" href="http://www.cyberdata-robotics.com/"&gt;CyberData Corporation&lt;/a&gt;,
+which provides consulting services
+in the robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 25 years,
+with his formal training in biological-based artificial intelligence,
+electronics, and psychology.
+Lloyd is also currently the president of &lt;span class="caps"&gt;NWCPP&lt;/span&gt;
+and organizer of the &lt;a class="reference external" href="http://www.robothon.org"&gt;Seattle Robotics Society Robothon&lt;/a&gt;&amp;nbsp;event.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>October 16, 2013—New Adventures in C++ with Cinder and More—Ale Contenti</title><link href="http://nwcpp.org/october-2013.html" rel="alternate"></link><updated>2013-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-10-01:october-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 16th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -589,7 +624,7 @@ If you want to be more heavily involved,
 please sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;Volunteers&lt;/a&gt;&amp;nbsp;list.&lt;/li&gt;
 &lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter.&lt;/li&gt;
 &lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook group&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+ page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="http://google.com/+NwcppOrg"&gt;Google+ page&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Follow our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube channel&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Follow our &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo channel&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Join our &lt;a class="reference external" href="http://www.linkedin.com/groups?gid=2770106"&gt;LinkedIn group&lt;/a&gt;.&lt;/li&gt;
