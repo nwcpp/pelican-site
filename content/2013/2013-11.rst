@@ -41,3 +41,9 @@ with his formal training in biological-based artificial intelligence,
 electronics, and psychology.
 Lloyd is also currently the president of NWCPP
 and organizer of the `Seattle Robotics Society Robothon <http://www.robothon.org>`_ event.
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/rCrO0zJ4PqI>`_ |
+`Slides <http://www.slideshare.net/LloydMoore/real-time-debugging>`_
