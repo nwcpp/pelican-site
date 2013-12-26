@@ -13,6 +13,10 @@ Time and Location
 | `Building 40/1450–Steptoe <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_
   (Cafeteria).
 
+Come at 6:45 for pizza
+`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`Universal Avionics <http://www.uasc.com/company/careers.aspx>`_.
+
 Abstract
 ~~~~~~~~
 
