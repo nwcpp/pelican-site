@@ -33,3 +33,11 @@ Previously he has worked on image processing, computer games,
 virtual reality and 3D simulation.
 He has a particular interest in the problem of
 writing high quality code in the commercial world.
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/D3WzjjiC7K0>`_ |
+`Slides </talks/2014/Coverity.pdf>`_ |
+`A Few Billion Lines of Code Later
+<http://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext>`_
