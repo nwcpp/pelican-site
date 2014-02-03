@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-01-15T00:00:00-08:00</updated><entry><title>January 15, 2014—Static Analysis: More than finding bugs—Bob Archer</title><link href="http://nwcpp.org/january-2014.html" rel="alternate"></link><updated>2014-01-15T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-01-15:january-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-02-01T00:00:00-08:00</updated><entry><title>February 15, 2014—Lightning Rounds: A collection of case studies in C++</title><link href="http://nwcpp.org/february-2014.html" rel="alternate"></link><updated>2014-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-02-01:february-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;February 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.aerotek.com/"&gt;Aerotek&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are going to do something a bit different this month.
+Rather than have one speaker, we are going to do a series of “lightning rounds”
+where each speaker will present a short case study of a difficult problem
+they have had in the past and how they solved it with C++.
+We are still pulling the list of speakers together, so stay tuned for&amp;nbsp;details.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;TBD&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;TBD&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;We wanted to introduce ourselves to the C++ community!
+Aerotek is a national staffing firm with a 30 year legacy of being the best!
+Aerotek is the largest technical staffing firm in the &lt;span class="caps"&gt;US&lt;/span&gt;, with over 200 offices nationwide.
+We staff for a variety of industries for a wide range of skill sets,
+including engineering, skilled trade, administrative and office support,
+and scientific and clinical studies.
+My name is Hope Rich, and I work in our engineering division
+with a focus on embedded systems as a Sr. Engineering Recruiter for the greater Seattle area.
+My partner Tyler Roush and myself work with companies
+in the aerospace, medical device, and consumer electronics industries
+to help staff for engineering needs from an embedded &lt;span class="caps"&gt;SW&lt;/span&gt; background,
+as well as for roles in mechanical, electrical, manufacturing,
+and quality engineering skill sets.
+In embedded, we focus to connect great engineers with
+a background in &lt;span class="caps"&gt;HW&lt;/span&gt; design, Firmware, middleware,
+and embedded &lt;span class="caps"&gt;SW&lt;/span&gt; applications development and test.
+Please visit our web page for additional details at &lt;a class="reference external" href="http://www.aerotek.com/"&gt;http://www.aerotek.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sincerely,&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="50%" /&gt;
+&lt;col width="50%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Hope Rich&lt;/td&gt;
+&lt;td&gt;Tyler Roush&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a class="reference external" href="mailto:hrich&amp;#64;aerotek.com"&gt;hrich&amp;#64;aerotek.com&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a class="reference external" href="mailto:troush&amp;#64;aerotek.com"&gt;troush&amp;#64;aerotek.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;(425)893-6051&lt;/td&gt;
+&lt;td&gt;(425)893-6026&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>January 15, 2014—Static Analysis: More than finding bugs—Bob Archer</title><link href="http://nwcpp.org/january-2014.html" rel="alternate"></link><updated>2014-01-15T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-01-15:january-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 15th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
