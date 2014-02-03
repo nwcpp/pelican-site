@@ -1,0 +1,66 @@
+February 15, 2014—Lightning Rounds: A collection of case studies in C++
+#######################################################################
+
+:date: 2014-02-01
+:slug: february-2014
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| February 19th, 2014 at 7:00 PM
+| Microsoft Campus.
+| `Building 40/1450–Steptoe <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_
+  (Cafeteria).
+
+Come at 6:45 for pizza
+`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`Aerotek <http://www.aerotek.com/>`_.
+
+We are going to do something a bit different this month.
+Rather than have one speaker, we are going to do a series of “lightning rounds”
+where each speaker will present a short case study of a difficult problem
+they have had in the past and how they solved it with C++.
+We are still pulling the list of speakers together, so stay tuned for details.
+
+
+Abstract
+~~~~~~~~
+
+TBD
+
+
+Bio
+~~~
+
+TBD
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+We wanted to introduce ourselves to the C++ community!
+Aerotek is a national staffing firm with a 30 year legacy of being the best!
+Aerotek is the largest technical staffing firm in the US, with over 200 offices nationwide.
+We staff for a variety of industries for a wide range of skill sets,
+including engineering, skilled trade, administrative and office support,
+and scientific and clinical studies.
+My name is Hope Rich, and I work in our engineering division
+with a focus on embedded systems as a Sr. Engineering Recruiter for the greater Seattle area.
+My partner Tyler Roush and myself work with companies
+in the aerospace, medical device, and consumer electronics industries
+to help staff for engineering needs from an embedded SW background,
+as well as for roles in mechanical, electrical, manufacturing,
+and quality engineering skill sets.
+In embedded, we focus to connect great engineers with
+a background in HW design, Firmware, middleware,
+and embedded SW applications development and test.
+Please visit our web page for additional details at http://www.aerotek.com/
+ 
+Sincerely,
+
+=====================    =====================
+Hope Rich                Tyler Roush
+hrich@aerotek.com        troush@aerotek.com
+(425)893-6051            (425)893-6026
+=====================    =====================
