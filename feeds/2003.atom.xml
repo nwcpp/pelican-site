@@ -316,7 +316,7 @@ His website is &lt;a class="reference external" href="http://www.moderncppdesign
 using the CuTest library. CuTest is simple, portable, and follows the
 JUnit look and feel in its output and &lt;span class="caps"&gt;API&lt;/span&gt;. The topics covered will&amp;nbsp;include:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Introduction to Test Driven Development&amp;nbsp;(&lt;span class="caps"&gt;TDD&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;Introduction to Test Driven Development (&lt;span class="caps"&gt;TDD&lt;/span&gt;)&lt;/li&gt;
 &lt;li&gt;Demo of using &lt;span class="caps"&gt;TDD&lt;/span&gt; to write C/C++&amp;nbsp;code&lt;/li&gt;
 &lt;li&gt;Comparison of CuTest with other C/C++ unit testing&amp;nbsp;frameworks&lt;/li&gt;
 &lt;li&gt;Some testing ideas and&amp;nbsp;techniques&lt;/li&gt;

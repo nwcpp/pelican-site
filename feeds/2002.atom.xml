@@ -209,7 +209,7 @@ to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
 they say so) and everybody is talking about C#, &lt;span class="caps"&gt;VB&lt;/span&gt;, &lt;span class="caps"&gt;ASP&lt;/span&gt;, and &lt;span class="caps"&gt;ADO&lt;/span&gt;. What
 about C++? How does it fit with new technologies? We will explore a
 closer look at the new features of the compiler, the C Run-Time, and
-three other libraries, namely &lt;span class="caps"&gt;STL&lt;/span&gt;, &lt;span class="caps"&gt;MFC&lt;/span&gt; and&amp;nbsp;&lt;span class="caps"&gt;ATL&lt;/span&gt;.&lt;/p&gt;
+three other libraries, namely &lt;span class="caps"&gt;STL&lt;/span&gt;, &lt;span class="caps"&gt;MFC&lt;/span&gt; and &lt;span class="caps"&gt;ATL&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -238,7 +238,7 @@ useful programming&amp;nbsp;tools.&lt;/p&gt;
 memory and a waitable timer. You are supposed to implement robust
 inter-process communications in C++. Bartosz will explain the concept of
 shared memory in Win32 and its use in establishing a protocol for data
-exchange between processes. It&amp;#8217;s better than &lt;span class="caps"&gt;DDE&lt;/span&gt; and simpler than&amp;nbsp;&lt;span class="caps"&gt;COM&lt;/span&gt;.&lt;/p&gt;
+exchange between processes. It&amp;#8217;s better than &lt;span class="caps"&gt;DDE&lt;/span&gt; and simpler than &lt;span class="caps"&gt;COM&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;

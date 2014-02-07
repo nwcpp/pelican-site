@@ -29,7 +29,7 @@ With templates and &lt;span class="caps"&gt;CLI&lt;/span&gt; Generics, &lt;span 
 iterator and algorithms to .&lt;span class="caps"&gt;NET&lt;/span&gt; development,
 while leveraging the runtime facilities like garbage collection,
 verifiability, and versionable binary&amp;nbsp;interfaces.&lt;/p&gt;
-&lt;p&gt;This talk will discuss the rationale, design decisions and techniques of&amp;nbsp;&lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;This talk will discuss the rationale, design decisions and techniques of &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -207,7 +207,7 @@ it will provide a history of events
 making diagnosis of a bug much easier both during the development cycle
 and by the support team after the software is shipped.
 We will go through this and other practical examples
-of how to improve testability by improve in each area of&amp;nbsp;&lt;span class="caps"&gt;SOCK&lt;/span&gt;.&lt;/p&gt;
+of how to improve testability by improve in each area of &lt;span class="caps"&gt;SOCK&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -313,7 +313,7 @@ and has expertise in rapid development methodologies, project estimation,
 software construction practices, performance tuning, system integration,
 and third-party contract&amp;nbsp;management.&lt;/p&gt;
 &lt;p&gt;Steve also served as Editor in Chief of &lt;span class="caps"&gt;IEEE&lt;/span&gt; Software from 1998-2002 and
-is a member of &lt;span class="caps"&gt;IEEE&lt;/span&gt; Computer Society and&amp;nbsp;&lt;span class="caps"&gt;ACM&lt;/span&gt;.&lt;/p&gt;
+is a member of &lt;span class="caps"&gt;IEEE&lt;/span&gt; Computer Society and &lt;span class="caps"&gt;ACM&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;Steve earned a master&amp;#8217;s degree in software engineering from Seattle University
 and a bachelor&amp;#8217;s degree from Whitman College in Walla Walla,&amp;nbsp;Washington.&lt;/p&gt;
 &lt;p&gt;Send email to &lt;a class="reference external" href="mailto:steve.mcconnell&amp;#64;construx.com"&gt;Steve McConnell&lt;/a&gt;.&lt;/p&gt;
@@ -338,7 +338,7 @@ in the next release of Visual Studio.
 This talk will cover developing, debugging and deploying C++ applications
 to Pocket &lt;span class="caps"&gt;PC&lt;/span&gt;, Smartphone and Windows &lt;span class="caps"&gt;CE&lt;/span&gt;.
 It will also cover improvements made since eMbedded Visual C++
-and the work being done in the native frameworks such as &lt;span class="caps"&gt;MFC&lt;/span&gt; and&amp;nbsp;&lt;span class="caps"&gt;ATL&lt;/span&gt;&lt;/p&gt;
+and the work being done in the native frameworks such as &lt;span class="caps"&gt;MFC&lt;/span&gt; and &lt;span class="caps"&gt;ATL&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bios"&gt;
 &lt;h2&gt;Bios&lt;/h2&gt;
