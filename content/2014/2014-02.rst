@@ -1,4 +1,4 @@
-February 15, 2014—Lightning Rounds: A collection of case studies in C++
+February 19, 2014—Lightning Rounds: A collection of case studies in C++
 #######################################################################
 
 :date: 2014-02-01
