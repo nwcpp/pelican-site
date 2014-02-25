@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-02-01T00:00:00-08:00</updated><entry><title>February 19, 2014—Lightning Rounds: A collection of case studies in C++</title><link href="http://nwcpp.org/february-2014.html" rel="alternate"></link><updated>2014-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-02-01:february-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-02-24T00:00:00-08:00</updated><entry><title>March 19, 2014—C++17: I See a Monad in Your Future—Bartosz Milewski</title><link href="http://nwcpp.org/march-2014.html" rel="alternate"></link><updated>2014-02-24T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-02-24:march-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.aerotek.com/"&gt;Aerotek&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The introduction of lambdas and first class function objects
+forever changed the nature of C++,
+opening up the floodgates to functional programming.
+Sometimes the best library design is based
+on a pattern that’s very familiar to a Haskell programmer
+but alien to a C++ programmer.
+The new &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;std::future&lt;/span&gt;&lt;/tt&gt; proposal for C++17
+hides several functional patterns
+including that of a monad —
+the boogeyman of generations of imperative programmers.
+But once seen in action,
+the monad becomes just one more pattern in the toolbox of a library&amp;nbsp;designer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.bartosz.com/"&gt;Bartosz Milewski&lt;/a&gt; always tries to be where the action is.
+He started as a quantum physicist when superstrings were hot,
+joined the software industry to build the search engine for Microsoft Windows,
+became an avid proponent of object-oriented programming,
+and wrote a book on C++.
+He got into concurrency and parallelism when the multicores hit the market,
+and now he’s evangelizing functional programming as the Holy Grail of software&amp;nbsp;development.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;We wanted to introduce ourselves to the C++ community!
+Aerotek is a national staffing firm with a 30 year legacy of being the best!
+Aerotek is the largest technical staffing firm in the &lt;span class="caps"&gt;US&lt;/span&gt;,
+with over 200 offices nationwide.
+We staff for a variety of industries for a wide range of skill sets,
+including engineering, skilled trade, administrative and office support,
+and scientific and clinical studies.
+My name is Hope Rich,
+and I work in our engineering division with a focus on embedded systems
+as a Sr. Engineering Recruiter for the greater Seattle area.
+My partner Tyler Roush and myself work with companies
+in the aerospace, medical device, and consumer electronics industries
+to help staff for engineering needs from an embedded &lt;span class="caps"&gt;SW&lt;/span&gt; background,
+as well as for roles in mechanical, electrical, manufacturing,
+and quality engineering skill sets.
+In embedded, we focus to connect great engineers
+with a background in &lt;span class="caps"&gt;HW&lt;/span&gt; design, Firmware, middleware,
+and embedded &lt;span class="caps"&gt;SW&lt;/span&gt; applications development and test.
+Please visit our web page for additional details at &lt;a class="reference external" href="http://www.aerotek.com/"&gt;http://www.aerotek.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sincerely, Hope Rich (&lt;a class="reference external" href="mailto:hrich&amp;#64;aerotek.com"&gt;hrich&amp;#64;aerotek.com&lt;/a&gt;, 425-893-6051)
+and Tyler Roush (&lt;a class="reference external" href="mailto:troush&amp;#64;aerotek.com"&gt;troush&amp;#64;aerotek.com&lt;/a&gt;,&amp;nbsp;425-893-6026)&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>February 19, 2014—Test-Driven Development—Matt Becker and Madhavan Lakshminarayanan</title><link href="http://nwcpp.org/february-2014.html" rel="alternate"></link><updated>2014-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-02-01:february-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -10,21 +71,16 @@
 &lt;p&gt;Come at 6:45 for pizza
 &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon &lt;span class="caps"&gt;GIP&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Please welcome a speaker panel from Amazon Global Inventory Platform
-as our speakers this month!
-We are going to do something a bit different this month.
-Rather than have one speaker we are going to do a series of “lightning rounds”
-where each speaker will present a short case study.
-Food for this meeting is being sponsored by Amazon&amp;nbsp;&lt;span class="caps"&gt;GIP&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The Amazon Global Inventory Platform team will be presenting
-a set of case studies showing data structure comparisons
-between C++ vs. Java implementations.
-The presentation will be in the form of a set of “lightning rounds”
-with each round lasting between 10 and 15 minutes.
-We’ll have a different speaker and data structure for each&amp;nbsp;round.&lt;/p&gt;
+&lt;p&gt;Matt Becker and Madhavan Lakshminarayanan,
+from Amazon’s Global Inventory Platform team,
+will be presenting on Test Driven Development.
+They will provide a brief overview of the problem set
+their team tackles, and how it benefits Amazon customers.
+They will show how and when to use Test Driven Development
+as well as how to isolate their software from its&amp;nbsp;dependencies&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -46,6 +102,10 @@ Senior Software Engineers, Research Scientists, Development Managers
 and very Technical Project Managers.
 We have new initiatives every year and are expanding like crazy!
 For more information contact Amy Renhard at &lt;a class="reference external" href="mailto:Renharda&amp;#64;amazon.com"&gt;Renharda&amp;#64;amazon.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=pLeNEOBesPM"&gt;Video&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>January 15, 2014—Static Analysis: More than finding bugs—Bob Archer</title><link href="http://nwcpp.org/january-2014.html" rel="alternate"></link><updated>2014-01-15T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-01-15:january-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
