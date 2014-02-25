@@ -40,7 +40,7 @@ Past speakers at our meetings include
 `Stan Lippman <http://blogs.msdn.com/slippman>`_,
 `Steve McConnell <http://www.construx.com/>`_,
 `Scott Meyers <http://www.aristeia.com/>`_,
-`Bartosz Milewski <http://www.bartosz.com/>`_,
+`Bartosz Milewski <http://bartoszmilewski.com/>`_,
 `Eric Niebler <http://ericniebler.com/>`_,
 `Jeffrey Richter <http://www.wintellect.com/CS/blogs/jeffreyr/default.aspx>`_,
 `Bobby Schmidt <http://www.linkedin.com/in/rhschmidt>`_,

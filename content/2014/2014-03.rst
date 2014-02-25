@@ -39,7 +39,7 @@ the monad becomes just one more pattern in the toolbox of a library designer.
 Bio
 ~~~
 
-`Bartosz Milewski <http://www.bartosz.com/>`_ always tries to be where the action is.
+`Bartosz Milewski <http://bartoszmilewski.com/>`_ always tries to be where the action is.
 He started as a quantum physicist when superstrings were hot,
 joined the software industry to build the search engine for Microsoft Windows,
 became an avid proponent of object-oriented programming,
