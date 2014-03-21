@@ -286,7 +286,7 @@ to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="the-phoenix-compiler-and-tools-framework-built-from-building-and-building-on-c-cli"&gt;
-&lt;h2&gt;The Phoenix Compiler and Tools Framework: Built From, Building, and Building On C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;The Phoenix Compiler and Tools Framework: Built From, Building, and Building On&amp;nbsp;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;Phoenix, Microsoft&amp;#8217;s next generation compiler and tools framework,
 is built entirely in C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;.
 Phoenix&amp;#8217;s design leverages both the traditional strengths of C++
