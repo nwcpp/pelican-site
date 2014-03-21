@@ -73,3 +73,11 @@ Please visit our web page for additional details at http://www.aerotek.com/
 
 Sincerely, Hope Rich (hrich@aerotek.com, 425-893-6051)
 and Tyler Roush (troush@aerotek.com, 425-893-6026)
+
+
+Resources
+~~~~~~~~~
+
+`Video <http://www.youtube.com/watch?v=BFnhhPehpKw>`_ |
+`Slides </talks/2014/ISeeAMonadInYourFuture.pptx>`_ |
+`Blog Post <http://bartoszmilewski.com/2014/02/26/c17-i-see-a-monad-in-your-future/>`_
