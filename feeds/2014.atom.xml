@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-02-24T00:00:00-08:00</updated><entry><title>March 19, 2014—C++17: I See a Monad in Your Future—Bartosz Milewski</title><link href="http://nwcpp.org/march-2014.html" rel="alternate"></link><updated>2014-02-24T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-02-24:march-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-03-22T00:00:00-07:00</updated><entry><title>April 16, 2014—The Chapel Programming Language—Thomas Van Doren</title><link href="http://nwcpp.org/april-2014.html" rel="alternate"></link><updated>2014-03-22T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-03-22:april-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;April 16th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.protingent.com/"&gt;Protingent&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Chapel_(programming_language)"&gt;Chapel&lt;/a&gt;
+is an emerging parallel programming language
+whose design and development are being led by Cray Inc.
+in collaboration with academia, computing centers, and industry.
+Chapel&amp;#8217;s goal is to make parallel programming more productive,
+from high-end supercomputers to commodity clusters
+and multicore desktops and laptops.
+It supports a multithreaded execution model
+via high-level abstractions for data parallelism, task parallelism,
+concurrency, and nested parallelism.
+Chapel has a multi-resolution model that allows users
+to write high level abstract code
+while still maintaining control over lower level details as&amp;nbsp;needed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Thomas Van Doren is a software engineer at Cray Inc. in Seattle
+where he works on Chapel.
+Previously he worked at Cozi Inc.
+and graduated from the University of Washington.
+Thomas loves open source software, automation, and working on large scale&amp;nbsp;problems.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Thank you for allowing us to be a sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;!
+Protingent is a locally owned staffing company
+with our corporate headquarters being in Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt;.
+Protingent provides engineering and &lt;span class="caps"&gt;IT&lt;/span&gt; professionals
+with rewarding and exciting work opportunities at technology businesses
+throughout the Pacific Northwest.
+We are committed to helping you enhance your career
+while engaging in meaningful and creative work
+that drives your own personal spirit and passions.
+Protingent recruiters work exclusively
+with technology professionals and technology companies—we have technical understanding, expertise
+and are well connected in the technology community.
+Our principals bring deep personal understanding
+of both the business of engineering
+as well as the culture and nature of the engineer who operates within it.
+More than a database, we have an unparalleled client network
+built from years of collaboration with our clients.
+We have daily access to hiring managers
+at some of the most exciting technology companies.
+We can get your resume directly into the right hands.
+Protingent offers benefits
+including health insurance, dental insurance, 401(k),
+&lt;span class="caps"&gt;PTO&lt;/span&gt;, pre-tax commuter benefits and supplemental&amp;nbsp;insurance.&lt;/p&gt;
+&lt;p&gt;Please visit &lt;a class="reference external" href="http://www.protingent.com"&gt;Protingent.com&lt;/a&gt;
+for additional&amp;nbsp;information.&lt;/p&gt;
+&lt;p&gt;Protingent&amp;nbsp;Attendees:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;John Marsh — Recruiting Manager 425-284-7762 &lt;a class="reference external" href="mailto:john&amp;#64;protingent.com"&gt;john&amp;#64;protingent.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;David Jorden — Technical Recruiter&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>March 19, 2014—C++17: I See a Monad in Your Future—Bartosz Milewski</title><link href="http://nwcpp.org/march-2014.html" rel="alternate"></link><updated>2014-02-24T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-02-24:march-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
