@@ -22,7 +22,7 @@ Come at 6:45 for pizza
 Abstract
 ~~~~~~~~
 
-`Chapel <http://en.wikipedia.org/wiki/Chapel_(programming_language)>`_
+`Chapel <http://chapel.cray.com/>`_
 is an emerging parallel programming language
 whose design and development are being led by Cray Inc.
 in collaboration with academia, computing centers, and industry.
