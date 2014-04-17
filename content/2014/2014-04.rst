@@ -82,3 +82,10 @@ Protingent Attendees:
 
 | John Marsh — Recruiting Manager 425-284-7762 john@protingent.com
 | David Jorden — Technical Recruiter
+
+
+Resources
+~~~~~~~~~
+
+`Video <>`_ |
+`Slides </talks/2014/ChapelForNWCPPUsersGroup.pdf>`_
