@@ -87,5 +87,5 @@ Protingent Attendees:
 Resources
 ~~~~~~~~~
 
-`Video <>`_ |
+`Video <http://youtu.be/lo3a_b34zX0>`_ |
 `Slides </talks/2014/ChapelForNWCPPUsersGroup.pdf>`_
