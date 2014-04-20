@@ -8,7 +8,7 @@
 (Cafeteria).&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.protingent.com/"&gt;Protingent&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -82,7 +82,7 @@ for additional&amp;nbsp;information.&lt;/p&gt;
 (Cafeteria).&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.aerotek.com/"&gt;Aerotek&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -149,7 +149,7 @@ and Tyler Roush (&lt;a class="reference external" href="mailto:troush&amp;#64;ae
 (Cafeteria).&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon &lt;span class="caps"&gt;GIP&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -198,7 +198,7 @@ Michael Feathers&amp;#8217; &lt;a class="reference external" href="http://www.am
 (Cafeteria).&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.uasc.com/company/careers.aspx"&gt;Universal Avionics&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -222,18 +222,18 @@ writing high quality code in the commercial&amp;nbsp;world.&lt;/p&gt;
 &lt;a class="reference external" href="/talks/2014/Coverity.pdf"&gt;Slides&lt;/a&gt; |
 &lt;a class="reference external" href="http://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext"&gt;A Few Billion Lines of Code&amp;nbsp;Later&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2013</title><link href="http://nwcpp.org/2013-summary.html" rel="alternate"></link><updated>2013-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-12-31:2013-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2013.html"&gt;January 16th,&amp;nbsp;2013 — Metadata and reflection in C++ — Jeff&amp;nbsp;Tucker&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2013.html"&gt;February 20th, 2013 — Component Programming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2013.html"&gt;March 20th, 2013 — Profile Guided Optimization — Ankit&amp;nbsp;Asthana&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2013.html"&gt;April 17, 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2013.html"&gt;May 15th, 2013 — C++ In the Post-&lt;span class="caps"&gt;PC&lt;/span&gt; Era — Diego&amp;nbsp;Dagum&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2013.html"&gt;June 19th, 2013 — Multi-Platform Applications with Qt — Tuukka&amp;nbsp;Ahoniemi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2013.html"&gt;July 17th, 2013 — The Universal Reference/Overloading Collision Conundrum — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2013.html"&gt;August 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2013.html"&gt;September 18th, 2013 — Stability in Numerical Programming: An Introduction — Robert&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2013.html"&gt;October 16th, 2013 — New Adventures in C++ with Cinder and More — Ale&amp;nbsp;Contenti&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2013.html"&gt;November 20th, 2013 — Real Time Debugging — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2013.html"&gt;December 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2013</title><link href="http://nwcpp.org/2013-summary.html" rel="alternate"></link><updated>2013-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-12-31:2013-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-01.rst"&gt;January 16th,&amp;nbsp;2013 — Metadata and reflection in C++ — Jeff&amp;nbsp;Tucker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-02.rst"&gt;February 20th, 2013 — Component Programming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-03.rst"&gt;March 20th, 2013 — Profile Guided Optimization — Ankit&amp;nbsp;Asthana&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-04.rst"&gt;April 17, 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-05.rst"&gt;May 15th, 2013 — C++ In the Post-&lt;span class="caps"&gt;PC&lt;/span&gt; Era — Diego&amp;nbsp;Dagum&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-06.rst"&gt;June 19th, 2013 — Multi-Platform Applications with Qt — Tuukka&amp;nbsp;Ahoniemi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-07.rst"&gt;July 17th, 2013 — The Universal Reference/Overloading Collision Conundrum — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-08.rst"&gt;August 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-09.rst"&gt;September 18th, 2013 — Stability in Numerical Programming: An Introduction — Robert&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-10.rst"&gt;October 16th, 2013 — New Adventures in C++ with Cinder and More — Ale&amp;nbsp;Contenti&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-11.rst"&gt;November 20th, 2013 — Real Time Debugging — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2013/2013-12.rst"&gt;December 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2013: No Meeting</title><link href="http://nwcpp.org/december-2013.html" rel="alternate"></link><updated>2013-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2013-12-01:december-2013.html</id><summary type="html"></summary></entry><entry><title>November 20, 2013—Real Time Debugging—Lloyd Moore</title><link href="http://nwcpp.org/november-2013.html" rel="alternate"></link><updated>2013-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-11-01:november-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -243,7 +243,7 @@ writing high quality code in the commercial&amp;nbsp;world.&lt;/p&gt;
 &lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.amazon.com/gp/jobs"&gt;Amazon Global Inventory Platform&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -282,7 +282,7 @@ and organizer of the &lt;a class="reference external" href="http://www.robothon.
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for sandwiches and salads
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.xtremeconsulting.com/"&gt;Xtreme Consulting&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -325,7 +325,7 @@ and he&amp;#8217;s the busy and proud father of ~4 years old twin&amp;nbsp;boys.
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.km.kongsberg.com/"&gt;Kongsberg Underwater Technology&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -393,7 +393,7 @@ and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1261–Constance&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.f5.com/about/careers/"&gt;F5 Networks&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -448,7 +448,7 @@ which he hopes to publish in early&amp;nbsp;2014.&lt;/p&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.coverity.com/"&gt;Coverity&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -569,7 +569,7 @@ and we had no pizza&amp;nbsp;provider.&lt;/p&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 Gordon&amp;nbsp;Churchill.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -613,7 +613,7 @@ which sold over a few thousand&amp;nbsp;copies.&lt;/p&gt;
 &lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://http://aws.amazon.com/"&gt;Amazon Web Services&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -666,7 +666,7 @@ which is still popular today over 30 years after its&amp;nbsp;debut.&lt;/p&gt;
 from an instance of the &lt;a class="reference external" href="http://www.joomla.org/"&gt;Joomla&lt;/a&gt; &lt;span class="caps"&gt;CMS&lt;/span&gt; at &lt;a class="reference external" href="http://www.justhost.com/"&gt;Just Host&lt;/a&gt;
 to a static website generated by &lt;a class="reference external" href="http://blog.getpelican.com/"&gt;Pelican&lt;/a&gt; at &lt;a class="reference external" href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="figure"&gt;
-&lt;a class="reference external image-reference" href="http://nwcpp.org/images/joomla-screenshot.png"&gt;&lt;img alt="Old Joomla-based website" src="http://nwcpp.org/images/joomla-screenshot.png" style="width: 500px;" /&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="|filename|images/joomla-screenshot.png"&gt;&lt;img alt="Old Joomla-based website" src="|filename|images/joomla-screenshot.png" style="width: 500px;" /&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;Old Joomla-based&amp;nbsp;website&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="the-background"&gt;
@@ -752,7 +752,7 @@ and change the &lt;a class="reference external" href="http://dreamand.me/github-
 &lt;/div&gt;
 &lt;div class="section" id="contact-form"&gt;
 &lt;h2&gt;Contact&amp;nbsp;Form&lt;/h2&gt;
-&lt;p&gt;I wanted to add a &lt;a class="reference external" href="http://nwcpp.org/contact.html"&gt;contact form&lt;/a&gt; rather than
+&lt;p&gt;I wanted to add a &lt;a class="reference external" href="|filename|/about/contact.rst"&gt;contact form&lt;/a&gt; rather than
 publishing email addresses for the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; board.
 Obviously, there&amp;#8217;s no server-side piece in a pure static site,
 so it has to be handled by a third party.
@@ -768,10 +768,10 @@ and wants to generate a timeline of posts.
 For dated announcements of monthly meetings,
 that works very well.
 For pages that don&amp;#8217;t fit on the timeline,
-such as the &lt;a class="reference external" href="http://nwcpp.org/contact.html"&gt;contact form&lt;/a&gt; or the &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsorship howto&lt;/a&gt;,
+such as the &lt;a class="reference external" href="|filename|/about/contact.rst"&gt;contact form&lt;/a&gt; or the &lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsorship howto&lt;/a&gt;,
 it&amp;#8217;s&amp;nbsp;awkward.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><updated>2013-01-03T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:january-2013.html</id><summary type="html">&lt;p&gt;Please &lt;a class="reference external" href="http://nwcpp.org/camera-donations.html"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><updated>2013-01-03T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:january-2013.html</id><summary type="html">&lt;p&gt;Please &lt;a class="reference external" href="|filename|/00-camera-donations.rst"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -781,7 +781,7 @@ it&amp;#8217;s&amp;nbsp;awkward.&lt;/p&gt;
 &lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad Technologies&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -878,27 +878,27 @@ please sign up for our &lt;a class="reference external" href="http://groups.goog
 Use our &lt;a class="reference external" href="http://www.linkedin.com/groupAnswers?viewQuestions=&amp;amp;gid=2770106&amp;amp;forumID=5&amp;amp;sik=1268291239461"&gt;LinkedIn Jobs Board&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="sponsoring-nwcpp"&gt;
-&lt;h3&gt;Sponsoring &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;Sponsoring&amp;nbsp;&lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h3&gt;
 &lt;p&gt;Want to sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;?
-Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;how&lt;/a&gt;.&lt;/p&gt;
+Here&amp;#8217;s &lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;how&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="contacting-nwcpp"&gt;
-&lt;h3&gt;Contacting &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;Please use our &lt;a class="reference external" href="http://nwcpp.org/contact.html"&gt;contact form&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Contacting&amp;nbsp;&lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Please use our &lt;a class="reference external" href="|filename|/about/contact.rst"&gt;contact form&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2012</title><link href="http://nwcpp.org/2012-summary.html" rel="alternate"></link><updated>2012-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-12-31:2012-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2012.html"&gt;January 25th,&amp;nbsp;2012 — Finding Race Condition and Data Races Effectively — Madan&amp;nbsp;Musuvathi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2012.html"&gt;February 15th,&amp;nbsp;2012 — Expressing Parallel Patterns in Modern C++ — Rahul V.&amp;nbsp;Patil&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2012.html"&gt;March 21st,&amp;nbsp;2012 — A Multi-Core Algorithmic Differentiation Benchmarking System — Brad&amp;nbsp;Bell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2012.html"&gt;April 18th, 2012 — Essential Skills for the Agile Developer – Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2012.html"&gt;May 16th, 2012 — An Introduction to Microsoft’s C++ Accelerated Massive Parallelism – Don&amp;nbsp;McCrady&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2012.html"&gt;June 20th, 2012 — LKRhash: The design of a scalable hashtable — George V.&amp;nbsp;Reilly&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2012.html"&gt;July 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2012.html"&gt;August 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2012.html"&gt;September 19th, 2012 — Functional Patterns in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2012.html"&gt;October 17th, 2012 — Casablanca: C++ in the Cloud — Steve&amp;nbsp;Gates&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2012.html"&gt;November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch — Tom&amp;nbsp;Ball&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2012.html"&gt;December 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2012</title><link href="http://nwcpp.org/2012-summary.html" rel="alternate"></link><updated>2012-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-12-31:2012-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-01.rst"&gt;January 25th,&amp;nbsp;2012 — Finding Race Condition and Data Races Effectively — Madan&amp;nbsp;Musuvathi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-02.rst"&gt;February 15th,&amp;nbsp;2012 — Expressing Parallel Patterns in Modern C++ — Rahul V.&amp;nbsp;Patil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-03.rst"&gt;March 21st,&amp;nbsp;2012 — A Multi-Core Algorithmic Differentiation Benchmarking System — Brad&amp;nbsp;Bell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-04.rst"&gt;April 18th, 2012 — Essential Skills for the Agile Developer – Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-05.rst"&gt;May 16th, 2012 — An Introduction to Microsoft’s C++ Accelerated Massive Parallelism – Don&amp;nbsp;McCrady&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-06.rst"&gt;June 20th, 2012 — LKRhash: The design of a scalable hashtable — George V.&amp;nbsp;Reilly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-07.rst"&gt;July 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-08.rst"&gt;August 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-09.rst"&gt;September 19th, 2012 — Functional Patterns in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-10.rst"&gt;October 17th, 2012 — Casablanca: C++ in the Cloud — Steve&amp;nbsp;Gates&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-11.rst"&gt;November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch — Tom&amp;nbsp;Ball&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2012/2012-12.rst"&gt;December 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>NWCPP Sponsors</title><link href="http://nwcpp.org/sponsors.html" rel="alternate"></link><updated>2012-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-12-31:sponsors.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; thanks the following organizations for their&amp;nbsp;sponsorship.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.microsoft.com/"&gt;Microsoft&lt;/a&gt;&lt;/li&gt;
@@ -907,14 +907,14 @@ Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsor
 &lt;li&gt;&lt;a class="reference external" href="http://www.amazon.com/gp/digital/careers/jobs.html"&gt;Amazon&amp;nbsp;Digital&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="section" id="sponsoring-nwcpp"&gt;
-&lt;h2&gt;Sponsoring &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h2&gt;
-&lt;p&gt;Want to sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;? Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;how&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Sponsoring&amp;nbsp;&lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Want to sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;? Here&amp;#8217;s &lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;how&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>Donate towards better video recordings</title><link href="http://nwcpp.org/camera-donations.html" rel="alternate"></link><updated>2012-12-10T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2012-12-10:camera-donations.html</id><summary type="html">&lt;style&gt;
 .left-float  {float: left}
 .right-float {float: right; padding-left: 5em; }
 &lt;/style&gt;&lt;div class="figure"&gt;
-&lt;img alt="Donation Thermometer" class="right-float" src="http://nwcpp.org/images/thermometer.jpg" /&gt;
+&lt;img alt="Donation Thermometer" class="right-float" src="|filename|images/thermometer.jpg" /&gt;
 &lt;/div&gt;
 &lt;p&gt;The bulk of the feedback we have received over the last year
 on the videotaping of our meetings
@@ -1077,8 +1077,8 @@ and at &lt;a class="reference external" href="http://fpcomplete.com/blog"&gt;htt
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://fpcomplete.com/functional-patterns-in-c/"&gt;Video and&amp;nbsp;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 2012: No Meeting</title><link href="http://nwcpp.org/august-2012.html" rel="alternate"></link><updated>2012-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-08-01:august-2012.html</id><summary type="html"></summary></entry><entry><title>July 2012: No Meeting</title><link href="http://nwcpp.org/july-2012.html" rel="alternate"></link><updated>2012-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-07-01:july-2012.html</id><summary type="html"></summary></entry><entry><title>Contact NWCPP</title><link href="http://nwcpp.org/contact.html" rel="alternate"></link><updated>2012-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-06-01:contact.html</id><summary type="html">&lt;p&gt;If you need to contact the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; board and the
-&lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;social media channels&lt;/a&gt; aren&amp;#8217;t enough,
+</summary></entry><entry><title>August 2012: No Meeting</title><link href="http://nwcpp.org/august-2012.html" rel="alternate"></link><updated>2012-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-08-01:august-2012.html</id><summary type="html"></summary></entry><entry><title>July 2012: No Meeting</title><link href="http://nwcpp.org/july-2012.html" rel="alternate"></link><updated>2012-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-07-01:july-2012.html</id><summary type="html"></summary></entry><entry><title>Contact NWCPP</title><link href="http://nwcpp.org/contact.html" rel="alternate"></link><updated>2012-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-06-01:contact.html</id><summary type="html">&lt;p&gt;If you need to contact the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; board and the
+&lt;a class="reference external" href="|filename|/about/about.rst"&gt;social media channels&lt;/a&gt; aren&amp;#8217;t enough,
 use this form to email&amp;nbsp;us.&lt;/p&gt;
 &lt;!-- :ref:`social-media` aren't enough, --&gt;
 &lt;!-- Adapted from http://www.bloggerbuster.com/2012/04/create-contact-form-with-google-docs.html --&gt;
@@ -1332,18 +1332,18 @@ building analysis tools to improve the productivity of software developers and&a
 &lt;a class="reference external" href="http://research.microsoft.com/pubs/118655/asplos277-pct.pdf"&gt;Cuzz paper&lt;/a&gt; |
 &lt;a class="reference external" href="http://research.microsoft.com/pubs/139266/DataCollider%20-%20OSDI2010.pdf"&gt;DataCollider paper&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2011</title><link href="http://nwcpp.org/2011-summary.html" rel="alternate"></link><updated>2011-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-12-31:2011-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2011.html"&gt;January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis&amp;nbsp;Ceze&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2011.html"&gt;February 16th, 2011 — The Thought Process of Patterns: Essential Design Skills — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2011.html"&gt;March 16th, 2011 — Debuggers and Mago — Aldo&amp;nbsp;Nunez&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2011.html"&gt;April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2011.html"&gt;May 18th, 2011 — C++0x Lambda Functions — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2011.html"&gt;June 15th, 2011 — Avoiding Over and Under Design — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2011.html"&gt;July 2011: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2011.html"&gt;August 2011: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2011.html"&gt;September 21st, 2011 — Beyond Threads — Rick&amp;nbsp;Molloy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2011.html"&gt;October 19th, 2011 — Asynchronous Tasks in C++11 — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2011.html"&gt;November 16th, 2011 — Introduction to Scientific Computing — Robert&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2011.html"&gt;December 2011: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2011</title><link href="http://nwcpp.org/2011-summary.html" rel="alternate"></link><updated>2011-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-12-31:2011-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-01.rst"&gt;January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis&amp;nbsp;Ceze&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-02.rst"&gt;February 16th, 2011 — The Thought Process of Patterns: Essential Design Skills — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-03.rst"&gt;March 16th, 2011 — Debuggers and Mago — Aldo&amp;nbsp;Nunez&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-04.rst"&gt;April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-05.rst"&gt;May 18th, 2011 — C++0x Lambda Functions — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-06.rst"&gt;June 15th, 2011 — Avoiding Over and Under Design — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-07.rst"&gt;July 2011: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-08.rst"&gt;August 2011: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-09.rst"&gt;September 21st, 2011 — Beyond Threads — Rick&amp;nbsp;Molloy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-10.rst"&gt;October 19th, 2011 — Asynchronous Tasks in C++11 — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-11.rst"&gt;November 16th, 2011 — Introduction to Scientific Computing — Robert&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2011/2011-12.rst"&gt;December 2011: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2011: No Meeting</title><link href="http://nwcpp.org/december-2011.html" rel="alternate"></link><updated>2011-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-12-01:december-2011.html</id><summary type="html"></summary></entry><entry><title>November 16th, 2011 — Introduction to Scientific Computing — Robert Goddard</title><link href="http://nwcpp.org/november-2011.html" rel="alternate"></link><updated>2011-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-11-01:november-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for pizza supplied by
 &lt;a class="reference external" href="http://www.km.kongsberg.com/"&gt;Kongsberg Underwater Technology&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -1456,11 +1456,11 @@ and a passion for performance when working on&amp;nbsp;Windows.&lt;/p&gt;
 &lt;a class="reference external" href="/talks/2011/beyondthreads-code-rickmolloy-2011-09-21.zip"&gt;code&lt;/a&gt;,
 and &lt;a class="reference external" href="http://www.vimeo.com/29672551"&gt;video&lt;/a&gt; of Rick&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 2011: No Meeting</title><link href="http://nwcpp.org/august-2011.html" rel="alternate"></link><updated>2011-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-08-01:august-2011.html</id><summary type="html"></summary></entry><entry><title>July 2011: No Meeting</title><link href="http://nwcpp.org/july-2011.html" rel="alternate"></link><updated>2011-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-07-01:july-2011.html</id><summary type="html"></summary></entry><entry><title>How to Sponsor NWCPP</title><link href="http://nwcpp.org/sponsors-howto.html" rel="alternate"></link><updated>2011-06-13T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-13:sponsors-howto.html</id><summary type="html">&lt;p&gt;Several companies have chosen to sponsor our monthly meetings.
+</summary></entry><entry><title>August 2011: No Meeting</title><link href="http://nwcpp.org/august-2011.html" rel="alternate"></link><updated>2011-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-08-01:august-2011.html</id><summary type="html"></summary></entry><entry><title>July 2011: No Meeting</title><link href="http://nwcpp.org/july-2011.html" rel="alternate"></link><updated>2011-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-07-01:july-2011.html</id><summary type="html"></summary></entry><entry><title>How to Sponsor NWCPP</title><link href="http://nwcpp.org/sponsors-howto.html" rel="alternate"></link><updated>2011-06-13T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-13:sponsors-howto.html</id><summary type="html">&lt;p&gt;Several companies have chosen to sponsor our monthly meetings.
 Often these companies supply free pizza for the meeting.
 Other companies may choose to give away&amp;nbsp;products.&lt;/p&gt;
 &lt;p&gt;If you sponsor us, we will add a brief mention on the front page which
-links to our &lt;a class="reference external" href="http://nwcpp.org/sponsors.html"&gt;sponsorship page&lt;/a&gt;.&lt;/p&gt;
+links to our &lt;a class="reference external" href="|filename|/about/sponsors.rst"&gt;sponsorship page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; welcomes your sponsorship, subject to the following&amp;nbsp;guidelines.&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;Donations to get onto the sponsor page must be at least $50 in&amp;nbsp;value.&lt;/li&gt;
@@ -1701,18 +1701,18 @@ He co-founded Corensic, a &lt;span class="caps"&gt;UW&lt;/span&gt;-&lt;span clas
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2011/nwcpp-jan2011.pdf"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2010</title><link href="http://nwcpp.org/2010-summary.html" rel="alternate"></link><updated>2010-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-12-31:2010-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2010.html"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2010.html"&gt;February 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2010.html"&gt;March 17th, 2010 — Short Talks on&amp;nbsp;Concurrency&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2010.html"&gt;April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark&amp;nbsp;Roberts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2010.html"&gt;May 19th, 2010 — The Anatomy of Message Passing — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2010.html"&gt;June 16th, 2010 — Massive Multithreading on the &lt;span class="caps"&gt;GPU&lt;/span&gt; — Gavriel&amp;nbsp;Plotke&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2010.html"&gt;July 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2010.html"&gt;August 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2010.html"&gt;September 15th, 2010 — The Many Faces of D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2010.html"&gt;October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at&amp;nbsp;Google&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2010.html"&gt;November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs.&amp;nbsp;Concepts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2010.html"&gt;December 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2010</title><link href="http://nwcpp.org/2010-summary.html" rel="alternate"></link><updated>2010-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-12-31:2010-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-01.rst"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-02.rst"&gt;February 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-03.rst"&gt;March 17th, 2010 — Short Talks on&amp;nbsp;Concurrency&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-04.rst"&gt;April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark&amp;nbsp;Roberts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-05.rst"&gt;May 19th, 2010 — The Anatomy of Message Passing — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-06.rst"&gt;June 16th, 2010 — Massive Multithreading on the &lt;span class="caps"&gt;GPU&lt;/span&gt; — Gavriel&amp;nbsp;Plotke&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-07.rst"&gt;July 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-08.rst"&gt;August 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-09.rst"&gt;September 15th, 2010 — The Many Faces of D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-10.rst"&gt;October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at&amp;nbsp;Google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-11.rst"&gt;November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs.&amp;nbsp;Concepts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-12.rst"&gt;December 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2010: No Meeting</title><link href="http://nwcpp.org/december-2010.html" rel="alternate"></link><updated>2010-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-12-01:december-2010.html</id><summary type="html"></summary></entry><entry><title>November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs. Concepts</title><link href="http://nwcpp.org/november-2010.html" rel="alternate"></link><updated>2010-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-11-01:november-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Concepts_(C%2B%2B)"&gt;C++ Concepts&lt;/a&gt;
@@ -1741,7 +1741,7 @@ Bartosz took part in the design of the
 His main topics of interest are concurrent and distributed computing and language design.
 He regularly publishes a blog at
 &lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;.
-You may see him occasionally at &lt;span class="caps"&gt;CSE&lt;/span&gt; 950 P at the &lt;span class="caps"&gt;UW&lt;/span&gt;.&lt;/p&gt;
+You may see him occasionally at &lt;span class="caps"&gt;CSE&lt;/span&gt; 950 P at the&amp;nbsp;&lt;span class="caps"&gt;UW&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -1952,18 +1952,18 @@ and how they make concurrent APIs easier to&amp;nbsp;consume.&lt;/p&gt;
 &lt;a class="reference external" href="http://msdn.microsoft.com/en-us/netframework/aa663324.aspx"&gt;&lt;span class="caps"&gt;WCF&lt;/span&gt;&lt;/a&gt; team.
 Other than that he is a totally normal&amp;nbsp;guy.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry><entry><title>2009</title><link href="http://nwcpp.org/2009-summary.html" rel="alternate"></link><updated>2009-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2009-12-31:2009-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2009.html"&gt;January 21st, 2009 — Metaprogramming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2009.html"&gt;February 18th, 2009 — &lt;span class="caps"&gt;CCR&lt;/span&gt;: Concurrency and Coordination Runtime — Andreas&amp;nbsp;Ulbrich&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2009.html"&gt;March 18th, 2009 — How Compilers Work — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2009.html"&gt;April 15th, 2009 — Axum: The Language Of Agents — Artur&amp;nbsp;Laksberg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2009.html"&gt;May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick&amp;nbsp;Molloy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2009.html"&gt;June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2009.html"&gt;July 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2009.html"&gt;August 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2009.html"&gt;September 16th, 2009 — Ownership System Against Data Races — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2009.html"&gt;October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2009.html"&gt;November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill&amp;nbsp;Baxter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2009.html"&gt;December 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry><entry><title>2009</title><link href="http://nwcpp.org/2009-summary.html" rel="alternate"></link><updated>2009-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2009-12-31:2009-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-01.rst"&gt;January 21st, 2009 — Metaprogramming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-02.rst"&gt;February 18th, 2009 — &lt;span class="caps"&gt;CCR&lt;/span&gt;: Concurrency and Coordination Runtime — Andreas&amp;nbsp;Ulbrich&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-03.rst"&gt;March 18th, 2009 — How Compilers Work — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-04.rst"&gt;April 15th, 2009 — Axum: The Language Of Agents — Artur&amp;nbsp;Laksberg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-05.rst"&gt;May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick&amp;nbsp;Molloy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-06.rst"&gt;June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-07.rst"&gt;July 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-08.rst"&gt;August 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-09.rst"&gt;September 16th, 2009 — Ownership System Against Data Races — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-10.rst"&gt;October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-11.rst"&gt;November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill&amp;nbsp;Baxter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2009/2009-12.rst"&gt;December 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2009: No Meeting</title><link href="http://nwcpp.org/december-2009.html" rel="alternate"></link><updated>2009-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-12-01:december-2009.html</id><summary type="html"></summary></entry><entry><title>November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill Baxter</title><link href="http://nwcpp.org/november-2009.html" rel="alternate"></link><updated>2009-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-11-01:november-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -2293,18 +2293,18 @@ and now the D programming&amp;nbsp;language.&lt;/p&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;Watch the &lt;a class="reference external" href="http://www.vimeo.com/4333802"&gt;video&lt;/a&gt; of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2008</title><link href="http://nwcpp.org/2008-summary.html" rel="alternate"></link><updated>2008-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2008-12-31:2008-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2008.html"&gt;January 16th, 2008 — Design Patterns in an Agile Environment — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2008.html"&gt;February 20th, 2008 — Memory Allocation: Either Love It or Hate It. (Or Just Think It&amp;#8217;s &lt;span class="caps"&gt;OK&lt;/span&gt;.) — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2008.html"&gt;March 19th, 2008 — shared_ptr, Or: How I Learned To Stop Worrying And Love Resource Management — Stephan T.&amp;nbsp;Lavavej&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2008.html"&gt;April 16th, 2008 — Programming Declaratively in C++ Using the Logic Paradigm — Roshan&amp;nbsp;Naik&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2008.html"&gt;May 20th, 2008 — Enforcing Code Feature Requirements in C++ — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2008.html"&gt;June 18th, 2008 — The C++ Memory Model — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2008.html"&gt;July 16th, 2008 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2008.html"&gt;August 20th, 2008 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2008.html"&gt;September 17th, 2008 — Functional Programming with F# — Chris&amp;nbsp;Smith&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2008.html"&gt;October 15th, 2008 — Concepts in C++0X — Gary&amp;nbsp;Powell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2008.html"&gt;November 19th, 2008 — Things You Never Wanted to Know about Memory Fences — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2008.html"&gt;December 2008: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2008</title><link href="http://nwcpp.org/2008-summary.html" rel="alternate"></link><updated>2008-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2008-12-31:2008-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-01.rst"&gt;January 16th, 2008 — Design Patterns in an Agile Environment — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-02.rst"&gt;February 20th, 2008 — Memory Allocation: Either Love It or Hate It. (Or Just Think It&amp;#8217;s &lt;span class="caps"&gt;OK&lt;/span&gt;.) — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-03.rst"&gt;March 19th, 2008 — shared_ptr, Or: How I Learned To Stop Worrying And Love Resource Management — Stephan T.&amp;nbsp;Lavavej&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-04.rst"&gt;April 16th, 2008 — Programming Declaratively in C++ Using the Logic Paradigm — Roshan&amp;nbsp;Naik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-05.rst"&gt;May 20th, 2008 — Enforcing Code Feature Requirements in C++ — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-06.rst"&gt;June 18th, 2008 — The C++ Memory Model — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-07.rst"&gt;July 16th, 2008 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-08.rst"&gt;August 20th, 2008 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-09.rst"&gt;September 17th, 2008 — Functional Programming with F# — Chris&amp;nbsp;Smith&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-10.rst"&gt;October 15th, 2008 — Concepts in C++0X — Gary&amp;nbsp;Powell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-11.rst"&gt;November 19th, 2008 — Things You Never Wanted to Know about Memory Fences — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2008/2008-12.rst"&gt;December 2008: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2008: No Meeting</title><link href="http://nwcpp.org/december-2008.html" rel="alternate"></link><updated>2008-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-12-01:december-2008.html</id><summary type="html"></summary></entry><entry><title>November 19th, 2008 — Things You Never Wanted to Know about Memory Fences — Bartosz Milewski</title><link href="http://nwcpp.org/november-2008.html" rel="alternate"></link><updated>2008-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2008-11-01:november-2008.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -2759,20 +2759,20 @@ He is a popular speaker at prestigious conferences worldwide as well as a traine
 He is the primary author of
 &lt;em&gt;Design Patterns Explained: A New Perspective on Object-Oriented Design&lt;/em&gt;
 and is currently writing &lt;em&gt;Lean Anti-Patterns and What to do About Them&lt;/em&gt;.
-He is a &lt;span class="caps"&gt;SM&lt;/span&gt;-C Trainer and has a Masters in Computer Science from &lt;span class="caps"&gt;M.I.T.&lt;/span&gt;&lt;/p&gt;
+He is a &lt;span class="caps"&gt;SM&lt;/span&gt;-C Trainer and has a Masters in Computer Science from&amp;nbsp;&lt;span class="caps"&gt;M.I.T.&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2007</title><link href="http://nwcpp.org/2007-summary.html" rel="alternate"></link><updated>2007-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2007-12-31:2007-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2007.html"&gt;January 17th, 2007 — Advanced D Programming Language Features — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2007.html"&gt;February 21st, 2007 — Text Processing with Boost — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2007.html"&gt;March 21st, 2007 — Software Transactional Memory: A different approach to concurrency — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2007.html"&gt;April 25th, 2007 — Red Code, Green Code:&amp;nbsp; Generalizing const — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2007.html"&gt;May 23rd, 2007 — The Zero Debugger — Cristian&amp;nbsp;Vlasceanu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2007.html"&gt;June 20th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2007.html"&gt;July 18th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2007.html"&gt;August 15th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2007.html"&gt;September 19th, 2007 — Machine Architecture: Things Your Programming Language Never Told You — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2007.html"&gt;October 17th, 2007 — Function Hijacking Mitigation — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2007.html"&gt;November 14th, 2007 — Domain-Specific Languages with Boost — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2007.html"&gt;December 2007: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2007</title><link href="http://nwcpp.org/2007-summary.html" rel="alternate"></link><updated>2007-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2007-12-31:2007-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-01.rst"&gt;January 17th, 2007 — Advanced D Programming Language Features — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-02.rst"&gt;February 21st, 2007 — Text Processing with Boost — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-03.rst"&gt;March 21st, 2007 — Software Transactional Memory: A different approach to concurrency — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-04.rst"&gt;April 25th, 2007 — Red Code, Green Code:&amp;nbsp; Generalizing const — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-05.rst"&gt;May 23rd, 2007 — The Zero Debugger — Cristian&amp;nbsp;Vlasceanu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-06.rst"&gt;June 20th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-07.rst"&gt;July 18th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-08.rst"&gt;August 15th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-09.rst"&gt;September 19th, 2007 — Machine Architecture: Things Your Programming Language Never Told You — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-10.rst"&gt;October 17th, 2007 — Function Hijacking Mitigation — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-11.rst"&gt;November 14th, 2007 — Domain-Specific Languages with Boost — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2007/2007-12.rst"&gt;December 2007: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2007: No Meeting</title><link href="http://nwcpp.org/december-2007.html" rel="alternate"></link><updated>2007-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-12-01:december-2007.html</id><summary type="html"></summary></entry><entry><title>November 14th, 2007 — Domain-Specific Languages with Boost — Eric Niebler</title><link href="http://nwcpp.org/november-2007.html" rel="alternate"></link><updated>2007-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-11-01:november-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -3136,18 +3136,18 @@ is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
 &lt;p&gt;Watch the &lt;a class="reference external" href="http://video.google.com/videoplay?docid=-7073020265668105471"&gt;video&lt;/a&gt;
 of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2006</title><link href="http://nwcpp.org/2006-summary.html" rel="alternate"></link><updated>2006-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2006-12-31:2006-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2006.html"&gt;January 18th, 2006 — Policy-Based Memory Allocation — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2006.html"&gt;February 15th, 2006 — The Phoenix Compiler and Tools Framework — Andy&amp;nbsp;Ayers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2006.html"&gt;March 15th, 2006 — Functional Programming in C++ using Boost.Lambda — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2006.html"&gt;April 19th, 2006 — C++ on Next-Gen Consoles: Effective Code for New Architectures — Pete&amp;nbsp;Isensee&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2006.html"&gt;May 17th, 2006 — The Power of None — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2006.html"&gt;June 21st, 2006 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2006.html"&gt;July 19th, 2006 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2006.html"&gt;August 16th, 2006 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2006.html"&gt;September 13th, 2006 — The Concur Project — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2006.html"&gt;October 18th, 2006 — The Cost of C++ Exception Handling on Windows — Kevin&amp;nbsp;Frei&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2006.html"&gt;November 15th, 2006 — What makes a Good Programmer? Things they never told you — Adair&amp;nbsp;Dingle&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2006.html"&gt;December 2006: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2006</title><link href="http://nwcpp.org/2006-summary.html" rel="alternate"></link><updated>2006-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2006-12-31:2006-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-01.rst"&gt;January 18th, 2006 — Policy-Based Memory Allocation — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-02.rst"&gt;February 15th, 2006 — The Phoenix Compiler and Tools Framework — Andy&amp;nbsp;Ayers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-03.rst"&gt;March 15th, 2006 — Functional Programming in C++ using Boost.Lambda — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-04.rst"&gt;April 19th, 2006 — C++ on Next-Gen Consoles: Effective Code for New Architectures — Pete&amp;nbsp;Isensee&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-05.rst"&gt;May 17th, 2006 — The Power of None — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-06.rst"&gt;June 21st, 2006 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-07.rst"&gt;July 19th, 2006 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-08.rst"&gt;August 16th, 2006 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-09.rst"&gt;September 13th, 2006 — The Concur Project — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-10.rst"&gt;October 18th, 2006 — The Cost of C++ Exception Handling on Windows — Kevin&amp;nbsp;Frei&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-11.rst"&gt;November 15th, 2006 — What makes a Good Programmer? Things they never told you — Adair&amp;nbsp;Dingle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2006/2006-12.rst"&gt;December 2006: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2006: No Meeting</title><link href="http://nwcpp.org/december-2006.html" rel="alternate"></link><updated>2006-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-12-01:december-2006.html</id><summary type="html"></summary></entry><entry><title>November 15th, 2006 — What makes a Good Programmer? Things they never told you — Adair Dingle</title><link href="http://nwcpp.org/november-2006.html" rel="alternate"></link><updated>2006-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-11-01:november-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -3423,7 +3423,7 @@ to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="the-phoenix-compiler-and-tools-framework-built-from-building-and-building-on-c-cli"&gt;
-&lt;h2&gt;The Phoenix Compiler and Tools Framework: Built From, Building, and Building On C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;&lt;/h2&gt;
+&lt;h2&gt;The Phoenix Compiler and Tools Framework: Built From, Building, and Building On&amp;nbsp;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;Phoenix, Microsoft&amp;#8217;s next generation compiler and tools framework,
 is built entirely in C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;.
 Phoenix&amp;#8217;s design leverages both the traditional strengths of C++
@@ -3488,18 +3488,18 @@ His website is &lt;a class="reference external" href="http://www.erdani.com"&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2006/ChromedMetal.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2005</title><link href="http://nwcpp.org/2005-summary.html" rel="alternate"></link><updated>2005-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2005-12-31:2005-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2005.html"&gt;January 12th, 2005 — Lock-Free Programming — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2005.html"&gt;February 9th, 2005 — Dealing with Software Complexity — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2005.html"&gt;March 23rd, 2005 — Evolving C++ onto the &lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2005.html"&gt;April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2005.html"&gt;May 18th, 2005 — Writing safer code with the Visual C++ 8.0 Libraries — Martyn&amp;nbsp;Lovell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2005.html"&gt;June 15th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2005.html"&gt;July 20th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2005.html"&gt;August 17th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2005.html"&gt;September 21st, 2005 — Two Views of C++ — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2005.html"&gt;October 19th, 2005 — C++ in the Trenches — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2005.html"&gt;November 16th, 2005 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2005.html"&gt;December 2005: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2005</title><link href="http://nwcpp.org/2005-summary.html" rel="alternate"></link><updated>2005-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2005-12-31:2005-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-01.rst"&gt;January 12th, 2005 — Lock-Free Programming — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-02.rst"&gt;February 9th, 2005 — Dealing with Software Complexity — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-03.rst"&gt;March 23rd, 2005 — Evolving C++ onto the &lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-04.rst"&gt;April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-05.rst"&gt;May 18th, 2005 — Writing safer code with the Visual C++ 8.0 Libraries — Martyn&amp;nbsp;Lovell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-06.rst"&gt;June 15th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-07.rst"&gt;July 20th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-08.rst"&gt;August 17th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-09.rst"&gt;September 21st, 2005 — Two Views of C++ — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-10.rst"&gt;October 19th, 2005 — C++ in the Trenches — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-11.rst"&gt;November 16th, 2005 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2005/2005-12.rst"&gt;December 2005: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2005: No Meeting</title><link href="http://nwcpp.org/december-2005.html" rel="alternate"></link><updated>2005-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-12-01:december-2005.html</id><summary type="html"></summary></entry><entry><title>November 16th, 2005 — The D Programming Language — Walter Bright</title><link href="http://nwcpp.org/november-2005.html" rel="alternate"></link><updated>2005-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-11-01:november-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -3833,18 +3833,18 @@ His website is &lt;a class="reference external" href="http://www.moderncppdesign
 &lt;p&gt;&lt;a class="reference external" href="/talks/2005/Lock-Free.pdf"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2004</title><link href="http://nwcpp.org/2004-summary.html" rel="alternate"></link><updated>2004-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2004-12-31:2004-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2004.html"&gt;January 14th, 2004 — for_each — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2004.html"&gt;February 11th, 2004 — C++ Development for PocketPC, SmartPhone, and Windows &lt;span class="caps"&gt;CE&lt;/span&gt; — Nishan Jebanasam &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Rich&amp;nbsp;Hanbidge&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2004.html"&gt;March 8th, 2004 — Code Complete 2: A Decade of Advances in Software Construction — Steve&amp;nbsp;McConnell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2004.html"&gt;April 14th, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2004.html"&gt;May 12th, 2004 — Improving Testability — Dave&amp;nbsp;Catlett&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2004.html"&gt;June 9th, 2004 — Roundtable Meeting: The Virtues of Linux — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2004.html"&gt;July 14th, 2004 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2004.html"&gt;August 11th, 2004 — &amp;quot;Square Table&amp;quot; Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2004.html"&gt;September 8th, 2004 — Achieving Source-Level Software Portability Using &lt;span class="caps"&gt;GNU&lt;/span&gt; Autoconf, Automake, Libtool, and Make — Robert P.&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2004.html"&gt;October 13th, 2004 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2004.html"&gt;November 10th, 2004 — &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2004.html"&gt;December 2004: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2004</title><link href="http://nwcpp.org/2004-summary.html" rel="alternate"></link><updated>2004-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2004-12-31:2004-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-01.rst"&gt;January 14th, 2004 — for_each — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-02.rst"&gt;February 11th, 2004 — C++ Development for PocketPC, SmartPhone, and Windows &lt;span class="caps"&gt;CE&lt;/span&gt; — Nishan Jebanasam &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Rich&amp;nbsp;Hanbidge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-03.rst"&gt;March 8th, 2004 — Code Complete 2: A Decade of Advances in Software Construction — Steve&amp;nbsp;McConnell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-04.rst"&gt;April 14th, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-05.rst"&gt;May 12th, 2004 — Improving Testability — Dave&amp;nbsp;Catlett&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-06.rst"&gt;June 9th, 2004 — Roundtable Meeting: The Virtues of Linux — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-07.rst"&gt;July 14th, 2004 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-08.rst"&gt;August 11th, 2004 — &amp;quot;Square Table&amp;quot; Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-09.rst"&gt;September 8th, 2004 — Achieving Source-Level Software Portability Using &lt;span class="caps"&gt;GNU&lt;/span&gt; Autoconf, Automake, Libtool, and Make — Robert P.&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-10.rst"&gt;October 13th, 2004 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-11.rst"&gt;November 10th, 2004 — &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2004/2004-12.rst"&gt;December 2004: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2004: No Meeting</title><link href="http://nwcpp.org/december-2004.html" rel="alternate"></link><updated>2004-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-12-01:december-2004.html</id><summary type="html"></summary></entry><entry><title>November 10th, 2004 — STL/CLI — Stan Lippman</title><link href="http://nwcpp.org/november-2004.html" rel="alternate"></link><updated>2004-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-11-01:november-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -3863,7 +3863,7 @@ With templates and &lt;span class="caps"&gt;CLI&lt;/span&gt; Generics, &lt;span 
 iterator and algorithms to .&lt;span class="caps"&gt;NET&lt;/span&gt; development,
 while leveraging the runtime facilities like garbage collection,
 verifiability, and versionable binary&amp;nbsp;interfaces.&lt;/p&gt;
-&lt;p&gt;This talk will discuss the rationale, design decisions and techniques of &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;This talk will discuss the rationale, design decisions and techniques of&amp;nbsp;&lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -4041,7 +4041,7 @@ it will provide a history of events
 making diagnosis of a bug much easier both during the development cycle
 and by the support team after the software is shipped.
 We will go through this and other practical examples
-of how to improve testability by improve in each area of &lt;span class="caps"&gt;SOCK&lt;/span&gt;.&lt;/p&gt;
+of how to improve testability by improve in each area of&amp;nbsp;&lt;span class="caps"&gt;SOCK&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -4114,7 +4114,7 @@ to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 this meeting, there will be a &lt;strong&gt;$10 charge to non-&lt;span class="caps"&gt;NWCPP&lt;/span&gt; and non-&lt;span class="caps"&gt;WSA&lt;/span&gt; members&lt;/strong&gt;.
 Membership in the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is &lt;strong&gt;free&lt;/strong&gt;, and is a great way to
 ensure that you may attend this meeting for free.
-To become a member, visit the &lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;Membership&lt;/a&gt; page
+To become a member, visit the &lt;a class="reference external" href="|filename|/about/about.rst"&gt;Membership&lt;/a&gt; page
 and join our mailing list.
 &lt;strong&gt;Only members on the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; mailing list and &lt;span class="caps"&gt;WSA&lt;/span&gt; members may attend the meeting for&amp;nbsp;free!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;For more than 10 years, Code Complete has been a computing-industry bestseller.
@@ -4147,7 +4147,7 @@ and has expertise in rapid development methodologies, project estimation,
 software construction practices, performance tuning, system integration,
 and third-party contract&amp;nbsp;management.&lt;/p&gt;
 &lt;p&gt;Steve also served as Editor in Chief of &lt;span class="caps"&gt;IEEE&lt;/span&gt; Software from 1998-2002 and
-is a member of &lt;span class="caps"&gt;IEEE&lt;/span&gt; Computer Society and &lt;span class="caps"&gt;ACM&lt;/span&gt;.&lt;/p&gt;
+is a member of &lt;span class="caps"&gt;IEEE&lt;/span&gt; Computer Society and&amp;nbsp;&lt;span class="caps"&gt;ACM&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;Steve earned a master&amp;#8217;s degree in software engineering from Seattle University
 and a bachelor&amp;#8217;s degree from Whitman College in Walla Walla,&amp;nbsp;Washington.&lt;/p&gt;
 &lt;p&gt;Send email to &lt;a class="reference external" href="mailto:steve.mcconnell&amp;#64;construx.com"&gt;Steve McConnell&lt;/a&gt;.&lt;/p&gt;
@@ -4172,7 +4172,7 @@ in the next release of Visual Studio.
 This talk will cover developing, debugging and deploying C++ applications
 to Pocket &lt;span class="caps"&gt;PC&lt;/span&gt;, Smartphone and Windows &lt;span class="caps"&gt;CE&lt;/span&gt;.
 It will also cover improvements made since eMbedded Visual C++
-and the work being done in the native frameworks such as &lt;span class="caps"&gt;MFC&lt;/span&gt; and &lt;span class="caps"&gt;ATL&lt;/span&gt;&lt;/p&gt;
+and the work being done in the native frameworks such as &lt;span class="caps"&gt;MFC&lt;/span&gt; and&amp;nbsp;&lt;span class="caps"&gt;ATL&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bios"&gt;
 &lt;h2&gt;Bios&lt;/h2&gt;
@@ -4239,18 +4239,18 @@ When he&amp;#8217;s not writing C++ for money, Eric has been known to write C++ 
 &lt;p&gt;&lt;a class="reference external" href="/talks/2004/foreach.zip"&gt;Click here&lt;/a&gt;
 to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2003</title><link href="http://nwcpp.org/2003-summary.html" rel="alternate"></link><updated>2003-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2003-12-31:2003-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2003.html"&gt;January 8th, 2003 — Unit Testing — Asim&amp;nbsp;Jalis&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2003.html"&gt;February 12th, 2003 — Mojo — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2003.html"&gt;March 12th, 2003 — Resource Management in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2003.html"&gt;April 9th, 2003 — New Features in Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; 2003 — Ed&amp;nbsp;Dudenhoefer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2003.html"&gt;May 14th, 2003 — The Bizarro World of hetero_stack… — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2003.html"&gt;June 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2003.html"&gt;July 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2003.html"&gt;August 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2003.html"&gt;September 10th, 2003 — Thread Safe Object—Never Think About Thread Safety Again — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2003.html"&gt;October 8th, 2003 — Object-Oriented Multithreading in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2003.html"&gt;November 10th, 2003 — The Future of C++: A Panel Discussion with the Experts — Andrei Alexandrescu, Scott Meyers, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2003.html"&gt;December 10th, 2003 — The Future of C++ on .&lt;span class="caps"&gt;NET&lt;/span&gt;: A Tour of C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2003</title><link href="http://nwcpp.org/2003-summary.html" rel="alternate"></link><updated>2003-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2003-12-31:2003-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-01.rst"&gt;January 8th, 2003 — Unit Testing — Asim&amp;nbsp;Jalis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-02.rst"&gt;February 12th, 2003 — Mojo — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-03.rst"&gt;March 12th, 2003 — Resource Management in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-04.rst"&gt;April 9th, 2003 — New Features in Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; 2003 — Ed&amp;nbsp;Dudenhoefer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-05.rst"&gt;May 14th, 2003 — The Bizarro World of hetero_stack… — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-06.rst"&gt;June 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-07.rst"&gt;July 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-08.rst"&gt;August 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-09.rst"&gt;September 10th, 2003 — Thread Safe Object—Never Think About Thread Safety Again — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-10.rst"&gt;October 8th, 2003 — Object-Oriented Multithreading in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-11.rst"&gt;November 10th, 2003 — The Future of C++: A Panel Discussion with the Experts — Andrei Alexandrescu, Scott Meyers, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-12.rst"&gt;December 10th, 2003 — The Future of C++ on .&lt;span class="caps"&gt;NET&lt;/span&gt;: A Tour of C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 10th, 2003 — The Future of C++ on .NET: A Tour of C++/CLI — Herb Sutter</title><link href="http://nwcpp.org/december-2003.html" rel="alternate"></link><updated>2003-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-12-01:december-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -4316,7 +4316,7 @@ to download the source code and slides from the&amp;nbsp;presentation&lt;/p&gt;
 this meeting, there will be a &lt;strong&gt;$10 charge to non-&lt;span class="caps"&gt;NWCPP&lt;/span&gt; and non-&lt;span class="caps"&gt;WSA&lt;/span&gt; members&lt;/strong&gt;.
 Membership in the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is &lt;strong&gt;free&lt;/strong&gt;, and is a great way to
 ensure that you may attend this meeting for free.
-To become a member, visit the &lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;Membership&lt;/a&gt; page
+To become a member, visit the &lt;a class="reference external" href="|filename|/about/about.rst"&gt;Membership&lt;/a&gt; page
 and join our mailing list.
 &lt;strong&gt;Only members on the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; mailing list and &lt;span class="caps"&gt;WSA&lt;/span&gt; members may attend the meeting for&amp;nbsp;free!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This meeting is a great opportunity to pick the minds of some of the
@@ -4556,7 +4556,7 @@ His website is &lt;a class="reference external" href="http://www.moderncppdesign
 using the CuTest library. CuTest is simple, portable, and follows the
 JUnit look and feel in its output and &lt;span class="caps"&gt;API&lt;/span&gt;. The topics covered will&amp;nbsp;include:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Introduction to Test Driven Development (&lt;span class="caps"&gt;TDD&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;Introduction to Test Driven Development&amp;nbsp;(&lt;span class="caps"&gt;TDD&lt;/span&gt;)&lt;/li&gt;
 &lt;li&gt;Demo of using &lt;span class="caps"&gt;TDD&lt;/span&gt; to write C/C++&amp;nbsp;code&lt;/li&gt;
 &lt;li&gt;Comparison of CuTest with other C/C++ unit testing&amp;nbsp;frameworks&lt;/li&gt;
 &lt;li&gt;Some testing ideas and&amp;nbsp;techniques&lt;/li&gt;
@@ -4575,18 +4575,18 @@ interested in test driven development and ways of making this easier and
 more effective. He is the author of CuTest, a unit testing framework for C,
 and Test::Extreme, a unit testing framework for&amp;nbsp;Perl.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2002</title><link href="http://nwcpp.org/2002-summary.html" rel="alternate"></link><updated>2002-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2002-12-31:2002-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2002.html"&gt;January 9th, 2002 — Inter-Process Communications Using Shared Memory — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2002.html"&gt;February 13th, 2002 — Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2002.html"&gt;March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between &lt;span class="caps"&gt;ANSI&lt;/span&gt; C++ and the ‘Managed C++’ of .&lt;span class="caps"&gt;NET&lt;/span&gt; — Matthew&amp;nbsp;Griscom&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2002.html"&gt;April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2002.html"&gt;May 8th, 2002 — Embedded C++ : An Overview — Robert&amp;nbsp;Blumberg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2002.html"&gt;June 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2002.html"&gt;July 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2002.html"&gt;August 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2002.html"&gt;September 18th, 2002 — Understanding templates as a form of weak typing — Bruce&amp;nbsp;Eckel&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2002.html"&gt;October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2002.html"&gt;November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2002.html"&gt;December 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2002</title><link href="http://nwcpp.org/2002-summary.html" rel="alternate"></link><updated>2002-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2002-12-31:2002-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-01.rst"&gt;January 9th, 2002 — Inter-Process Communications Using Shared Memory — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-02.rst"&gt;February 13th, 2002 — Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-03.rst"&gt;March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between &lt;span class="caps"&gt;ANSI&lt;/span&gt; C++ and the ‘Managed C++’ of .&lt;span class="caps"&gt;NET&lt;/span&gt; — Matthew&amp;nbsp;Griscom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-04.rst"&gt;April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-05.rst"&gt;May 8th, 2002 — Embedded C++ : An Overview — Robert&amp;nbsp;Blumberg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-06.rst"&gt;June 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-07.rst"&gt;July 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-08.rst"&gt;August 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-09.rst"&gt;September 18th, 2002 — Understanding templates as a form of weak typing — Bruce&amp;nbsp;Eckel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-10.rst"&gt;October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-11.rst"&gt;November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-12.rst"&gt;December 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2002: No Meeting</title><link href="http://nwcpp.org/december-2002.html" rel="alternate"></link><updated>2002-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-12-01:december-2002.html</id><summary type="html"></summary></entry><entry><title>November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David Brownell</title><link href="http://nwcpp.org/november-2002.html" rel="alternate"></link><updated>2002-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-11-01:november-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -4785,7 +4785,7 @@ to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
 they say so) and everybody is talking about C#, &lt;span class="caps"&gt;VB&lt;/span&gt;, &lt;span class="caps"&gt;ASP&lt;/span&gt;, and &lt;span class="caps"&gt;ADO&lt;/span&gt;. What
 about C++? How does it fit with new technologies? We will explore a
 closer look at the new features of the compiler, the C Run-Time, and
-three other libraries, namely &lt;span class="caps"&gt;STL&lt;/span&gt;, &lt;span class="caps"&gt;MFC&lt;/span&gt; and &lt;span class="caps"&gt;ATL&lt;/span&gt;.&lt;/p&gt;
+three other libraries, namely &lt;span class="caps"&gt;STL&lt;/span&gt;, &lt;span class="caps"&gt;MFC&lt;/span&gt; and&amp;nbsp;&lt;span class="caps"&gt;ATL&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -4814,7 +4814,7 @@ useful programming&amp;nbsp;tools.&lt;/p&gt;
 memory and a waitable timer. You are supposed to implement robust
 inter-process communications in C++. Bartosz will explain the concept of
 shared memory in Win32 and its use in establishing a protocol for data
-exchange between processes. It&amp;#8217;s better than &lt;span class="caps"&gt;DDE&lt;/span&gt; and simpler than &lt;span class="caps"&gt;COM&lt;/span&gt;.&lt;/p&gt;
+exchange between processes. It&amp;#8217;s better than &lt;span class="caps"&gt;DDE&lt;/span&gt; and simpler than&amp;nbsp;&lt;span class="caps"&gt;COM&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -4827,18 +4827,18 @@ systems, was the architect and development lead of the Windows 2000
 content index. He is now the president of Reliable Software, a
 distributed software&amp;nbsp;company.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2001</title><link href="http://nwcpp.org/2001-summary.html" rel="alternate"></link><updated>2001-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2001-12-31:2001-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2001.html"&gt;January 8th–9th, 2001 — Microsoft&amp;#8217;s .&lt;span class="caps"&gt;NET&lt;/span&gt; Initiative — Jeffrey&amp;nbsp;Richter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2001.html"&gt;February 15th, 2001 — Volatile - Multithreaded Programmer&amp;#8217;s Best Friend — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2001.html"&gt;March 14th, 2001 — &lt;span class="caps"&gt;XML&lt;/span&gt; and C++ — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2001.html"&gt;April 11th, 2001 — &lt;span class="caps"&gt;CPP&lt;/span&gt;-Unit Testing Framework — Troy&amp;nbsp;Frever&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2001.html"&gt;May 7th, 2001 — Effective &lt;span class="caps"&gt;STL&lt;/span&gt; Sneak Preview — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2001.html"&gt;June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2001.html"&gt;July 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2001.html"&gt;August 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2001.html"&gt;September 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2001.html"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;quot;Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;quot;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2001.html"&gt;November 14th, 2001 — &lt;span class="caps"&gt;JNI&lt;/span&gt;: How to use Java and C++ together — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2001.html"&gt;December 12th, 2001 — A C++ Programmer&amp;#8217;s Introduction to C# — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2001</title><link href="http://nwcpp.org/2001-summary.html" rel="alternate"></link><updated>2001-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2001-12-31:2001-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-01.rst"&gt;January 8th–9th, 2001 — Microsoft&amp;#8217;s .&lt;span class="caps"&gt;NET&lt;/span&gt; Initiative — Jeffrey&amp;nbsp;Richter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-02.rst"&gt;February 15th, 2001 — Volatile - Multithreaded Programmer&amp;#8217;s Best Friend — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-03.rst"&gt;March 14th, 2001 — &lt;span class="caps"&gt;XML&lt;/span&gt; and C++ — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-04.rst"&gt;April 11th, 2001 — &lt;span class="caps"&gt;CPP&lt;/span&gt;-Unit Testing Framework — Troy&amp;nbsp;Frever&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-05.rst"&gt;May 7th, 2001 — Effective &lt;span class="caps"&gt;STL&lt;/span&gt; Sneak Preview — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-06.rst"&gt;June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-07.rst"&gt;July 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-08.rst"&gt;August 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-09.rst"&gt;September 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-10.rst"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;quot;Dr.&amp;nbsp;&lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-11.rst"&gt;November 14th, 2001 — &lt;span class="caps"&gt;JNI&lt;/span&gt;: How to use Java and C++ together — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-12.rst"&gt;December 12th, 2001 — A C++ Programmer&amp;#8217;s Introduction to C# — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 12th, 2001 — A C++ Programmer’s Introduction to C# — Mike Moskowitz</title><link href="http://nwcpp.org/december-2001.html" rel="alternate"></link><updated>2001-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-12-01:december-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -4863,7 +4863,7 @@ and project manager in a Unix, Mac and Windows environment. The idea for
 this presentation comes from his project experiences with creating a
 portable application with a Java &lt;span class="caps"&gt;GUI&lt;/span&gt; and a C++&amp;nbsp;core.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s "Dr. GUI"</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><updated>2001-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s "Dr. GUI"</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><updated>2001-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Overlake Hospital Educational Conference Center&lt;/div&gt;
@@ -4884,11 +4884,11 @@ for Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;#8217;s next&amp;nbsp;colu
 &lt;p&gt;Paul has written Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt; for over five years now. In addition to the
 bi-monthly question and answer column in the &lt;span class="caps"&gt;MSDN&lt;/span&gt; Developer News
 newspaper, Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt; has a weekly online question and answer column and a
-more-or-less monthly .&lt;span class="caps"&gt;NET&lt;/span&gt; column called Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;.&lt;span class="caps"&gt;NET&lt;/span&gt;.&lt;/p&gt;
+more-or-less monthly .&lt;span class="caps"&gt;NET&lt;/span&gt; column called Dr.&amp;nbsp;&lt;span class="caps"&gt;GUI&lt;/span&gt;.&lt;span class="caps"&gt;NET&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;For a preview of this meeting&amp;#8217;s content, see the online&amp;nbsp;presentation.&lt;/p&gt;
 &lt;p&gt;This is a joint meeting of the Northwest C++ User&amp;#8217;s Group and The &lt;span class="caps"&gt;WSA&lt;/span&gt;
 DevSIG (Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt;) &amp;#8212; formerly known as WinSIG (Window&amp;#8217;s
-Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt;).&lt;/p&gt;
+Developer&amp;#8217;s&amp;nbsp;&lt;span class="caps"&gt;SIG&lt;/span&gt;).&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>September 2001: No Meeting</title><link href="http://nwcpp.org/september-2001.html" rel="alternate"></link><updated>2001-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-09-01:september-2001.html</id><summary type="html"></summary></entry><entry><title>August 2001: No Meeting</title><link href="http://nwcpp.org/august-2001.html" rel="alternate"></link><updated>2001-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-08-01:august-2001.html</id><summary type="html"></summary></entry><entry><title>July 2001: No Meeting</title><link href="http://nwcpp.org/july-2001.html" rel="alternate"></link><updated>2001-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-07-01:july-2001.html</id><summary type="html"></summary></entry><entry><title>June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei Alexandrescu</title><link href="http://nwcpp.org/june-2001.html" rel="alternate"></link><updated>2001-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-06-01:june-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -5048,7 +5048,7 @@ executed by the .&lt;span class="caps"&gt;NET&lt;/span&gt; run-time. This new pr
 simplify the Windows programming model and make Web applications easier
 to write than ever before. And it will enable a new generation of
 software that runs on every conceivable type of computing device, from
-the most powerful Web server to the lowliest hand-held &lt;span class="caps"&gt;PC&lt;/span&gt;.&lt;/p&gt;
+the most powerful Web server to the lowliest hand-held&amp;nbsp;&lt;span class="caps"&gt;PC&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -5067,18 +5067,18 @@ training and consulting organization of its kind. Jeffrey&amp;#8217;s presentati
 to us comes from material he&amp;#8217;s developed for Wintellect courses. More
 information at &lt;a class="reference external" href="http://www.wintellect.com"&gt;http://www.wintellect.com&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>2000</title><link href="http://nwcpp.org/2000-summary.html" rel="alternate"></link><updated>2000-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2000-12-31:2000-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2000.html"&gt;January 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2000.html"&gt;February 15th, 2000 — Datatypes++, A C++ Class Library for Windows — Tom&amp;nbsp;Dowdell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2000.html"&gt;March 8th, 2000 — Real-World Class Design — Mark&amp;nbsp;Wiseman&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2000.html"&gt;April 12th, 2000 — Testing Object-Oriented Software — Steve&amp;nbsp;Tockey&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2000.html"&gt;May 10th, 2000 — C++ Exceptions — Bobby&amp;nbsp;Schmidt&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2000.html"&gt;June 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2000.html"&gt;July 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2000.html"&gt;August 9th, 2000 — Building a High Performance Server Product on Win &lt;span class="caps"&gt;NT&lt;/span&gt;/2000 Using C/C++ — Chris Hickman &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Joe&amp;nbsp;Mullally&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2000.html"&gt;September 13th, 2000 — Change the Way You Write Exception-Safe Code, Forever — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2000.html"&gt;October 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2000.html"&gt;November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn&amp;nbsp;Lovell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2000.html"&gt;December 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>2000</title><link href="http://nwcpp.org/2000-summary.html" rel="alternate"></link><updated>2000-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2000-12-31:2000-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-01.rst"&gt;January 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-02.rst"&gt;February 15th, 2000 — Datatypes++, A C++ Class Library for Windows — Tom&amp;nbsp;Dowdell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-03.rst"&gt;March 8th, 2000 — Real-World Class Design — Mark&amp;nbsp;Wiseman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-04.rst"&gt;April 12th, 2000 — Testing Object-Oriented Software — Steve&amp;nbsp;Tockey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-05.rst"&gt;May 10th, 2000 — C++ Exceptions — Bobby&amp;nbsp;Schmidt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-06.rst"&gt;June 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-07.rst"&gt;July 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-08.rst"&gt;August 9th, 2000 — Building a High Performance Server Product on Win &lt;span class="caps"&gt;NT&lt;/span&gt;/2000 Using C/C++ — Chris Hickman &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Joe&amp;nbsp;Mullally&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-09.rst"&gt;September 13th, 2000 — Change the Way You Write Exception-Safe Code, Forever — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-10.rst"&gt;October 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-11.rst"&gt;November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn&amp;nbsp;Lovell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2000/2000-12.rst"&gt;December 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2000: No Meeting</title><link href="http://nwcpp.org/december-2000.html" rel="alternate"></link><updated>2000-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-12-01:december-2000.html</id><summary type="html"></summary></entry><entry><title>November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn Lovell</title><link href="http://nwcpp.org/november-2000.html" rel="alternate"></link><updated>2000-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-11-01:november-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -5092,7 +5092,7 @@ information at &lt;a class="reference external" href="http://www.wintellect.com"
 &lt;p&gt;Visual Studio 7 is due to be launched early next year, and is
 Microsoft&amp;#8217;s first real deliverable in their .&lt;span class="caps"&gt;NET&lt;/span&gt; initiative. Martyn
 Lovell of Microsoft will give a preview of Visual Studio 7,
-concentrating on C# and &lt;span class="caps"&gt;ASP&lt;/span&gt;+.&lt;/p&gt;
+concentrating on C# and&amp;nbsp;&lt;span class="caps"&gt;ASP&lt;/span&gt;+.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>October 2000: No Meeting</title><link href="http://nwcpp.org/october-2000.html" rel="alternate"></link><updated>2000-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-10-01:october-2000.html</id><summary type="html"></summary></entry><entry><title>September 13th, 2000 — Change the Way You Write Exception-Safe Code, Forever — Andrei Alexandrescu</title><link href="http://nwcpp.org/september-2000.html" rel="alternate"></link><updated>2000-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-09-01:september-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -5219,7 +5219,7 @@ and has worked as a programmer, analyst, designer, researcher,
 consultant, and adjunct professor. His career has included stints at
 Lawrence Livermore National Laboratory, The Boeing Company, and Rockwell
 Collins, Inc. He has a Masters in Software Engineering from Seattle
-University and a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from &lt;span class="caps"&gt;U.C.&lt;/span&gt;&amp;nbsp;Berkeley.&lt;/p&gt;
+University and a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from U.C.&amp;nbsp;Berkeley.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>March 8th, 2000 — Real-World Class Design — Mark Wiseman</title><link href="http://nwcpp.org/march-2000.html" rel="alternate"></link><updated>2000-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-03-01:march-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -5275,7 +5275,7 @@ design decisions he has made about the&amp;nbsp;product.&lt;/p&gt;
 &lt;li&gt;Programming since 1982, professionally since 1986, C since 1987, C++
 since&amp;nbsp;1991&lt;/li&gt;
 &lt;li&gt;Graduated from Nicholls State University in Louisiana in 1987 with
-Computer Science &lt;span class="caps"&gt;B.S.&lt;/span&gt;&lt;/li&gt;
+Computer Science&amp;nbsp;&lt;span class="caps"&gt;B.S.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;Developed a free-form database product for PCs in Pascal, Torrent!,
 (independent of full time job) which achieved limited&amp;nbsp;success&lt;/li&gt;
 &lt;li&gt;Hired by Microsoft in 1990 as a Software Design Engineer in the &lt;span class="caps"&gt;SQL&lt;/span&gt;

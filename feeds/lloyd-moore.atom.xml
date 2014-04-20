@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2012-12-10T00:00:00-08:00</updated><entry><title>Donate towards better video recordings</title><link href="http://nwcpp.org/camera-donations.html" rel="alternate"></link><updated>2012-12-10T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2012-12-10:camera-donations.html</id><summary type="html">&lt;style&gt;
+.left-float  {float: left}
+.right-float {float: right; padding-left: 5em; }
+&lt;/style&gt;&lt;div class="figure"&gt;
+&lt;img alt="Donation Thermometer" class="right-float" src="|filename|images/thermometer.jpg" /&gt;
+&lt;/div&gt;
+&lt;p&gt;The bulk of the feedback we have received over the last year
+on the videotaping of our meetings
+has been that the sound quality is very poor.
+To address this issue, the club would like to purchase a new video camera
+that will allow us to use a remote microphone for the speaker.
+The Northwest C++ Users’ Group is currently collecting donations
+to fund a new camera to record our meetings.
+Ideally we would like to collect $700 to purchase the&amp;nbsp;following:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;new &lt;span class="caps"&gt;HD&lt;/span&gt; video camera,&amp;nbsp;$400&lt;/li&gt;
+&lt;li&gt;wireless microphone for the presenter,&amp;nbsp;$150&lt;/li&gt;
+&lt;li&gt;tripod,&amp;nbsp;$100&lt;/li&gt;
+&lt;li&gt;camera bag,&amp;nbsp;$50&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This equipment will be used to improve the quality of the recordings for our monthly meetings,
+in particular the sound quality.
+The videos of our meetings will continue to be posted
+on our &lt;a class="reference external" href="http://vimeo.com/nwcpp"&gt;Vimeo channel&lt;/a&gt;
+so those who cannot attend our meeting in person
+can still benefit from our speaker&amp;nbsp;presentations.&lt;/p&gt;
+&lt;p&gt;Watch our president, Lloyd Moore, &lt;a class="reference external" href="https://vimeo.com/55217359"&gt;announce our fundraiser&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you would like to help us in this effort, please click on the “Donate”&amp;nbsp;button.&lt;/p&gt;
+&lt;br /&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+    &lt;input name="cmd" type="hidden" value="_s-xclick" /&gt;
+    &lt;input name="hosted_button_id" type="hidden" value="NH22STZVNWVC4" /&gt;
+    &lt;input alt="PayPal - The safer, easier way to pay online!"
+        name="submit" type="image"
+        src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /&gt;
+    &lt;img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+        border="0" width="1" height="1" /&gt;
+&lt;/form&gt;
+&lt;br /&gt;&lt;p&gt;The &lt;a class="reference external" href="/"&gt;Northwest C++ Users&amp;#8217; Group&lt;/a&gt; is registered
+as a 501(c)(3) non-profit organization.
+Contributions to the Northwest C++ Users&amp;#8217; Group
+are tax-deductible to the extent permitted by law.
+Our tax identification number is &lt;strong&gt;91-1718733&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you very much for your continued support of the Northwest C++ Users&amp;#8217; Group
+and we look forward to bringing you another year of interesting and engaging&amp;nbsp;speakers!&lt;/p&gt;
+</summary></entry></feed>

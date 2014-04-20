@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2010.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-12-31T00:00:00-08:00</updated><entry><title>2010</title><link href="http://nwcpp.org/2010-summary.html" rel="alternate"></link><updated>2010-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-12-31:2010-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2010.html"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2010.html"&gt;February 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2010.html"&gt;March 17th, 2010 — Short Talks on&amp;nbsp;Concurrency&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2010.html"&gt;April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark&amp;nbsp;Roberts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2010.html"&gt;May 19th, 2010 — The Anatomy of Message Passing — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2010.html"&gt;June 16th, 2010 — Massive Multithreading on the &lt;span class="caps"&gt;GPU&lt;/span&gt; — Gavriel&amp;nbsp;Plotke&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2010.html"&gt;July 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2010.html"&gt;August 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2010.html"&gt;September 15th, 2010 — The Many Faces of D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2010.html"&gt;October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at&amp;nbsp;Google&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2010.html"&gt;November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs.&amp;nbsp;Concepts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2010.html"&gt;December 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2010.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-12-31T00:00:00-08:00</updated><entry><title>2010</title><link href="http://nwcpp.org/2010-summary.html" rel="alternate"></link><updated>2010-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-12-31:2010-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-01.rst"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-02.rst"&gt;February 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-03.rst"&gt;March 17th, 2010 — Short Talks on&amp;nbsp;Concurrency&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-04.rst"&gt;April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark&amp;nbsp;Roberts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-05.rst"&gt;May 19th, 2010 — The Anatomy of Message Passing — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-06.rst"&gt;June 16th, 2010 — Massive Multithreading on the &lt;span class="caps"&gt;GPU&lt;/span&gt; — Gavriel&amp;nbsp;Plotke&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-07.rst"&gt;July 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-08.rst"&gt;August 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-09.rst"&gt;September 15th, 2010 — The Many Faces of D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-10.rst"&gt;October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at&amp;nbsp;Google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-11.rst"&gt;November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs.&amp;nbsp;Concepts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-12.rst"&gt;December 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2010: No Meeting</title><link href="http://nwcpp.org/december-2010.html" rel="alternate"></link><updated>2010-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-12-01:december-2010.html</id><summary type="html"></summary></entry><entry><title>November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs. Concepts</title><link href="http://nwcpp.org/november-2010.html" rel="alternate"></link><updated>2010-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-11-01:november-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Concepts_(C%2B%2B)"&gt;C++ Concepts&lt;/a&gt;
@@ -39,7 +39,7 @@ Bartosz took part in the design of the
 His main topics of interest are concurrent and distributed computing and language design.
 He regularly publishes a blog at
 &lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;.
-You may see him occasionally at &lt;span class="caps"&gt;CSE&lt;/span&gt; 950 P at the &lt;span class="caps"&gt;UW&lt;/span&gt;.&lt;/p&gt;
+You may see him occasionally at &lt;span class="caps"&gt;CSE&lt;/span&gt; 950 P at the&amp;nbsp;&lt;span class="caps"&gt;UW&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
