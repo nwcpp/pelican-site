@@ -36,4 +36,4 @@ Running Locally
 * Build pages and serve them on http://localhost:8000/, ``fab reserve``
 * Commit pages to Git and push to GitHub: ``git push origin master``
 * Publish website to GitHub Pages: ``fab gh_pages``
-
+* To see all commands, ``fab --list``
