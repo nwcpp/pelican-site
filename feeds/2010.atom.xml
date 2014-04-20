@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2010.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-12-31T00:00:00-08:00</updated><entry><title>2010</title><link href="http://nwcpp.org/2010-summary.html" rel="alternate"></link><updated>2010-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-12-31:2010-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-01.rst"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds%5C2010.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-12-31T00:00:00-08:00</updated><entry><title>2010</title><link href="http://nwcpp.org/2010-summary.html" rel="alternate"></link><updated>2010-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-12-31:2010-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-01.rst"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-02.rst"&gt;February 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-03.rst"&gt;March 17th, 2010 — Short Talks on&amp;nbsp;Concurrency&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="|filename|/2010/2010-04.rst"&gt;April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark&amp;nbsp;Roberts&lt;/a&gt;&lt;/p&gt;
@@ -39,7 +39,7 @@ Bartosz took part in the design of the
 His main topics of interest are concurrent and distributed computing and language design.
 He regularly publishes a blog at
 &lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;.
-You may see him occasionally at &lt;span class="caps"&gt;CSE&lt;/span&gt; 950 P at the&amp;nbsp;&lt;span class="caps"&gt;UW&lt;/span&gt;.&lt;/p&gt;
+You may see him occasionally at &lt;span class="caps"&gt;CSE&lt;/span&gt; 950 P at the &lt;span class="caps"&gt;UW&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
