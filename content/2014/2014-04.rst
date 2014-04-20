@@ -11,8 +11,7 @@ Time and Location
 
 | April 16th, 2014 at 7:00 PM
 | Microsoft Campus.
-| `Building 40/1450–Steptoe <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_
-  (Cafeteria).
+| `Building 40/41 Cafeteria <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
 
 Come at 6:45 for pizza
 `sponsored <|filename|/about/sponsors-howto.rst>`_ by
