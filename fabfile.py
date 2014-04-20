@@ -22,6 +22,8 @@ env.cloudfiles_container = 'my_cloudfiles_container'
 # Github Pages configuration
 env.github_pages_branch = "gh-pages"
 
+# Port for `serve`
+PORT = 8000
 
 def clean():
     """Remove generated files"""
@@ -53,14 +55,13 @@ def rebuild():
     build()
 
 def regenerate():
-    """Same as `build`?"""
+    """Automatically regenerate site upon file modification"""
     local('pelican -r -s pelicanconf.py')
 
 def serve():
     """Serve site at http://localhost:8000/"""
     os.chdir(env.deploy_path)
 
-    PORT = 8000
     class AddressReuseTCPServer(SocketServer.TCPServer):
         allow_reuse_address = True
 
