@@ -24,6 +24,7 @@ env.github_pages_branch = "gh-pages"
 
 
 def clean():
+    """Remove generated files"""
     if os.path.isdir(DEPLOY_PATH):
         shutil.rmtree(DEPLOY_PATH)
         os.makedirs(DEPLOY_PATH)
@@ -36,24 +37,27 @@ def _copy_files(src_dir, dst_dir):
             src = os.path.join(src_dir, name)
             if os.path.isfile(src):
                 dst = os.path.join(dst_dir, name)
-                print src, "->", dst
                 shutil.copy2(src, dst)
 
 def _copy_extras(extras="extras"):
     _copy_files(extras, DEPLOY_PATH)
 
 def build():
+    """Build local version of site"""
     local('pelican -s pelicanconf.py')
     _copy_extras()
 
 def rebuild():
+    """`clean` then `build`"""
     clean()
     build()
 
 def regenerate():
+    """Same as `build`?"""
     local('pelican -r -s pelicanconf.py')
 
 def serve():
+    """Serve site at http://localhost:8000/"""
     os.chdir(env.deploy_path)
 
     PORT = 8000
@@ -66,13 +70,16 @@ def serve():
     server.serve_forever()
 
 def reserve():
+    """`build`, then `serve`"""
     build()
     serve()
 
 def preview():
+    """Build production version of site"""
     local('pelican -s publishconf.py')
 
 def cf_upload():
+    """Publish to Rackspace Cloud Files"""
     rebuild()
     with lcd(DEPLOY_PATH):
         local('swift -v -A https://auth.api.rackspacecloud.com/v1.0 '
@@ -82,6 +89,7 @@ def cf_upload():
 
 @hosts(production)
 def publish():
+    """Publish to production via rsync"""
     local('pelican -s publishconf.py')
     project.rsync_project(
         remote_dir=dest_path,
@@ -91,6 +99,7 @@ def publish():
     )
 
 def gh_pages():
+    """Publish to GitHub Pages"""
     rebuild()
     local("ghp-import -b {github_pages_branch} {deploy_path}".format(**env))
     local("git push origin {github_pages_branch}".format(**env))
