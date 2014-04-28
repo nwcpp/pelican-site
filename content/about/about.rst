@@ -23,8 +23,7 @@ Meetings
 Our meetings are held at the
 `main Microsoft campus </images/MicrosoftMainCampusMap.jpg>`_,
 One Microsoft Way, Redmond, WA 98052,
-in `Building 41/1511–Townsend
-<http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_,
+in the Steptoe Room, `Cafeteria 40 <https://www.google.com/maps/place/Microsoft+Cafe+40/>`_,
 at the corner of NE 31st and 156th Ave NE.
 Usually, we meet at 7pm on the *third Wednesday* of the month.
 You may need to knock on the window so that we can let you into the building.

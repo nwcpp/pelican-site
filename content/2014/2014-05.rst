@@ -10,8 +10,10 @@ Time and Location
 ~~~~~~~~~~~~~~~~~
 
 | May 21st, 2014 at 7:00 PM
-| Microsoft Campus.
-| `Building 40/41 Cafeteria <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
+| Steptoe Room, `Cafeteria 40 <|filename|/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
 
 Come at 6:45 for pizza
 `sponsored <|filename|/about/sponsors-howto.rst>`_ by
