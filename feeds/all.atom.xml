@@ -1,5 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-03-22T00:00:00-07:00</updated><entry><title>April 16, 2014—The Chapel Programming Language—Thomas Van Doren</title><link href="http://nwcpp.org/april-2014.html" rel="alternate"></link><updated>2014-03-22T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-03-22:april-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-04-27T00:00:00-07:00</updated><entry><title>May 21, 2014—Agile Architecture—Alan Shalloway</title><link href="http://nwcpp.org/may-2014.html" rel="alternate"></link><updated>2014-04-27T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-04-27:may-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;May 21st, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.xtremeconsulting.com/careers"&gt;Xtreme Consulting&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Never has architecture been more important than now.
+Scrum acknowledges the need for quality code
+but gives no advice on how to achieve Agile architecture.
+The Kanban Method ignores it completely.
+But as Agile moves into larger organizations we cannot continue to ignore&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;This talk discusses why Agile architecture is so important.
+It then discusses what Agile architecture needs to accomplish
+and provides some methods in how to achieve this.
+This seminar will touch on the why, what and how as summarized&amp;nbsp;here:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why&lt;/strong&gt;: Architecture, whether Agile or otherwise, needs to provide the&amp;nbsp;following:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A&amp;nbsp;vision&lt;/li&gt;
+&lt;li&gt;Enable extensions to the&amp;nbsp;system&lt;/li&gt;
+&lt;li&gt;Enable new ways of implementing existing&amp;nbsp;concepts&lt;/li&gt;
+&lt;li&gt;Foster testability throughout the&amp;nbsp;system&lt;/li&gt;
+&lt;li&gt;De-couple systems from the&amp;nbsp;application&lt;/li&gt;
+&lt;li&gt;Facilitate reuse of common functions across&amp;nbsp;teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How&lt;/strong&gt;: To build Agile architectures, one must be able&amp;nbsp;to:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Do Emergent&amp;nbsp;design&lt;/li&gt;
+&lt;li&gt;Do Testing at the behavior and functional&amp;nbsp;level&lt;/li&gt;
+&lt;li&gt;Understand the different perspectives of conceptual Vs specification;
+creation from using;
+and system architecture from application&amp;nbsp;architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Agile architectures will then enable us&amp;nbsp;to:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Inject new concepts with little to no&amp;nbsp;rework&lt;/li&gt;
+&lt;li&gt;Add new implementations of existing concepts
+with only minimally affecting the existing&amp;nbsp;system&lt;/li&gt;
+&lt;li&gt;Change the system with little risk of introducing errors
+and full confidence that if you do you will detect&amp;nbsp;them&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/alshalloway"&gt;Al Shalloway&lt;/a&gt; is the founder and &lt;span class="caps"&gt;CEO&lt;/span&gt;
+of &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net Objectives&lt;/a&gt;.
+With over 40 years of experience,
+Al is an industry thought leader in Lean, Kanban,
+product portfolio management, Scrum and agile design.
+He helps companies transition to Lean and Agile methods enterprise-wide
+as well teaches courses in these areas.
+Al is a SAFe Program Consultant as well as a co-founder of the Lean Systems Society.
+Al has developed training and coaching methods for Lean-Agile
+that have helped Net Objectives&amp;#8217; clients
+achieve long-term, sustainable productivity gains.
+He is a popular speaker at prestigious conferences worldwide.
+He is the primary author of Design Patterns Explained:
+A New Perspective on Object-Oriented Design,
+Lean-Agile Pocket Guide for Scrum Teams,
+Lean-Agile Software Development:
+Achieving Enterprise Agility and Essential Skills for the Agile Developer.
+Al has worked in literally dozens of industries over his career.
+He is a co-founder and board member for the Lean Software and Systems Consortium.
+He has a Masters in Computer Science from &lt;span class="caps"&gt;M.I.T.
+&lt;/span&gt;as well as a Masters in Mathematics from Emory&amp;nbsp;University.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;We’re thrilled to be a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; sponsor!
+Xtreme Consulting is locally owned and headquartered in Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;.
+We provide a wide-range of business and &lt;span class="caps"&gt;IT&lt;/span&gt; consulting solutions,
+managed services, and staff augmentation.
+We actively recruit for fun, smart, and career-driven &lt;span class="caps"&gt;IT&lt;/span&gt; professionals
+who bring an enthusiasm for personal growth
+and accelerating success for our clients.
+Xtreme’s consultants are provided the opportunity to work with and for
+some of the best technology companies in the industry.
+We work hard to create a passionate, supportive environment
+where employees can reach their career development goals,
+enjoy exceptional benefits, and have fun all at the same&amp;nbsp;time.&lt;/p&gt;
+&lt;p&gt;Xtreme focuses on solutions and services
+including analysis, design, architecture, development, testing,
+implementation, maintenance and support of a variety of software technologies
+with specific emphasis on portal development, technical content creation,
+virtual machine environments and client and server deployment.
+Visit &lt;a class="reference external" href="http://xtremeconsulting.com"&gt;xtremeconsulting.com&lt;/a&gt; for more information.
+You can view and apply to our open positions at
+&lt;a class="reference external" href="http://xtremeconsulting.com/careers"&gt;xtremeconsulting.com/careers&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Xtreme Contact:&lt;/div&gt;
+&lt;div class="line"&gt;Melissa Potera – Senior Recruiter (Technical focus)&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="mailto:melissap&amp;#64;xtremeconsulting.com"&gt;melissap&amp;#64;xtremeconsulting.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;(425) 861-9460 Ext. 229&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Microsoft Meeting Room: Steptoe, Cafeteria 40</title><link href="http://nwcpp.org/steptoe-meeting-room.html" rel="alternate"></link><updated>2014-04-26T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-04-26:steptoe-meeting-room.html</id><summary type="html">&lt;p&gt;Our meetings are held at the
+&lt;a class="reference external" href="http://nwcpp.org/images/MicrosoftMainCampusMap.jpg"&gt;main Microsoft campus&lt;/a&gt;,
+in the Steptoe Room, &lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Cafe+40/"&gt;Cafeteria 40&lt;/a&gt;,
+at the corner of &lt;span class="caps"&gt;NE&lt;/span&gt; 31st and 156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, in Redmond,&amp;nbsp;&lt;span class="caps"&gt;WA&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;The cafeteria lies between Building 40 and Building 41.
+The Steptoe Room is at the south end, close to the main entrance of Building&amp;nbsp;40.&lt;/p&gt;
+&lt;p&gt;Usually, we meet at 7pm on the &lt;em&gt;third Wednesday&lt;/em&gt; of the month.
+Come about 6:45pm for&amp;nbsp;pizza.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: You may need to knock on the window so that we can let you into the&amp;nbsp;building.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Cafe+40/"&gt;Cafeteria 40&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Disclaimer: &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is not associated with Microsoft—although we take advantage of their generosity
+in providing the venue (since 2006) and occasional&amp;nbsp;speakers.&lt;/p&gt;
+&lt;img alt="" src="http://nwcpp.org/images/MicrosoftMainCampusMap.jpg" /&gt;
+</summary></entry><entry><title>April 16, 2014—The Chapel Programming Language—Thomas Van Doren</title><link href="http://nwcpp.org/april-2014.html" rel="alternate"></link><updated>2014-03-22T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-03-22:april-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;April 16th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -833,7 +954,7 @@ cross-platform development, distributed programming, and&amp;nbsp;more.&lt;/p&gt
 &lt;p&gt;Our meetings are held at the
 &lt;a class="reference external" href="/images/MicrosoftMainCampusMap.jpg"&gt;main Microsoft campus&lt;/a&gt;,
 One Microsoft Way, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052,
-in &lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;,
+in the Steptoe Room, &lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Cafe+40/"&gt;Cafeteria 40&lt;/a&gt;,
 at the corner of &lt;span class="caps"&gt;NE&lt;/span&gt; 31st and 156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;.
 Usually, we meet at 7pm on the &lt;em&gt;third Wednesday&lt;/em&gt; of the month.
 You may need to knock on the window so that we can let you into the&amp;nbsp;building.&lt;/p&gt;
