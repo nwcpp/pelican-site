@@ -1,0 +1,124 @@
+May 21, 2014—Agile Architecture—Alan Shalloway
+##############################################
+
+:date: 2014-04-27
+:slug: may-2014
+:author: George Reilly
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| May 21st, 2014 at 7:00 PM
+| Microsoft Campus.
+| `Building 40/41 Cafeteria <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
+
+Come at 6:45 for pizza
+`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`Xtreme Consulting <http://www.xtremeconsulting.com/careers>`_.
+
+
+Abstract
+~~~~~~~~
+
+Never has architecture been more important than now.
+Scrum acknowledges the need for quality code
+but gives no advice on how to achieve Agile architecture.
+The Kanban Method ignores it completely.
+But as Agile moves into larger organizations we cannot continue to ignore it.
+
+This talk discusses why Agile architecture is so important.
+It then discusses what Agile architecture needs to accomplish
+and provides some methods in how to achieve this.
+This seminar will touch on the why, what and how as summarized here:
+
+**Why**: Architecture, whether Agile or otherwise, needs to provide the following:
+
+* A vision
+
+* Enable extensions to the system
+
+* Enable new ways of implementing existing concepts
+
+* Foster testability throughout the system
+
+* De-couple systems from the application
+
+* Facilitate reuse of common functions across teams
+
+**How**: To build Agile architectures, one must be able to:
+
+* Do Emergent design
+
+* Do Testing at the behavior and functional level
+
+* Understand the different perspectives of conceptual Vs specification;
+  creation from using;
+  and system architecture from application architecture
+
+**What**: Agile architectures will then enable us to:
+
+* Inject new concepts with little to no rework
+
+* Add new implementations of existing concepts
+  with only minimally affecting the existing system
+
+* Change the system with little risk of introducing errors
+  and full confidence that if you do you will detect them
+
+
+Bio
+~~~
+
+`Al Shalloway <https://twitter.com/alshalloway>`_ is the founder and CEO
+of `Net Objectives <http://www.netobjectives.com/>`_.
+With over 40 years of experience,
+Al is an industry thought leader in Lean, Kanban,
+product portfolio management, Scrum and agile design.
+He helps companies transition to Lean and Agile methods enterprise-wide
+as well teaches courses in these areas.
+Al is a SAFe Program Consultant as well as a co-founder of the Lean Systems Society.
+Al has developed training and coaching methods for Lean-Agile
+that have helped Net Objectives' clients
+achieve long-term, sustainable productivity gains.
+He is a popular speaker at prestigious conferences worldwide.
+He is the primary author of Design Patterns Explained:
+A New Perspective on Object-Oriented Design,
+Lean-Agile Pocket Guide for Scrum Teams,
+Lean-Agile Software Development:
+Achieving Enterprise Agility and Essential Skills for the Agile Developer.
+Al has worked in literally dozens of industries over his career.
+He is a co-founder and board member for the Lean Software and Systems Consortium.
+He has a Masters in Computer Science from M.I.T.
+as well as a Masters in Mathematics from Emory University.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+We’re thrilled to be a NWCPP sponsor!
+Xtreme Consulting is locally owned and headquartered in Kirkland, WA.
+We provide a wide-range of business and IT consulting solutions,
+managed services, and staff augmentation.
+We actively recruit for fun, smart, and career-driven IT professionals
+who bring an enthusiasm for personal growth
+and accelerating success for our clients.
+Xtreme’s consultants are provided the opportunity to work with and for
+some of the best technology companies in the industry.
+We work hard to create a passionate, supportive environment
+where employees can reach their career development goals,
+enjoy exceptional benefits, and have fun all at the same time.
+
+Xtreme focuses on solutions and services
+including analysis, design, architecture, development, testing,
+implementation, maintenance and support of a variety of software technologies
+with specific emphasis on portal development, technical content creation,
+virtual machine environments and client and server deployment.
+Visit `xtremeconsulting.com <http://xtremeconsulting.com>`_ for more information.
+You can view and apply to our open positions at
+`xtremeconsulting.com/careers <http://xtremeconsulting.com/careers>`_.
+
+| Xtreme Contact:
+| Melissa Potera – Senior Recruiter (Technical focus)
+| melissap@xtremeconsulting.com
+| (425) 861-9460 Ext. 229
