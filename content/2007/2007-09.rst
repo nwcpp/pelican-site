@@ -39,7 +39,7 @@ and what you can do about them.
 Bio
 ~~~
 
-Herb Sutter is a software architect at Microsoft
+`Herb Sutter <http://herbsutter.com/>`_ is a software architect at Microsoft
 and chair of the ISO C++ standards committee.
 Among his books and papers on software development
 is the widely-cited article "The Free Lunch Is Over"

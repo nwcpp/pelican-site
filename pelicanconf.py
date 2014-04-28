@@ -41,7 +41,8 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
 
 DEFAULT_PAGINATION = 12
 
-STATIC_PATHS = ['talks','images']
+PATH = 'content'
+STATIC_PATHS = ['talks', 'images']
 TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
