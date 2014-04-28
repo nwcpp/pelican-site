@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds%5C2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-03-22T00:00:00-07:00</updated><entry><title>April 16, 2014—The Chapel Programming Language—Thomas Van Doren</title><link href="http://nwcpp.org/april-2014.html" rel="alternate"></link><updated>2014-03-22T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-03-22:april-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-03-22T00:00:00-07:00</updated><entry><title>April 16, 2014—The Chapel Programming Language—Thomas Van Doren</title><link href="http://nwcpp.org/april-2014.html" rel="alternate"></link><updated>2014-03-22T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-03-22:april-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;April 16th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -7,7 +7,7 @@
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/41 Cafeteria&lt;/a&gt;.&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.protingent.com/"&gt;Protingent&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -81,7 +81,7 @@ for additional&amp;nbsp;information.&lt;/p&gt;
 (Cafeteria).&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.aerotek.com/"&gt;Aerotek&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -148,7 +148,7 @@ and Tyler Roush (&lt;a class="reference external" href="mailto:troush&amp;#64;ae
 (Cafeteria).&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon &lt;span class="caps"&gt;GIP&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
@@ -197,7 +197,7 @@ Michael Feathers&amp;#8217; &lt;a class="reference external" href="http://www.am
 (Cafeteria).&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Come at 6:45 for pizza
-&lt;a class="reference external" href="|filename|/about/sponsors-howto.rst"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
 &lt;a class="reference external" href="http://www.uasc.com/company/careers.aspx"&gt;Universal Avionics&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;

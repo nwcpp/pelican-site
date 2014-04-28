@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds%5C2001.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2001-12-31T00:00:00-08:00</updated><entry><title>2001</title><link href="http://nwcpp.org/2001-summary.html" rel="alternate"></link><updated>2001-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2001-12-31:2001-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-01.rst"&gt;January 8th–9th, 2001 — Microsoft&amp;#8217;s .&lt;span class="caps"&gt;NET&lt;/span&gt; Initiative — Jeffrey&amp;nbsp;Richter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-02.rst"&gt;February 15th, 2001 — Volatile - Multithreaded Programmer&amp;#8217;s Best Friend — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-03.rst"&gt;March 14th, 2001 — &lt;span class="caps"&gt;XML&lt;/span&gt; and C++ — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-04.rst"&gt;April 11th, 2001 — &lt;span class="caps"&gt;CPP&lt;/span&gt;-Unit Testing Framework — Troy&amp;nbsp;Frever&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-05.rst"&gt;May 7th, 2001 — Effective &lt;span class="caps"&gt;STL&lt;/span&gt; Sneak Preview — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-06.rst"&gt;June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-07.rst"&gt;July 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-08.rst"&gt;August 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-09.rst"&gt;September 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-10.rst"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;quot;Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;quot;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-11.rst"&gt;November 14th, 2001 — &lt;span class="caps"&gt;JNI&lt;/span&gt;: How to use Java and C++ together — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2001/2001-12.rst"&gt;December 12th, 2001 — A C++ Programmer&amp;#8217;s Introduction to C# — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2001.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2001-12-31T00:00:00-08:00</updated><entry><title>2001</title><link href="http://nwcpp.org/2001-summary.html" rel="alternate"></link><updated>2001-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2001-12-31:2001-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2001.html"&gt;January 8th–9th, 2001 — Microsoft&amp;#8217;s .&lt;span class="caps"&gt;NET&lt;/span&gt; Initiative — Jeffrey&amp;nbsp;Richter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2001.html"&gt;February 15th, 2001 — Volatile - Multithreaded Programmer&amp;#8217;s Best Friend — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2001.html"&gt;March 14th, 2001 — &lt;span class="caps"&gt;XML&lt;/span&gt; and C++ — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2001.html"&gt;April 11th, 2001 — &lt;span class="caps"&gt;CPP&lt;/span&gt;-Unit Testing Framework — Troy&amp;nbsp;Frever&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2001.html"&gt;May 7th, 2001 — Effective &lt;span class="caps"&gt;STL&lt;/span&gt; Sneak Preview — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2001.html"&gt;June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2001.html"&gt;July 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2001.html"&gt;August 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2001.html"&gt;September 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2001.html"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;quot;Dr.&amp;nbsp;&lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2001.html"&gt;November 14th, 2001 — &lt;span class="caps"&gt;JNI&lt;/span&gt;: How to use Java and C++ together — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2001.html"&gt;December 12th, 2001 — A C++ Programmer&amp;#8217;s Introduction to C# — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 12th, 2001 — A C++ Programmer’s Introduction to C# — Mike Moskowitz</title><link href="http://nwcpp.org/december-2001.html" rel="alternate"></link><updated>2001-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-12-01:december-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -35,7 +35,7 @@ and project manager in a Unix, Mac and Windows environment. The idea for
 this presentation comes from his project experiences with creating a
 portable application with a Java &lt;span class="caps"&gt;GUI&lt;/span&gt; and a C++&amp;nbsp;core.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s "Dr. GUI"</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><updated>2001-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s "Dr. GUI"</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><updated>2001-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Overlake Hospital Educational Conference Center&lt;/div&gt;
@@ -56,11 +56,11 @@ for Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;#8217;s next&amp;nbsp;colu
 &lt;p&gt;Paul has written Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt; for over five years now. In addition to the
 bi-monthly question and answer column in the &lt;span class="caps"&gt;MSDN&lt;/span&gt; Developer News
 newspaper, Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt; has a weekly online question and answer column and a
-more-or-less monthly .&lt;span class="caps"&gt;NET&lt;/span&gt; column called Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;.&lt;span class="caps"&gt;NET&lt;/span&gt;.&lt;/p&gt;
+more-or-less monthly .&lt;span class="caps"&gt;NET&lt;/span&gt; column called Dr.&amp;nbsp;&lt;span class="caps"&gt;GUI&lt;/span&gt;.&lt;span class="caps"&gt;NET&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;For a preview of this meeting&amp;#8217;s content, see the online&amp;nbsp;presentation.&lt;/p&gt;
 &lt;p&gt;This is a joint meeting of the Northwest C++ User&amp;#8217;s Group and The &lt;span class="caps"&gt;WSA&lt;/span&gt;
 DevSIG (Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt;) &amp;#8212; formerly known as WinSIG (Window&amp;#8217;s
-Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt;).&lt;/p&gt;
+Developer&amp;#8217;s&amp;nbsp;&lt;span class="caps"&gt;SIG&lt;/span&gt;).&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>September 2001: No Meeting</title><link href="http://nwcpp.org/september-2001.html" rel="alternate"></link><updated>2001-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-09-01:september-2001.html</id><summary type="html"></summary></entry><entry><title>August 2001: No Meeting</title><link href="http://nwcpp.org/august-2001.html" rel="alternate"></link><updated>2001-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-08-01:august-2001.html</id><summary type="html"></summary></entry><entry><title>July 2001: No Meeting</title><link href="http://nwcpp.org/july-2001.html" rel="alternate"></link><updated>2001-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-07-01:july-2001.html</id><summary type="html"></summary></entry><entry><title>June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei Alexandrescu</title><link href="http://nwcpp.org/june-2001.html" rel="alternate"></link><updated>2001-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-06-01:june-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -220,7 +220,7 @@ executed by the .&lt;span class="caps"&gt;NET&lt;/span&gt; run-time. This new pr
 simplify the Windows programming model and make Web applications easier
 to write than ever before. And it will enable a new generation of
 software that runs on every conceivable type of computing device, from
-the most powerful Web server to the lowliest hand-held &lt;span class="caps"&gt;PC&lt;/span&gt;.&lt;/p&gt;
+the most powerful Web server to the lowliest hand-held&amp;nbsp;&lt;span class="caps"&gt;PC&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;

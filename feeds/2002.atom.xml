@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds%5C2002.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2002-12-31T00:00:00-08:00</updated><entry><title>2002</title><link href="http://nwcpp.org/2002-summary.html" rel="alternate"></link><updated>2002-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2002-12-31:2002-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-01.rst"&gt;January 9th, 2002 — Inter-Process Communications Using Shared Memory — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-02.rst"&gt;February 13th, 2002 — Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-03.rst"&gt;March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between &lt;span class="caps"&gt;ANSI&lt;/span&gt; C++ and the ‘Managed C++’ of .&lt;span class="caps"&gt;NET&lt;/span&gt; — Matthew&amp;nbsp;Griscom&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-04.rst"&gt;April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-05.rst"&gt;May 8th, 2002 — Embedded C++ : An Overview — Robert&amp;nbsp;Blumberg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-06.rst"&gt;June 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-07.rst"&gt;July 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-08.rst"&gt;August 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-09.rst"&gt;September 18th, 2002 — Understanding templates as a form of weak typing — Bruce&amp;nbsp;Eckel&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-10.rst"&gt;October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-11.rst"&gt;November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2002/2002-12.rst"&gt;December 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2002.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2002-12-31T00:00:00-08:00</updated><entry><title>2002</title><link href="http://nwcpp.org/2002-summary.html" rel="alternate"></link><updated>2002-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2002-12-31:2002-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2002.html"&gt;January 9th, 2002 — Inter-Process Communications Using Shared Memory — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2002.html"&gt;February 13th, 2002 — Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2002.html"&gt;March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between &lt;span class="caps"&gt;ANSI&lt;/span&gt; C++ and the ‘Managed C++’ of .&lt;span class="caps"&gt;NET&lt;/span&gt; — Matthew&amp;nbsp;Griscom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2002.html"&gt;April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2002.html"&gt;May 8th, 2002 — Embedded C++ : An Overview — Robert&amp;nbsp;Blumberg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2002.html"&gt;June 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2002.html"&gt;July 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2002.html"&gt;August 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2002.html"&gt;September 18th, 2002 — Understanding templates as a form of weak typing — Bruce&amp;nbsp;Eckel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2002.html"&gt;October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2002.html"&gt;November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2002.html"&gt;December 2002: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 2002: No Meeting</title><link href="http://nwcpp.org/december-2002.html" rel="alternate"></link><updated>2002-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-12-01:december-2002.html</id><summary type="html"></summary></entry><entry><title>November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David Brownell</title><link href="http://nwcpp.org/november-2002.html" rel="alternate"></link><updated>2002-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-11-01:november-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -209,7 +209,7 @@ to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
 they say so) and everybody is talking about C#, &lt;span class="caps"&gt;VB&lt;/span&gt;, &lt;span class="caps"&gt;ASP&lt;/span&gt;, and &lt;span class="caps"&gt;ADO&lt;/span&gt;. What
 about C++? How does it fit with new technologies? We will explore a
 closer look at the new features of the compiler, the C Run-Time, and
-three other libraries, namely &lt;span class="caps"&gt;STL&lt;/span&gt;, &lt;span class="caps"&gt;MFC&lt;/span&gt; and &lt;span class="caps"&gt;ATL&lt;/span&gt;.&lt;/p&gt;
+three other libraries, namely &lt;span class="caps"&gt;STL&lt;/span&gt;, &lt;span class="caps"&gt;MFC&lt;/span&gt; and&amp;nbsp;&lt;span class="caps"&gt;ATL&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -238,7 +238,7 @@ useful programming&amp;nbsp;tools.&lt;/p&gt;
 memory and a waitable timer. You are supposed to implement robust
 inter-process communications in C++. Bartosz will explain the concept of
 shared memory in Win32 and its use in establishing a protocol for data
-exchange between processes. It&amp;#8217;s better than &lt;span class="caps"&gt;DDE&lt;/span&gt; and simpler than &lt;span class="caps"&gt;COM&lt;/span&gt;.&lt;/p&gt;
+exchange between processes. It&amp;#8217;s better than &lt;span class="caps"&gt;DDE&lt;/span&gt; and simpler than&amp;nbsp;&lt;span class="caps"&gt;COM&lt;/span&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;

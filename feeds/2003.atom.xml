@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds%5C2003.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2003-12-31T00:00:00-08:00</updated><entry><title>2003</title><link href="http://nwcpp.org/2003-summary.html" rel="alternate"></link><updated>2003-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2003-12-31:2003-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-01.rst"&gt;January 8th, 2003 — Unit Testing — Asim&amp;nbsp;Jalis&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-02.rst"&gt;February 12th, 2003 — Mojo — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-03.rst"&gt;March 12th, 2003 — Resource Management in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-04.rst"&gt;April 9th, 2003 — New Features in Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; 2003 — Ed&amp;nbsp;Dudenhoefer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-05.rst"&gt;May 14th, 2003 — The Bizarro World of hetero_stack… — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-06.rst"&gt;June 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-07.rst"&gt;July 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-08.rst"&gt;August 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-09.rst"&gt;September 10th, 2003 — Thread Safe Object—Never Think About Thread Safety Again — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-10.rst"&gt;October 8th, 2003 — Object-Oriented Multithreading in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-11.rst"&gt;November 10th, 2003 — The Future of C++: A Panel Discussion with the Experts — Andrei Alexandrescu, Scott Meyers, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="|filename|/2003/2003-12.rst"&gt;December 10th, 2003 — The Future of C++ on .&lt;span class="caps"&gt;NET&lt;/span&gt;: A Tour of C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2003.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2003-12-31T00:00:00-08:00</updated><entry><title>2003</title><link href="http://nwcpp.org/2003-summary.html" rel="alternate"></link><updated>2003-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2003-12-31:2003-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2003.html"&gt;January 8th, 2003 — Unit Testing — Asim&amp;nbsp;Jalis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2003.html"&gt;February 12th, 2003 — Mojo — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2003.html"&gt;March 12th, 2003 — Resource Management in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2003.html"&gt;April 9th, 2003 — New Features in Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; 2003 — Ed&amp;nbsp;Dudenhoefer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2003.html"&gt;May 14th, 2003 — The Bizarro World of hetero_stack… — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2003.html"&gt;June 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2003.html"&gt;July 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2003.html"&gt;August 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2003.html"&gt;September 10th, 2003 — Thread Safe Object—Never Think About Thread Safety Again — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2003.html"&gt;October 8th, 2003 — Object-Oriented Multithreading in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2003.html"&gt;November 10th, 2003 — The Future of C++: A Panel Discussion with the Experts — Andrei Alexandrescu, Scott Meyers, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2003.html"&gt;December 10th, 2003 — The Future of C++ on .&lt;span class="caps"&gt;NET&lt;/span&gt;: A Tour of C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 10th, 2003 — The Future of C++ on .NET: A Tour of C++/CLI — Herb Sutter</title><link href="http://nwcpp.org/december-2003.html" rel="alternate"></link><updated>2003-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-12-01:december-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -76,7 +76,7 @@ to download the source code and slides from the&amp;nbsp;presentation&lt;/p&gt;
 this meeting, there will be a &lt;strong&gt;$10 charge to non-&lt;span class="caps"&gt;NWCPP&lt;/span&gt; and non-&lt;span class="caps"&gt;WSA&lt;/span&gt; members&lt;/strong&gt;.
 Membership in the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is &lt;strong&gt;free&lt;/strong&gt;, and is a great way to
 ensure that you may attend this meeting for free.
-To become a member, visit the &lt;a class="reference external" href="|filename|/about/about.rst"&gt;Membership&lt;/a&gt; page
+To become a member, visit the &lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;Membership&lt;/a&gt; page
 and join our mailing list.
 &lt;strong&gt;Only members on the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; mailing list and &lt;span class="caps"&gt;WSA&lt;/span&gt; members may attend the meeting for&amp;nbsp;free!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This meeting is a great opportunity to pick the minds of some of the
@@ -316,7 +316,7 @@ His website is &lt;a class="reference external" href="http://www.moderncppdesign
 using the CuTest library. CuTest is simple, portable, and follows the
 JUnit look and feel in its output and &lt;span class="caps"&gt;API&lt;/span&gt;. The topics covered will&amp;nbsp;include:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Introduction to Test Driven Development (&lt;span class="caps"&gt;TDD&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;Introduction to Test Driven Development&amp;nbsp;(&lt;span class="caps"&gt;TDD&lt;/span&gt;)&lt;/li&gt;
 &lt;li&gt;Demo of using &lt;span class="caps"&gt;TDD&lt;/span&gt; to write C/C++&amp;nbsp;code&lt;/li&gt;
 &lt;li&gt;Comparison of CuTest with other C/C++ unit testing&amp;nbsp;frameworks&lt;/li&gt;
 &lt;li&gt;Some testing ideas and&amp;nbsp;techniques&lt;/li&gt;
