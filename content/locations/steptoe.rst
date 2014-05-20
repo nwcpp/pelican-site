@@ -11,7 +11,12 @@ in the Steptoe Room, `Cafeteria 40 <https://www.google.com/maps/place/Microsoft+
 at the corner of NE 31st and 156th Ave NE, in Redmond, WA.
 
 The cafeteria lies between Building 40 and Building 41.
-The Steptoe Room is at the south end, close to the main entrance of Building 40.
+The Steptoe Room is at the south end of the cafeteria,
+close to the main entrance of Building 40.
+
+As you turn off NE 31st St, you will see building 41 on your left
+and a large parking structure on your right. Park there.
+If you arrive after 6pm, you won't need to register with Microsoft as a visitor.
 
 Usually, we meet at 7pm on the *third Wednesday* of the month.
 Come about 6:45pm for pizza.
