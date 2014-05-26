@@ -124,3 +124,10 @@ You can view and apply to our open positions at
 | Melissa Potera – Senior Recruiter (Technical focus)
 | melissap@xtremeconsulting.com
 | (425) 861-9460 Ext. 229
+
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/76xYZqVBDkQ>`_ |
+`Slides </talks/2014/AgileArchitecture_cpp_v6as.pdf>`_
