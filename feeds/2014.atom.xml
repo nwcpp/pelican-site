@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-04-27T00:00:00-07:00</updated><entry><title>May 21, 2014—Agile Architecture—Alan Shalloway</title><link href="http://nwcpp.org/may-2014.html" rel="alternate"></link><updated>2014-04-27T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-04-27:may-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-06-01T00:00:00-07:00</updated><entry><title>June 18, 2014—High Reliability Systems—Lloyd Moore</title><link href="http://nwcpp.org/june-2014.html" rel="alternate"></link><updated>2014-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-06-01:june-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;June 18th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.vmware.com/company/careers"&gt;VMware&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk will explore various software techniques
+that can be used to harden a software system
+and make it more reliable in a harsh environment.
+Specifically we will be looking at cases
+where the software needs to be more reliable than “average”
+but does not justify investment in a formal specification such as &lt;span class="caps"&gt;MISRA&lt;/span&gt; or &lt;span class="caps"&gt;DO&lt;/span&gt;-178B.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.linkedin.com/in/lloydamoore"&gt;Lloyd Moore&lt;/a&gt; is the founder and owner of
+&lt;a class="reference external" href="http://www.cyberdata-robotics.com/"&gt;CyberData Corporation&lt;/a&gt;,
+which provides consulting services
+in the robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 25 years.
+His formal training in biological-based artificial intelligence, electronics, and psychology.
+Lloyd is also currently the president of the Northwest C++ User&amp;#8217;s Group
+and an organizer of the
+&lt;a class="reference external" href="http://www.robothon.org/"&gt;Seattle Robotics Society Robothon&lt;/a&gt;&amp;nbsp;event.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;VMware recruiting is pleased to be a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; sponsor.
+VMware has pioneered virtualization of x86 platform
+separating software from underlying hardware.
+We’re the leader in virtualization infrastructure solutions with three main product&amp;nbsp;groups:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;span class="caps"&gt;SDDC&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;end user&amp;nbsp;computing&lt;/li&gt;
+&lt;li&gt;hybrid cloud&amp;nbsp;computing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;VMware is currently ramping up our Bellevue office location
+with roles on the Cloud Directory team.
+The Cloud technology we develop continues to have an unprecedented impact on our customers,
+and our rapid and continuing growth is proof of this.
+To continue this momentum, we seek passionate and innovative software engineers
+that can imagine, develop, and deliver transformative solutions
+that impact and improve &lt;span class="caps"&gt;IT&lt;/span&gt;&amp;nbsp;operations.&lt;/p&gt;
+&lt;p&gt;We’re assembling an invitation only hiring event August 14th-17th
+for seasoned backend Software Developers.
+If you’re interested in attending
+or just would like more information about the hiring event
+or opportunities VMware in general,
+please send me your resume or contact me at: &lt;a class="reference external" href="mailto:Halla&amp;#64;Vmware.com"&gt;Halla&amp;#64;Vmware.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>May 21, 2014—Agile Architecture—Alan Shalloway</title><link href="http://nwcpp.org/may-2014.html" rel="alternate"></link><updated>2014-04-27T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-04-27:may-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 21st, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
