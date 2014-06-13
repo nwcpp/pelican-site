@@ -10,13 +10,13 @@ on Windows, Mac, and Linux.
 Windows Setup
 -------------
 
-* Install the prerequisites of Python 2.7, *pip*, *virtualenv*,
+* Install the prerequisites of Python 2.7 (*32-bit*), *pip*, *virtualenv*,
   *Setuptools*, and *easy_install*, per `Installing Python on Windows
   <http://docs.python-guide.org/en/latest/starting/install/win/>`_.
 * The `Fabric <http://www.fabfile.org/>`_ tool
   requires `PyCrypto <http://pycrypto.org>`_,
   which is tricky to install if you don't have the MSVC 2008 compiler on your system.
-* Download the PyCrypto installer for your flavor of Python from
+* Download the PyCrypto installer for 32-bit Python 2.7 from
   `VoidSpace <http://www.voidspace.org.uk/python/modules.shtml#pycrypto>`_.
 * Do not run the PyCrypto installer yet, until you've created your virtualenv.
 
@@ -25,7 +25,6 @@ Local Setup
 
 * Create a new virtualenv, ``nwcpp``
 * Windows only: ``easy_install pycrypto-2.6.win32-py2.7.exe``
-  (or whatever you downloaded)
 * Install Pelican and other dependencies:
   ``pip install pelican fabric python-dateutil typogrify ghp-import``
 
