@@ -69,3 +69,10 @@ If you’re interested in attending
 or just would like more information about the hiring event
 or opportunities VMware in general,
 please send me your resume or contact me at: Halla@Vmware.com
+
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/9WWuSU1w_ZY>`_ |
+`Slides </talks/2014/HighReliabilitySystems.pptx>`_
