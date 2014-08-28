@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><atom:link href="http://nwcpp.org/feeds/lloyd-moore.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 10 Dec 2012 00:00:00 -0800</lastBuildDate><item><title>Donate towards better video recordings</title><link>http://nwcpp.org/camera-donations.html</link><description>&lt;style&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><atom:link href="http://nwcpp.org/feeds/lloyd-moore.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 08 Aug 2014 00:00:00 -0700</lastBuildDate><item><title>CppCon, September 7–12, Bellevue, WA</title><link>http://nwcpp.org/cppcon-2014.html</link><description>&lt;p&gt;CppCon is a local C++ Conference (Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;) happening on September 7–12, 2014.
+Full details on the conference can be found at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The conference will also be hosting several &lt;span class="caps"&gt;FREE&lt;/span&gt; sessions.
+From 8:00 &lt;span class="caps"&gt;AM&lt;/span&gt; to 8:45 &lt;span class="caps"&gt;AM&lt;/span&gt; there will be several rooms holding various sessions
+which are free to everyone.
+The evening sessions and all sessions on Friday are also open to everyone.
+In the evening one room will have a planned 90 minute presentation
+and the other rooms will have two 45 minute open sessions.
+&lt;a class="reference external" href="http://cppcon.org/open-content-2014/"&gt;Full details on these sessions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, there are also multiple volunteer opportunities available.
+If you would like to help out at the conference in exchange for attendance
+please get in touch with Brett Searles at
+&lt;a class="reference external" href="mailto:brett.searles&amp;#64;attobotics.net"&gt;brett.searles&amp;#64;attobotics.net&lt;/a&gt;
+to let him know that you are&amp;nbsp;interested!!&lt;/p&gt;
+&lt;p&gt;Again, full details on the conference are available at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;;
+please feel free to attend in which ever capacity suits&amp;nbsp;you!!!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 08 Aug 2014 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2014-08-08:cppcon-2014.html</guid></item><item><title>Donate towards better video recordings</title><link>http://nwcpp.org/camera-donations.html</link><description>&lt;style&gt;
 .left-float  {float: left}
 .right-float {float: right; padding-left: 5em; }
 &lt;/style&gt;&lt;div class="figure"&gt;
