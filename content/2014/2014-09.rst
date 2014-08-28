@@ -1,0 +1,44 @@
+September 17, 2014—Parallelism in the Standard C++: What to Expect in C++ 17—Artur Laksberg
+###########################################################################################
+
+:date: 2014-08-28
+:slug: september-2014
+:author: George Reilly
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| September 17th, 2014 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <|filename|/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+
+Parallelism in C++ has become more accessible
+thanks to the plethora of libraries developed by the industry in the last decade or so.
+The time has come to bring the innovations developed in these libraries into the mainstream
+– the ISO C++ Standard.
+In this talk we’ll dive into a couple of proposals that are currently on the agenda
+for the next major version of the C++ Standard
+– the Task Regions and the Parallel STL.
+Together, these proposals aim to make writing portable parallel code in C++
+easy and productive.
+
+Bio
+~~~
+
+Artur Laksberg leads the Visual C++ Libraries team at Microsoft.
+His interests include concurrency, programming language and library design,
+and modern C++.
+Artur is one of the co-authors of the Parallel STL proposal;
+his team has implemented a prototype of the proposal.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Coming Soon.
