@@ -62,3 +62,10 @@ Aerotek currently has offices located in Bellevue, Everett, and Federal Way.
 | Suite 200
 | Bellevue, WA, 98004
 | http://www.aerotek.com/
+
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/d5wUSSCHLlA>`_ |
+`Slides </talks/2014/NWCPP_Parallel_STL2.pptx>`_
