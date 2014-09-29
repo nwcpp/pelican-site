@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-08-28T00:00:00-07:00</updated><entry><title>September 17, 2014—Parallelism in the Standard C++: What to Expect in C++ 17—Artur Laksberg</title><link href="http://nwcpp.org/september-2014.html" rel="alternate"></link><updated>2014-08-28T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-08-28:september-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-09-29T00:00:00-07:00</updated><entry><title>October 15, 2014—Compiler Technologies—Jim Hogg</title><link href="http://nwcpp.org/october-2014.html" rel="alternate"></link><updated>2014-09-29T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-09-29:october-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 15th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Earlier this year, I taught a graduate class on Compilers
+at University of Washington:
+10 weeks of 3-hour, evening lectures.
+The class project was an interesting mixture of technologies:
+use Java to implement a subset of itself,
+but generate native machine code via an Assembler text.
+In this session, I will outline what the class covered
+– much of it appropriate for any language, such as C++,
+that compiles to native code and has to concern itself
+with calling conventions, stack frames, etc.
+I’ll also reflect upon what I think worked well, and what, less&amp;nbsp;well.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Jim is a Program Manager with Microsoft’s C++ Compiler Team,
+involved in code-optimization.
+In years gone by, he has worked on
+Computational Physics, Seismic Processing and Operating&amp;nbsp;Systems.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Protingent is a locally owned staffing company
+with our corporate headquarters being in Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;.
+Protingent provides engineering and &lt;span class="caps"&gt;IT&lt;/span&gt; professionals
+with rewarding and exciting work opportunities
+at technology businesses throughout the Pacific Northwest.
+We are committed to helping you enhance your career
+while engaging in meaningful and creative work
+that drives your own personal spirit and passions.
+Protingent recruiters work exclusively with technology professionals
+and technology companies—we have technical understanding, expertise
+and are well connected in the technology community.
+Our principals bring deep personal understanding
+of both the business of engineering
+as well as the culture and nature of the engineer who operates within it.
+More than a database, we have an unparalleled client network
+built from years of collaboration with our clients.
+We have daily access to hiring managers
+at some of the most exciting technology companies.
+We can get your resume directly into the right hands.
+Protingent offers benefits
+including health insurance, dental insurance, 401(k),
+&lt;span class="caps"&gt;PTO&lt;/span&gt;, pre-tax commuter benefits and supplemental&amp;nbsp;insurance.&lt;/p&gt;
+&lt;p&gt;Please visit &lt;a class="reference external" href="http://www.protingent.com"&gt;Protingent.com&lt;/a&gt; for additional&amp;nbsp;information.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Attendes:&lt;/div&gt;
+&lt;div class="line"&gt;Laura Garcia &lt;a class="reference external" href="mailto:laura&amp;#64;protingent.com"&gt;laura&amp;#64;protingent.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Jeff Moorgate &lt;a class="reference external" href="mailto:jeff&amp;#64;protingent.com"&gt;jeff&amp;#64;protingent.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;JOHN&lt;/span&gt; &lt;span class="caps"&gt;MARSH&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;p 425 284 7762     f 425 642 8001&lt;/div&gt;
+&lt;div class="line"&gt;www.protingent.com&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>September 17, 2014—Parallelism in the Standard C++: What to Expect in C++ 17—Artur Laksberg</title><link href="http://nwcpp.org/september-2014.html" rel="alternate"></link><updated>2014-08-28T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-08-28:september-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;September 17th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;

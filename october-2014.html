@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8" />
-        <title>January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze</title>
+        <title>October 15, 2014—Compiler Technologies—Jim Hogg</title>
         <link rel="stylesheet" href="./theme/css/nwcpp.css" />
         <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users’ Group Atom Feed" />
 
@@ -26,10 +26,10 @@
                     <li><a href="./category/2008.html">2008</a></li>
                     <li><a href="./category/2009.html">2009</a></li>
                     <li><a href="./category/2010.html">2010</a></li>
-                    <li class="active"><a href="./category/2011.html">2011</a></li>
+                    <li><a href="./category/2011.html">2011</a></li>
                     <li><a href="./category/2012.html">2012</a></li>
                     <li><a href="./category/2013.html">2013</a></li>
-                    <li><a href="./category/2014.html">2014</a></li>
+                    <li class="active"><a href="./category/2014.html">2014</a></li>
                     <li><a href="./category/about.html">about</a></li>
                     <li><a href="./category/locations.html">locations</a></li>
                     <li><a href="./category/misc.html">misc</a></li>
@@ -39,61 +39,85 @@
   <article>
     <header>
       <h1 class="entry-title">
-        <a href="./january-2011.html" rel="bookmark"
-           title="Permalink to January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze">January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis&nbsp;Ceze</a></h1>
+        <a href="./october-2014.html" rel="bookmark"
+           title="Permalink to October 15, 2014—Compiler Technologies—Jim Hogg">October 15, 2014—Compiler Technologies—Jim&nbsp;Hogg</a></h1>
     </header>
 
     <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2011-01-01T00:00:00">
-                Published: Sat 01 January 2011
+        <abbr class="published" title="2014-09-29T00:00:00">
+                Published: Mon 29 September 2014
         </abbr>
 
         <address class="vcard author">
                 By <a class="url fn" href="./author/george-reilly.html">George Reilly</a>
         </address>
-<p>In <a href="./category/2011.html">2011</a>. </p>
+<p>In <a href="./category/2014.html">2014</a>. </p>
 
-</footer><!-- /.post-info -->      <div class="section" id="abstract">
+</footer><!-- /.post-info -->      <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">October 15th, 2014 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Steptoe Room, <a class="reference external" href="./steptoe-meeting-room.html">Cafeteria 40</a>,</div>
+<div class="line">Microsoft Campus,</div>
+<div class="line">156th Ave <span class="caps">NE</span>,</div>
+<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
+</div>
+</div>
+<div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Current multicore systems are nondeterministic.
-Each time they execute a multithreaded application, even if supplied with the same input,
-they can produce a different output.
-This frustrates debugging, limits the ability to properly test multithreaded code
-and hinders fault-tolerant scenarios.
-Moreover, data-races often lead to surprising behavior
-and complicate the semantics of programming&nbsp;languages.</p>
-<p>In this talk, I will argue that nondeterminism should be kept at a minimum
-both during development as well as in the field,
-making the benefits of deterministic execution go beyond debugging.
-I will also argue that concurrency errors should be treated as exceptions,
-have fail-stop behavior and precise semantics.
-I will present our work on fully deterministic shared memory multiprocessing (<span class="caps">DMP</span>),
-exploring multiple deterministic execution strategies
-with different performance, complexity and scalability trade-offs.
-I will also present some of our work on architecture support
-for fail-stop behavior of data-races.
-I will end the talk with a brief overview of our efforts
-in complex concurrency bug detection and&nbsp;avoidance.</p>
+<p>Earlier this year, I taught a graduate class on Compilers
+at University of Washington:
+10 weeks of 3-hour, evening lectures.
+The class project was an interesting mixture of technologies:
+use Java to implement a subset of itself,
+but generate native machine code via an Assembler text.
+In this session, I will outline what the class covered
+– much of it appropriate for any language, such as C++,
+that compiles to native code and has to concern itself
+with calling conventions, stack frames, etc.
+I’ll also reflect upon what I think worked well, and what, less&nbsp;well.</p>
 </div>
 <div class="section" id="bio">
 <h2>Bio</h2>
-<p><a class="reference external" href="http://www.cs.washington.edu/homes/luisceze/">Luis Ceze</a>
-is an Assistant Professor in the Computer Science and Engineering Department
-at the University of Washington.
-His research focuses on computer architecture, compiler, programming models and <span class="caps">OS</span>
-to improve the programmability, reliability and energy efficiency of multiprocessor systems.
-He has co-authored over 40 papers in these areas,
-and had several papers selected as <span class="caps">IEEE</span> Micro Top Picks and <span class="caps">CACM</span> research Highlights.
-He participated in the Blue Gene, Cyclops, and <span class="caps">PERCS</span> projects at <span class="caps">IBM</span>
-and is a recipient of several <span class="caps">IBM</span> awards.
-He is also a recipient of an <span class="caps">NSF</span> <span class="caps">CAREER</span> Award, a Sloan Research Fellowship,
-and a Microsoft Research Faculty Fellowship.
-He co-founded Corensic, a <span class="caps">UW</span>-<span class="caps">CSE</span> spin-off company, where he is a part-time&nbsp;consultant.</p>
+<p>Jim is a Program Manager with Microsoft’s C++ Compiler Team,
+involved in code-optimization.
+In years gone by, he has worked on
+Computational Physics, Seismic Processing and Operating&nbsp;Systems.</p>
 </div>
-<div class="section" id="resources">
-<h2>Resources</h2>
-<p><a class="reference external" href="/talks/2011/nwcpp-jan2011.pdf">Slides</a>.</p>
+<div class="section" id="a-word-from-our-sponsor">
+<h2>A Word From Our&nbsp;Sponsor</h2>
+<p>Protingent is a locally owned staffing company
+with our corporate headquarters being in Bellevue, <span class="caps">WA</span>.
+Protingent provides engineering and <span class="caps">IT</span> professionals
+with rewarding and exciting work opportunities
+at technology businesses throughout the Pacific Northwest.
+We are committed to helping you enhance your career
+while engaging in meaningful and creative work
+that drives your own personal spirit and passions.
+Protingent recruiters work exclusively with technology professionals
+and technology companies—we have technical understanding, expertise
+and are well connected in the technology community.
+Our principals bring deep personal understanding
+of both the business of engineering
+as well as the culture and nature of the engineer who operates within it.
+More than a database, we have an unparalleled client network
+built from years of collaboration with our clients.
+We have daily access to hiring managers
+at some of the most exciting technology companies.
+We can get your resume directly into the right hands.
+Protingent offers benefits
+including health insurance, dental insurance, 401(k),
+<span class="caps">PTO</span>, pre-tax commuter benefits and supplemental&nbsp;insurance.</p>
+<p>Please visit <a class="reference external" href="http://www.protingent.com">Protingent.com</a> for additional&nbsp;information.</p>
+<div class="line-block">
+<div class="line">Attendes:</div>
+<div class="line">Laura Garcia <a class="reference external" href="mailto:laura&#64;protingent.com">laura&#64;protingent.com</a></div>
+<div class="line">Jeff Moorgate <a class="reference external" href="mailto:jeff&#64;protingent.com">jeff&#64;protingent.com</a></div>
+<div class="line"><span class="caps">JOHN</span> <span class="caps">MARSH</span></div>
+<div class="line">p 425 284 7762     f 425 642 8001</div>
+<div class="line">www.protingent.com</div>
+</div>
 </div>
 
     </div><!-- /.entry-content -->
