@@ -75,3 +75,10 @@ Please visit `Protingent.com <http://www.protingent.com>`_ for additional inform
 | JOHN MARSH
 | p 425 284 7762     f 425 642 8001
 | www.protingent.com
+
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/5WEX-yN34Ak>`_ |
+`Slides </talks/2014/CompilerConstruction.pptx>`_
