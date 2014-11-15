@@ -42,6 +42,21 @@ IntelliTrace, and other diagnostics experiences
 that help make Visual Studio the most productive IDE on the planet.
 
 
+No Video Recording
+~~~~~~~~~~~~~~~~~~
+
+THIS SESSION WILL NOT BE RECORDED.
+It will include material which our speakers have opted to NOT have recorded,
+as it is of a “non-public nature” at this time.
+Because of this we will NOT be recording this session as we normally do,
+so please plan to attend in person if you are interested in this topic.
+We record as many sessions as possible,
+but at the same time,
+we also respect the speakers' wishes to control
+how the material they present is distributed.
+Thanks for your understanding, and sorry for the late notice on this change.
+
+
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
 
