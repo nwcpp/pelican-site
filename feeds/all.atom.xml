@@ -78,6 +78,70 @@ including health insurance, dental insurance, 401(k),
 &lt;div class="line"&gt;www.protingent.com&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Configuring &lt;strong&gt;Breakpoints&lt;/strong&gt;
+(Conditional Expressions, Hit Count, Filter, and Tracepoints)
+is easier with the modern peek style &lt;span class="caps"&gt;UI&lt;/span&gt;,
+and more discoverable with the new breakpoint toolbar.
+As a bonus, you can now restore a deleted&amp;nbsp;breakpoint.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/10/06/new-breakpoint-configuration-experience.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/711"&gt;Watch the&amp;nbsp;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;strong&gt;PerfTips&lt;/strong&gt; when you break in the debugger
+(via breakpoints or stepping)
+give you an unprecedented early view into potential performance&amp;nbsp;issues&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/18/perftips-performance-information-at-a-glance-while-debugging-with-visual-studio.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/718"&gt;Watch the&amp;nbsp;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;We’ve made your &lt;strong&gt;startup debugging faster&lt;/strong&gt;
+and added resiliency during func&amp;nbsp;eval&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/vcblog/archive/2014/10/06/debugging-improvements.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Debugging Android apps from any &lt;span class="caps"&gt;IDE&lt;/span&gt; and any language?
+Use &lt;strong&gt;Visual Studio’s Emulator for&amp;nbsp;Android&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/introducing-visual-studio-s-emulator-for-android.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/516"&gt;Watch the&amp;nbsp;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Writing &lt;strong&gt;C++ code for Android in Visual Studio&lt;/strong&gt;?
+Use our debugging&amp;nbsp;support&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/debugging-c-code-on-android-with-visual-studio-2015.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/510"&gt;Watch the&amp;nbsp;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Always wanted to &lt;strong&gt;diagnose memory issues while live debugging&lt;/strong&gt;
+(instead of post-mortem)?
+Kick the tires on our new Memory Usage tool
+in the all new Diagnostic Tools&amp;nbsp;window&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/13/memory-usage-tool-while-debugging-in-visual-studio-2015.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://microsoft.sharepoint.com/teams/DD_VSPlat/Diagnostics/Dogfooding/Pages/default.aspx"&gt;Share your feedback in our dogfooding&amp;nbsp;program&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </summary></entry><entry><title>October 15, 2014—Compiler Technologies—Jim Hogg</title><link href="http://nwcpp.org/october-2014.html" rel="alternate"></link><updated>2014-09-29T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-09-29:october-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;

@@ -1,0 +1,47 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="evolution.html">Prev</a>   </td>
+    <td><a href="OSTM.html">Next</a>   </td>
+  </tr>
+</table>
+<h1> Word-Based STM
+</h1>
+<pre> void list_insert_wstm (list *l, int k)
+ {
+   node *n := new node(k);
+   do {
+      wstm transaction *tx := <b>WSTMStartTransaction</b>();
+      node *prev := <b>WSTMRead</b>(tx, &amp;(l->head));
+      node *curr := <b>WSTMRead</b>(tx, &amp;(prev->next));
+      while ( curr->key &lt; k ) {
+         prev := curr;
+         curr := <b>WSTMRead</b>(tx, &amp;(curr->next));
+      }
+      n->next := curr;
+      <b>WSTMWrite</b>(t, &amp;(prev->next), n);
+   } while ( !<b>WSTMCommitTransaction</b>(tx) );
+ }
+</pre>
+<ul>
+  <ul>
+    <li> Verifies all reads before committing
+</li>
+  </ul>
+</ul>
+<table>
+  <tr>
+    <td><small>9</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>
