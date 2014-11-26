@@ -91,3 +91,59 @@ Please visit `Protingent.com <http://www.protingent.com>`_ for additional inform
 | JOHN MARSH
 | p 425 284 7762     f 425 642 8001
 | www.protingent.com
+
+
+Resources
+~~~~~~~~~
+
+* Configuring **Breakpoints**
+  (Conditional Expressions, Hit Count, Filter, and Tracepoints)
+  is easier with the modern peek style UI,
+  and more discoverable with the new breakpoint toolbar.
+  As a bonus, you can now restore a deleted breakpoint.
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/10/06/new-breakpoint-configuration-experience.aspx>`__
+    - `Watch the video
+      <http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/711>`__
+
+* **PerfTips** when you break in the debugger
+  (via breakpoints or stepping)
+  give you an unprecedented early view into potential performance issues
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/18/perftips-performance-information-at-a-glance-while-debugging-with-visual-studio.aspx>`__
+    - `Watch the video
+      <http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/718>`__
+
+* We’ve made your **startup debugging faster**
+  and added resiliency during func eval
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/vcblog/archive/2014/10/06/debugging-improvements.aspx>`__
+
+* Debugging Android apps from any IDE and any language?
+  Use **Visual Studio’s Emulator for Android**
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/introducing-visual-studio-s-emulator-for-android.aspx>`__
+    - `Watch the video
+      <http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/516>`__
+
+* Writing **C++ code for Android in Visual Studio**?
+  Use our debugging support
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/debugging-c-code-on-android-with-visual-studio-2015.aspx>`__
+    - `Watch the video
+      <http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/510>`__
+ 
+* Always wanted to **diagnose memory issues while live debugging**
+  (instead of post-mortem)?
+  Kick the tires on our new Memory Usage tool
+  in the all new Diagnostic Tools window
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/13/memory-usage-tool-while-debugging-in-visual-studio-2015.aspx>`__
+    - `Share your feedback in our dogfooding program
+      <https://microsoft.sharepoint.com/teams/DD_VSPlat/Diagnostics/Dogfooding/Pages/default.aspx>`__
