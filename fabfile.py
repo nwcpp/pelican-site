@@ -11,13 +11,13 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'root@localhost:22'
-dest_path = '/var/www'
+production = '$ssh_user@$ssh_host:$ssh_port'
+dest_path = '$ssh_target_dir'
 
 # Rackspace Cloud Files configuration settings
-env.cloudfiles_username = 'my_rackspace_username'
-env.cloudfiles_api_key = 'my_rackspace_api_key'
-env.cloudfiles_container = 'my_cloudfiles_container'
+env.cloudfiles_username = '$cloudfiles_username'
+env.cloudfiles_api_key = '$cloudfiles_api_key'
+env.cloudfiles_container = '$cloudfiles_container'
 
 # Github Pages configuration
 env.github_pages_branch = "gh-pages"
@@ -96,7 +96,8 @@ def publish():
         remote_dir=dest_path,
         exclude=".DS_Store",
         local_dir=DEPLOY_PATH.rstrip('/') + '/',
-        delete=True
+        delete=True,
+        extra_opts='-c',
     )
 
 def gh_pages():
