@@ -31,23 +31,9 @@ def clean():
         shutil.rmtree(DEPLOY_PATH)
         os.makedirs(DEPLOY_PATH)
 
-def _copy_files(src_dir, dst_dir):
-    src_dir = os.path.abspath(src_dir)
-    dst_dir = os.path.abspath(dst_dir)
-    if os.path.isdir(src_dir):
-        for name in os.listdir(src_dir):
-            src = os.path.join(src_dir, name)
-            if os.path.isfile(src):
-                dst = os.path.join(dst_dir, name)
-                shutil.copy2(src, dst)
-
-def _copy_extras(extras="extras"):
-    _copy_files(extras, DEPLOY_PATH)
-
 def build():
     """Build local version of site"""
     local('pelican -s pelicanconf.py')
-    _copy_extras()
 
 def rebuild():
     """`clean` then `build`"""

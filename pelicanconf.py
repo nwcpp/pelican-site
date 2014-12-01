@@ -42,7 +42,12 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
 DEFAULT_PAGINATION = 12
 
 PATH = 'content'
-STATIC_PATHS = ['talks', 'images']
+STATIC_PATHS = ['talks', 'images', 'extras', ]
+
+EXTRA_PATH_METADATA = {
+    'extras/favicon.ico': {'path': 'favicon.ico'},
+    'extras/CNAME': {'path': 'CNAME'},
+}
 TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
