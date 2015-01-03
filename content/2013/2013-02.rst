@@ -14,7 +14,7 @@ Time and Location
 | **Note: Cafeteria, not our normal meeting room**
 
 Come at 6:45 for pizza
-`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
 `Amazon Web Services <http://http://aws.amazon.com/>`_.
 
 Abstract

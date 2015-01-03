@@ -14,7 +14,7 @@ Time and Location
 | `Building 40/41 Cafeteria <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
 
 Come at 6:45 for pizza
-`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
 `Protingent <http://www.protingent.com/>`_.
 
 

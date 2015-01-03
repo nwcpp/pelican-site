@@ -77,9 +77,9 @@ Sponsoring NWCPP
 ^^^^^^^^^^^^^^^^
 
 Want to sponsor NWCPP?
-Here's `how <|filename|/about/sponsors-howto.rst>`_.
+Here's `how <{filename}/about/sponsors-howto.rst>`_.
 
 Contacting NWCPP
 ^^^^^^^^^^^^^^^^
 
-Please use our `contact form <|filename|/about/contact.rst>`_.
+Please use our `contact form <{filename}/about/contact.rst>`_.

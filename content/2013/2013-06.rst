@@ -13,7 +13,7 @@ Time and Location
 | `Building 41/1511–Townsend <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
 
 Come at 6:45 for pizza
-`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
 `Coverity <http://www.coverity.com/>`_.
 
 Abstract

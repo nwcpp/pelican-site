@@ -10,7 +10,7 @@ Often these companies supply free pizza for the meeting.
 Other companies may choose to give away products.
 
 If you sponsor us, we will add a brief mention on the front page which
-links to our `sponsorship page <|filename|/about/sponsors.rst>`_.
+links to our `sponsorship page <{filename}/about/sponsors.rst>`_.
 
 NWCPP welcomes your sponsorship, subject to the following guidelines.
 

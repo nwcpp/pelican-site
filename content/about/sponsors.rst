@@ -15,4 +15,4 @@ NWCPP thanks the following organizations for their sponsorship.
 Sponsoring NWCPP
 ----------------
 
-Want to sponsor NWCPP? Here's `how <|filename|/about/sponsors-howto.rst>`_.
+Want to sponsor NWCPP? Here's `how <{filename}/about/sponsors-howto.rst>`_.

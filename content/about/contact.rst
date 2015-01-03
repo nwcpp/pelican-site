@@ -5,7 +5,7 @@ Contact NWCPP
 :slug: contact
 
 If you need to contact the NWCPP board and the
-`social media channels <|filename|/about/about.rst>`_ aren't enough,
+`social media channels <{filename}/about/about.rst>`_ aren't enough,
 use this form to email us.
 
 .. :ref:`social-media` aren't enough,

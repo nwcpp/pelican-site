@@ -6,7 +6,7 @@ Microsoft Meeting Room: Steptoe, Cafeteria 40
 :author: George Reilly
 
 Our meetings are held at the
-`main Microsoft campus <|filename|/images/MicrosoftMainCampusMap.jpg>`_,
+`main Microsoft campus <{filename}/images/MicrosoftMainCampusMap.jpg>`_,
 in the Steptoe Room, `Cafeteria 40 <https://www.google.com/maps/place/Microsoft+Cafe+40/>`_,
 at the corner of NE 31st and 156th Ave NE, in Redmond, WA.
 
@@ -32,4 +32,4 @@ Disclaimer: NWCPP is not associated with Microsoft—\
 although we take advantage of their generosity
 in providing the venue (since 2006) and occasional speakers.
 
-.. image:: |filename|/images/MicrosoftMainCampusMap.jpg
+.. image:: {filename}/images/MicrosoftMainCampusMap.jpg

@@ -14,7 +14,7 @@ Time and Location
 | **Note: Cafeteria, not our normal meeting room**
 
 Come at 6:45 for pizza
-`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
 `Amazon Global Inventory Platform <http://www.amazon.com/gp/jobs>`_.
 
 Abstract

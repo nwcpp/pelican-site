@@ -15,7 +15,7 @@ Time and Location
   (Cafeteria).
 
 Come at 6:45 for pizza
-`sponsored <|filename|/about/sponsors-howto.rst>`_ by
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
 `Aerotek <http://www.aerotek.com/>`_.
 
 

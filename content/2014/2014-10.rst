@@ -10,7 +10,7 @@ Time and Location
 ~~~~~~~~~~~~~~~~~
 
 | October 15th, 2014 at 7:00 PM
-| Steptoe Room, `Cafeteria 40 <|filename|/locations/steptoe.rst>`_,
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
 | Microsoft Campus,
 | 156th Ave NE,
 | Redmond, WA 98052.
