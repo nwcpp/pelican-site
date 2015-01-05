@@ -26,12 +26,9 @@ Create a Virtual Environment
 
 * Install the prerequisites of Python 2.7
   *pip*, *virtualenv*, *Setuptools*, and *easy_install*, per
-  `Installing Python on Mac OS X
-  <http://docs.python-guide.org/en/latest/starting/install/osx/`_,
-  `Installing Python on Linux
-  <http://docs.python-guide.org/en/latest/starting/install/linux/`_, or
-  `Installing Python on Windows
-  <http://docs.python-guide.org/en/latest/starting/install/win/>`_.
+  `Installing Python on Mac OS X <http://docs.python-guide.org/en/latest/starting/install/osx/`_,
+  `Installing Python on Linux <http://docs.python-guide.org/en/latest/starting/install/linux/`_, or
+  `Installing Python on Windows <http://docs.python-guide.org/en/latest/starting/install/win/>`_.
 * Note: for Windows, be sure to install the *32-bit* Python 2.7,
   even if you are running Win64, or you will have difficulty with PyCrypto.
 * Create the ``nwcpp`` virtual environment:
@@ -54,20 +51,28 @@ Windows Setup
 * Download the PyCrypto installer for *32-bit Python 2.7* from
   `VoidSpace <http://www.voidspace.org.uk/python/modules.shtml#pycrypto>`_.
 * Install PyCrypto: ``easy_install pycrypto-2.6.win32-py2.7.exe``
-* Until the `Windows Pull Request <https://github.com/davisp/ghp-import/pull/25>`_ is accepted,
-  you will need to install a custom version of the ghp-import tool in your virtualenv:
+* As of 2015-01-04, you will need custom builds of
+  `Pelican <http://blog.getpelican.com/>`_ and
+  `ghp-import.<https://github.com/davisp/ghp-import/>`_
+* `Pelican Pull Request #1581 <https://github.com/getpelican/pelican/pull/1581>`_:
+  Download https://github.com/georgevreilly/pelican/archive/win-fixes.zip
+* `Ghp-import Pull Request #25 <https://github.com/davisp/ghp-import/pull/25>`_:
+  Download https://github.com/chevah/ghp-import/archive/win-support.zip
+* Unzip the two zipfiles into a temporary directory, then:
 
-    - ``git clone https://github.com/chevah/ghp-import``
-    - ``cd ghp-import``
-    - ``python setup.py develop``
+    - ``cd ghp-import-win-support``
+    - ``python setup.py install``
+    - ``cd ..\pelican-win-fixes``
+    - ``python setup.py install``
 
 
-Common Setup
------------
+Common Setup for Windows, Mac, and Linux
+----------------------------------------
 
 * Create and activate your virtualenv, as described above.
 * Install Pelican and other dependencies:
   ``pip install pelican fabric python-dateutil typogrify ghp-import``
+
 
 Running Locally
 ---------------
