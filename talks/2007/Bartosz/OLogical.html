@@ -1,0 +1,47 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="LLDelete.html">Prev</a>   </td>
+    <td><a href="OCommit.html">Next</a>   </td>
+  </tr>
+</table>
+<h1> Logical Contents
+</h1>
+<ul>
+  <li> Simpler than in WSTM
+</li>
+  <ul>
+    <li> No many to one address/orec mapping
+</li>
+    <li> No need for version numbers
+</li>
+  </ul>
+  <li> If header points to data, that's the logical value
+</li>
+  <li> If header points to transaction
+</li>
+  <ul>
+    <li> SUCCEEDED: the new value (the shadow copy)
+</li>
+    <li> FAILED: the old value
+</li>
+    <li> READ-CHECK: undefined (should help the owning transaction)
+</li>
+  </ul>
+</ul>
+<table>
+  <tr>
+    <td><small>20</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>

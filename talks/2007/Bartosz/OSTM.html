@@ -1,0 +1,49 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="WSTM.html">Prev</a>   </td>
+    <td><a href="WSTMImpl.html">Next</a>   </td>
+  </tr>
+</table>
+<h1> Object-Based STM
+</h1>
+<pre> typedef struct { int key; <b>ostm_handle</b>&lt;node*> *next; } node;
+ typedef struct { <b>ostm_handle</b>&lt;node*> *head; } list;
+ void list_insert (list *l, int k)
+ { 
+   node *n := new node(k);
+   <b>ostm_handle</b>&lt;node*> * n_obj := new <b>ostm_handle</b>(n);
+   do {
+      ostm_transaction *tx := OSTMStartTransaction();
+      <b>ostm_handle</b>&lt;node*> *prev_obj := l->head;
+      node *prev := <b>OSTMOpenForReading</b>(tx, prev_obj);
+      <b>ostm_handle</b>&lt;node*> *curr_obj := prev->next;
+      node *curr := <b>OSTMOpenForReading</b>(tx, curr_obj);
+      while (curr->key &lt; k ) {
+         prev_obj := curr_obj; 
+         prev := curr;
+         curr_obj := prev->next;
+         curr := <b>OSTMOpenForReading</b>(tx, curr_obj);
+      }
+      n->next := curr_obj;
+      prev := <b>OSTMOpenForWriting</b>(tx, prev_obj);
+      prev->next := n_obj;
+   } while ( !OSTMCommitTransaction(tx) );
+ }
+</pre>
+<table>
+  <tr>
+    <td><small>10</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>

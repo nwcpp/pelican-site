@@ -1,0 +1,48 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="MCAS.html">Prev</a>   </td>
+    <td><a href="evolution.html">Next</a>   </td>
+  </tr>
+</table>
+<h1>Software Transactional Memory
+</h1>
+<ul>
+  <li> Enclose transactional code inside <code>atomic</code> block
+</li>
+  <li> Create a <i>transaction</i> data structure (a <i>log</i>)
+</li>
+  <li> Instrument all reads and writes inside the <code>atomic</code> block
+</li>
+  <li> At the end of the block, try to atomically commit the transaction. If fails, retry.
+</li>
+</ul>
+
+<hr/>
+
+<ul>
+  <li> Commit can only fail, if another transaction successfully committed (overwrote shared memory)
+</li>
+  <li> Guaranteed progress
+</li>
+  <li> No deadlocks (non-blocking)
+</li>
+  <li> Disjoint access parallelism (no contention for disjoint access)
+</li>
+</ul>
+<table>
+  <tr>
+    <td><small>7</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>
