@@ -91,3 +91,11 @@ def gh_pages():
     rebuild()
     local("ghp-import -b {github_pages_branch} {deploy_path}".format(**env))
     local("git push origin {github_pages_branch}".format(**env))
+
+def format_readme():
+    """Format README.rst with Docutils."""
+    rst2html = os.path.join(
+            os.getenv("VIRTUAL_ENV"),
+            "Scripts" if sys.platform == 'win32' else "bin",
+            "rst2html.py")
+    local('python "{0}" README.rst README.html'.format(rst2html))
