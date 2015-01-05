@@ -33,3 +33,4 @@ although we take advantage of their generosity
 in providing the venue (since 2006) and occasional speakers.
 
 .. image:: {filename}/images/MicrosoftMainCampusMap.jpg
+    :alt: Microsoft Main Campus

@@ -44,6 +44,9 @@ DEFAULT_PAGINATION = 12
 PATH = 'content'
 STATIC_PATHS = ['talks', 'images', 'extras', ]
 
+# Do not process .html files; e.g., Bartosz's 2007 slides
+READERS = {'html': None}
+
 EXTRA_PATH_METADATA = {
     'extras/favicon.ico': {'path': 'favicon.ico'},
     'extras/CNAME': {'path': 'CNAME'},
