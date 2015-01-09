@@ -15,6 +15,9 @@ Time and Location
 | 156th Ave NE,
 | Redmond, WA 98052.
 
+Come at 6:45 for pizza
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
+`Collabra <http://www.collabera.com>`_.
 
 Abstract
 ~~~~~~~~
