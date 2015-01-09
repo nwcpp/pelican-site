@@ -1285,6 +1285,16 @@ instead of &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;git&amp;#6
 origin      git@github-nwcpp:nwcpp/pelican-site.git &lt;span class="o"&gt;(&lt;/span&gt;fetch&lt;span class="o"&gt;)&lt;/span&gt;
 origin      git@github-nwcpp:nwcpp/pelican-site.git &lt;span class="o"&gt;(&lt;/span&gt;push&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
+&lt;div class="section" id="update"&gt;
+&lt;h3&gt;Update&lt;/h3&gt;
+&lt;p&gt;It&amp;#8217;s much simpler just to have the &lt;a class="reference external" href="https://github.com/nwcpp/"&gt;&amp;#64;nwcpp&lt;/a&gt; user
+add my own username as a &lt;a class="reference external" href="https://help.github.com/articles/adding-collaborators-to-a-personal-repository/"&gt;collaborator to the repository&lt;/a&gt;.
+The &lt;span class="caps"&gt;SSH&lt;/span&gt; config and different remotes is&amp;nbsp;unnecessary.&lt;/p&gt;
+&lt;p&gt;Note that I&amp;#8217;m holding my GitHub credentials in a &lt;a class="reference external" href="http://stackoverflow.com/questions/6031214/git-how-to-use-netrc-file-on-windows-to-save-user-and-password"&gt;netrc&lt;/a&gt;:
+(&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;~/.netrc&lt;/span&gt;&lt;/tt&gt; on Mac/Linux; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;%&lt;span class="caps"&gt;HOME&lt;/span&gt;%\_netrc&lt;/span&gt;&lt;/tt&gt; on Windows).
+Another collaborator in the repository had success with
+&lt;tt class="docutils literal"&gt;git remote &lt;span class="pre"&gt;set-url&lt;/span&gt; origin &lt;span class="pre"&gt;https://{&lt;span class="caps"&gt;USERNAME&lt;/span&gt;}:{&lt;span class="caps"&gt;PASSWORD&lt;/span&gt;}&amp;#64;github.com/nwcpp/pelican-site.git&lt;/span&gt;&lt;/tt&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="github-pages"&gt;
 &lt;h2&gt;Github&amp;nbsp;Pages&lt;/h2&gt;
@@ -1292,7 +1302,9 @@ origin      git@github-nwcpp:nwcpp/pelican-site.git &lt;span class="o"&gt;(&lt;/
 Pelican provides documentation on &lt;a class="reference external" href="http://docs.getpelican.com/en/3.1.1/tips.html"&gt;publishing to Github Pages&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To get the &lt;em&gt;nwcpp.org&lt;/em&gt; domain hosted there,
 I had to set up a &lt;a class="reference external" href="https://help.github.com/articles/setting-up-a-custom-domain-with-pages"&gt;custom domain&lt;/a&gt;
-and change the &lt;a class="reference external" href="http://dreamand.me/github-page/github-page-custom-domain/"&gt;Namecheap &lt;span class="caps"&gt;DNS&lt;/span&gt; configuration&lt;/a&gt;.&lt;/p&gt;
+and change the &lt;a class="reference external" href="http://dreamand.me/github-page/github-page-custom-domain/"&gt;Namecheap &lt;span class="caps"&gt;DNS&lt;/span&gt; configuration&lt;/a&gt;.
+I also had to &lt;a class="reference external" href="https://help.github.com/articles/adding-a-cname-file-to-your-repository/"&gt;add a &lt;span class="caps"&gt;CNAME&lt;/span&gt; file to the repository&lt;/a&gt;
+and ensure that Pelican published it to the root of the&amp;nbsp;output.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="contact-form"&gt;
 &lt;h2&gt;Contact&amp;nbsp;Form&lt;/h2&gt;
