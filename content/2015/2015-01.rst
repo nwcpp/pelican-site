@@ -1,9 +1,9 @@
 January 21, 2015—Interfacing D To Legacy C++ Code—Walter Bright
 ###############################################################
 
-:date: 2015-01-03
+:date: 2015-01-24
 :slug: january-2015
-:author: George Reilly
+:author: Lloyd Moore
 
 
 Time and Location
@@ -14,10 +14,6 @@ Time and Location
 | Microsoft Campus,
 | 156th Ave NE,
 | Redmond, WA 98052.
-
-Come at 6:45 for pizza
-`sponsored <{filename}/about/sponsors-howto.rst>`_ by
-`Collabra <http://www.collabera.com>`_.
 
 Abstract
 ~~~~~~~~
@@ -44,7 +40,6 @@ This presentation goes through the principles on how this works,
 what works and what doesn't work,
 and how one can retain an investment in C++ code while migrating to D.
 
-
 Bio
 ~~~
 
@@ -59,3 +54,20 @@ is known for engaging and informative presentations,
 and provides training in compiler development techniques.
 Many are surprised to discover that Walter is also the creator of the wargame Empire,
 which is still popular today over 30 years after its debut.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Since 1991, Collabera has been a leading provider of IT staffing solutions. With over 9,000 professionals working across 3 continents Collabera is one of the top 10 U.S. IT Staffing firms. Recognized from Staffing Industry Analysts as “Best Staffing Firms to Work For” 3 years in a row, we have the history, processes and most of all jobs that make Collabera a strong option when considering your next career move. 
+ 
+Chase Wegman
+Technical Recruiter
+Phone: 425-298-1392	 | Mobile: 763-227-0247	 | Fax: 973-292-2838 | 
+`Collabera <http://www.collabera.com>`_.
+
+Resources
+~~~~~~~~~
+
+`Video <https://www.youtube.com/watch?v=IkwaV6k6BmM>`_ |
+`Slides </talks/2015/DInterfacing.pdf>`_
+
