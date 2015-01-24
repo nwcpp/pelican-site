@@ -106,6 +106,18 @@ instead of ``git@github.com:nwcpp/pelican-site.git``:
     origin	git@github-nwcpp:nwcpp/pelican-site.git (fetch)
     origin	git@github-nwcpp:nwcpp/pelican-site.git (push)
 
+Update
+------
+
+It's much simpler just to have the `@nwcpp`_ user
+add my own username as a `collaborator to the repository`_.
+The SSH config and different remotes is unnecessary.
+
+Note that I'm holding my GitHub credentials in a netrc_:
+(``~/.netrc`` on Mac/Linux; ``%HOME%\_netrc`` on Windows).
+Another collaborator in the repository had success with
+``git remote set-url origin https://{USERNAME}:{PASSWORD}@github.com/nwcpp/pelican-site.git``
+
 
 Github Pages
 ============
@@ -116,6 +128,8 @@ Pelican provides documentation on `publishing to Github Pages`_.
 To get the *nwcpp.org* domain hosted there,
 I had to set up a `custom domain`_
 and change the `Namecheap DNS configuration`_.
+I also had to `add a CNAME file to the repository`_
+and ensure that Pelican published it to the root of the output.
 
 
 Contact Form
@@ -181,7 +195,12 @@ it's awkward.
 .. _set up Pelican:
     http://docs.getpelican.com/en/3.1.1/getting_started.html
 .. _Github identity for nwcpp:
+.. _@nwcpp:
     https://github.com/nwcpp/
+.. _collaborator to the repository:
+    https://help.github.com/articles/adding-collaborators-to-a-personal-repository/
+.. _netrc:
+    http://stackoverflow.com/questions/6031214/git-how-to-use-netrc-file-on-windows-to-save-user-and-password
 .. _StackOverflow question:
     http://stackoverflow.com/questions/3225862/multiple-github-accounts-ssh-config
 .. _Github repo:
@@ -192,6 +211,8 @@ it's awkward.
     https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 .. _Namecheap DNS configuration:
     http://dreamand.me/github-page/github-page-custom-domain/
+.. _add a CNAME file to the repository:
+    https://help.github.com/articles/adding-a-cname-file-to-your-repository/
 .. _contact form:
     {filename}/about/contact.rst
 .. _sponsorship howto:
