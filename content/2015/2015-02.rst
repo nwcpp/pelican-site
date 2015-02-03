@@ -1,0 +1,28 @@
+Feburary 18, 2015—The STM32 Microcontroller
+###############################################################
+
+:date: 2015-01-7
+:slug: february-2015
+:author: Lloyd Moore
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| February 18st, 2015 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+
+The full details for this talk are still pending. The talk will cover tools and techniques related to the ST Microelectronics STM32 microcontrollers. 
+
+
+Bio
+~~~
+
+Coming soon!
