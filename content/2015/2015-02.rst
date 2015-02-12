@@ -1,7 +1,7 @@
 Feburary 18, 2015—The STM32 Microcontroller
 ###############################################################
 
-:date: 2015-01-7
+:date: 2015-02-2
 :slug: february-2015
 :author: Lloyd Moore
 
@@ -19,10 +19,16 @@ Time and Location
 Abstract
 ~~~~~~~~
 
-The full details for this talk are still pending. The talk will cover tools and techniques related to the ST Microelectronics STM32 microcontrollers. 
-
+The talk will cover tools and techniques related to the ST Microelectronics STM32 microcontrollers.
+Agenda: ST Overview, ST Nucleo Ecosystem Overview, ARM mbed Ecosystem Overview (tentative), STM32 on mbed, STM32 Rapid Prototyping Tools Demo, Q/A
+ 
 
 Bio
 ~~~
 
-Coming soon!
+Slim Jallouli Sr. Field Applications Engineer
+Slim has been with STMicro in the MCU group for over 12 years. He has a  broad range of expertise in embedded software, STM32 and ARM Cortex-M, ARM7 and ARM9, USB, general electronics.
+
+Ken Sullivan, Executive Account Manager
+Ken has been with STMicro for 2 years. He has been in sales and marking in the PNW electronics industry for over 30years.
+
