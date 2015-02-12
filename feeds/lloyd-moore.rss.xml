@@ -11,11 +11,15 @@
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The full details for this talk are still pending. The talk will cover tools and techniques related to the &lt;span class="caps"&gt;ST&lt;/span&gt; Microelectronics &lt;span class="caps"&gt;STM32&lt;/span&gt;&amp;nbsp;microcontrollers.&lt;/p&gt;
+&lt;p&gt;The talk will cover tools and techniques related to the &lt;span class="caps"&gt;ST&lt;/span&gt; Microelectronics &lt;span class="caps"&gt;STM32&lt;/span&gt; microcontrollers.
+Agenda: &lt;span class="caps"&gt;ST&lt;/span&gt; Overview, &lt;span class="caps"&gt;ST&lt;/span&gt; Nucleo Ecosystem Overview, &lt;span class="caps"&gt;ARM&lt;/span&gt; mbed Ecosystem Overview (tentative), &lt;span class="caps"&gt;STM32&lt;/span&gt; on mbed, &lt;span class="caps"&gt;STM32&lt;/span&gt; Rapid Prototyping Tools Demo,&amp;nbsp;Q/A&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;soon!&lt;/p&gt;
+&lt;p&gt;Slim Jallouli Sr. Field Applications Engineer
+Slim has been with STMicro in the &lt;span class="caps"&gt;MCU&lt;/span&gt; group for over 12 years. He has a  broad range of expertise in embedded software, &lt;span class="caps"&gt;STM32&lt;/span&gt; and &lt;span class="caps"&gt;ARM&lt;/span&gt; Cortex-M, &lt;span class="caps"&gt;ARM7&lt;/span&gt; and &lt;span class="caps"&gt;ARM9&lt;/span&gt;, &lt;span class="caps"&gt;USB&lt;/span&gt;, general&amp;nbsp;electronics.&lt;/p&gt;
+&lt;p&gt;Ken Sullivan, Executive Account Manager
+Ken has been with STMicro for 2 years. He has been in sales and marking in the &lt;span class="caps"&gt;PNW&lt;/span&gt; electronics industry for over&amp;nbsp;30years.&lt;/p&gt;
 &lt;/div&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Mon, 02 Feb 2015 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2015-02-02:february-2015.html</guid></item><item><title>January 21, 2015—Interfacing D To Legacy C++ Code—Walter Bright</title><link>http://nwcpp.org/january-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
