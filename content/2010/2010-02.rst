@@ -1,5 +1,0 @@
-February 2010: No Meeting
-#########################
-
-:date: 2010-02-01
-:slug: february-2010

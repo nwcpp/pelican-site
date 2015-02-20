@@ -1,5 +1,0 @@
-January 2010: No Meeting
-########################
-
-:date: 2010-01-01
-:slug: january-2010

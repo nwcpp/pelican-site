@@ -1,5 +1,0 @@
-December 2013: No Meeting
-#########################
-
-:date: 2013-12-01
-:slug: december-2013

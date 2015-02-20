@@ -1,5 +1,0 @@
-December 2009: No Meeting
-#########################
-
-:date: 2009-12-01
-:slug: december-2009

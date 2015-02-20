@@ -1,9 +1,0 @@
-@import url("main.css");
-
-/* Main Nav Banner */
-#banner nav {
-    height: 80px;
-}
-#banner nav a:link, #banner nav a:visited {
-    padding: 5px 1.1em;
-}

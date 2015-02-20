@@ -1,5 +1,0 @@
-December 2006: No Meeting
-#########################
-
-:date: 2006-12-01
-:slug: december-2006

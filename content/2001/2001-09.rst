@@ -1,5 +1,0 @@
-September 2001: No Meeting
-##########################
-
-:date: 2001-09-01
-:slug: september-2001

@@ -1,5 +1,0 @@
-December 2002: No Meeting
-#########################
-
-:date: 2002-12-01
-:slug: december-2002
