@@ -32,3 +32,9 @@ Slim has been with STMicro in the MCU group for over 12 years. He has a  broad r
 Ken Sullivan, Executive Account Manager
 Ken has been with STMicro for 2 years. He has been in sales and marking in the PNW electronics industry for over 30years.
 
+Resources
+~~~~~~~~~
+
+`Video <https://www.youtube.com/watch?v=IkwaV6k6BmM>`_ |
+`Slides </talks/2015/STMicro_Presentation.pdf>`_
+
