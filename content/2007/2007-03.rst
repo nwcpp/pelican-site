@@ -1,0 +1,48 @@
+March 21st, 2007 — Software Transactional Memory: A different approach to concurrency — Bartosz Milewski
+########################################################################################################
+
+:date: 2007-03-01
+:slug: march-2007
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 40
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+Traditional approach to multi-threaded programming,
+for which I have coined the nickname "deadlock-oriented programming",
+suffers from a major flaw—it's not composable.
+If you try to perform operations on multiple lockable objects,
+you run into the risk of deadlocks, livelocks,
+priority inversions, and other assorted plagues.
+
+Software Transactional Memory, STM, promises to solve those problems
+once and for all.
+Under the covers it works like lock-free programming on steroids,
+but to the programmer, it is a no-brainer.
+
+I will discuss general ideas behind STM as well as some concrete implementations.
+
+Bio
+~~~
+
+Bartosz has his roots in theory
+(Ph.D. in theoretical particle physics)
+and his branches in programming practice
+(eight years at Microsoft and then his own little software firm).
+His current activities, outside of his company,
+include graduate study at the UW,
+partaking in the design of D,
+and (secretly) writing a book on Windows in D.
+He's also the author of *C++ in Action*, Addison-Wesley, 2001.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </talks/2007/Bartosz/index.html>`_ from the presentation.

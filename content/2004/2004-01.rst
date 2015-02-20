@@ -1,0 +1,38 @@
+January 14th, 2004 — for_each — Eric Niebler
+############################################
+
+:date: 2004-01-01
+:slug: january-2004
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Writing loops over sequences is harder in C++ than in other languages,
+many of which provide a dedicated ``for_each`` looping construct.
+In this talk, Eric describes how to implement and use
+a generic, type-safe and extensible foreach construct in C++
+with the help of the preprocessor and some sneaky template tricks.
+The techniques, first presented in the Nov. C/C++ Users' Journal,
+are extended to work with STL containers.
+Time permitting, Eric will describe why ``std::for_each`` doesn't cut it,
+and why we need a language extension.
+
+Bio
+~~~
+
+Eric is an independent software consultant currently working with
+Dave Abrahams and Boost Consulting.
+He is a former employee of Microsoft Research and Visual C++,
+and his writings about C++ have been published
+in the C/C++ User's Journal and MSDN Magazine.
+When he's not writing C++ for money, Eric has been known to write C++ for fun.
+
+`Click here </talks/2004/foreach.zip>`_
+to download the slides and source code from the presentation

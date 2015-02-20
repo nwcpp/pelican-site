@@ -1,0 +1,51 @@
+<html>
+<head>
+	<style type="text/css">
+	@import url("wiki.css");
+	</style>
+</head>
+<body>
+	<div id="wrap">
+	<table>
+  <tr>
+    <td><a href="OSTM.html">Prev</a>   </td>
+    <td><a href="Logical.html">Next</a>   </td>
+  </tr>
+</table>
+<h1> WSTM Implementation
+</h1>
+<ul>
+  <li> Data structures
+</li>
+  <ul>
+    <li> Ownership records, <b>orecs</b>. <a href="Fig2.html">Fig2</a>
+</li>
+    <ul>
+      <li> Shared between threads. All memory addresses hash into an array of orecs. Each memory access during transaction looks up an orec for this memory address.
+</li>
+      <li> Contain: version number or pointer to transaction descriptor that owns it (tries to commit).
+</li>
+    </ul>
+    <li> Transaction descriptor
+</li>
+    <ul>
+      <li> Created at the start of the transaction. Is private until transaction tries to commit.
+</li>
+      <li> Contains (atomically updated) transaction state: UNDECIDED, READ_CHECK, SUCCESSFUL, or FAILED.
+</li>
+      <li> Logs each memory access in <i>transaction entries</i>: address (a), old value (o), old version (vo), new value (n), new version (vn).
+</li>
+    </ul>
+    <li> Version numbers are odd, increasing with every write. Prevent ABA.
+</li>
+  </ul>
+</ul>
+<table>
+  <tr>
+    <td><small>11</small>  </td>
+  </tr>
+</table>
+
+	</div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+October 17th, 2007 — Function Hijacking Mitigation — Walter Bright
+##################################################################
+
+:date: 2007-10-01
+:slug: october-2007
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+As software becomes more complex, we become more reliant on module interfaces.
+An application may import and combine modules from multiple sources,
+including sources from outside the company.
+The module developers must be able to maintain and improve those modules
+without inadvertently stepping on the behavior of modules
+over which they cannot have knowledge of.
+The application developer needs to be notified
+if any module changes would break the application.
+This talk covers function hijacking,
+where adding innocent and reasonable declarations in a module
+can wreak arbitrary havoc on an application program in C++ and Java.
+We'll then look at how modest language design changes
+can largely eliminate the problem in the D programming language.
+
+Bio
+~~~
+
+Walter Bright's first major program was the groundbreaking wargame Empire.
+He then became interested in compilers and computer languages.
+He's written compilers for ABEL, Pascal, C, C++, Java, Javascript, and now D.
+His extensive experience writing C++ compilers
+and well over a decade being on the front lines of doing C++ customer support
+is an ideal background for improving on the language.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </talks/2007/FunctionHijack.html>`_ from the presentation.

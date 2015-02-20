@@ -1,0 +1,57 @@
+September 8th, 2004 — Achieving Source-Level Software Portability Using GNU Autoconf, Automake, Libtool, and Make — Robert P. Goddard
+#####################################################################################################################################
+
+:date: 2004-09-01
+:slug: september-2004
+
+Location
+~~~~~~~~
+
+| `Humongous Entertainment <http://www.humongous.com>`_
+| 3855 Monte Villa Parkway
+| Bothell, Washington 98021
+
+Abstract
+~~~~~~~~
+
+If you have ever downloaded "open-source" software as source code from GNU or elsewhere,
+you have witnessed the following magic::
+
+    ./configure
+    make
+    make check
+    make install
+
+after which the software just works, even for very complex packages,
+no matter which of a very large range of systems you happen to be running.
+
+Yes, it even does Windows.
+I will describe a powerful set of tools that
+will help you to achieve this level of simplicity (for the user)
+and portability for your applications.
+The cost is surprisingly low in time and effort, and zero for the tools.
+
+Bio
+~~~
+
+Bob Goddard has been an active member of NW C++ UG for many years.
+You will recognize his face.
+He has worked at the University of Washington Applied Physics Laboratory since 1980.
+He is the primary author of the Sonar Simulation Toolset (SST) software,
+a large C++ system for simulation of sound in the sea.
+SST is being used at several Navy and university laboratories
+to generate artificial underwater sound,
+which is used to develop new sonar systems, train sonar operators,
+and predict performance of new and existing sonar systems and tactics.
+He has also worked on other projects related to underwater acoustics,
+including simulation, analysis, and data acquisition applications.
+His niche is in the gray overlap area between software engineering and "real" science.
+
+For more details, go to
+`http://staff.washington.edu/rpg3/ <http://staff.washington.edu/rpg3/>`_,
+`http://www.apl.washington.edu/ <http://www.apl.washington.edu/>`_,
+and `http://eis.apl.washington.edu/projects/projects.php
+<http://eis.apl.washington.edu/projects/projects.php>`_.
+
+`Click here </talks/2004/GNU_Autotools_040908.ppt>`_
+to download the slides from the presentation

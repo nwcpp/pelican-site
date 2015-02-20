@@ -1,0 +1,39 @@
+January 21st, 2009 — Metaprogramming in D — Walter Bright
+#########################################################
+
+:date: 2009-01-01
+:slug: january-2009
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+Metaprograms are programs that output other programs.
+They can greatly increase the expressive power of a language.
+Familiar metaprogramming languages are the C text preprocessor and C++ templates.
+Walter will show how some simple language features
+like string mixins and compile time function execution
+can lead to powerful metaprogramming facilities,
+with examples in the D programming language.
+
+Bio
+~~~
+
+Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever since.
+He's written compilers for Pascal, ABEL, C, C++, Javascript, Java,
+and now the D programming language.
+
+Resources
+~~~~~~~~~
+
+Watch the `video <http://www.vimeo.com/4333802>`_ of the presentation.

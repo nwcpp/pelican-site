@@ -1,0 +1,71 @@
+March 8th, 2004 — Code Complete 2: A Decade of Advances in Software Construction — Steve McConnell
+##################################################################################################
+
+:date: 2004-03-01
+:slug: march-2004
+
+Location
+~~~~~~~~
+
+| `Overlake Hospital Conference Center <http://www.overlakehospital.org/conferencecenter/fs.htm>`_
+| 1035 116th Ave NE
+| Bellevue, Washington, 98004
+
+Abstract
+~~~~~~~~
+
+Please note that in order to offset some of the costs necessary to host
+this meeting, there will be a **$10 charge to non-NWCPP and non-WSA members**.
+Membership in the NWCPP is **free**, and is a great way to
+ensure that you may attend this meeting for free.
+To become a member, visit the `Membership <{filename}/about/about.rst>`_ page
+and join our mailing list.
+**Only members on the NWCPP mailing list and WSA members may attend the meeting for free!**
+
+For more than 10 years, Code Complete has been a computing-industry bestseller.
+The past decade has seen the emergence of object-oriented programming,
+the Internet, the CMM, offshore outsourcing, Java, Visual Basic,
+and the Agile movement,
+as well as staggering advances in computing power and numerous other developments.
+How have 10 years of advances changed software construction?
+Has the general state of programming improved?
+Are any of the old techniques still relevant?
+Has anything moved backward?
+Award-winning author Steve McConnell explores the software issues
+of yesterday and today
+and arrives at a few lasting truths about software development.
+This talk is based on Code Complete Second Edition, available in June 2004.
+
+Bio
+~~~
+
+Steve McConnell is CEO and Chief Software Engineer at
+`Construx Software <http://www.construx.com>`_,
+where he writes books and articles, teaches classes,
+and oversees Construx’s software engineering practices.
+
+Steve is the author of Code Complete (1993) and Rapid Development (1996),
+both winners of Software Development magazine's Jolt award for
+outstanding software development books of their respective years.
+In 1998, he published Software Project Survival Guide.
+His most recent book is Professional Software Development (2003). 
+
+Steve has worked in the desktop software industry since 1984
+and has expertise in rapid development methodologies, project estimation,
+software construction practices, performance tuning, system integration,
+and third-party contract management.
+
+Steve also served as Editor in Chief of IEEE Software from 1998-2002 and
+is a member of IEEE Computer Society and ACM. 
+
+Steve earned a master's degree in software engineering from Seattle University
+and a bachelor's degree from Whitman College in Walla Walla, Washington.
+
+Send email to `Steve McConnell <mailto:steve.mcconnell@construx.com>`_.
+
+Please note that in order to accommodate the increased attendance, this
+meeting will be held on **Monday** at the **Overlake Medical Conference
+Center** rather than our usual Wednesday meeting at Avaya.
+
+`Click here </talks/2004/CodeComplete-Keynote.pdf>`_
+to download the slides from the presentation

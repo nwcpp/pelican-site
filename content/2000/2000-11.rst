@@ -1,0 +1,20 @@
+November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn Lovell
+#######################################################################
+
+:date: 2000-11-01
+:slug: november-2000
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Visual Studio 7 is due to be launched early next year, and is
+Microsoft's first real deliverable in their .NET initiative. Martyn
+Lovell of Microsoft will give a preview of Visual Studio 7,
+concentrating on C# and ASP+.

@@ -1,0 +1,149 @@
+November 19, 2014—Debugging, Profiling, and Diagnostics for C++ in Visual Studio vNext and Beyond—Dan Taylor
+############################################################################################################
+
+:date: 2014-10-19
+:slug: november-2014
+:author: George Reilly
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| November 19th, 2014 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+
+Are you using the Visual Studio Debugger or Profiler
+to diagnose issues in  applications?
+Join the Visual Studio team for a roadmap and discussion
+of diagnostics features for C++ developers
+in the preview releases of Visual Studio “14” and beyond.
+In this session we will demo the brand new and exciting capabilities
+that we have added to the debugger
+and the Performance and Diagnostics hub (profiler tools)
+to increase your productivity.
+We will then share our plans for moving forward
+and solicit feedback from you to help us shape Visual Studio.
+
+
+Bio
+~~~
+
+Dan Taylor is a Program Manager on the Visual Studio team.
+He and his colleagues (some of whom will be joining Dan for this meetup)
+are the team that designs and builds the debugging, profiling,
+IntelliTrace, and other diagnostics experiences
+that help make Visual Studio the most productive IDE on the planet.
+
+
+No Video Recording
+~~~~~~~~~~~~~~~~~~
+
+THIS SESSION WILL NOT BE RECORDED.
+It will include material which our speakers have opted to NOT have recorded,
+as it is of a “non-public nature” at this time.
+Because of this we will NOT be recording this session as we normally do,
+so please plan to attend in person if you are interested in this topic.
+We record as many sessions as possible,
+but at the same time,
+we also respect the speakers' wishes to control
+how the material they present is distributed.
+Thanks for your understanding, and sorry for the late notice on this change.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Protingent is a locally owned staffing company
+with our corporate headquarters being in Bellevue, WA.
+Protingent provides engineering and IT professionals
+with rewarding and exciting work opportunities
+at technology businesses throughout the Pacific Northwest.
+We are committed to helping you enhance your career
+while engaging in meaningful and creative work
+that drives your own personal spirit and passions.
+Protingent recruiters work exclusively with technology professionals
+and technology companies—we have technical understanding, expertise
+and are well connected in the technology community.
+Our principals bring deep personal understanding
+of both the business of engineering
+as well as the culture and nature of the engineer who operates within it.
+More than a database, we have an unparalleled client network
+built from years of collaboration with our clients.
+We have daily access to hiring managers
+at some of the most exciting technology companies.
+We can get your resume directly into the right hands.
+Protingent offers benefits
+including health insurance, dental insurance, 401(k),
+PTO, pre-tax commuter benefits and supplemental insurance.
+
+Please visit `Protingent.com <http://www.protingent.com>`_ for additional information.
+
+| Attendes:
+| Laura Garcia laura@protingent.com   
+| Jeff Moorgate jeff@protingent.com   
+| JOHN MARSH
+| p 425 284 7762     f 425 642 8001
+| www.protingent.com
+
+
+Resources
+~~~~~~~~~
+
+* Configuring **Breakpoints**
+  (Conditional Expressions, Hit Count, Filter, and Tracepoints)
+  is easier with the modern peek style UI,
+  and more discoverable with the new breakpoint toolbar.
+  As a bonus, you can now restore a deleted breakpoint.
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/10/06/new-breakpoint-configuration-experience.aspx>`__
+    - `Watch the video
+      <http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/711>`__
+
+* **PerfTips** when you break in the debugger
+  (via breakpoints or stepping)
+  give you an unprecedented early view into potential performance issues
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/18/perftips-performance-information-at-a-glance-while-debugging-with-visual-studio.aspx>`__
+    - `Watch the video
+      <http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/718>`__
+
+* We’ve made your **startup debugging faster**
+  and added resiliency during func eval
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/vcblog/archive/2014/10/06/debugging-improvements.aspx>`__
+
+* Debugging Android apps from any IDE and any language?
+  Use **Visual Studio’s Emulator for Android**
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/introducing-visual-studio-s-emulator-for-android.aspx>`__
+    - `Watch the video
+      <http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/516>`__
+
+* Writing **C++ code for Android in Visual Studio**?
+  Use our debugging support
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/debugging-c-code-on-android-with-visual-studio-2015.aspx>`__
+    - `Watch the video
+      <http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/510>`__
+ 
+* Always wanted to **diagnose memory issues while live debugging**
+  (instead of post-mortem)?
+  Kick the tires on our new Memory Usage tool
+  in the all new Diagnostic Tools window
+
+    - `Read the blog post
+      <http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/13/memory-usage-tool-while-debugging-in-visual-studio-2015.aspx>`__
+    - `Share your feedback in our dogfooding program
+      <https://microsoft.sharepoint.com/teams/DD_VSPlat/Diagnostics/Dogfooding/Pages/default.aspx>`__

@@ -1,0 +1,43 @@
+November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill Baxter
+###################################################################################
+
+:date: 2009-11-01
+:slug: november-2009
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+In the D Programming Language
+it is possible for even mere mortals to write code that executes at compile-time.
+And the resulting code is generally even human readable!
+In this talk I'll show some of the metaprogramming techniques available in D today,
+primarily by examining various tricks I've found useful in my own code —
+in vector and matrix classes, in my port of the OpenMesh C++ library to D, and so on.
+I'll make some attempt to relate these back to C++ as well,
+though my threshold for pain is not very high.
+
+Bio
+~~~
+
+Bill Baxter is a researcher in the eXtreme Computing Group of Microsoft Research,
+currently working on GPU applications.
+Before moving to Washington earlier this year,
+Bill was a computer graphics researcher and frequent sushi consumer at OLM Digital in Tokyo,
+the company best known for its Pokemon animations.
+Bill has been using C++ for about 15 years, and D for the last three.
+Bill has a Ph.D. in computer science from the University of North Carolina at Chapel Hill.
+Sometimes he can be found strumming a guitar
+to temporarily escape the workaday worries of the world.
+
+Resources
+~~~~~~~~~
+
+`Slides </talks/2009/NWCPP-D-meta-baxter-11-18-2009.pptx>`_

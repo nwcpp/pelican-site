@@ -1,0 +1,40 @@
+March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between ANSI C++ and the ‘Managed C++’ of .NET — Matthew Griscom
+######################################################################################################################################
+
+:date: 2002-03-01
+:slug: march-2002
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Microsoft Visual Studio 7 .NET has shipped with improved support for
+ANSI C++. The whole .NET aspect of this tool, discussed extensively in
+this and other forums, is radically new and at first blush is
+incompatible with ANSI C++, native code COM objects, etc. This talk will
+address some of the aspects of how Microsoft proposes to bridge the gap
+between existing source code, COM objects, etc. and executables using
+the new suite of .NET technologies, in particular using the ‘Managed
+C++’ syntax.
+
+Bio
+~~~
+
+Matthew Griscom has coded medical communications protocols, database
+integrity tools, a multi-user database engine, XSL-driven web pages, you
+name it, for both Unix and Windows. Now, if only one of the cosmonauts
+on the Space Station would push the button to use the connectivity
+software he designed and wrote, that would be sincerely cool… Matt’s
+been dot-bombed and is looking for C++ and .NET work in greater Seattle.
+
+Resources
+~~~~~~~~~
+
+`Click here </talks/2002/Meeting_2002-03.zip>`_
+to download the slides and source code from the presentation

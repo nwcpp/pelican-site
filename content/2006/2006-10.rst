@@ -1,0 +1,46 @@
+October 18th, 2006 — The Cost of C++ Exception Handling on Windows — Kevin Frei
+###############################################################################
+
+:date: 2006-10-01
+:slug: october-2006
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 40
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+There's a long running emotional battle over C++ exception handling.
+Rather than argue for or against either side,
+I'll be going into low-level detail of
+how much it costs to use on Windows for both x86 and AMD64.
+This should help people see through the emotion
+and get a real handle on what it costs,
+and provide them with facts to help make the decisions
+of why, how, and when C++ exceptions should or should not be used.
+
+Bio
+~~~
+
+I've been at MSFT for 9 years,
+working on the compiler back end/optimizer the entire time.
+I'm currently responsible for the Orcas optimizer, linker, and other 'tools'
+while the rest of the team works on the "Phoenix" project. 
+
+Prior to my life at Microsoft, I graduated from the University of Utah with a BS in CS.
+I have a wife & 3 kids, enjoy playing with my kids,
+woodworking, mountain biking, writing goofy projects to learn new technologies,
+and wasting time in front of a variety of video games.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </talks/2006/ehc.ppt>`_ from the presentation.
+
+Watch a `video <http://video.google.com/videoplay?docid=9169999597330548749&hl=en>`_
+of the presentation.

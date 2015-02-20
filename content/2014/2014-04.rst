@@ -1,0 +1,90 @@
+April 16, 2014—The Chapel Programming Language—Thomas Van Doren
+###################################################################
+
+:date: 2014-03-22
+:slug: april-2014
+:author: George Reilly
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| April 16th, 2014 at 7:00 PM
+| Microsoft Campus.
+| `Building 40/41 Cafeteria <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_.
+
+Come at 6:45 for pizza
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
+`Protingent <http://www.protingent.com/>`_.
+
+
+Abstract
+~~~~~~~~
+
+`Chapel <http://chapel.cray.com/>`_
+is an emerging parallel programming language
+whose design and development are being led by Cray Inc.
+in collaboration with academia, computing centers, and industry.
+Chapel's goal is to make parallel programming more productive,
+from high-end supercomputers to commodity clusters
+and multicore desktops and laptops.
+It supports a multithreaded execution model
+via high-level abstractions for data parallelism, task parallelism,
+concurrency, and nested parallelism.
+Chapel has a multi-resolution model that allows users
+to write high level abstract code
+while still maintaining control over lower level details as needed.
+
+
+Bio
+~~~
+
+Thomas Van Doren is a software engineer at Cray Inc. in Seattle
+where he works on Chapel.
+Previously he worked at Cozi Inc.
+and graduated from the University of Washington.
+Thomas loves open source software, automation, and working on large scale problems.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Thank you for allowing us to be a sponsor NWCPP!
+Protingent is a locally owned staffing company
+with our corporate headquarters being in Redmond, WA.
+Protingent provides engineering and IT professionals
+with rewarding and exciting work opportunities at technology businesses
+throughout the Pacific Northwest.
+We are committed to helping you enhance your career
+while engaging in meaningful and creative work
+that drives your own personal spirit and passions.
+Protingent recruiters work exclusively
+with technology professionals and technology companies—\
+we have technical understanding, expertise
+and are well connected in the technology community.
+Our principals bring deep personal understanding
+of both the business of engineering
+as well as the culture and nature of the engineer who operates within it.
+More than a database, we have an unparalleled client network
+built from years of collaboration with our clients.
+We have daily access to hiring managers
+at some of the most exciting technology companies.
+We can get your resume directly into the right hands.
+Protingent offers benefits
+including health insurance, dental insurance, 401(k),
+PTO, pre-tax commuter benefits and supplemental insurance.
+
+Please visit `Protingent.com <http://www.protingent.com>`_
+for additional information. 
+
+Protingent Attendees:
+
+| John Marsh — Recruiting Manager 425-284-7762 john@protingent.com
+| David Jorden — Technical Recruiter
+
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/lo3a_b34zX0>`_ |
+`Slides </talks/2014/ChapelForNWCPPUsersGroup.pdf>`_

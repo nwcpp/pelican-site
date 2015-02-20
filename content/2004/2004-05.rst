@@ -1,0 +1,55 @@
+May 12th, 2004 — Improving Testability — Dave Catlett
+#####################################################
+
+:date: 2004-05-01
+:slug: may-2004
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Improving Testability: Decreasing the cost of developing and maintaining software while increasing quality
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Thorough testing can be expensive in terms of time and resources,
+especially if the software component or the systems it interacts with
+are difficult to test.
+It is necessary though in order to deliver high quality software
+that meets the user's needs.
+By designing testability features into the component, not only is testing easier,
+it helps enforce good design principles,
+it makes diagnosing unexpected behavior go faster,
+it can improve manageability of the component,
+and it reduces the cost of supporting the software after it "ships."
+In short, it increases quality while reducing cost.
+
+Determining testability can be achieved using the SOCK analysis method,
+where S=Simplicity, O=Observability, C=Control, and K=Knowledge of expected results.
+For example, using an observer design pattern class to increase observability
+will not only make it easier for an automated test to determine pass or fail
+at any given point in time,
+it will provide a history of events
+making diagnosis of a bug much easier both during the development cycle
+and by the support team after the software is shipped.
+We will go through this and other practical examples
+of how to improve testability by improve in each area of SOCK.
+
+Bio
+~~~
+
+Dave Catlett has been testing software
+and developing people, tools and techniques for testing software for over 12 years.
+In his current role as Test Architect for the Microsoft Windows Networking & Devices group,
+Dave has been researching and implementing methods to decrease the costs
+while increasing the quality of software throughout the engineering lifecycle.
+Dave holds a B.S. in Computer Science/Math from the University of Puget Sound
+and more importantly is a husband to Erika and dad to Josh, Emilie and Sara.
+He's also pursuing a career as world-famous groundskeeper
+for the Eastlake Little League Dodgers of which his son is a starting pitcher.
+Go blue!
+
+`Click here </talks/2004/ImprovingTestabilityNWCPP.ppt>`_
+to download the slides from the presentation

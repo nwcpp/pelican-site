@@ -1,0 +1,43 @@
+January 15, 2014—Static Analysis: More than finding bugs—Bob Archer
+###################################################################
+
+:date: 2014-01-15
+:slug: january-2014
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| January 15th, 2014 at 7:00 PM
+| Microsoft Campus.
+| `Building 40/1450–Steptoe <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+40>`_
+  (Cafeteria).
+
+Come at 6:45 for pizza
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
+`Universal Avionics <http://www.uasc.com/company/careers.aspx>`_.
+
+Abstract
+~~~~~~~~
+
+Static analysis is a technique for finding bugs without running the code.
+This presentation will examine the technical problems of analyzing millions of lines of code,
+the philosophical problems of answering the question “what is a bug anyway?”
+and the psychological problems of explaining bugs to a skeptical audience.
+
+Bio
+~~~
+
+Bob Archer has worked at `Coverity <http://www.coverity.com/>`_ for the past year.
+Previously he has worked on image processing, computer games,
+virtual reality and 3D simulation.
+He has a particular interest in the problem of
+writing high quality code in the commercial world.
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/D3WzjjiC7K0>`_ |
+`Slides </talks/2014/Coverity.pdf>`_ |
+`A Few Billion Lines of Code Later
+<http://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext>`_

@@ -1,0 +1,63 @@
+September 21st, 2005 — Two Views of C++ — Scott Meyers
+######################################################
+
+:date: 2005-09-01
+:slug: september-2005
+
+Location
+~~~~~~~~
+
+| `Construx Software <http://www.construx.com>`_
+| 11820 Northup Way #E200
+| Bellevue, Washington 98005
+
+Abstract: Two Views of C++
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In 2002, Bertrand Meyer, inventor of Eiffel,
+asked me to give a talk on C++ at ETH in Zurich,
+where he is a member of the Software Engineering faculty.
+Meyer is a well-known C++-hater, so the choice of topic was a delicate one.
+I ultimately decided to give two mini-talks,
+one making C++ look bad and one making it look good.
+
+The two talks are:
+
+-   "The meaning of 'f(x)' in C++," an exploration of the rules for
+    function overloading, template instantiation, template specialization,
+    and the semantic mess that results from their interactions.
+
+-   "Dimensional Analysis in C++," a purely compile-time approach to
+    making sure that physical quantities (e.g., mass, velocity, distance, etc.)
+    are used consistently in C++ programs.
+
+I'll also be plugging the third edition of *Effective C++,* reminding
+everyone that they should own *n*\ +2 copies, where *n* is the number of cars they own:
+1 for home, 1 for work, and *n* for reading when they are stuck in traffic.
+
+I may also show slides of recent trips I've taken to China and India.
+Or maybe of our new dog, Darla.
+Maybe even video.
+Whatever.
+We'll see :-)
+
+Bio
+~~~
+
+
+Scott Meyers is one of the world's foremost experts on C++ software development.
+He wrote the best-selling *Effective C++* series
+(`Effective C++ <http://www.awl.com/cseng/titles/0-201-92488-9/>`_,
+`More Effective C++ <http://www.awl.com/cseng/titles/0-201-63371-X/>`_,
+and `Effective STL <http://www.awl.com/cseng/titles/0-201-74962-9/>`_);
+wrote and designed the innovative
+`Effective C++ CD <http://www.awl.com/cseng/titles/0-201-31015-5/>`_;
+is consulting editor for Addison Wesley's *Effective Software Development Series*;
+and is a member of the advisory board for
+`Software Development <http://www.sdmagazine.com/>`_ magazine.
+He also sits on technical advisory boards for several start-up companies.
+A programmer since 1972, he holds an M.S. in Computer Science from Stanford University
+and a Ph.D. from Brown University.
+
+`Click here </talks/2005/twoViews.pdf>`_
+to download the slides from the presentation

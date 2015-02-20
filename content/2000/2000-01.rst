@@ -1,0 +1,5 @@
+January 2000: No Meeting
+########################
+
+:date: 2000-01-01
+:slug: january-2000

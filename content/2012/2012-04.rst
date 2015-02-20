@@ -1,0 +1,70 @@
+April 18th, 2012 — Essential Skills for the Agile Developer – Alan Shalloway
+############################################################################
+
+:date: 2012-04-01
+:slug: april-2012
+:author: George Reilly
+
+Abstract
+~~~~~~~~
+
+Many developers have been suddenly thrown into developing code in stages
+whereas they used to be able to do bigger designs up front.
+Many people tell them to do test-driven development and emergent design
+while ignoring the fact that their work with legacy systems may prevent such actions.
+In any event, new methods require new skills – skills they don’t have time to get.
+At first, it may appear that the required developer skill set for this new way of writing code
+is huge and daunting.
+Fortunately, it isn’t.
+One of the things we’ve learned at Net Objectives,
+is that there are often a few simple things one can do that make a huge difference.
+We like to have people start with these trim tabs.
+We refer to these as trim tabs since they are small things that make a big difference.
+This talk introduces some trim tabs for the new agile developer.
+
+Outline:
+
+* Programming by Intention
+* Separating Use from  Construction
+* Define tests Up Front
+* Shalloway’s Law
+* Encapsulate That
+
+The lessons learned are taken from Net Objectives’ new book
+`Essential Skills for the Agile Developer
+<http://www.netobjectives.com/resources/books/essential-skills-agile-developers>`_:
+
+Bio
+~~~
+
+**Alan Shalloway** is the founder and CEO of `Net Objectives <http://www.netobjectives.com/>`_.
+With over 40 years of experience, Alan is an industry thought leader
+in Lean, Kanban, Scrum and design patterns.
+He helps companies transition to Lean and Agile methods enterprise-wide
+as well teaches courses in these areas.
+Alan has developed training and coaching methods for Lean-Agile
+that have helped his clients achieve long-term, sustainable productivity gains.
+He is a popular speaker at prestigious conferences worldwide.
+He is the primary author of
+`Design Patterns Explained: A New Perspective on Object-Oriented Design
+<http://www.netobjectives.com/resources/books/design-patterns-explained>`_,
+`Lean-Agile Pocket Guide for Scrum Teams
+<http://www.netobjectives.com/resources/books/lean-agile-pocket-guide-scrum-teams>`_,
+`Lean-Agile Software Development: Achieving Enterprise Agility
+<http://www.netobjectives.com/resources/books/lean-agile-software-development>`_,
+and is currently writing
+`Essential Skills for the Agile Developer
+<http://www.netobjectives.com/resources/books/essential-skills-agile-developers>`_.
+Alan has worked in literally dozens of industries over his career.
+He is a co-founder and board member for the
+`Lean Software and Systems Consortium <http://www.leanssc.org/>`_.
+He has a Masters in Computer Science from M.I.T.
+as well as a Masters in Mathematics from Emory University.
+You can follow Alan on Twitter,
+`@alshalloway <http://twitter.com/alshalloway>`_
+
+Resources
+~~~~~~~~~
+
+`Video <http://vimeo.com/40726192>`_ \|
+`Slides </talks/2012/essential-skills-for-the-agile-developer-2012.pdf>`_

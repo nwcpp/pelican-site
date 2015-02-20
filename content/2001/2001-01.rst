@@ -1,0 +1,61 @@
+January 8th–9th, 2001 — Microsoft's .NET Initiative — Jeffrey Richter
+#####################################################################
+
+:date: 2001-01-01
+:slug: january-2001
+
+Location
+~~~~~~~~
+
+| Overlake Hospital Conference Center
+| 121 107th Ave NE
+| Bellevue, WA
+
+NOTE: The Overlake Hospital Conference Center is off Old Main Street and
+107th in Bellevue, not at the hospital itself. Take Main Street and turn
+North onto 107th, conference center will be on your left.
+
+Abstract
+~~~~~~~~
+
+This is a very special, 2-day meeting that we are co-hosting with the
+Windows Developer's SIG of the Washington Software Alliance. Please try
+to attend both days.
+
+We are very fortunate to have this free presentation from Jeffrey, who
+is in great demand as a .NET and Windows development expert. If you
+attend only one meeting this year, make it this one.
+
+Microsoft .NET is a radical new computing platform that promises to
+change software development as we know it. Programmers who embrace .NET
+will no longer write to the Windows API or rely upon tried-and-true
+tools such as MFC and ATL. Instead, they'll target a framework called
+the .NET Base Class Library (BCL), and a significant percentage of them
+will use a new language, C#, to craft their wares. .NET compilers won't
+produce native machine code as today's compilers do; instead, they'll
+generate a pseudo-machine code called Intermediate Language (IL) that's
+executed by the .NET run-time. This new programming paradigm will
+simplify the Windows programming model and make Web applications easier
+to write than ever before. And it will enable a new generation of
+software that runs on every conceivable type of computing device, from
+the most powerful Web server to the lowliest hand-held PC.
+
+Bio
+~~~
+
+Jeffrey Richter is the author of Microsoft Press' "Programming
+Applications for Microsoft Windows" and M & T's "Windows 95: A
+Developer's Guide," two of the bibles of Windows development. His newest
+book, "Programming Server-Side Applications for Windows 2000," was
+published by Microsoft Press in 2000.
+
+Jeffrey is also a frequent contributor to Microsoft's MSDN Magazine
+(formerly called MSJ) and other trade publications, and is MSDN's Win32
+columnist. More info on Jeffrey at
+`http://www.jeffreyrichter.com <http://www.jeffreyrichter.com>`_.
+
+Jeffrey Richter, Jeff Prosise and John Robbins have recently combined
+forces to created Wintellect, which will no doubt become the preeminent
+training and consulting organization of its kind. Jeffrey's presentation
+to us comes from material he's developed for Wintellect courses. More
+information at `http://www.wintellect.com <http://www.wintellect.com>`_.

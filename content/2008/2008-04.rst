@@ -1,0 +1,51 @@
+April 16th, 2008 — Programming Declaratively in C++ Using the Logic Paradigm — Roshan Naik
+##########################################################################################
+
+:date: 2008-04-01
+:slug: april-2008
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+The Logic paradigm (LP) is a powerful, Turing-complete programming paradigm
+that has seen little representation in mainstream languages
+as compared to the Object-Oriented, Imperative and Functional paradigms.
+LP is an important approach in Computer Science towards
+what is sometimes referred to as the Holy-Grail of programming,
+"The user states the problem, the computer solves it".
+Origins of the theory underlying Logic dates back to about 300 B.C.
+when Aristotle founded Formal Logic to bring rigor to logical inferencing.
+The theory matured into Modern Logic more recently (early 1900s)
+when Russell & Whitehead showed that all of Mathematics could be reduced to Logic.
+This talk will provide an introduction to the basics of LP in C++,
+followed by examples to develop a feel for thinking
+in terms of this paradigm and understand how it blends with the other paradigms.
+We finally broaden the scope to see how powerful multiparadigm solutions emerge
+when programmers can freely mix and match paradigms.
+All code will use standard C++ and
+Castor, an open source library
+(available from `www.mpprogramming.com <http://www.mpprogramming.com>`_)
+which brings the Logic paradigm to C++.
+
+Bio
+~~~
+
+`Roshan Naik <mailto:roshan@mpprogramming.com>`_
+is an R&D engineer at Hewlett-Packard.
+He specializes in multiparadigm programming techniques.
+Roshan is also author of `Castor <http://www.mpprogramming.com>`_,
+an open source library which brings the Logic Paradigm to C++.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </talks/2008/Roshan_Naik_Programming_Declaratively_In_C___using_the_Logic_Paradigm.pptx>`_
+from the presentation.

@@ -1,0 +1,38 @@
+October 15th, 2008 — Concepts in C++0X — Gary Powell
+####################################################
+
+:date: 2008-10-01
+:slug: october-2008
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+An introduction to the Standard Library and Concepts in C++0X.
+A general overview, and a couple of in-depth analyses of
+how to understand and use this new feature of the language.
+
+Bio
+~~~
+
+Programming since '74, using C++ since '87.
+Gary has been one of the early abusers of the C++ language and compiler
+to twist it to make functional programing a reality.
+A technical consultant and volunteer to the C++ standards committee since 2001
+where he has worked with many others on getting
+"bind", "variadac templates", "lambda", "decl\_type"
+and other useful stuff into the C++0X standard.
+A Google search of ``"Gary Powell" C++`` will yield a large number of hits
+only a few of which are not him.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </talks/2008/concepts-intro.ppt>`_ from the presentation.

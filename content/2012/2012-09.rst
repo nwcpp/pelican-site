@@ -1,0 +1,49 @@
+September 19th, 2012 — Functional Patterns in C++ — Bartosz Milewski
+#####################################################################
+
+:date: 2012-09-01
+:slug: september-2012
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| September 19, 2012 at 7:00 PM
+| Microsoft Campus.
+| `Building 41/1511–Townsend <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
+
+Abstract
+~~~~~~~~
+
+We are familiar with at least some of the GoF patterns like Visitor or Factory.
+Less known are some very powerful abstract patterns used primarily in functional languages.
+I will show you how to implement them in C++,
+as long as you don't get intimidated by names
+like Type Constructor, Functor, Applicative Functor, or Monad.
+Examples of those patterns are everywhere:
+``std::unique_ptr``, ``std::vector``, ``std::function``, and many more.
+What piqued my interest in those patterns was their use in C#
+to solve some of the problem of abstracting asynchronous APIs and threads.
+Their understanding might help in fixing C++11 support for concurrency.
+
+Bio
+~~~
+
+Bartosz Milewski has a Ph.D. in Quantum Physics and many years of
+experience as a C++ programmer.
+He worked at Microsoft on the Context Index—a search engine before the Internet—\
+still an active part of Windows.
+He designed the first distributed version control system,
+`Code Co-op <http://www.relisoft.com/co_op/>`_ (before BitKeeper and Git).
+Bartosz took part in the design of the `D language <http://www.digitalmars.com/d/2.0/index.html>`_.
+His main topics of interest are concurrent and distributed computing.
+He works as a Software Architect at FP Complete,
+a company whose goal is to make Haskell an industrial language.
+He regularly publishes a blog at
+`http://BartoszMilewski.com <http://bartoszmilewski.wordpress.com/>`_
+and at `http://FPComplete.com/blog <http://fpcomplete.com/blog>`_.
+
+Resources
+~~~~~~~~~
+
+`Video and Slides <http://fpcomplete.com/functional-patterns-in-c/>`_

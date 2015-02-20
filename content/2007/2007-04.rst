@@ -1,0 +1,63 @@
+April 25th, 2007 — Red Code, Green Code:  Generalizing const — Scott Meyers
+###########################################################################
+
+:date: 2007-04-01
+:slug: april-2007
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+C++ compilers allow non-const code to call const code,
+but going the other way requires a cast.
+In this talk, Scott describes an approach
+he's been pursuing to generalize this notion to arbitrary criteria.
+For example, thread-safe code should only call other thread-safe code
+(unless you explicitly permit it on a per-call basis).
+Ditto for exception-safe code,
+code not "contaminated" by some open source license,
+or any other constraint you choose.
+The approach is based on template metaprogramming (TMP),
+and the implementation uses the Boost metaprogramming library (Boost.MPL),
+so constraint violations are,
+wherever possible, detected during compilation.
+
+Topics likely to be mentioned during the talk include Hellen Keller,
+namespaces, multiple inheritance, Barton and Nackman, enable_if,
+traits, TMP debugging, VC8 ICEs, MPL bugs, dancing bears, NVI,
+metaprogrammer Hell, Captain Kirk, Acyclic Visitor, Scopeguard,
+External Polymorphism, and prayer.
+Possibly also Vista, Google, and Lenovo.
+
+Scott will show proof-of-concept code that, so far as he can tell, actually works.
+
+Bio
+~~~
+
+Scott Meyers is one of the world's foremost authorities on C++;
+he provides training and consulting services to clients worldwide.
+He wrote the best-selling *Effective C++* series
+(`Effective C++ <http://www.awl.com/cseng/titles/0-201-92488-9/>`_,
+`More Effective C++ <http://www.awl.com/cseng/titles/0-201-63371-X/>`_,
+and `Effective STL <http://www.awl.com/cseng/titles/0-201-74962-9/>`_);
+wrote and designed the innovative
+`Effective C++ CD <http://www.awl.com/cseng/titles/0-201-31015-5/>`_;
+is consulting editor for Addison Wesley's *Effective Software Development Series*;
+and serves on the Advisory Board for `The C++ Source <http://www.artima.com/cppsource>`_. 
+He has a Ph.D in Computer Science from Brown University.
+His web site is `aristeia.com <http://aristeia.com>`_. 
+
+Resources
+~~~~~~~~~
+
+Download the `slides </talks/2007/redcode_-_updated.pdf>`_ from the presentation.
+
+Watch the `video <http://video.google.com/videoplay?docid=-4728145737208991310&hl=en>`_
+of the presentation.

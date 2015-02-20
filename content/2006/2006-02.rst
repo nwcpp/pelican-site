@@ -1,0 +1,43 @@
+February 15th, 2006 — The Phoenix Compiler and Tools Framework — Andy Ayers
+###########################################################################
+
+:date: 2006-02-01
+:slug: february-2006
+
+Location
+~~~~~~~~
+
+| `Construx Software <http://www.construx.com>`_
+| 11820 Northup Way #E200
+| Bellevue, Washington 98005
+
+The Phoenix Compiler and Tools Framework: Built From, Building, and Building On C++/CLI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Phoenix, Microsoft's next generation compiler and tools framework,
+is built entirely in C++/CLI.
+Phoenix's design leverages both the traditional strengths of C++
+and the innovative features of CLI binding.
+The Phoenix framework's flexible, and extensible components
+make extensive use of CLI features like ref classes, properties, events, and delegates.
+We'll demonstrate how C++/CLI enables Phoenix
+to produce not only powerful compiler and jit components
+that will help implement and optimize C++/CLI programs
+but also produce novel and efficient tools for
+C++/CLI program analysis, understanding, and manipulation.
+
+Bio
+~~~
+
+Andy is an Architect and Dev Lead on the Microsoft Phoenix Project.
+He joined Microsoft in 2002.
+Andy has created program analysis tools at InCert Software
+and written optimizing compilers at Hewlett Packard.
+His fascination with the challenges C++ presents to language implementers
+dates back to his days as a graduate student at MIT in the late 1980's.
+
+Resources
+~~~~~~~~~
+
+`Click here </talks/2006/Ayers_NWCPP_Talk.ppt>`_
+to download the slides from the presentation

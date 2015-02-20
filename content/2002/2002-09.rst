@@ -1,0 +1,40 @@
+September 18th, 2002 — Understanding templates as a form of weak typing — Bruce Eckel
+#####################################################################################
+
+:date: 2002-09-01
+:slug: september-2002
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+As I learned the Python programming language (see
+`www.Python.org <http://www.python.org>`_), I began to understand the
+concept of weak/latent typing (which the Smalltalk programmers are so
+fond of). At first, this seems like a very heretical and dangerous
+approach, but with time I not only began to see how powerful it is, but
+also to understand C++ templates in terms of weak typing. I found this
+gave me a much deeper understanding of the value and use of templates.
+In this talk, I will introduce the Python language and the concept of
+weak typing, and I will show C++ templates in the same light. You should
+come away with a deeper grasp of templates and where they can be put to
+use.
+
+Bio
+~~~
+
+Bruce Eckel (`www.BruceEckel.com <http://www.bruceeckel.com>`_) is the
+author of Thinking in Java (Prentice-Hall, 1998, 2nd Edition, 2000), the
+Hands-On Java Seminar CD ROM (available on the Web site), Thinking in
+C++ (PH 1995; 2nd edition 2000), C++ Inside & Out (Osborne/McGraw-Hill
+1993), among others. He's given hundreds of presentations throughout the
+world, published over 150 articles in numerous magazines, was a founding
+member of the ANSI/ISO C++ committee and speaks regularly at
+conferences. He provides public and private seminars & design consulting
+in C++ and Java.

@@ -1,0 +1,31 @@
+March 8th, 2000 — Real-World Class Design — Mark Wiseman
+########################################################
+
+:date: 2000-03-01
+:slug: march-2000
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue Northeast
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+There is a lot you may need to consider when designing a C++ class
+including ease of use, reusability, extensibility, and portability,
+etc.. All of these considerations may suffer because of the real-world
+pressures of time and money. Mark will talk about C++ class design using
+two classes from recent projects, a password generation class and a
+class for searching disks for specific files.
+
+Bio
+~~~
+
+Mark Wiseman is president of `Corner Office Solutions,
+Inc. <http://www.cosolutions.com>`_ A company that develops custom
+Windows software for business management. Mark is also president of the
+Northwest C++ User's Group. You can e-mail him at
+`mwiseman@cosolutions.com <mailto:mwiseman@cosolutions.com>`_.

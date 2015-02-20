@@ -1,0 +1,53 @@
+March 20, 2013—Profile Guided Optimization—Ankit Asthana 
+########################################################
+
+:date: 2013-03-02
+:slug: march-2013
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| March 20th, 2013 at 7:00 PM
+| Microsoft Campus.
+| `Building 41/1511–Townsend <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
+
+Come at 6:45 for pizza
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
+Gordon Churchill.
+
+Abstract
+~~~~~~~~
+
+This talk focuses on one of critical optimization
+provided as a part of the VC++ compiler:
+‘Profile Guided Optimization (PGO)’.
+PGO in simple words is somewhat a major component
+of the secret sauce for high performant Microsoft internal products
+(Windows, Internet Explorer, Lync, Office, Surface and many others).
+To summarize, PGO helps in improving the runtime performance
+of the application by training it for a set of common user scenarios.
+This talk will go over a brief description of this optimization,
+the improvements that we have made recently
+followed by an exercise and demo on how PGO can be performed
+to performance boost your native application.
+
+Bio
+~~~
+
+Ankit Asthana is a program manager for the backend C/C++ compiler.
+He is knowledgeable in compiler technologies
+(dynamic and static compilation, optimizer, code generation),
+distributed computing and server side development.
+He has in the past worked for IBM and Oracle Canada
+as a developer building Java 7 (hotspot) and telecommunication products.
+Ankit back in 2008 also published a book on C++ titled
+`C++ for Beginners to Masters
+<http://www.amazon.com/C-Beginners-Masters-Ankit-Asthana/dp/8122420249>`_
+which sold over a few thousand copies.
+
+Resources
+~~~~~~~~~
+
+`Video <http://www.youtube.com/watch?v=zEsdBcu4R00>`_ |
+`Slides </talks/2013/ProfileGuidedOptimizationMarch21st.pptx>`_

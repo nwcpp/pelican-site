@@ -1,0 +1,42 @@
+April 19th, 2006 — C++ on Next-Gen Consoles: Effective Code for New Architectures — Pete Isensee
+################################################################################################
+
+:date: 2006-04-01
+:slug: april-2006
+
+Location
+~~~~~~~~
+
+| `Construx Software <http://www.construx.com>`_
+| 11820 Northup Way #E200
+| Bellevue, Washington 98005
+
+Abstract
+~~~~~~~~
+
+At GDC 2005, Chris Hecker stated that average game code
+is going to run slower on next-generation consoles than on the current generation.
+In many ways, he’s right.
+Programmers accustomed to having CPU silicon
+devoted to out-of-order execution units and instruction pipelining
+are in for a rude awakening.
+A few brave souls will turn to assembly language optimizations,
+but what about the rest of us who use C++ on a daily basis?
+This talk is for you.
+Find out how to write C++ code that runs like a dream on next-generation consoles.
+
+Bio
+~~~
+
+Pete has been programming in the game industry for 10 years.
+He has shipped titles ranging from adventure stories to online games,
+working on everything from Macs to consoles.
+He is currently a lead engineer with the Xbox Advanced Technology Group.
+He has a degree in computer engineering
+and was a C++ template geek long before compilers knew what to make of functors and traits.
+
+Resources
+~~~~~~~~~
+
+`Click here <https://www.cmpevents.com/sessions/GD/S1549i1.ppt>`_
+to download the slides from the presentation

@@ -1,0 +1,81 @@
+September 18, 2013—Stability in Numerical Programming: An Introduction—Robert Goddard
+#####################################################################################
+
+:date: 2013-09-05
+:slug: september-2013
+:author: George Reilly
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| September 18th, 2013 at 7:00 PM
+| Microsoft Campus.
+| `Building 41/1511–Townsend <http://www.bing.com/maps/?v=2&where1=Microsoft+Building+41>`_
+
+Come at 6:45 for pizza
+`sponsored <{filename}/about/sponsors-howto.rst>`_ by
+`Kongsberg Underwater Technology <http://www.km.kongsberg.com/>`_.
+
+Abstract
+~~~~~~~~
+
+Many numerical algorithms involve feedback loops
+in which the results of each step of the algorithm
+act as inputs to the following steps.
+
+Examples include numerical solution of differential equations,
+filtering of sound (or other signals) using IIR (Infinite Impulse Response) filters,
+and control of device motion.
+Inevitably, small numerical errors are introduced at each step.
+In an unstable algorithm, the effects of those errors grow in subsequent feedback steps,
+eventually dominating over the "right" answer you are looking for.
+In a stable system, the effects of errors shrink,
+or at least do not grow, in subsequent steps.
+The consequences of instability vary from "Huh?" through "aw, &%@%)$^&%*" to death.
+
+In this talk, I will show examples of unstable and stable algorithms,
+investigate the differences,
+and introduce some methods for making sure your algorithms are stable.
+The presentation will include some college-level mathematics,
+but the emphasis will be on understanding
+why instability happens and how to avoid it.
+
+The examples will be in C++, but the principles are not language-specific.
+This seminar will build on the general principles
+outlined in my `previous NWCPP talk <http://nwcpp.org/november-2011.html>`_
+in November 2011, entitled "Introduction to Scientific Computing."
+This talk begins where that one ends:
+with a demonstration of an unstable algorithm for solving a differential equation.
+(Sorry about the sound in that video.
+We have improved our technology since then, with your help.
+Thanks.)
+
+Bio
+~~~
+
+| Robert P. Goddard, Ph.D.
+| Principal Physicist, Applied Physics Laboratory, University of Washington
+| Treasurer (a.k.a. hat-passer), Northwest C++ Users' Group
+
+Robert Goddard is a physicist and software developer.
+For the last 32 years, he has worked at
+the Applied Physics Laboratory of the University of Washington,
+mainly on computer modeling of underwater sound.
+He is the architect and team leader for the Sonar Simulation Toolset (SST),
+which produces simulated underwater sound,
+suitable as input to sophisticated signal processing systems
+(including human ears and brains),
+based on user-specified descriptions of the undersea environment,
+the listening system, and the sound sources and targets that might be out there.
+He has also developed systems for control of measurement devices,
+data analysis, visualization, modeling of quantum mechanical scattering,
+and optimization of parameter values to fit observations.
+
+Bob has been an active participant in NWCPP for most of its existence,
+and is currently Treasurer.
+
+Resources
+~~~~~~~~~
+
+`Video <http://youtu.be/amez0WdSJX8>`_ |
+`Slides </talks/2013/Stability.pdf>`_

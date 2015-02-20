@@ -1,0 +1,48 @@
+October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz Milewski
+################################################################################
+
+:date: 2009-10-01
+:slug: october-2009
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+It’s a well known fact in C++ metaprogramming circles
+that it’s all based on functional programming.
+What else is based on functional programming?
+Haskell!
+I will go through functional features of Haskell, one by one,
+and show you how they are implemented using C++ templates.
+Functions, recursion, pattern matching, higher-order functions,
+list processing, list comprehension and more…
+No previous contact with Haskell is required,
+although some familiarity with C++ templates will be assumed.
+I’ll also talk about C++0x variadic templates and template parameter packs.
+
+Bio
+~~~
+
+Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, *C++ In Action*.
+Bartosz keeps up with the latest developments in CS
+by attending graduate courses and seminars at the UW.
+He actively works on the design of the D language.
+He regularly blogs about programming languages and concurrency at
+`http://BartoszMilewski.wordpress.com <http://BartoszMilewski.wordpress.com>`_.
+
+Resources
+~~~~~~~~~
+
+`Slides </talks/2009/Haskell_and_C___Template.pdf>`_ |
+`Video <http://www.vimeo.com/7211030>`_

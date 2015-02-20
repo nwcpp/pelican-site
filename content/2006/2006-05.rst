@@ -1,0 +1,53 @@
+May 17th, 2006 — The Power of None — Andrei Alexandrescu
+########################################################
+
+:date: 2006-05-01
+:slug: may-2006
+
+Location
+~~~~~~~~
+
+| `Construx Software <http://www.construx.com>`_
+| 11820 Northup Way #E200
+| Bellevue, Washington 98005
+
+Abstract
+~~~~~~~~
+
+Exceptions. The final frontier.
+We wanted to understand them.
+We thought we'll love them, but they've lacerated our code.
+We hated them.
+We tried to do without them.
+We couldn't because they kept on throwing themselves at us.
+In bitworld, exceptions might have cast upon us the closest analogy
+to a love-hate, abusive, co-dependent relationship.
+
+This talk has two purposes.
+First purpose is group therapy.
+We will try to explain through a dialog linking cause to effect,
+why things are the way they are.
+Second, we discuss how to escape the abuse cycle
+by summoning an unexpected ally: the type system.
+Come one, come all for one cathartic hour.
+
+Bio
+~~~
+
+Andrei Alexandrescu is a graduate student at the University of Washington in Seattle,
+working on the lean and mean speech recognition machine
+that we all know (since 1960) will be completed within 5 years.
+In the C++ community, Andrei is best known
+for his best-selling (and tuition-paying) books,
+*Modern C++ Design* and *C++ Coding Standards*,
+the latter coauthored with Herb Sutter.
+Andrei has also published numerous articles
+on software design and implementation using C++,
+and in spite of his accent is a sought-after speaker at numerous conferences worldwide.
+His website is `www.erdani.org <http://www.erdani.org>`_.
+
+Resources
+~~~~~~~~~
+
+`Click here </talks/2006/The_Power_of_None.ppt>`_
+to download the slides from the presentation

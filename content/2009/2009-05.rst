@@ -1,0 +1,34 @@
+May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick Molloy
+############################################################################################################
+
+:date: 2009-05-01
+:slug: may-2009
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+C++: Building scalable applications in Visual Studio 2010 with the Concurrency Runtime and Parallel Pattern Library
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In this talk, we'll do a deep dive of the Concurrency Runtime
+and the Parallel Libraries built on top of them,
+and talk about what's new since the Visual Studio 2010 CTP.
+We'll provide a hands on look at how to use the Parallel Pattern Library
+and the Asynchronous Agents Library together
+to express parallelism and maintain responsiveness in applications.
+We'll discuss how to use the Concurrency Runtime
+to manage multiple scheduler instances within an application,
+how to extend the Concurrency Runtime itself for additional programming models,
+and how to fulfill quality of service requirements with the Resource Manager.
+Finally we'll talk about how the Concurrency Runtime
+takes advantage of the new Windows 7 functionality,
+User Mode Scheduled Threads and support for > 64 processors,
+to enable additional scalability on the Windows Platform.
+
+The presentation will be given by members of the Concurrency Runtime team:
+Dana Groff, Don McCrady and Rick Molloy.

@@ -1,0 +1,36 @@
+February 13th, 2002 — Visual C++ .NET — Christian Harlass
+#########################################################
+
+:date: 2002-02-01
+:slug: february-2002
+
+Location
+~~~~~~~~
+
+| `Avaya Corporation <http://www.avaya.com>`_
+| 6464 185th Avenue NE
+| Redmond, WA 98052
+
+Abstract
+~~~~~~~~
+
+Microsoft Visual Studio .NET will ship in the coming weeks (at least
+they say so) and everybody is talking about C#, VB, ASP, and ADO. What
+about C++? How does it fit with new technologies? We will explore a
+closer look at the new features of the compiler, the C Run-Time, and
+three other libraries, namely STL, MFC and ATL.
+
+Bio
+~~~
+
+Christian has come a long way from DOS to Unix and now to MS Windows (as
+well as from Germany to Seattle!). Currently he works for Saxonia
+Systems, a software consulting company based out of Dresden, Germany.
+Besides his duties heading up Saxonia's U.S. consulting division in C++
+programming, he is constantly keeping an eye on the market for new and
+useful programming tools.
+
+Resources
+~~~~~~~~~
+
+`Click here </talks/2002/VC7Demo.zip>`_ to download the source code from the presentation

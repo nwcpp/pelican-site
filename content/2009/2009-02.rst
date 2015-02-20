@@ -1,0 +1,40 @@
+February 18th, 2009 — CCR: Concurrency and Coordination Runtime — Andreas Ulbrich
+#################################################################################
+
+:date: 2009-02-01
+:slug: february-2009
+
+Location
+~~~~~~~~
+
+| `Microsoft Corporation <http://www.microsoft.com>`_
+| Building 41
+| One Microsoft Way
+| Redmond, Washington 98052
+
+Abstract
+~~~~~~~~
+
+The Concurrency and Coordination Runtime (CCR)
+provides developers an easy way to create and coordinate
+loosely-coupled, data-driven applications.
+It is one of the core building blocks of Microsoft Robotics Developer Studio
+but has applications far beyond robotics.
+CCR provides a message-passing architecture with powerful orchestration primitives
+enabling the coordination of data and work.
+
+Bio
+~~~
+
+Andreas is a Senior Engineer in the Microsoft Robotics Group,
+where he works on CCR, DSS, and the Visual Programming Language.
+Prior to joining Microsoft,
+he worked on telecommunication and interactive television products
+and was a Research Assistant at Technische Universtitaet Berlin in Germany.
+
+Resources
+~~~~~~~~~
+
+Download the `slides </talks/2009/NWCPP-CCR.pptx>`_
+and `source code </talks/2009/NWCPPDemos.zip>`_
+from the presentation.
