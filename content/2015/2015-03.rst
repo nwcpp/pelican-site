@@ -19,10 +19,12 @@ Time and Location
 Abstract
 ~~~~~~~~
 
-This talk will cover various aspects of the Go programming language. 
+Go for C++ devs
+The talks covers the basics of Go: its origin, philosophy, and main features.
+It has a focus on how C++ aspects map (or not) onto Go, giving special detail to object orientation, inheritance vs 
+composition, and interfaces.
+Last but not least, concurrency is a first class citizen in Go, so an overview and demonstration will conclude the talk.
 
-In addition, you still have time to vote for the specific topic(s) you would like to have at: http://campoy.cat/nwcpp
- 
 
 Bio
 ~~~
