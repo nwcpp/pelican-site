@@ -33,11 +33,15 @@ Francesc Campoy Flores is a Developer Advocate for Go and the Cloud at Google. H
 
 You can find him on twitter as @francesc.
 
+Resources
+~~~~~~~~~
+
+`Video <https://www.youtube.com/watch?v=y2bLGIw4o7k>`_ 
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-We’re thrilled to be a NWCPP sponsor! Xtreme Consulting is locally owned and headquartered in Kirkland, WA. We provide a wide-range of business and IT consulting solutions, managed services, and staff augmentation. We actively recruit for fun, smart, and career-driven IT professionals who bring an enthusiasm for personal growth and accelerating success for our clients. Xtreme’s consultants are provided the opportunity to work with and for some of the best technology companies in the industry. We work hard to create a passionate, supportive environment where employees can reach their career development goals, enjoy exceptional benefits, and have fun all at the same time.
+We're thrilled to be a NWCPP sponsor! Xtreme Consulting is locally owned and headquartered in Kirkland, WA. We provide a wide-range of business and IT consulting solutions, managed services, and staff augmentation. We actively recruit for fun, smart, and career-driven IT professionals who bring an enthusiasm for personal growth and accelerating success for our clients. Xtreme's consultants are provided the opportunity to work with and for some of the best technology companies in the industry. We work hard to create a passionate, supportive environment where employees can reach their career development goals, enjoy exceptional benefits, and have fun all at the same time.
 
 Xtreme focuses on solutions and services including analysis, design, architecture, development, testing, implementation, maintenance and support of a variety of software technologies with specific emphasis on portal development, technical content creation, virtual machine environments and client and server deployment. Visitxtremeconsulting.com for more information. You can view and apply to our open positions at http://www.xtremeconsulting.com/careers.
 Xtreme Contact: info@xtremeconsulting.com
