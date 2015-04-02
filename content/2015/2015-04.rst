@@ -1,0 +1,40 @@
+April 15th 2015: Pushing the Boundaries of C++ Code Generation 
+###############################################################
+
+:date: 2015-04-01
+:slug: april-2015
+:author: Rohit Patnaik
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| April 15th, 2015 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+
+It is not uncommon to see projects using C++ Code Generation to build initial .h and .cpp files out of UML models, or serialization/marshalling code for data types. However there are further potential applications in aspect orientation, performance tracking, and various types of testing. In a world where developers are expected to become more and more agile, it is more important than ever to hunt down things that are automatable and this talk can give you some ideas.
+
+Bio
+~~~
+
+Bilgem Cakir is a Senior SDE in Amazon. After 4 years in embedded software for consumer electronics and 2 years of game development in Europe, Bilgem moved over to U.S. and joined the Microsoft DirectX team. Six years and two versions of D2D later, his passion for the field of computer graphics sent him over to Amazon Digital products group. He spent the last 3 years, working on the Dynamic Perspective feature of the Fire Phone. Bilgem is also a well-known coder in the European demoscene. In addition to computer graphics his interests include, game engines, C++ patterns, code generation and software testing. 
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Coming soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
