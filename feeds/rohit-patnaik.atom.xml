@@ -57,7 +57,8 @@ Last but not least, concurrency is a first class citizen in Go, so an overview a
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=y2bLGIw4o7k"&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=y2bLGIw4o7k"&gt;Video&lt;/a&gt;
+&lt;a class="reference external" href="http://talks.golang.org/2015/go4cpp.slide#1"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
