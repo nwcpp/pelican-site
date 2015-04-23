@@ -1,0 +1,44 @@
+May 20th 2015: STL Concepts and Ranges
+###############################################################
+
+:date: 2015-04-23
+:slug: may-2015
+:author: Lloyd Moore
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| May 20th, 2015 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+With concepts and ranges coming, big changes are in store for the Standard Library and for the style of idiomatic C++. The effort to redefine the Standard Library is picking up pace. Come hear about one potential future from one of the key people driving the change. In this talk, Eric works through a tricky example and shows an elegant solution rooted both in yesterday's STL and tomorrow's. He will speak briefly about where we are in the process to reinvent and reinvigorate the Standard Library.
+
+Bio
+~~~
+Eric Niebler is a leading expert on library design in modern C++. He has freelanced as a professional C++ developer since 2003, has contributed to numerous Open Source projects, is a member of the ISO C++ Standardization Committee, the Boost Steering Committee, and is a Boost Release Manager. He is a keynote speaker at this year's C++Now conference in Aspen, and keynoted the 2013 Meeting C++ in Dusseldorf, Germany. Eric's range-v3 library, which re-imagines the STL with concepts and ranges, forms the basis of several serious proposals to modernize the core of the Standard Library.
+ 
+Eric spent over two years living nomadically, working remotely from the coffee shops of the world.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Since 2002, our customer's biggest challenges have guided the solutions we've built, and our people have been defining our fun-loving culture.  Along the way, we've accomplished some pretty amazing things; our teams represent flags from 17 countries and 4 branches of the armed forces, 55% of our management positions are held by women, 94% of our customers continue to put their trust in us, and our service mentality is engrained in our DNA.  
+ 
+Are you looking for that placement that will bring the right skills and energy to your team? Do you need a recruitment team with a laser focus on technical talent? With broad experience and deep expertise placing top-notch professional, IT, engineering and design talent, we provide job seekers with direct access to the industry’s leading recruiters, and clients with access to the finest talent the industry serves up. Our work across multiple industries enables us to be better counselors and service providers for job seekers and clients alike. A few of the industries we serve are IT, engineering, biotechnology, and healthcare. 
+ 
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels

@@ -37,6 +37,7 @@ Resources
 ~~~~~~~~~
 
 `Video <https://www.youtube.com/watch?v=y2bLGIw4o7k>`_ 
+`Slides <http://talks.golang.org/2015/go4cpp.slide#1>`_
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
