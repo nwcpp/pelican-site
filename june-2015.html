@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>June 17th 2015: Porting Emacs via Native Client</title>
+        <link rel="stylesheet" href="./theme/css/nwcpp.css" />
+        <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users’ Group Atom Feed" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Northwest C++ Users’ Group </a></h1>
+                <nav><ul>
+                    <li><a href="./category/2000.html">2000</a></li>
+                    <li><a href="./category/2001.html">2001</a></li>
+                    <li><a href="./category/2002.html">2002</a></li>
+                    <li><a href="./category/2003.html">2003</a></li>
+                    <li><a href="./category/2004.html">2004</a></li>
+                    <li><a href="./category/2005.html">2005</a></li>
+                    <li><a href="./category/2006.html">2006</a></li>
+                    <li><a href="./category/2007.html">2007</a></li>
+                    <li><a href="./category/2008.html">2008</a></li>
+                    <li><a href="./category/2009.html">2009</a></li>
+                    <li><a href="./category/2010.html">2010</a></li>
+                    <li><a href="./category/2011.html">2011</a></li>
+                    <li><a href="./category/2012.html">2012</a></li>
+                    <li><a href="./category/2013.html">2013</a></li>
+                    <li><a href="./category/2014.html">2014</a></li>
+                    <li class="active"><a href="./category/2015.html">2015</a></li>
+                    <li><a href="./category/about.html">about</a></li>
+                    <li><a href="./category/locations.html">locations</a></li>
+                    <li><a href="./category/misc.html">misc</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="./june-2015.html" rel="bookmark"
+           title="Permalink to June 17th 2015: Porting Emacs via Native Client">June 17th 2015: Porting Emacs via Native&nbsp;Client</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2015-05-25T00:00:00-07:00">
+                Published: Mon 25 May 2015
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="./category/2015.html">2015</a>. </p>
+
+</footer><!-- /.post-info -->      <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">June 17th, 2015 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Townsend Room, <a class="reference external" href="./steptoe-meeting-room.html">Bldg 41, Room 1511</a>, <span class="caps">NOTE</span>: <span class="caps">THIS</span> <span class="caps">IS</span> <span class="caps">NOT</span> <span class="caps">OUR</span> <span class="caps">NORMAL</span> <span class="caps">MEETING</span> <span class="caps">ROOM</span>!!!!</div>
+<div class="line">Microsoft Campus,</div>
+<div class="line">156th Ave <span class="caps">NE</span>,</div>
+<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
+</div>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>As the preferred text editor for a multitude of software developers, Emacs has been ported to a wide range of platforms. Recently, Emacs has come to the Web by way of a technology called Native Client. This talk explores the unique challenges of porting Emacs and Elisp to Native Client and the&nbsp;browser.</p>
+<p>Native Client (NaCl), is an open-source technology that allows native machine code to run securely sandboxed in the browser. Two layers of sandboxing, a static verification inner sandbox combined with Chrome’s outer process sandbox, ensure users can safely run untrusted applications. Modified <span class="caps">GCC</span> and an <span class="caps">LLVM</span> based toolchains allow applications to target NaCl. An I/O <span class="caps">API</span> called <span class="caps">PPAPI</span>, mirroring the security constraints of Javascript, is provided to NaCl&nbsp;applications.</p>
+<p>This talk will focus on the challenges of porting Emacs to NaCl including: emulation of <span class="caps">POSIX</span> APIs—processes, sockets, files—on top of Web-centric APIs, porting an X11 server and client libraries, adapting Elisp to NaCl’s memory layout, and packaging for an integrated experience. I will talk about the challenges of debugging the lisp that is a part of the editor itself. I’ll demonstrate Emacs running in Google Chrome and explorer how it can interoperate with other developer tools we’ve ported to the&nbsp;browser.</p>
+</div>
+<div class="section" id="bio">
+<h2>Bio</h2>
+<p>Pete has worked as a programmer for over 25 years at Boeing, Microsoft, Amazon, Google, and other places.  He has been attending <span class="caps">NWCPP</span> off and on for a lot of that&nbsp;time.</p>
+</div>
+<div class="section" id="resources">
+<h2>Resources</h2>
+<p>Coming&nbsp;Soon!</p>
+</div>
+<div class="section" id="a-word-from-our-sponsor">
+<h2>A Word From Our&nbsp;Sponsor</h2>
+<p>CyberData Corporation was founded by Lloyd Moore in 1996. CyberData specializes in providing custom software and hardware solutions for robotics, machine vision, embedded systems and industrial automation applications. Our mission is to create high quality, innovative technology for the global&nbsp;marketplace.</p>
+<p>CyberData also conducts internal research into the areas of robotics, machine vision and artificial intelligence. Specific technologies are then either licensed, sold as products or released as open source, depending on the specific nature and goals of the project. Technological developments are also provided directly to our clients through our consulting&nbsp;services.</p>
+<p><a class="reference external" href="http://www.CyberData-Robotics.com">http://www.CyberData-Robotics.com</a></p>
+</div>
+<div class="section" id="digital-media-links">
+<h2>Digital Media&nbsp;Links</h2>
+<ul class="simple">
+<li>Sign up for our <a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1">announcements mailing list</a> If you want to be more involved, sign up for our <a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers">volunteers</a>&nbsp;list</li>
+<li>Check out our web page at <a class="reference external" href="http://www.nwcpp.org/">http://www.nwcpp.org/</a></li>
+<li>Follow <a class="reference external" href="http://twitter.com/nwcpp">&#64;nwcpp</a> on&nbsp;Twitter</li>
+<li>Join our <a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930">Facebook&nbsp;Group</a></li>
+<li>Follow our <a class="reference external" href="https://plus.google.com/104974891006782790528/">Google+</a>&nbsp;page</li>
+<li>Tune in to our <a class="reference external" href="http://www.youtube.com/user/NWCPP">YouTube</a> and <a class="reference external" href="https://vimeo.com/nwcpp">Vimeo</a>&nbsp;channels</li>
+</ul>
+</div>
+
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://isocpp.org/">Standard C++ Foundation</a></li>
+                            <li><a href="http://herbsutter.com/">Sutter’s Mill</a></li>
+                            <li><a href="http://blogs.msdn.com/b/vcblog/">Visual C++ Team Blog</a></li>
+                            <li><a href="http://bartoszmilewski.com/">Bartosz Milewski</a></li>
+                            <li><a href="http://www.drdobbs.com/author/Walter-Bright">Walter Bright</a></li>
+                            <li><a href="http://www.cplusplus-soup.com/">C++ Soup!</a></li>
+                            <li><a href="http://www.drdobbs.com/cpp">Dr. Dobb’s C++</a></li>
+                            <li><a href="http://cpp-next.com/">C++Next</a></li>
+                            <li><a href="http://scottmeyers.blogspot.com/">Scott Meyers</a></li>
+                            <li><a href="http://blog.think-async.com/">Thinking Asynchronously in C++</a></li>
+                            <li><a href="http://www.justsoftwaresolutions.co.uk/cplusplus/">Anthony Williams</a></li>
+                            <li><a href="http://www.informit.com/authors/bio.aspx?a=e19aded6-574c-4c46-8511-101f9f0ed8f8">Danny Kalev</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="http://groups.google.com/group/NwcppAnnounce">Announcements List</a></li>
+                            <li><a href="http://groups.google.com/group/nwcpp-volunteers">Volunteers List</a></li>
+                            <li><a href="https://twitter.com/nwcpp">Twitter</a></li>
+                            <li><a href="https://www.facebook.com/groups/344125680930/">Facebook</a></li>
+                            <li><a href="https://plus.google.com/104974891006782790528/posts">Google+</a></li>
+                            <li><a href="http://www.youtube.com/user/NWCPP">YouTube</a></li>
+                            <li><a href="http://vimeo.com/nwcpp">Vimeo</a></li>
+                            <li><a href="http://www.linkedin.com/groups?gid=2770106">LinkedIn</a></li>
+                            <li><a href="https://speakerdeck.com/nwcpp">Speaker Deck</a></li>
+                            <li><a href="http://www.slideshare.net/nwcpp">SlideShare</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
