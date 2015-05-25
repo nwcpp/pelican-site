@@ -26,6 +26,11 @@ Eric Niebler is a leading expert on library design in modern C++. He has freelan
  
 Eric spent over two years living nomadically, working remotely from the coffee shops of the world.
 
+Resources
+~~~~~~~~~
+
+`Video <https://youtu.be/uXBcwcF3ln4>`_ |
+`Slides </talks/2015/ranges-calendar-nwcpp-2015-05.pdf>`_
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
