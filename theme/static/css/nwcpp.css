@@ -13,8 +13,8 @@
 	margin: 0 auto;
 }
 
-.left-nav {
-	float: left;
+.nav-column {
+	float: right;
 	width: 180px;
 	border-radius: 10px;
 	background: #fff;
@@ -22,7 +22,7 @@
 	padding: 5px;
 }
 
-.left-nav h2 {
+.nav-column h2 {
 	color: #C74451;
 	font-size: 1.714em;
 	margin-bottom: 0.333em;
@@ -30,7 +30,7 @@
 }
 
 .main-content {
-	float: right;
+	float: left;
 }
 
 .sponsor-logo {
