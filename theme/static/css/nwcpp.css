@@ -13,7 +13,7 @@
 	margin: 0 auto;
 }
 
-.nav-column {
+.sidebar {
 	float: right;
 	width: 180px;
 	border-radius: 10px;
@@ -22,7 +22,7 @@
 	padding: 5px;
 }
 
-.nav-column h2 {
+.sidebar h2 {
 	color: #C74451;
 	font-size: 1.714em;
 	margin-bottom: 0.333em;
