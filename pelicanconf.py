@@ -39,7 +39,8 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
           (u'SlideShare', 'http://www.slideshare.net/nwcpp'),
          )
 
-CONFERENCE_LINKS = ((u'CPPCon 2015', 'http://cppcon.org'),)
+CONFERENCE_LINKS = ((u'CPPCon 2015 Homepage', 'http://cppcon.org'),
+                    (u'CPPCon 2015 Registration', 'http://cppcon.org/registration/'))
 
 DEFAULT_PAGINATION = 12
 

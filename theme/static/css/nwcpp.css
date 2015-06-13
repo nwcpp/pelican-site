@@ -9,13 +9,13 @@
 }
 
 .content-wrapper {
-	width: 1000px;
+	width: 1100px;
 	margin: 0 auto;
 }
 
 .sidebar {
 	float: right;
-	width: 180px;
+	width: 280px;
 	border-radius: 10px;
 	background: #fff;
 	margin-bottom: 2em;
