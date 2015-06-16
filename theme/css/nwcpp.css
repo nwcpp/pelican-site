@@ -7,3 +7,42 @@
 #banner nav a:link, #banner nav a:visited {
     padding: 5px 1.1em;
 }
+#banner .title img {
+	float: left;
+}
+
+#banner .title h1 {
+	/*float: right;*/
+}
+
+.content-wrapper {
+	width: 1100px;
+	margin: 0 auto;
+}
+
+.sidebar {
+	float: right;
+	width: 280px;
+	border-radius: 10px;
+	background: #fff;
+	margin-bottom: 2em;
+	padding: 5px;
+}
+
+.sidebar h2 {
+	color: #C74451;
+	font-size: 1.714em;
+	margin-bottom: 0.333em;
+	margin-top: 1em;
+}
+
+.main-content {
+	float: left;
+}
+
+.sponsor-logo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 125px;
+	margin-top: 3em;
+}
