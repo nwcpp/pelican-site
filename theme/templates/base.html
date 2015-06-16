@@ -19,7 +19,10 @@
 <body id="index" class="home">
 {% include 'github.html' %}
         <header id="banner" class="body">
-                <h1><a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+                <div class="title">
+                    <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/nwcpplogo.png" />
+                    <h1><a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+                </div>
                 <nav><ul>
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
@@ -36,8 +39,37 @@
                 {% endif %}
                 </ul></nav>
         </header><!-- /#banner -->
-        {% block content %}
-        {% endblock %}
+        <div class="content-wrapper">
+            <div class="sidebar">
+                <h2>Conferences</h2>
+                {% if CONFERENCE_LINKS %}
+                    <ul>
+                        {% for name, url in CONFERENCE_LINKS %}
+                            <li><a href="{{ url }}">{{ name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <p>No upcoming conferences</p>
+                {% endif %}
+                <h2>Jobs</h2>
+                {% if JOB_LINKS %}
+                    <ul>
+                        {% for name, url in JOB_LINKS %}
+                            <li><a href="{{ url }}">{{ name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <p>No current open positions</p>
+                {% endif %}
+                <div class="sponsor-logo">
+                    <a href="http://shop.oreilly.com"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/oreilly_discount.gif" /></a>
+                </div>
+            </div>
+            <div class="main-content">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
         <section id="extras" class="body">
         {% if LINKS %}
                 <div class="blogroll">
