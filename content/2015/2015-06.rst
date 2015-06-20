@@ -31,7 +31,8 @@ Pete has worked as a programmer for over 25 years at Boeing, Microsoft, Amazon, 
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/GQBlOv9pLlA>`_ |
+`Slides </talks/2015/FOSDEM_Building_Emacs_with_NaCl.pdf>`_
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
