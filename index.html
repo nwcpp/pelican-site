@@ -56,10 +56,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="./june-2015.html">June 17th 2015: Porting Emacs via Native&nbsp;Client</a></h1>
+                    <h1 class="entry-title"><a href="./september-2015.html">September 16th 2015: The <span class="caps">BBC</span> micro:bit and&nbsp;C++</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2015-05-25T00:00:00-07:00">
-                Published: Mon 25 May 2015
+        <abbr class="published" title="2015-08-14T00:00:00-07:00">
+                Published: Fri 14 August 2015
         </abbr>
 
         <address class="vcard author">
@@ -70,8 +70,8 @@
 </footer><!-- /.post-info --><div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line">June 17th, 2015 at 7:00 <span class="caps">PM</span></div>
-<div class="line">Townsend Room, <a class="reference external" href="./steptoe-meeting-room.html">Bldg 41, Room 1511</a>, <span class="caps">NOTE</span>: <span class="caps">THIS</span> <span class="caps">IS</span> <span class="caps">NOT</span> <span class="caps">OUR</span> <span class="caps">NORMAL</span> <span class="caps">MEETING</span> <span class="caps">ROOM</span>!!!!</div>
+<div class="line">September 16th, 2015 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Steptoe Room, <a class="reference external" href="./steptoe-meeting-room.html">Cafeteria 40</a>,</div>
 <div class="line">Microsoft Campus,</div>
 <div class="line">156th Ave <span class="caps">NE</span>,</div>
 <div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
@@ -79,24 +79,19 @@
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>As the preferred text editor for a multitude of software developers, Emacs has been ported to a wide range of platforms. Recently, Emacs has come to the Web by way of a technology called Native Client. This talk explores the unique challenges of porting Emacs and Elisp to Native Client and the&nbsp;browser.</p>
-<p>Native Client (NaCl), is an open-source technology that allows native machine code to run securely sandboxed in the browser. Two layers of sandboxing, a static verification inner sandbox combined with Chrome’s outer process sandbox, ensure users can safely run untrusted applications. Modified <span class="caps">GCC</span> and an <span class="caps">LLVM</span> based toolchains allow applications to target NaCl. An I/O <span class="caps">API</span> called <span class="caps">PPAPI</span>, mirroring the security constraints of Javascript, is provided to NaCl&nbsp;applications.</p>
-<p>This talk will focus on the challenges of porting Emacs to NaCl including: emulation of <span class="caps">POSIX</span> APIs—processes, sockets, files—on top of Web-centric APIs, porting an X11 server and client libraries, adapting Elisp to NaCl’s memory layout, and packaging for an integrated experience. I will talk about the challenges of debugging the lisp that is a part of the editor itself. I’ll demonstrate Emacs running in Google Chrome and explorer how it can interoperate with other developer tools we’ve ported to the&nbsp;browser.</p>
+<p>The <span class="caps">BBC</span> micro:bit is a small wearable and programmable mbed-based device that visibly features a 5x5 <span class="caps">LED</span> display, accelerometer, compass, buttons, I/O pins, Micro <span class="caps">USB</span> plug, Bluetooth Low Energy antenna, <span class="caps">ARM</span> Cortex-M0 processor, and battery plug. Just like Arduino, the micro:bit can be connected to and interact with sensors, displays, and other devices. The first wave of micro:bits will land in <span class="caps">UK</span> schools this autumn, with every Year 7 student in the <span class="caps">UK</span> receiving a micro:bit, for free.  As a partner on the micro:bit project, Microsoft’s goals are to provide: (1) a browser-based introductory programming experience for students who have never programmed before; (2) an architecture that allows students to dig deeper to uncover the many capabilities of the micro:bit; (3) materials and a platform to support teachers with the micro:bit in their classrooms. We extended TouchDevelop to support a progression of languages with accompanying browser-based editors. I’ll describe the technology stack we created in partnership with <span class="caps">ARM</span> and Lancaster University to make it simple for students to get started coding with micro:bit from a web browser, and then uncover the complexity that lies underneath in the micro:bit’s C++ runtime. The Block Editor provides an introduction to structured programming via blocks that can be snapped together. Touch Develop introduces a statically-typed scripting language with syntax-directed editor.  Browser-based compilers from the Block Editor to Touch Develop and from Touch Develop to C++ automate the transition from a visual language to a text-based language, and then to C++, the language of the mbed-based micro:bit.   For more information: see http://www.touchdevelop.com/microbit/ and&nbsp;http://research.microsoft.com/microbit/</p>
 </div>
 <div class="section" id="bio">
 <h2>Bio</h2>
-<p>Pete has worked as a programmer for over 25 years at Boeing, Microsoft, Amazon, Google, and other places.  He has been attending <span class="caps">NWCPP</span> off and on for a lot of that&nbsp;time.</p>
+<p>Thomas Ball (Tom) is a Principal Researcher and Research Manager at Microsoft Research. Tom graduated with a <span class="caps">B.A.</span> in Computer Science from Cornell University in 1987 and a <span class="caps">M.S.</span> and Ph.D. from the University of Wisconsin-Madison in 1993. From 1993-1999, he was a member of the technical staff at Bell Laboratories, where he made contributions in program visualization and program profiling. In 1999, Tom moved to Microsoft Research, where he started the <span class="caps">SLAM</span> software model checking project with Sriram Rajamani, which led to the creation of the Static Driver Verifier (<span class="caps">SDV</span>) tool for finding defects in device driver code. Tom and Sriram received the 2011 <span class="caps">CAV</span> Award &quot;for their contributions to software model checking, specifically the development of the <span class="caps">SLAM</span>/<span class="caps">SDV</span> software model checker that successfully demonstrated computer-aided verification techniques on real programs.&quot; Tom is a 2011 <span class="caps">ACM</span> Fellow for &quot;contributions to software analysis and defect detection&quot;. Since becoming a manager at Microsoft, he has nurtured research areas such as automated theorem proving, program testing/verification, empirical software engineering. His current focus is programming education via the TouchDevelop and <span class="caps">BBC</span> micro:bit&nbsp;projects</p>
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="https://youtu.be/GQBlOv9pLlA">Video</a> |
-<a class="reference external" href="/talks/2015/FOSDEM_Building_Emacs_with_NaCl.pdf">Slides</a></p>
 </div>
 <div class="section" id="a-word-from-our-sponsor">
 <h2>A Word From Our&nbsp;Sponsor</h2>
-<p>CyberData Corporation was founded by Lloyd Moore in 1996. CyberData specializes in providing custom software and hardware solutions for robotics, machine vision, embedded systems and industrial automation applications. Our mission is to create high quality, innovative technology for the global&nbsp;marketplace.</p>
-<p>CyberData also conducts internal research into the areas of robotics, machine vision and artificial intelligence. Specific technologies are then either licensed, sold as products or released as open source, depending on the specific nature and goals of the project. Technological developments are also provided directly to our clients through our consulting&nbsp;services.</p>
-<p><a class="reference external" href="http://www.CyberData-Robotics.com">http://www.CyberData-Robotics.com</a></p>
+<p>Akvelon integrates technology consulting, software development, and <span class="caps">IT</span> services into successful business solutions. We leverage Microsoft technologies to provide rapid and cost-effective implementations. Akvelon develops cutting-edge products in collaboration with our partners, spanning multiple technology domains to consistently deliver high-quality solutions to our&nbsp;clients.</p>
+<p>www.Akvelon.com</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -115,6 +110,40 @@
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="./june-2015.html" rel="bookmark"
+                           title="Permalink to June 17th 2015: Porting Emacs via Native Client">June 17th 2015: Porting Emacs via Native&nbsp;Client</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2015-05-25T00:00:00-07:00">
+                Published: Mon 25 May 2015
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="./category/2015.html">2015</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">June 17th, 2015 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Townsend Room, <a class="reference external" href="./steptoe-meeting-room.html">Bldg 41, Room 1511</a>, <span class="caps">NOTE</span>: <span class="caps">THIS</span> <span class="caps">IS</span> <span class="caps">NOT</span> <span class="caps">OUR</span> <span class="caps">NORMAL</span> <span class="caps">MEETING</span> <span class="caps">ROOM</span>!!!!</div>
+<div class="line">Microsoft Campus,</div>
+<div class="line">156th Ave <span class="caps">NE</span>,</div>
+<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
+</div>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>As the preferred text editor for a multitude of software developers, Emacs has been ported to a ...</p></div>
+                <a class="readmore" href="./june-2015.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -446,31 +475,6 @@ The class project was an interesting mixture ...</p></div>
 thanks to the plethora of libraries developed by the industry in the last decade or so.
 The time has come ...</p></div>
                 <a class="readmore" href="./september-2014.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="./cppcon-2014.html" rel="bookmark"
-                           title="Permalink to CppCon, September 7–12, Bellevue, WA">CppCon, September 7–12, Bellevue, <span class="caps">WA</span></a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2014-08-08T00:00:00-07:00">
-                Published: Fri 08 August 2014
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
-        </address>
-<p>In <a href="./category/2014.html">2014</a>. </p>
-
-</footer><!-- /.post-info -->                <p>CppCon is a local C++ Conference (Bellevue, <span class="caps">WA</span>) happening on September 7–12, 2014.
-Full details on the conference can be found at <a class="reference external" href="http://cppcon.org/">http://cppcon.org/</a></p>
-<p>The conference will also be hosting several <span class="caps">FREE</span> sessions.
-From 8:00 <span class="caps">AM</span> to 8:45 <span class="caps">AM</span> there will be several rooms holding various ...</p>
-                <a class="readmore" href="./cppcon-2014.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
             </ol><!-- /#posts-list -->
