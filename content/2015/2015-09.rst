@@ -27,7 +27,8 @@ Thomas Ball (Tom) is a Principal Researcher and Research Manager at Microsoft Re
 
 Resources
 ~~~~~~~~~
-
+`Video <https://www.youtube.com/watch?v=AaHSoQgWzr4>`_ |
+`Slides </talks/2015/BBCmicrobitAndCPP.pptx>`_
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
