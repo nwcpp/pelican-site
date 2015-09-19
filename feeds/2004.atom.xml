@@ -6,7 +6,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2004.html"&gt;May 12th, 2004 — Improving Testability — Dave&amp;nbsp;Catlett&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2004.html"&gt;June 9th, 2004 — Roundtable Meeting: The Virtues of Linux — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2004.html"&gt;July 14th, 2004 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2004.html"&gt;August 11th, 2004 — &amp;quot;Square Table&amp;quot; Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2004.html"&gt;August 11th, 2004 — &amp;#8220;Square Table&amp;#8221; Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2004.html"&gt;September 8th, 2004 — Achieving Source-Level Software Portability Using &lt;span class="caps"&gt;GNU&lt;/span&gt; Autoconf, Automake, Libtool, and Make — Robert P.&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2004.html"&gt;October 13th, 2004 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2004.html"&gt;November 10th, 2004 — &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
@@ -92,7 +92,7 @@ is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;If you have ever downloaded &amp;quot;open-source&amp;quot; software as source code from &lt;span class="caps"&gt;GNU&lt;/span&gt; or elsewhere,
+&lt;p&gt;If you have ever downloaded &amp;#8220;open-source&amp;#8221; software as source code from &lt;span class="caps"&gt;GNU&lt;/span&gt; or elsewhere,
 you have witnessed the following&amp;nbsp;magic:&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 ./configure
@@ -121,7 +121,7 @@ which is used to develop new sonar systems, train sonar operators,
 and predict performance of new and existing sonar systems and tactics.
 He has also worked on other projects related to underwater acoustics,
 including simulation, analysis, and data acquisition applications.
-His niche is in the gray overlap area between software engineering and &amp;quot;real&amp;quot;&amp;nbsp;science.&lt;/p&gt;
+His niche is in the gray overlap area between software engineering and &amp;#8220;real&amp;#8221;&amp;nbsp;science.&lt;/p&gt;
 &lt;p&gt;For more details, go to
 &lt;a class="reference external" href="http://staff.washington.edu/rpg3/"&gt;http://staff.washington.edu/rpg3/&lt;/a&gt;,
 &lt;a class="reference external" href="http://www.apl.washington.edu/"&gt;http://www.apl.washington.edu/&lt;/a&gt;,
@@ -129,7 +129,7 @@ and &lt;a class="reference external" href="http://eis.apl.washington.edu/project
 &lt;p&gt;&lt;a class="reference external" href="/talks/2004/GNU_Autotools_040908.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 11th, 2004 — "Square Table" Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2004.html" rel="alternate"></link><updated>2004-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-08-01:august-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>August 11th, 2004 — “Square Table” Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2004.html" rel="alternate"></link><updated>2004-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-08-01:august-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -196,7 +196,7 @@ By designing testability features into the component, not only is testing easier
 it helps enforce good design principles,
 it makes diagnosing unexpected behavior go faster,
 it can improve manageability of the component,
-and it reduces the cost of supporting the software after it &amp;quot;ships.&amp;quot;
+and it reduces the cost of supporting the software after it &amp;#8220;ships.&amp;#8221;
 In short, it increases quality while reducing&amp;nbsp;cost.&lt;/p&gt;
 &lt;p&gt;Determining testability can be achieved using the &lt;span class="caps"&gt;SOCK&lt;/span&gt; analysis method,
 where S=Simplicity, O=Observability, C=Control, and K=Knowledge of expected results.
@@ -243,7 +243,7 @@ because it affects the very core of software development:
 code generation and program execution.
 This presentation takes a deep look at code generation,
 compiler and hardware optimization, sequence points,
-&amp;quot;observable behavior,&amp;quot; the significance of &amp;quot;volatile,&amp;quot;
+&amp;#8220;observable behavior,&amp;#8221; the significance of &amp;#8220;volatile,&amp;#8221;
 cache coherency problems, and memory barriers.
 It concludes with suggestions for those who want the efficiency of lazy initialization,
 but who value correct program behavior even&amp;nbsp;more.&lt;/p&gt;

@@ -438,7 +438,7 @@ Gary has been one of the early abusers of the C++ language and compiler
 to twist it to make functional programing a reality.
 A technical consultant and volunteer to the C++ standards committee since 2001
 where he has worked with many others on getting
-&amp;quot;bind&amp;quot;, &amp;quot;variadac templates&amp;quot;, &amp;quot;lambda&amp;quot;, &amp;quot;decl_type&amp;quot;
+&amp;#8220;bind&amp;#8221;, &amp;#8220;variadac templates&amp;#8221;, &amp;#8220;lambda&amp;#8221;, &amp;#8220;decl_type&amp;#8221;
 and other useful stuff into the C++0X standard.
 A Google search of &lt;tt class="docutils literal"&gt;&amp;quot;Gary Powell&amp;quot; C++&lt;/tt&gt; will yield a large number of hits
 only a few of which are not&amp;nbsp;him.&lt;/p&gt;
@@ -532,7 +532,7 @@ We&amp;#8217;ll look into a few simple multithreaded idioms,
 sketch the Java memory model,
 and show the differences between Java and C++.
 For the theoretically minded, I&amp;#8217;ll do my best to explain sequential consistency
-and the &amp;quot;happens before&amp;quot; relationship necessary to describe data races.
+and the &amp;#8220;happens before&amp;#8221; relationship necessary to describe data races.
 We&amp;#8217;ll look into the C++ atomic&amp;nbsp;library.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
@@ -564,7 +564,7 @@ of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Functions often depend on particular behavioral characteristics (&amp;quot;features&amp;quot;)
+&lt;p&gt;Functions often depend on particular behavioral characteristics (&amp;#8220;features&amp;#8221;)
 of code they invoke.
 For example, thread-safe code must invoke only thread-safe code
 if it is to remain thread-safe,
@@ -620,7 +620,7 @@ that has seen little representation in mainstream languages
 as compared to the Object-Oriented, Imperative and Functional paradigms.
 &lt;span class="caps"&gt;LP&lt;/span&gt; is an important approach in Computer Science towards
 what is sometimes referred to as the Holy-Grail of programming,
-&amp;quot;The user states the problem, the computer solves it&amp;quot;.
+&amp;#8220;The user states the problem, the computer solves it&amp;#8221;.
 Origins of the theory underlying Logic dates back to about 300 &lt;span class="caps"&gt;B.C.
 &lt;/span&gt;when Aristotle founded Formal Logic to bring rigor to logical inferencing.
 The theory matured into Modern Logic more recently (early 1900s)
@@ -740,7 +740,7 @@ computationally-intensive algorithms,
 and massively parallel execution.
 His vast expertise, presence, and humor
 make Andrei a sought-after speaker at technical&amp;nbsp;conferences.&lt;/p&gt;
-&lt;p&gt;Andrei holds a &lt;span class="caps"&gt;BS&lt;/span&gt; in Electrical Engineering from University &amp;quot;Politehnica&amp;quot; Bucharest
+&lt;p&gt;Andrei holds a &lt;span class="caps"&gt;BS&lt;/span&gt; in Electrical Engineering from University &amp;#8220;Politehnica&amp;#8221; Bucharest
 and an &lt;span class="caps"&gt;MS&lt;/span&gt; in Computer Science from University of Washington,
 where he is also a graduating PhD in Summer 2008.
 (&lt;span class="caps"&gt;N.B.&lt;/span&gt; He will soon be looking for a job.)
@@ -938,8 +938,8 @@ to the &lt;span class="caps"&gt;CPU&lt;/span&gt; to the chipset to the cache, an
 &lt;p&gt;&lt;a class="reference external" href="http://herbsutter.com/"&gt;Herb Sutter&lt;/a&gt; is a software architect at Microsoft
 and chair of the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ standards committee.
 Among his books and papers on software development
-is the widely-cited article &amp;quot;The Free Lunch Is Over&amp;quot;
-where he coined the title phrase and &amp;quot;concurrency revolution&amp;quot;
+is the widely-cited article &amp;#8220;The Free Lunch Is Over&amp;#8221;
+where he coined the title phrase and &amp;#8220;concurrency revolution&amp;#8221;
 as applied to describe the software sea change
 now in progress to exploit increasingly parallel&amp;nbsp;hardware&lt;/p&gt;
 &lt;/div&gt;
@@ -1053,7 +1053,7 @@ he&amp;#8217;s been pursuing to generalize this notion to arbitrary criteria.
 For example, thread-safe code should only call other thread-safe code
 (unless you explicitly permit it on a per-call basis).
 Ditto for exception-safe code,
-code not &amp;quot;contaminated&amp;quot; by some open source license,
+code not &amp;#8220;contaminated&amp;#8221; by some open source license,
 or any other constraint you choose.
 The approach is based on template metaprogramming (&lt;span class="caps"&gt;TMP&lt;/span&gt;),
 and the implementation uses the Boost metaprogramming library (Boost.&lt;span class="caps"&gt;MPL&lt;/span&gt;),
@@ -1100,7 +1100,7 @@ of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Traditional approach to multi-threaded programming,
-for which I have coined the nickname &amp;quot;deadlock-oriented programming&amp;quot;,
+for which I have coined the nickname &amp;#8220;deadlock-oriented programming&amp;#8221;,
 suffers from a major flaw—it&amp;#8217;s not composable.
 If you try to perform operations on multiple lockable objects,
 you run into the risk of deadlocks, livelocks,
@@ -1257,7 +1257,7 @@ of why, how, and when C++ exceptions should or should not be&amp;nbsp;used.&lt;/
 &lt;p&gt;I&amp;#8217;ve been at &lt;span class="caps"&gt;MSFT&lt;/span&gt; for 9 years,
 working on the compiler back end/optimizer the entire time.
 I&amp;#8217;m currently responsible for the Orcas optimizer, linker, and other &amp;#8216;tools&amp;#8217;
-while the rest of the team works on the &amp;quot;Phoenix&amp;quot;&amp;nbsp;project.&lt;/p&gt;
+while the rest of the team works on the &amp;#8220;Phoenix&amp;#8221;&amp;nbsp;project.&lt;/p&gt;
 &lt;p&gt;Prior to my life at Microsoft, I graduated from the University of Utah with a &lt;span class="caps"&gt;BS&lt;/span&gt; in &lt;span class="caps"&gt;CS&lt;/span&gt;.
 I have a wife &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 3 kids, enjoy playing with my kids,
 woodworking, mountain biking, writing goofy projects to learn new technologies,
@@ -1286,8 +1286,8 @@ of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;p&gt;Herb Sutter is a software architect at Microsoft
 and chair of the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ standards committee.
 Among his books and papers on software development
-is the widely-cited article &amp;quot;The Free Lunch Is Over&amp;quot;
-where he coined the title phrase and &amp;quot;concurrency revolution&amp;quot;
+is the widely-cited article &amp;#8220;The Free Lunch Is Over&amp;#8221;
+where he coined the title phrase and &amp;#8220;concurrency revolution&amp;#8221;
 as applied to describe the software sea change
 now in progress to exploit increasingly parallel&amp;nbsp;hardware.&lt;/p&gt;
 &lt;/div&gt;
@@ -1609,10 +1609,10 @@ I ultimately decided to give two mini-talks,
 one making C++ look bad and one making it look&amp;nbsp;good.&lt;/p&gt;
 &lt;p&gt;The two talks&amp;nbsp;are:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&amp;quot;The meaning of &amp;#8216;f(x)&amp;#8217; in C++,&amp;quot; an exploration of the rules for
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The meaning of &amp;#8216;f(x)&amp;#8217; in C++,&amp;#8221; an exploration of the rules for
 function overloading, template instantiation, template specialization,
 and the semantic mess that results from their&amp;nbsp;interactions.&lt;/li&gt;
-&lt;li&gt;&amp;quot;Dimensional Analysis in C++,&amp;quot; a purely compile-time approach to
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Dimensional Analysis in C++,&amp;#8221; a purely compile-time approach to
 making sure that physical quantities (e.g., mass, velocity, distance, etc.)
 are used consistently in C++&amp;nbsp;programs.&lt;/li&gt;
 &lt;/ul&gt;
@@ -1951,7 +1951,7 @@ is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;If you have ever downloaded &amp;quot;open-source&amp;quot; software as source code from &lt;span class="caps"&gt;GNU&lt;/span&gt; or elsewhere,
+&lt;p&gt;If you have ever downloaded &amp;#8220;open-source&amp;#8221; software as source code from &lt;span class="caps"&gt;GNU&lt;/span&gt; or elsewhere,
 you have witnessed the following&amp;nbsp;magic:&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 ./configure
@@ -1980,7 +1980,7 @@ which is used to develop new sonar systems, train sonar operators,
 and predict performance of new and existing sonar systems and tactics.
 He has also worked on other projects related to underwater acoustics,
 including simulation, analysis, and data acquisition applications.
-His niche is in the gray overlap area between software engineering and &amp;quot;real&amp;quot;&amp;nbsp;science.&lt;/p&gt;
+His niche is in the gray overlap area between software engineering and &amp;#8220;real&amp;#8221;&amp;nbsp;science.&lt;/p&gt;
 &lt;p&gt;For more details, go to
 &lt;a class="reference external" href="http://staff.washington.edu/rpg3/"&gt;http://staff.washington.edu/rpg3/&lt;/a&gt;,
 &lt;a class="reference external" href="http://www.apl.washington.edu/"&gt;http://www.apl.washington.edu/&lt;/a&gt;,
@@ -1988,7 +1988,7 @@ and &lt;a class="reference external" href="http://eis.apl.washington.edu/project
 &lt;p&gt;&lt;a class="reference external" href="/talks/2004/GNU_Autotools_040908.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Sep 2004 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2004-09-01:september-2004.html</guid></item><item><title>August 11th, 2004 — "Square Table" Meeting — Open Discussion</title><link>http://nwcpp.org/august-2004.html</link><description>&lt;div class="section" id="location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Sep 2004 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2004-09-01:september-2004.html</guid></item><item><title>August 11th, 2004 — “Square Table” Meeting — Open Discussion</title><link>http://nwcpp.org/august-2004.html</link><description>&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -2055,7 +2055,7 @@ By designing testability features into the component, not only is testing easier
 it helps enforce good design principles,
 it makes diagnosing unexpected behavior go faster,
 it can improve manageability of the component,
-and it reduces the cost of supporting the software after it &amp;quot;ships.&amp;quot;
+and it reduces the cost of supporting the software after it &amp;#8220;ships.&amp;#8221;
 In short, it increases quality while reducing&amp;nbsp;cost.&lt;/p&gt;
 &lt;p&gt;Determining testability can be achieved using the &lt;span class="caps"&gt;SOCK&lt;/span&gt; analysis method,
 where S=Simplicity, O=Observability, C=Control, and K=Knowledge of expected results.
@@ -2102,7 +2102,7 @@ because it affects the very core of software development:
 code generation and program execution.
 This presentation takes a deep look at code generation,
 compiler and hardware optimization, sequence points,
-&amp;quot;observable behavior,&amp;quot; the significance of &amp;quot;volatile,&amp;quot;
+&amp;#8220;observable behavior,&amp;#8221; the significance of &amp;#8220;volatile,&amp;#8221;
 cache coherency problems, and memory barriers.
 It concludes with suggestions for those who want the efficiency of lazy initialization,
 but who value correct program behavior even&amp;nbsp;more.&lt;/p&gt;
@@ -2276,9 +2276,9 @@ to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;In October 2003, a new &lt;span class="caps"&gt;ECMA&lt;/span&gt; standards committee was formed to create an
-international standard for &amp;quot;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;,&amp;quot; a set of C++ extensions for .&lt;span class="caps"&gt;NET&lt;/span&gt;
+international standard for &amp;#8220;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;,&amp;#8221; a set of C++ extensions for .&lt;span class="caps"&gt;NET&lt;/span&gt;
 programming designed by Microsoft in collaboration with C++ industry
-leaders as a successor to &amp;quot;Managed C++.&amp;quot;
+leaders as a successor to &amp;#8220;Managed C++.&amp;#8221;
 Formally, C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; is a binding between &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ and &lt;span class="caps"&gt;ISO&lt;/span&gt; &lt;span class="caps"&gt;CLI&lt;/span&gt;
 (Common Language Infrastructure, the standardized subset of
 the .&lt;span class="caps"&gt;NET&lt;/span&gt; runtime environment and frameworks class library);
@@ -2507,7 +2507,7 @@ and product&amp;nbsp;adoption.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Everybody knows the adage &amp;quot;Resource acquisition is initialization.&amp;quot;
+&lt;p&gt;Everybody knows the adage &amp;#8220;Resource acquisition is initialization.&amp;#8221;
 Not many people know that this simple principle gave rise to the whole
 methodology of Resource Management (&lt;span class="caps"&gt;RM&lt;/span&gt;).
 Bartosz will try to convince us that &lt;span class="caps"&gt;RM&lt;/span&gt; is better than garbage collection.
@@ -2852,7 +2852,7 @@ and project manager in a Unix, Mac and Windows environment. The idea for
 this presentation comes from his project experiences with creating a
 portable application with a Java &lt;span class="caps"&gt;GUI&lt;/span&gt; and a C++&amp;nbsp;core.&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Nov 2001 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2001-11-01:november-2001.html</guid></item><item><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s "Dr. GUI"</title><link>http://nwcpp.org/october-2001.html</link><description>&lt;div class="section" id="location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Nov 2001 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2001-11-01:november-2001.html</guid></item><item><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s “Dr. GUI”</title><link>http://nwcpp.org/october-2001.html</link><description>&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Overlake Hospital Educational Conference Center&lt;/div&gt;
@@ -2921,15 +2921,15 @@ for C/C++ Users Journal and one of the featured instructors of
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;We are very fortunate to have Scott Meyers come to speak with us this
-month. Scott of course is the author of &amp;quot;Effective C++&amp;quot; and &amp;quot;More
-Effective C++&amp;quot;, generally acclaimed as two of the most important books
+month. Scott of course is the author of &amp;#8220;Effective C++&amp;#8221; and &amp;#8220;More
+Effective C++&amp;#8221;, generally acclaimed as two of the most important books
 ever written about C++. Every C++ developer should be familiar with
 these books. Scott is a highly sought-after speaker and we are grateful
 that he has come to speak to&amp;nbsp;us.&lt;/p&gt;
 &lt;p&gt;Our meeting will be a world-premiere of Scott&amp;#8217;s material on &lt;span class="caps"&gt;STL&lt;/span&gt; (the
 standard template&amp;nbsp;library)!&lt;/p&gt;
 &lt;p&gt;Scott&amp;#8217;s description of his talk, presented verbatim:
-&amp;quot;For the past 18 months, Scott Meyers has been exploring the &lt;span class="caps"&gt;STL&lt;/span&gt;, and
+&amp;#8220;For the past 18 months, Scott Meyers has been exploring the &lt;span class="caps"&gt;STL&lt;/span&gt;, and
 on April 30 he sends to his publisher the results of his efforts, the
 new book, Effective &lt;span class="caps"&gt;STL&lt;/span&gt;: 50 Specific Ways to Improve Your Use of the
 Standard Template Library. In this talk, Scott presents two or three
@@ -2937,7 +2937,7 @@ Items from this new book, items that focus on material not usually
 covered in descriptions of the &lt;span class="caps"&gt;STL&lt;/span&gt;. He also hands out flyers for the new
 book and urges everyone to buy their usual minimum of three copies: one
 for the office, one for home, and one for each of your cars (for when
-you&amp;#8217;re stuck in&amp;nbsp;traffic).&amp;quot;&lt;/p&gt;
+you&amp;#8217;re stuck in&amp;nbsp;traffic).&amp;#8221;&lt;/p&gt;
 &lt;/div&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 May 2001 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2001-05-01:may-2001.html</guid></item><item><title>April 11th, 2001 — CPP-Unit Testing Framework — Troy Frever</title><link>http://nwcpp.org/april-2001.html</link><description>&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -2966,8 +2966,8 @@ covered by the following&amp;nbsp;sites:&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.extremeprogramming.org/"&gt;http://www.extremeprogramming.org/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://groups.yahoo.com/group/extremeprogramming-seattle"&gt;http://groups.yahoo.com/group/extremeprogramming-seattle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Recommended book: Martin Fowler&amp;#8217;s &amp;quot;Refactoring: Improving the Design of
-Existing&amp;nbsp;Code&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Recommended book: Martin Fowler&amp;#8217;s &amp;#8220;Refactoring: Improving the Design of
+Existing&amp;nbsp;Code&amp;#8221;.&lt;/p&gt;
 &lt;/div&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Apr 2001 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2001-04-01:april-2001.html</guid></item><item><title>March 14th, 2001 — XML and C++ — Mike Moskowitz</title><link>http://nwcpp.org/march-2001.html</link><description>&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -3041,10 +3041,10 @@ the most powerful Web server to the lowliest hand-held &lt;span class="caps"&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Jeffrey Richter is the author of Microsoft Press&amp;#8217; &amp;quot;Programming
-Applications for Microsoft Windows&amp;quot; and M &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; T&amp;#8217;s &amp;quot;Windows 95: A
-Developer&amp;#8217;s Guide,&amp;quot; two of the bibles of Windows development. His newest
-book, &amp;quot;Programming Server-Side Applications for Windows 2000,&amp;quot; was
+&lt;p&gt;Jeffrey Richter is the author of Microsoft Press&amp;#8217; &amp;#8220;Programming
+Applications for Microsoft Windows&amp;#8221; and M &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; T&amp;#8217;s &amp;#8220;Windows 95: A
+Developer&amp;#8217;s Guide,&amp;#8221; two of the bibles of Windows development. His newest
+book, &amp;#8220;Programming Server-Side Applications for Windows 2000,&amp;#8221; was
 published by Microsoft Press in&amp;nbsp;2000.&lt;/p&gt;
 &lt;p&gt;Jeffrey is also a frequent contributor to Microsoft&amp;#8217;s &lt;span class="caps"&gt;MSDN&lt;/span&gt; Magazine
 (formerly called &lt;span class="caps"&gt;MSJ&lt;/span&gt;) and other trade publications, and is &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s Win32
@@ -3160,7 +3160,7 @@ service. Prior to Microsoft, Joe worked as a Senior Software Engineer at
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Overview of C++ exceptions, their rationale, and their usage. Followed
 with discussion of standard library support, exception safety
-considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;quot;gotchas&amp;quot;
+considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;#8220;gotchas&amp;#8221;
 and wisdom sprinkled throughout :^) Talk assumes you understand the
 rudiments of C++ exception&amp;nbsp;handling.&lt;/p&gt;
 &lt;/div&gt;
@@ -3168,8 +3168,8 @@ rudiments of C++ exception&amp;nbsp;handling.&lt;/p&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Bobby Schmidt is a writer, teacher, and programmer. For the past five
 years, he&amp;#8217;s been Contributing Editor and monthly columnist for the
-&amp;quot;C/C++ Users Journal.&amp;quot; He also writes the twice-monthly &amp;quot;Deep C++&amp;quot;
-column for &amp;quot;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Online Voices&amp;quot; magazine. Bobby has taught short
+&amp;#8220;C/C++ Users Journal.&amp;#8221; He also writes the twice-monthly &amp;#8220;Deep C++&amp;#8221;
+column for &amp;#8220;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Online Voices&amp;#8221; magazine. Bobby has taught short
 sessions and all-day tutorials at both the Software Development and
 Embedded Systems conferences. In previous incarnations, he was an
 astronomer, private investigator, radio &lt;span class="caps"&gt;DJ&lt;/span&gt;, and wild-animal&amp;nbsp;curator.&lt;/p&gt;

@@ -115,8 +115,8 @@ to the &lt;span class="caps"&gt;CPU&lt;/span&gt; to the chipset to the cache, an
 &lt;p&gt;&lt;a class="reference external" href="http://herbsutter.com/"&gt;Herb Sutter&lt;/a&gt; is a software architect at Microsoft
 and chair of the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ standards committee.
 Among his books and papers on software development
-is the widely-cited article &amp;quot;The Free Lunch Is Over&amp;quot;
-where he coined the title phrase and &amp;quot;concurrency revolution&amp;quot;
+is the widely-cited article &amp;#8220;The Free Lunch Is Over&amp;#8221;
+where he coined the title phrase and &amp;#8220;concurrency revolution&amp;#8221;
 as applied to describe the software sea change
 now in progress to exploit increasingly parallel&amp;nbsp;hardware&lt;/p&gt;
 &lt;/div&gt;
@@ -230,7 +230,7 @@ he&amp;#8217;s been pursuing to generalize this notion to arbitrary criteria.
 For example, thread-safe code should only call other thread-safe code
 (unless you explicitly permit it on a per-call basis).
 Ditto for exception-safe code,
-code not &amp;quot;contaminated&amp;quot; by some open source license,
+code not &amp;#8220;contaminated&amp;#8221; by some open source license,
 or any other constraint you choose.
 The approach is based on template metaprogramming (&lt;span class="caps"&gt;TMP&lt;/span&gt;),
 and the implementation uses the Boost metaprogramming library (Boost.&lt;span class="caps"&gt;MPL&lt;/span&gt;),
@@ -277,7 +277,7 @@ of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Traditional approach to multi-threaded programming,
-for which I have coined the nickname &amp;quot;deadlock-oriented programming&amp;quot;,
+for which I have coined the nickname &amp;#8220;deadlock-oriented programming&amp;#8221;,
 suffers from a major flaw—it&amp;#8217;s not composable.
 If you try to perform operations on multiple lockable objects,
 you run into the risk of deadlocks, livelocks,

@@ -83,10 +83,10 @@ I ultimately decided to give two mini-talks,
 one making C++ look bad and one making it look&amp;nbsp;good.&lt;/p&gt;
 &lt;p&gt;The two talks&amp;nbsp;are:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&amp;quot;The meaning of &amp;#8216;f(x)&amp;#8217; in C++,&amp;quot; an exploration of the rules for
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The meaning of &amp;#8216;f(x)&amp;#8217; in C++,&amp;#8221; an exploration of the rules for
 function overloading, template instantiation, template specialization,
 and the semantic mess that results from their&amp;nbsp;interactions.&lt;/li&gt;
-&lt;li&gt;&amp;quot;Dimensional Analysis in C++,&amp;quot; a purely compile-time approach to
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Dimensional Analysis in C++,&amp;#8221; a purely compile-time approach to
 making sure that physical quantities (e.g., mass, velocity, distance, etc.)
 are used consistently in C++&amp;nbsp;programs.&lt;/li&gt;
 &lt;/ul&gt;
