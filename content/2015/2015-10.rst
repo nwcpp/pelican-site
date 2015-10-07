@@ -1,7 +1,7 @@
-October 21th 2015: Qt Development
-###############################################################
+October 21th 2015: Qt in the Embedded World - How to create a device using Qt
+#############################################################################
 
-:date: 2015-10-04
+:date: 2015-10-07
 :slug: october-2015
 :author: Lloyd Moore
 
@@ -18,19 +18,22 @@ Time and Location
 
 Abstract
 ~~~~~~~~
-This talk will cover aspects of Qt development - more details coming soon...
+This presentation will discuss the tools are necessary to develop embedded software with Qt and what differences there are between each of the supported embedded platforms. The presentation will also  cover using both the open source version of Qt as well as the commercial version and what the differences are in the context of device creation. Many live demonstrations will be used to illustrate how easy it is to develop software for embedded devices with Qt and its tooling.
 
 
 Bio
 ~~~
-Coming soon...
+Matthew Zanardi – Matt is the Northwest Account Manager for The Qt Company. He was born and raised in the Bay Area and Graduated from Michigan State University. If you want to inquire about anything Qt please reach out to him. Email: matthew.zanardi@theqtcompany.com (408)499-8319.
+
+
+Shrikant Dhumal works as senior Consulting Engineer for "The Qt Company". Shrikant has a Masters in holds Computer Science and has a real passion for the industry. He has been associated with Qt since 2001 (version Qt 3.0.x) and is one top consultants. He has worked on porting Qt to different embedded platforms which involves integrating/implementing Qt Graphics plugins.
 
 Resources
 ~~~~~~~~~
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
-Coming soon...
+Mee Jee Davies of Mainz Bradley Group will be sponsoring or meeting this month. More details coming soon!
  
 
 Digital Media Links
