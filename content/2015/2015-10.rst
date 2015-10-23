@@ -30,7 +30,7 @@ Shrikant Dhumal works as senior Consulting Engineer for "The Qt Company". Shrika
 
 Resources
 ~~~~~~~~~
-
+`Videos <http://www.qt.io/resource-center/>`_ |
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
