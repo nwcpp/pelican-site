@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2015-11-01T00:00:00-07:00</updated><entry><title>November 18th 2015: Video: CppCon 2015: Bjarne Stroustrup "Writing Good C++14"</title><link href="http://nwcpp.org/november-2015.html" rel="alternate"></link><updated>2015-11-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-11-01:november-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2015-11-01T00:00:00-07:00</updated><entry><title>November 18th 2015: STL Algorithms</title><link href="http://nwcpp.org/november-2015.html" rel="alternate"></link><updated>2015-11-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-11-01:november-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -11,14 +11,11 @@
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Folks I lost touch with the planned presenter for this month so we are going to take the opportunity to try something a bit different, that we wouldn&amp;#8217;t be able to really do any other way. The presentation this month will be the a video from the CppCon 2015 Keynote address of Bjarne Stroustrup, details&amp;nbsp;below.&lt;/p&gt;
-&lt;p&gt;How do we use C++14 to make our code better, rather than just different? How do we do so on a grand scale, rather than just for exceptional programmers? We need guidelines to help us progress from older styles, such as “C with Classes”, C, “pure &lt;span class="caps"&gt;OO&lt;/span&gt;”, etc. We need articulated rules to save us from each having to discover them for ourselves. Ideally, they should be machine-checkable, yet adjustable to serve specific&amp;nbsp;needs.&lt;/p&gt;
-&lt;p&gt;In this talk, I describe a style of guidelines that can be deployed to help most C++ programmers. There could not be a single complete set of rules for everybody, but we are developing a set of rules for most C++ use. This core can be augmented with rules for specific application domains such as embedded systems and systems with stringent security requirements. The rules are prescriptive rather than merely sets of prohibitions, and about much more than code layout. I describe what the rules currently cover (e.g., interfaces, functions, resource management, and pointers). I describe tools and a few simple classes that can be used to support the&amp;nbsp;guidelines.&lt;/p&gt;
-&lt;p&gt;The core guidelines and a guideline support library reference implementation will be open source projects freely available on all major platforms (initially, &lt;span class="caps"&gt;GCC&lt;/span&gt;, Clang, and&amp;nbsp;Microsoft).&lt;/p&gt;
+&lt;p&gt;This is a presentation on &lt;span class="caps"&gt;STL&lt;/span&gt; algorithms, their mechanics, and some interesting tricks. The talk is a piece of his upcoming book on algorithms, and is preceded by Michael&amp;#8217;s talk at CPPCon&amp;nbsp;2015.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Bjarne Stroustrup is the creator of C++, enough&amp;nbsp;said!&lt;/p&gt;
+&lt;p&gt;Michael VanLoon is a Principal Software Engineer at F5 Networks. He has more than 30 years experience writing software across a variety of industries. He&amp;#8217;s currently working on a book based on his talk from CPPCon 2015, &amp;quot;Algorithms in&amp;nbsp;Action&amp;quot;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -26,7 +23,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;soon&lt;/p&gt;
+&lt;p&gt;F5 Networks is a networking appliances company specializing in the security, performance and availability of applications. Headquartered in Seattle, &lt;span class="caps"&gt;WA&lt;/span&gt;, its first claim to fame was Big-&lt;span class="caps"&gt;IP&lt;/span&gt; load balancing products and &lt;span class="caps"&gt;SSL&lt;/span&gt; offloading. Since then, it has grown to a global company with a platform serving large enterprise service providers and&amp;nbsp;cloud.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="digital-media-links"&gt;
 &lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
