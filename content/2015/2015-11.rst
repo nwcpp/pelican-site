@@ -27,7 +27,8 @@ Michael VanLoon is a Principal Software Engineer at F5 Networks. He has more tha
 
 Resources
 ~~~~~~~~~
-Coming soon
+`Video <http://www.youtube.com/attribution_link?a=aVgyLoa9baM&u=/watch%3Fv%3DGBD0BqNvOyI%26feature%3Dem-upload_owner>`_ |
+`Slides </talks/2015/STL_Algorithms_in_Action.pptx>`_
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
