@@ -15,7 +15,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Michael VanLoon is a Principal Software Engineer at F5 Networks. He has more than 30 years experience writing software across a variety of industries. He&amp;#8217;s currently working on a book based on his talk from CPPCon 2015, &amp;quot;Algorithms in&amp;nbsp;Action&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Michael VanLoon is a Principal Software Engineer at F5 Networks. He has more than 30 years experience writing software across a variety of industries. He&amp;#8217;s currently working on a book based on his talk from CPPCon 2015, &amp;#8220;Algorithms in&amp;nbsp;Action&amp;#8221;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -54,7 +54,7 @@
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Matthew Zanardi – Matt is the Northwest Account Manager for The Qt Company. He was born and raised in the Bay Area and Graduated from Michigan State University. If you want to inquire about anything Qt please reach out to him. Email: &lt;a class="reference external" href="mailto:matthew.zanardi&amp;#64;theqtcompany.com"&gt;matthew.zanardi&amp;#64;theqtcompany.com&lt;/a&gt;&amp;nbsp;(408)499-8319.&lt;/p&gt;
-&lt;p&gt;Shrikant Dhumal works as senior Consulting Engineer for &amp;quot;The Qt Company&amp;quot;. Shrikant has a Masters in holds Computer Science and has a real passion for the industry. He has been associated with Qt since 2001 (version Qt 3.0.x) and is one top consultants. He has worked on porting Qt to different embedded platforms which involves integrating/implementing Qt Graphics&amp;nbsp;plugins.&lt;/p&gt;
+&lt;p&gt;Shrikant Dhumal works as senior Consulting Engineer for &amp;#8220;The Qt Company&amp;#8221;. Shrikant has a Masters in holds Computer Science and has a real passion for the industry. He has been associated with Qt since 2001 (version Qt 3.0.x) and is one top consultants. He has worked on porting Qt to different embedded platforms which involves integrating/implementing Qt Graphics&amp;nbsp;plugins.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -93,7 +93,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Thomas Ball (Tom) is a Principal Researcher and Research Manager at Microsoft Research. Tom graduated with a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from Cornell University in 1987 and a &lt;span class="caps"&gt;M.S.&lt;/span&gt; and Ph.D. from the University of Wisconsin-Madison in 1993. From 1993-1999, he was a member of the technical staff at Bell Laboratories, where he made contributions in program visualization and program profiling. In 1999, Tom moved to Microsoft Research, where he started the &lt;span class="caps"&gt;SLAM&lt;/span&gt; software model checking project with Sriram Rajamani, which led to the creation of the Static Driver Verifier (&lt;span class="caps"&gt;SDV&lt;/span&gt;) tool for finding defects in device driver code. Tom and Sriram received the 2011 &lt;span class="caps"&gt;CAV&lt;/span&gt; Award &amp;quot;for their contributions to software model checking, specifically the development of the &lt;span class="caps"&gt;SLAM&lt;/span&gt;/&lt;span class="caps"&gt;SDV&lt;/span&gt; software model checker that successfully demonstrated computer-aided verification techniques on real programs.&amp;quot; Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt; Fellow for &amp;quot;contributions to software analysis and defect detection&amp;quot;. Since becoming a manager at Microsoft, he has nurtured research areas such as automated theorem proving, program testing/verification, empirical software engineering. His current focus is programming education via the TouchDevelop and &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit&amp;nbsp;projects&lt;/p&gt;
+&lt;p&gt;Thomas Ball (Tom) is a Principal Researcher and Research Manager at Microsoft Research. Tom graduated with a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from Cornell University in 1987 and a &lt;span class="caps"&gt;M.S.&lt;/span&gt; and Ph.D. from the University of Wisconsin-Madison in 1993. From 1993-1999, he was a member of the technical staff at Bell Laboratories, where he made contributions in program visualization and program profiling. In 1999, Tom moved to Microsoft Research, where he started the &lt;span class="caps"&gt;SLAM&lt;/span&gt; software model checking project with Sriram Rajamani, which led to the creation of the Static Driver Verifier (&lt;span class="caps"&gt;SDV&lt;/span&gt;) tool for finding defects in device driver code. Tom and Sriram received the 2011 &lt;span class="caps"&gt;CAV&lt;/span&gt; Award &amp;#8220;for their contributions to software model checking, specifically the development of the &lt;span class="caps"&gt;SLAM&lt;/span&gt;/&lt;span class="caps"&gt;SDV&lt;/span&gt; software model checker that successfully demonstrated computer-aided verification techniques on real programs.&amp;#8221; Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt; Fellow for &amp;#8220;contributions to software analysis and defect detection&amp;#8221;. Since becoming a manager at Microsoft, he has nurtured research areas such as automated theorem proving, program testing/verification, empirical software engineering. His current focus is programming education via the TouchDevelop and &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit&amp;nbsp;projects&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -218,7 +218,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Since 1991, Collabera has been a leading provider of &lt;span class="caps"&gt;IT&lt;/span&gt; staffing solutions. With over 9,000 professionals working across 3 continents Collabera is one of the top 10 &lt;span class="caps"&gt;U.S.&lt;/span&gt; &lt;span class="caps"&gt;IT&lt;/span&gt; Staffing firms. Recognized from Staffing Industry Analysts as &amp;quot;Best Staffing Firms to Work For&amp;quot; 3 years in a row, we have the history, processes and most of all jobs that make Collabera a strong option when considering your next career&amp;nbsp;move.&lt;/p&gt;
+&lt;p&gt;Since 1991, Collabera has been a leading provider of &lt;span class="caps"&gt;IT&lt;/span&gt; staffing solutions. With over 9,000 professionals working across 3 continents Collabera is one of the top 10 &lt;span class="caps"&gt;U.S.&lt;/span&gt; &lt;span class="caps"&gt;IT&lt;/span&gt; Staffing firms. Recognized from Staffing Industry Analysts as &amp;#8220;Best Staffing Firms to Work For&amp;#8221; 3 years in a row, we have the history, processes and most of all jobs that make Collabera a strong option when considering your next career&amp;nbsp;move.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;

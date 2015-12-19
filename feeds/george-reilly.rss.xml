@@ -817,10 +817,10 @@ filtering of sound (or other signals) using &lt;span class="caps"&gt;IIR&lt;/spa
 and control of device motion.
 Inevitably, small numerical errors are introduced at each step.
 In an unstable algorithm, the effects of those errors grow in subsequent feedback steps,
-eventually dominating over the &amp;quot;right&amp;quot; answer you are looking for.
+eventually dominating over the &amp;#8220;right&amp;#8221; answer you are looking for.
 In a stable system, the effects of errors shrink,
 or at least do not grow, in subsequent steps.
-The consequences of instability vary from &amp;quot;Huh?&amp;quot; through &amp;quot;aw, &amp;amp;%&amp;#64;%)$^&amp;amp;%*&amp;quot; to&amp;nbsp;death.&lt;/p&gt;
+The consequences of instability vary from &amp;#8220;Huh?&amp;#8221; through &amp;#8220;aw, &amp;amp;%&amp;#64;%)$^&amp;amp;%*&amp;#8221; to&amp;nbsp;death.&lt;/p&gt;
 &lt;p&gt;In this talk, I will show examples of unstable and stable algorithms,
 investigate the differences,
 and introduce some methods for making sure your algorithms are stable.
@@ -830,7 +830,7 @@ why instability happens and how to avoid&amp;nbsp;it.&lt;/p&gt;
 &lt;p&gt;The examples will be in C++, but the principles are not language-specific.
 This seminar will build on the general principles
 outlined in my &lt;a class="reference external" href="http://nwcpp.org/november-2011.html"&gt;previous &lt;span class="caps"&gt;NWCPP&lt;/span&gt; talk&lt;/a&gt;
-in November 2011, entitled &amp;quot;Introduction to Scientific Computing.&amp;quot;
+in November 2011, entitled &amp;#8220;Introduction to Scientific Computing.&amp;#8221;
 This talk begins where that one ends:
 with a demonstration of an unstable algorithm for solving a differential equation.
 (Sorry about the sound in that video.
@@ -879,7 +879,7 @@ and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;To help address the confusion that arises
 when rvalue references become lvalue references through reference collapsing,
-Scott Meyers introduced the notion of &amp;quot;universal references.&amp;quot;
+Scott Meyers introduced the notion of &amp;#8220;universal references.&amp;#8221;
 In this presentation, he builds on this foundation
 by explaining that overloading functions on rvalue references is sensible and useful,
 while seemingly similar overloading on universal references
@@ -2415,7 +2415,7 @@ Other than that he is a totally normal&amp;nbsp;guy.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2004.html"&gt;May 12th, 2004 — Improving Testability — Dave&amp;nbsp;Catlett&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2004.html"&gt;June 9th, 2004 — Roundtable Meeting: The Virtues of Linux — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2004.html"&gt;July 14th, 2004 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2004.html"&gt;August 11th, 2004 — &amp;quot;Square Table&amp;quot; Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2004.html"&gt;August 11th, 2004 — &amp;#8220;Square Table&amp;#8221; Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2004.html"&gt;September 8th, 2004 — Achieving Source-Level Software Portability Using &lt;span class="caps"&gt;GNU&lt;/span&gt; Autoconf, Automake, Libtool, and Make — Robert P.&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2004.html"&gt;October 13th, 2004 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2004.html"&gt;November 10th, 2004 — &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
@@ -2453,7 +2453,7 @@ Other than that he is a totally normal&amp;nbsp;guy.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2001.html"&gt;July 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2001.html"&gt;August 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2001.html"&gt;September 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2001.html"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;quot;Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;quot;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2001.html"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;#8220;Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;#8221;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2001.html"&gt;November 14th, 2001 — &lt;span class="caps"&gt;JNI&lt;/span&gt;: How to use Java and C++ together — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2001.html"&gt;December 12th, 2001 — A C++ Programmer&amp;#8217;s Introduction to C# — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">George Reilly</dc:creator><pubDate>Mon, 31 Dec 2001 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2001-12-31:2001-summary.html</guid></item><item><title>2000</title><link>http://nwcpp.org/2000-summary.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2000.html"&gt;January 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
