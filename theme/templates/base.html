@@ -54,8 +54,8 @@
                 <h2>Jobs</h2>
                 {% if JOB_LINKS %}
                     <ul>
-                        {% for name, url in JOB_LINKS %}
-                            <li><a href="{{ url }}">{{ name }}</a></li>
+                        {% for name, srce, url in JOB_LINKS %}
+                            <li><a href="{{ url }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/{{ srce }}" height="24" width="24" alt="{{name}}"/></a></li>
                         {% endfor %}
                     </ul>
                 {% else %}

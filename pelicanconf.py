@@ -39,9 +39,21 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
           (u'SlideShare', 'http://www.slideshare.net/nwcpp'),
          )
 
-CONFERENCE_LINKS = ((u'CPPCon 2015 Homepage', 'http://cppcon.org'),
-                    (u'CPPCon 2015 Registration', 'http://cppcon.org/registration/'))
+CONFERENCE_LINKS = ((u'CPPCon 2016 Homepage', 'http://cppcon.org'),
+                    (u'CPPCon 2016 Registration', 'http://cppcon.org/registration/'))
 
+					
+# job links
+JOB_LINKS = ((u'Aerotek', 'aerotek_logo.png', 'http://www.aerotek.com/employment-agency/'),
+             (u'Akvelon', 'akvelon.png', 'http://akvelon.com/careers/'),
+			 (u'Collabera', 'Collabera_Logo.png', 'http://apps.collabera.com/jobs/'),
+			 (u'Mainz Brady Group', 'mbg.jpg', 'http://www.mbg.com'),
+			 (u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.protingent.com/'),
+			 (u'Design Laboratories, Inc.', 'DLI_Badge_FINAL.JPG', 'http://www.dli.com'),
+			 (u'Populus Group', 'populus.JPG', 'http://www.populusgroup.com/jobs/contract-direct-hire'),
+			 )
+					
+					
 DEFAULT_PAGINATION = 12
 
 PATH = 'content'

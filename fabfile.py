@@ -23,7 +23,7 @@ env.cloudfiles_container = '$cloudfiles_container'
 env.github_pages_branch = "gh-pages"
 
 # Port for `serve`
-PORT = 8000
+PORT = 9000
 
 def clean():
     """Remove generated files"""
