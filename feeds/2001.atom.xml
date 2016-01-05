@@ -8,7 +8,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2001.html"&gt;July 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2001.html"&gt;August 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2001.html"&gt;September 2001: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2001.html"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;#8220;Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;#8221;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2001.html"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;quot;Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;quot;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2001.html"&gt;November 14th, 2001 — &lt;span class="caps"&gt;JNI&lt;/span&gt;: How to use Java and C++ together — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2001.html"&gt;December 12th, 2001 — A C++ Programmer&amp;#8217;s Introduction to C# — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
 </summary></entry><entry><title>December 12th, 2001 — A C++ Programmer’s Introduction to C# — Mike Moskowitz</title><link href="http://nwcpp.org/december-2001.html" rel="alternate"></link><updated>2001-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-12-01:december-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
@@ -35,7 +35,7 @@ and project manager in a Unix, Mac and Windows environment. The idea for
 this presentation comes from his project experiences with creating a
 portable application with a Java &lt;span class="caps"&gt;GUI&lt;/span&gt; and a C++&amp;nbsp;core.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s “Dr. GUI”</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><updated>2001-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s "Dr. GUI"</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><updated>2001-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Overlake Hospital Educational Conference Center&lt;/div&gt;
@@ -104,15 +104,15 @@ for C/C++ Users Journal and one of the featured instructors of
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;We are very fortunate to have Scott Meyers come to speak with us this
-month. Scott of course is the author of &amp;#8220;Effective C++&amp;#8221; and &amp;#8220;More
-Effective C++&amp;#8221;, generally acclaimed as two of the most important books
+month. Scott of course is the author of &amp;quot;Effective C++&amp;quot; and &amp;quot;More
+Effective C++&amp;quot;, generally acclaimed as two of the most important books
 ever written about C++. Every C++ developer should be familiar with
 these books. Scott is a highly sought-after speaker and we are grateful
 that he has come to speak to&amp;nbsp;us.&lt;/p&gt;
 &lt;p&gt;Our meeting will be a world-premiere of Scott&amp;#8217;s material on &lt;span class="caps"&gt;STL&lt;/span&gt; (the
 standard template&amp;nbsp;library)!&lt;/p&gt;
 &lt;p&gt;Scott&amp;#8217;s description of his talk, presented verbatim:
-&amp;#8220;For the past 18 months, Scott Meyers has been exploring the &lt;span class="caps"&gt;STL&lt;/span&gt;, and
+&amp;quot;For the past 18 months, Scott Meyers has been exploring the &lt;span class="caps"&gt;STL&lt;/span&gt;, and
 on April 30 he sends to his publisher the results of his efforts, the
 new book, Effective &lt;span class="caps"&gt;STL&lt;/span&gt;: 50 Specific Ways to Improve Your Use of the
 Standard Template Library. In this talk, Scott presents two or three
@@ -120,7 +120,7 @@ Items from this new book, items that focus on material not usually
 covered in descriptions of the &lt;span class="caps"&gt;STL&lt;/span&gt;. He also hands out flyers for the new
 book and urges everyone to buy their usual minimum of three copies: one
 for the office, one for home, and one for each of your cars (for when
-you&amp;#8217;re stuck in&amp;nbsp;traffic).&amp;#8221;&lt;/p&gt;
+you&amp;#8217;re stuck in&amp;nbsp;traffic).&amp;quot;&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>April 11th, 2001 — CPP-Unit Testing Framework — Troy Frever</title><link href="http://nwcpp.org/april-2001.html" rel="alternate"></link><updated>2001-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-04-01:april-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -149,8 +149,8 @@ covered by the following&amp;nbsp;sites:&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.extremeprogramming.org/"&gt;http://www.extremeprogramming.org/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://groups.yahoo.com/group/extremeprogramming-seattle"&gt;http://groups.yahoo.com/group/extremeprogramming-seattle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Recommended book: Martin Fowler&amp;#8217;s &amp;#8220;Refactoring: Improving the Design of
-Existing&amp;nbsp;Code&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;Recommended book: Martin Fowler&amp;#8217;s &amp;quot;Refactoring: Improving the Design of
+Existing&amp;nbsp;Code&amp;quot;.&lt;/p&gt;
 &lt;/div&gt;
 </summary></entry><entry><title>March 14th, 2001 — XML and C++ — Mike Moskowitz</title><link href="http://nwcpp.org/march-2001.html" rel="alternate"></link><updated>2001-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-03-01:march-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -224,10 +224,10 @@ the most powerful Web server to the lowliest hand-held &lt;span class="caps"&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Jeffrey Richter is the author of Microsoft Press&amp;#8217; &amp;#8220;Programming
-Applications for Microsoft Windows&amp;#8221; and M &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; T&amp;#8217;s &amp;#8220;Windows 95: A
-Developer&amp;#8217;s Guide,&amp;#8221; two of the bibles of Windows development. His newest
-book, &amp;#8220;Programming Server-Side Applications for Windows 2000,&amp;#8221; was
+&lt;p&gt;Jeffrey Richter is the author of Microsoft Press&amp;#8217; &amp;quot;Programming
+Applications for Microsoft Windows&amp;quot; and M &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; T&amp;#8217;s &amp;quot;Windows 95: A
+Developer&amp;#8217;s Guide,&amp;quot; two of the bibles of Windows development. His newest
+book, &amp;quot;Programming Server-Side Applications for Windows 2000,&amp;quot; was
 published by Microsoft Press in&amp;nbsp;2000.&lt;/p&gt;
 &lt;p&gt;Jeffrey is also a frequent contributor to Microsoft&amp;#8217;s &lt;span class="caps"&gt;MSDN&lt;/span&gt; Magazine
 (formerly called &lt;span class="caps"&gt;MSJ&lt;/span&gt;) and other trade publications, and is &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s Win32

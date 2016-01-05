@@ -115,10 +115,10 @@ filtering of sound (or other signals) using &lt;span class="caps"&gt;IIR&lt;/spa
 and control of device motion.
 Inevitably, small numerical errors are introduced at each step.
 In an unstable algorithm, the effects of those errors grow in subsequent feedback steps,
-eventually dominating over the &amp;#8220;right&amp;#8221; answer you are looking for.
+eventually dominating over the &amp;quot;right&amp;quot; answer you are looking for.
 In a stable system, the effects of errors shrink,
 or at least do not grow, in subsequent steps.
-The consequences of instability vary from &amp;#8220;Huh?&amp;#8221; through &amp;#8220;aw, &amp;amp;%&amp;#64;%)$^&amp;amp;%*&amp;#8221; to&amp;nbsp;death.&lt;/p&gt;
+The consequences of instability vary from &amp;quot;Huh?&amp;quot; through &amp;quot;aw, &amp;amp;%&amp;#64;%)$^&amp;amp;%*&amp;quot; to&amp;nbsp;death.&lt;/p&gt;
 &lt;p&gt;In this talk, I will show examples of unstable and stable algorithms,
 investigate the differences,
 and introduce some methods for making sure your algorithms are stable.
@@ -128,7 +128,7 @@ why instability happens and how to avoid&amp;nbsp;it.&lt;/p&gt;
 &lt;p&gt;The examples will be in C++, but the principles are not language-specific.
 This seminar will build on the general principles
 outlined in my &lt;a class="reference external" href="http://nwcpp.org/november-2011.html"&gt;previous &lt;span class="caps"&gt;NWCPP&lt;/span&gt; talk&lt;/a&gt;
-in November 2011, entitled &amp;#8220;Introduction to Scientific Computing.&amp;#8221;
+in November 2011, entitled &amp;quot;Introduction to Scientific Computing.&amp;quot;
 This talk begins where that one ends:
 with a demonstration of an unstable algorithm for solving a differential equation.
 (Sorry about the sound in that video.
@@ -177,7 +177,7 @@ and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;To help address the confusion that arises
 when rvalue references become lvalue references through reference collapsing,
-Scott Meyers introduced the notion of &amp;#8220;universal references.&amp;#8221;
+Scott Meyers introduced the notion of &amp;quot;universal references.&amp;quot;
 In this presentation, he builds on this foundation
 by explaining that overloading functions on rvalue references is sensible and useful,
 while seemingly similar overloading on universal references
