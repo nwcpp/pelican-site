@@ -27,6 +27,8 @@ Gor Nishanov is from Microsoft's C++ team.
 
 Resources
 ~~~~~~~~~
+`Video <http://www.youtube.com/attribution_link?a=5kfOVp9AEJk&u=/watch%3Fv%3D43xAD6DiF4Y%26feature%3Dem-upload_owner>`_ |
+`Slides </talks/2016/CppCoroutines.pptx>`_
 
 
 A Word From Our Sponsor
