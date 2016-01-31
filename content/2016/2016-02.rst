@@ -1,4 +1,4 @@
-February 18th 2016: C++ 2D Graphics Standardization
+February 17th 2016: C++ 2D Graphics Standardization
 ##############################################################################
 
 :date: 2016-01-30
@@ -9,7 +9,7 @@ February 18th 2016: C++ 2D Graphics Standardization
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
-| February 18th, 2016 at 7:00 PM
+| February 17th, 2016 at 7:00 PM
 | Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
 | Microsoft Campus,
 | 156th Ave NE,
