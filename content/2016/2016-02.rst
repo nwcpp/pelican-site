@@ -23,7 +23,7 @@ Since many modern day languages support 2D graphics, C++ Standards Committee wan
 
 Bio
 ~~~
-Brent Searles is the principal Architect and Developer for Attobotics working on a universal compiler for embedded systems. Also been working on a chip design and programming language for that chipset for a Virtual Surgical Center for the past 20 years. Currently Vice President of the NWCPP and volunteer chair for CppCon.
+Brett Searles is the principal Architect and Developer for Attobotics working on a universal compiler for embedded systems. Also been working on a chip design and programming language for that chipset for a Virtual Surgical Center for the past 20 years. Currently Vice President of the NWCPP and volunteer chair for CppCon.
 
 Resources
 ~~~~~~~~~
