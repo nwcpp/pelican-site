@@ -27,7 +27,8 @@ Brett Searles is the principal Architect and Developer for Attobotics working on
 
 Resources
 ~~~~~~~~~
-Coming soon!
+`Video <https://youtu.be/-ZChpX04dOs>`_ |
+`Slides </talks/2016/2DGraphicsStd.pdf>`_
 
 
 A Word From Our Sponsor
