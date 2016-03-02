@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2016-01-30T00:00:00-08:00</updated><entry><title>February 17th 2016: C++ 2D Graphics Standardization</title><link href="http://nwcpp.org/february-2016.html" rel="alternate"></link><updated>2016-01-30T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-01-30:february-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2016-03-01T00:00:00-08:00</updated><entry><title>February 17th 2016: Topic coming soon - but we are planning a meeting!</title><link href="http://nwcpp.org/march-2016.html" rel="alternate"></link><updated>2016-03-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-03-01:march-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 16th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Protingent is an employee owned (&lt;span class="caps"&gt;ESOP&lt;/span&gt;) technical staffing firm specializing in providing &lt;span class="caps"&gt;IT&lt;/span&gt; and engineering professionals for all areas of product design, development and test. We place high-caliber engineers with many of the leading technology companies in the &lt;span class="caps"&gt;U.S.&lt;/span&gt; We were founded in 2001 by an engineer and have always been dedicated to providing the right engineers that possess a high level of skill and knowledge regarding the technologies required to drive our clients’ success.
+The intrinsic value of any enterprise comes down to the quality of its people. Our clients understand that cutting-edge products aren’t designed and developed in a void. It takes exceptional people and consistent communication and collaboration. These beliefs are at the core of Protingent and have been instrumental in our ability to build a team of exceptional people.
+Corporate strategy is important, but the truth is that culture beats strategy every time. At Protingent, we are committed to finding the best and brightest and supporting them to a degree that promotes a dynamic of shared purpose. Being an employee-owned company has further cemented an engaged and collaborative environment. We work every day on maintaining and strengthening our culture and the relationships we have with each other, our clients and candidates.
+The results have been profound. In other words, what kind of story does the data tell? We have been one of the fastest-growing companies in the United States for a number of years, have incredibly low internal turnover and are a top-tier vendor to numerous technology companies. Protingent has been recognized multiple years as a Best in Staffing Company by Inavero, an independent survey&amp;nbsp;firm.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>February 17th 2016: C++ 2D Graphics Standardization</title><link href="http://nwcpp.org/february-2016.html" rel="alternate"></link><updated>2016-01-30T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-01-30:february-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 17th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
