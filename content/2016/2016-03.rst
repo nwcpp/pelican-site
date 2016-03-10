@@ -1,9 +1,9 @@
-February 17th 2016: Topic coming soon - but we are planning a meeting!
+March 16th 2016: Linux and IoT for VC Users
 ##############################################################################
 
 :date: 2016-03-01
 :slug: march-2016
-:author: Lloyd Moore
+:author: Rohit Patnaik
 
 
 Time and Location
@@ -18,12 +18,17 @@ Time and Location
 
 Abstract
 ~~~~~~~~
-Coming soon!
+Marc Goodner will talk about debugging remotely on Linux, debugging MCU targets and connecting to the Azure IoT hub, all from within Visual Studio.
+
+Links to further details: 
+
+- http://blogs.msdn.com/b/vcblog/archive/2015/11/18/announcing-the-vs-gdb-debugger-extension.aspx
+- http://azure.microsoft.com/en-us/blog/visual-studio-connected-service-for-azure-iot-hub/
 
 
 Bio
 ~~~
-Coming soon!
+Marc Goodner is a program manager on the C++ team at Microsoft, focused on IoT. In his spare time, he helps run the local chapter of the Maker Garage, and works on projects related to 3-d printing and audio synthesis.
 
 Resources
 ~~~~~~~~~
