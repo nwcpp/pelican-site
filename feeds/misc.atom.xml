@@ -56,7 +56,7 @@ That was a little tricky to manage,
 but I found enough clues in a &lt;a class="reference external" href="http://stackoverflow.com/questions/3225862/multiple-github-accounts-ssh-config"&gt;StackOverflow question&lt;/a&gt;
 to figure it&amp;nbsp;out.&lt;/p&gt;
 &lt;p&gt;Here&amp;#8217;s my &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;~/.ssh/config&lt;/span&gt;&lt;/tt&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nb"&gt;Host&lt;/span&gt; github-gvr
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;Host&lt;/span&gt; github-gvr
     &lt;span class="nb"&gt;HostName&lt;/span&gt; github.com
     &lt;span class="nb"&gt;User&lt;/span&gt; git
     &lt;span class="nb"&gt;PreferredAuthentications&lt;/span&gt; publickey
@@ -74,7 +74,7 @@ while &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;github-nwcpp&lt
 Note the &lt;tt class="docutils literal"&gt;IdentitiesOnly&lt;/tt&gt;.&lt;/p&gt;
 &lt;p&gt;I have to use a different &lt;em&gt;git remote&lt;/em&gt; for the latter,
 instead of &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;git&amp;#64;github.com:nwcpp/pelican-site.git&lt;/span&gt;&lt;/tt&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;git remote -v
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ git remote -v
 origin      git@github-nwcpp:nwcpp/pelican-site.git &lt;span class="o"&gt;(&lt;/span&gt;fetch&lt;span class="o"&gt;)&lt;/span&gt;
 origin      git@github-nwcpp:nwcpp/pelican-site.git &lt;span class="o"&gt;(&lt;/span&gt;push&lt;span class="o"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
