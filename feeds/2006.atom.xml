@@ -71,7 +71,7 @@ of why, how, and when C++ exceptions should or should not be&amp;nbsp;used.&lt;/
 &lt;p&gt;I&amp;#8217;ve been at &lt;span class="caps"&gt;MSFT&lt;/span&gt; for 9 years,
 working on the compiler back end/optimizer the entire time.
 I&amp;#8217;m currently responsible for the Orcas optimizer, linker, and other &amp;#8216;tools&amp;#8217;
-while the rest of the team works on the &amp;#8220;Phoenix&amp;#8221;&amp;nbsp;project.&lt;/p&gt;
+while the rest of the team works on the &amp;quot;Phoenix&amp;quot;&amp;nbsp;project.&lt;/p&gt;
 &lt;p&gt;Prior to my life at Microsoft, I graduated from the University of Utah with a &lt;span class="caps"&gt;BS&lt;/span&gt; in &lt;span class="caps"&gt;CS&lt;/span&gt;.
 I have a wife &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 3 kids, enjoy playing with my kids,
 woodworking, mountain biking, writing goofy projects to learn new technologies,
@@ -100,8 +100,8 @@ of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;p&gt;Herb Sutter is a software architect at Microsoft
 and chair of the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ standards committee.
 Among his books and papers on software development
-is the widely-cited article &amp;#8220;The Free Lunch Is Over&amp;#8221;
-where he coined the title phrase and &amp;#8220;concurrency revolution&amp;#8221;
+is the widely-cited article &amp;quot;The Free Lunch Is Over&amp;quot;
+where he coined the title phrase and &amp;quot;concurrency revolution&amp;quot;
 as applied to describe the software sea change
 now in progress to exploit increasingly parallel&amp;nbsp;hardware.&lt;/p&gt;
 &lt;/div&gt;
