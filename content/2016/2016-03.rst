@@ -32,7 +32,10 @@ Marc Goodner is a program manager on the C++ team at Microsoft, focused on IoT. 
 
 Resources
 ~~~~~~~~~
-Coming soon!
+`Video <https://www.youtube.com/watch?v=7ji2ATPVGBA&feature=em-upload_owner>`_ |
+`GDB Debugger Extension <https://blogs.msdn.microsoft.com/vcblog/2015/11/18/announcing-the-vs-gdb-debugger-extension/>`_ |
+`Azure IoT Hub <https://azure.microsoft.com/en-us/blog/visual-studio-connected-service-for-azure-iot-hub/>`_
+
 
 
 A Word From Our Sponsor
