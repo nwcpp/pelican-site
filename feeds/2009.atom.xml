@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2009.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2009-12-31T00:00:00-08:00</updated><entry><title>2009</title><link href="http://nwcpp.org/2009-summary.html" rel="alternate"></link><updated>2009-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2009-12-31:2009-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2009.html"&gt;January 21st, 2009 — Metaprogramming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2009.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2009-12-31T00:00:00-08:00</updated><entry><title>2009</title><link href="http://nwcpp.org/2009-summary.html" rel="alternate"></link><published>2009-12-31T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2009-12-31:2009-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2009.html"&gt;January 21st, 2009 — Metaprogramming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2009.html"&gt;February 18th, 2009 — &lt;span class="caps"&gt;CCR&lt;/span&gt;: Concurrency and Coordination Runtime — Andreas&amp;nbsp;Ulbrich&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2009.html"&gt;March 18th, 2009 — How Compilers Work — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2009.html"&gt;April 15th, 2009 — Axum: The Language Of Agents — Artur&amp;nbsp;Laksberg&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +11,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2009.html"&gt;October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2009.html"&gt;November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill&amp;nbsp;Baxter&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2009.html"&gt;December 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>December 2009: No Meeting</title><link href="http://nwcpp.org/december-2009.html" rel="alternate"></link><updated>2009-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-12-01:december-2009.html</id><summary type="html"></summary></entry><entry><title>November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill Baxter</title><link href="http://nwcpp.org/november-2009.html" rel="alternate"></link><updated>2009-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-11-01:november-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>December 2009: No Meeting</title><link href="http://nwcpp.org/december-2009.html" rel="alternate"></link><published>2009-12-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-12-01:december-2009.html</id><summary type="html"></summary></entry><entry><title>November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill Baxter</title><link href="http://nwcpp.org/november-2009.html" rel="alternate"></link><published>2009-11-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-11-01:november-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -47,7 +47,7 @@ to temporarily escape the workaday worries of the&amp;nbsp;world.&lt;/p&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2009/NWCPP-D-meta-baxter-11-18-2009.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz Milewski</title><link href="http://nwcpp.org/october-2009.html" rel="alternate"></link><updated>2009-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-10-01:october-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz Milewski</title><link href="http://nwcpp.org/october-2009.html" rel="alternate"></link><published>2009-10-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-10-01:october-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -88,7 +88,7 @@ He regularly blogs about programming languages and concurrency at
 &lt;p&gt;&lt;a class="reference external" href="/talks/2009/Haskell_and_C___Template.pdf"&gt;Slides&lt;/a&gt; |
 &lt;a class="reference external" href="http://www.vimeo.com/7211030"&gt;Video&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 16th, 2009 — Ownership System Against Data Races — Bartosz Milewski</title><link href="http://nwcpp.org/september-2009.html" rel="alternate"></link><updated>2009-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-09-01:september-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>September 16th, 2009 — Ownership System Against Data Races — Bartosz Milewski</title><link href="http://nwcpp.org/september-2009.html" rel="alternate"></link><published>2009-09-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-09-01:september-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -128,7 +128,7 @@ He regularly blogs about concurrency at
 &lt;p&gt;&lt;a class="reference external" href="/talks/2009/Ownership_Systems_against_Data_Races.pdf"&gt;Slides&lt;/a&gt; |
 &lt;a class="reference external" href="http://www.vimeo.com/6689999"&gt;Video&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 2009: No Meeting</title><link href="http://nwcpp.org/august-2009.html" rel="alternate"></link><updated>2009-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-08-01:august-2009.html</id><summary type="html"></summary></entry><entry><title>July 2009: No Meeting</title><link href="http://nwcpp.org/july-2009.html" rel="alternate"></link><updated>2009-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-07-01:july-2009.html</id><summary type="html"></summary></entry><entry><title>June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter Bright</title><link href="http://nwcpp.org/june-2009.html" rel="alternate"></link><updated>2009-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-06-01:june-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>August 2009: No Meeting</title><link href="http://nwcpp.org/august-2009.html" rel="alternate"></link><published>2009-08-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-08-01:august-2009.html</id><summary type="html"></summary></entry><entry><title>July 2009: No Meeting</title><link href="http://nwcpp.org/july-2009.html" rel="alternate"></link><published>2009-07-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-07-01:july-2009.html</id><summary type="html"></summary></entry><entry><title>June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter Bright</title><link href="http://nwcpp.org/june-2009.html" rel="alternate"></link><published>2009-06-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-06-01:june-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -183,7 +183,7 @@ and has been writing them ever&amp;nbsp;since.&lt;/p&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;Download the &lt;a class="reference external" href="/talks/2009/accu.pdf"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick Molloy</title><link href="http://nwcpp.org/may-2009.html" rel="alternate"></link><updated>2009-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-05-01:may-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick Molloy</title><link href="http://nwcpp.org/may-2009.html" rel="alternate"></link><published>2009-05-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-05-01:may-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -211,7 +211,7 @@ to enable additional scalability on the Windows&amp;nbsp;Platform.&lt;/p&gt;
 &lt;p&gt;The presentation will be given by members of the Concurrency Runtime team:
 Dana Groff, Don McCrady and Rick&amp;nbsp;Molloy.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 15th, 2009 — Axum: The Language Of Agents — Artur Laksberg</title><link href="http://nwcpp.org/april-2009.html" rel="alternate"></link><updated>2009-04-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-04-01:april-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>April 15th, 2009 — Axum: The Language Of Agents — Artur Laksberg</title><link href="http://nwcpp.org/april-2009.html" rel="alternate"></link><published>2009-04-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-04-01:april-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -250,7 +250,7 @@ from the&amp;nbsp;presentation.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/maestroteam/archive/2009/05/07/the-first-axum-bits-are-now-available.aspx"&gt;Axum is now publicly&amp;nbsp;available!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 18th, 2009 — How Compilers Work — Walter Bright</title><link href="http://nwcpp.org/march-2009.html" rel="alternate"></link><updated>2009-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-03-01:march-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>March 18th, 2009 — How Compilers Work — Walter Bright</title><link href="http://nwcpp.org/march-2009.html" rel="alternate"></link><published>2009-03-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-03-01:march-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -275,7 +275,7 @@ and has been writing them ever since.
 He&amp;#8217;s written compilers for Pascal, &lt;span class="caps"&gt;ABEL&lt;/span&gt;, C, C++, Javascript, Java,
 and now the D programming&amp;nbsp;language.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 18th, 2009 — CCR: Concurrency and Coordination Runtime — Andreas Ulbrich</title><link href="http://nwcpp.org/february-2009.html" rel="alternate"></link><updated>2009-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-02-01:february-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>February 18th, 2009 — CCR: Concurrency and Coordination Runtime — Andreas Ulbrich</title><link href="http://nwcpp.org/february-2009.html" rel="alternate"></link><published>2009-02-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-02-01:february-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -308,7 +308,7 @@ and was a Research Assistant at Technische Universtitaet Berlin in&amp;nbsp;Germ
 and &lt;a class="reference external" href="/talks/2009/NWCPPDemos.zip"&gt;source code&lt;/a&gt;
 from the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 21st, 2009 — Metaprogramming in D — Walter Bright</title><link href="http://nwcpp.org/january-2009.html" rel="alternate"></link><updated>2009-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-01-01:january-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>January 21st, 2009 — Metaprogramming in D — Walter Bright</title><link href="http://nwcpp.org/january-2009.html" rel="alternate"></link><published>2009-01-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-01-01:january-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><atom:link href="http://nwcpp.org/feeds/rohit-patnaik.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 01 Mar 2016 00:00:00 -0800</lastBuildDate><item><title>March 16th 2016: Linux and IoT for VC Users</title><link>http://nwcpp.org/march-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+<rss version="2.0"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Tue, 01 Mar 2016 00:00:00 -0800</lastBuildDate><item><title>March 16th 2016: Linux and IoT for VC Users</title><link>http://nwcpp.org/march-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 16th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -46,7 +46,7 @@ The results have been profound. In other words, what kind of story does the data
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Tue, 01 Mar 2016 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2016-03-01:march-2016.html</guid></item><item><title>January 20th 2016: C++ Coroutines: A Negative Overhead Abstraction</title><link>http://nwcpp.org/january-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Tue, 01 Mar 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-03-01:march-2016.html</guid></item><item><title>January 20th 2016: C++ Coroutines: A Negative Overhead Abstraction</title><link>http://nwcpp.org/january-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 20th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -84,7 +84,7 @@ The results have been profound. In other words, what kind of story does the data
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Fri, 18 Dec 2015 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2015-12-18:january-2016.html</guid></item><item><title>April 15th 2015: Pushing the Boundaries of C++ Code Generation</title><link>http://nwcpp.org/april-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Fri, 18 Dec 2015 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-12-18:january-2016.html</guid></item><item><title>April 15th 2015: Pushing the Boundaries of C++ Code Generation</title><link>http://nwcpp.org/april-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;April 15th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -104,7 +104,7 @@ The results have been profound. In other words, what kind of story does the data
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Since 1991, Collabera has been a leading provider of &lt;span class="caps"&gt;IT&lt;/span&gt; staffing solutions. With over 9,000 professionals working across 3 continents Collabera is one of the top 10 &lt;span class="caps"&gt;U.S.&lt;/span&gt; &lt;span class="caps"&gt;IT&lt;/span&gt; Staffing firms. Recognized from Staffing Industry Analysts as &amp;quot;Best Staffing Firms to Work For&amp;quot; 3 years in a row, we have the history, processes and most of all jobs that make Collabera a strong option when considering your next career&amp;nbsp;move.&lt;/p&gt;
+&lt;p&gt;Since 1991, Collabera has been a leading provider of &lt;span class="caps"&gt;IT&lt;/span&gt; staffing solutions. With over 9,000 professionals working across 3 continents Collabera is one of the top 10 &lt;span class="caps"&gt;U.S.&lt;/span&gt; &lt;span class="caps"&gt;IT&lt;/span&gt; Staffing firms. Recognized from Staffing Industry Analysts as &amp;#8220;Best Staffing Firms to Work For&amp;#8221; 3 years in a row, we have the history, processes and most of all jobs that make Collabera a strong option when considering your next career&amp;nbsp;move.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -121,7 +121,7 @@ The results have been profound. In other words, what kind of story does the data
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2015-04-01:april-2015.html</guid></item><item><title>March 18th 2015: The Go Programming Language</title><link>http://nwcpp.org/march-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-04-01:april-2015.html</guid></item><item><title>March 18th 2015: The Go Programming Language</title><link>http://nwcpp.org/march-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 18th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -155,4 +155,4 @@ Last but not least, concurrency is a first class citizen in Go, so an overview a
 &lt;p&gt;Xtreme focuses on solutions and services including analysis, design, architecture, development, testing, implementation, maintenance and support of a variety of software technologies with specific emphasis on portal development, technical content creation, virtual machine environments and client and server deployment. Visitxtremeconsulting.com for more information. You can view and apply to our open positions at &lt;a class="reference external" href="http://www.xtremeconsulting.com/careers"&gt;http://www.xtremeconsulting.com/careers&lt;/a&gt;.
 Xtreme Contact: &lt;a class="reference external" href="mailto:info&amp;#64;xtremeconsulting.com"&gt;info&amp;#64;xtremeconsulting.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2015-02-28:march-2015.html</guid></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-02-28:march-2015.html</guid></item></channel></rss>
