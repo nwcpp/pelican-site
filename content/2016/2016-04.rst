@@ -23,7 +23,7 @@ With the direction in developing hardware with more processing power, caching of
 
 Bio
 ~~~
-Principal Architect and Developer for Attobotics working on a universal compiler for embedded systems. Also been working on a chip design and programming language for that chipset for a Virtual Surgical Center for the past 20 years. Currently Vice President of the NWCPP and volunteer chair for CppCon. 
+Brett Searles is the Principal Architect and Developer for Attobotics and is working on a universal compiler for embedded systems. He has also been working on a chip design and programming language for that chipset for a Virtual Surgical Center for the past 20 years. Brett is currently the Vice President of the NWCPP and the volunteer chair for CppCon. 
 
 Resources
 ~~~~~~~~~
