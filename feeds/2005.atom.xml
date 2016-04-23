@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2005.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2005-12-31T00:00:00-08:00</updated><entry><title>2005</title><link href="http://nwcpp.org/2005-summary.html" rel="alternate"></link><published>2005-12-31T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2005-12-31:2005-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2005.html"&gt;January 12th, 2005 — Lock-Free Programming — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2005.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2005-12-31T00:00:00-08:00</updated><entry><title>2005</title><link href="http://nwcpp.org/2005-summary.html" rel="alternate"></link><updated>2005-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2005-12-31:2005-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2005.html"&gt;January 12th, 2005 — Lock-Free Programming — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2005.html"&gt;February 9th, 2005 — Dealing with Software Complexity — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2005.html"&gt;March 23rd, 2005 — Evolving C++ onto the &lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2005.html"&gt;April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +11,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2005.html"&gt;October 19th, 2005 — C++ in the Trenches — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2005.html"&gt;November 16th, 2005 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2005.html"&gt;December 2005: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>December 2005: No Meeting</title><link href="http://nwcpp.org/december-2005.html" rel="alternate"></link><published>2005-12-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-12-01:december-2005.html</id><summary type="html"></summary></entry><entry><title>November 16th, 2005 — The D Programming Language — Walter Bright</title><link href="http://nwcpp.org/november-2005.html" rel="alternate"></link><published>2005-11-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-11-01:november-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>December 2005: No Meeting</title><link href="http://nwcpp.org/december-2005.html" rel="alternate"></link><updated>2005-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-12-01:december-2005.html</id><summary type="html"></summary></entry><entry><title>November 16th, 2005 — The D Programming Language — Walter Bright</title><link href="http://nwcpp.org/november-2005.html" rel="alternate"></link><updated>2005-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-11-01:november-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -37,7 +37,7 @@ His extensive experience writing C++ compilers
 and well over a decade being on the front lines of doing C++ customer support
 is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 19th, 2005 — C++ in the Trenches — David Brownell</title><link href="http://nwcpp.org/october-2005.html" rel="alternate"></link><published>2005-10-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-10-01:october-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 19th, 2005 — C++ in the Trenches — David Brownell</title><link href="http://nwcpp.org/october-2005.html" rel="alternate"></link><updated>2005-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-10-01:october-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -65,7 +65,7 @@ David currently serves as president for the Northwest C++ Users&amp;#8217;&amp;n
 &lt;p&gt;&lt;a class="reference external" href="/talks/2005/C__InTheTrenches.pdf"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 21st, 2005 — Two Views of C++ — Scott Meyers</title><link href="http://nwcpp.org/september-2005.html" rel="alternate"></link><published>2005-09-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-09-01:september-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>September 21st, 2005 — Two Views of C++ — Scott Meyers</title><link href="http://nwcpp.org/september-2005.html" rel="alternate"></link><updated>2005-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-09-01:september-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -83,10 +83,10 @@ I ultimately decided to give two mini-talks,
 one making C++ look bad and one making it look&amp;nbsp;good.&lt;/p&gt;
 &lt;p&gt;The two talks&amp;nbsp;are:&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The meaning of &amp;#8216;f(x)&amp;#8217; in C++,&amp;#8221; an exploration of the rules for
+&lt;li&gt;&amp;quot;The meaning of &amp;#8216;f(x)&amp;#8217; in C++,&amp;quot; an exploration of the rules for
 function overloading, template instantiation, template specialization,
 and the semantic mess that results from their&amp;nbsp;interactions.&lt;/li&gt;
-&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Dimensional Analysis in C++,&amp;#8221; a purely compile-time approach to
+&lt;li&gt;&amp;quot;Dimensional Analysis in C++,&amp;quot; a purely compile-time approach to
 making sure that physical quantities (e.g., mass, velocity, distance, etc.)
 are used consistently in C++&amp;nbsp;programs.&lt;/li&gt;
 &lt;/ul&gt;
@@ -117,7 +117,7 @@ and a Ph.D. from Brown&amp;nbsp;University.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2005/twoViews.pdf"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 17th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2005.html" rel="alternate"></link><published>2005-08-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-08-01:august-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>August 17th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2005.html" rel="alternate"></link><updated>2005-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-08-01:august-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -133,7 +133,7 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>July 20th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2005.html" rel="alternate"></link><published>2005-07-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-07-01:july-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>July 20th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2005.html" rel="alternate"></link><updated>2005-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-07-01:july-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -149,7 +149,7 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>June 15th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/june-2005.html" rel="alternate"></link><published>2005-06-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-06-01:june-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>June 15th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/june-2005.html" rel="alternate"></link><updated>2005-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-06-01:june-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -165,7 +165,7 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 18th, 2005 — Writing safer code with the Visual C++ 8.0 Libraries — Martyn Lovell</title><link href="http://nwcpp.org/may-2005.html" rel="alternate"></link><published>2005-05-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-05-01:may-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>May 18th, 2005 — Writing safer code with the Visual C++ 8.0 Libraries — Martyn Lovell</title><link href="http://nwcpp.org/may-2005.html" rel="alternate"></link><updated>2005-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-05-01:may-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -217,7 +217,7 @@ and a regular contributor to online&amp;nbsp;communities.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2005/Secure_NWCPP_May_2005.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric Niebler</title><link href="http://nwcpp.org/april-2005.html" rel="alternate"></link><published>2005-04-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-04-01:april-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric Niebler</title><link href="http://nwcpp.org/april-2005.html" rel="alternate"></link><updated>2005-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-04-01:april-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -245,7 +245,7 @@ When he&amp;#8217;s not writing C++ for money, Eric has been known to write C++ 
 &lt;p&gt;&lt;a class="reference external" href="/talks/2005/xpressive.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 23rd, 2005 — Evolving C++ onto the CLI — Stan Lippman</title><link href="http://nwcpp.org/march-2005.html" rel="alternate"></link><published>2005-03-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-03-01:march-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>March 23rd, 2005 — Evolving C++ onto the CLI — Stan Lippman</title><link href="http://nwcpp.org/march-2005.html" rel="alternate"></link><updated>2005-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-03-01:march-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -280,7 +280,7 @@ he has been involved in the work to adapt C++ onto the &lt;span class="caps"&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2005/EvolvingC___Short.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 9th, 2005 — Dealing with Software Complexity — Bartosz Milewski</title><link href="http://nwcpp.org/february-2005.html" rel="alternate"></link><published>2005-02-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-02-01:february-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>February 9th, 2005 — Dealing with Software Complexity — Bartosz Milewski</title><link href="http://nwcpp.org/february-2005.html" rel="alternate"></link><updated>2005-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-02-01:february-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
@@ -308,7 +308,7 @@ Studying complexity is his main&amp;nbsp;interest.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2005/Complexity.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 12th, 2005 — Lock-Free Programming — Andrei Alexandrescu</title><link href="http://nwcpp.org/january-2005.html" rel="alternate"></link><published>2005-01-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-01-01:january-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>January 12th, 2005 — Lock-Free Programming — Andrei Alexandrescu</title><link href="http://nwcpp.org/january-2005.html" rel="alternate"></link><updated>2005-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-01-01:january-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
