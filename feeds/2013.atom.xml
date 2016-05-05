@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-12-31T00:00:00-08:00</updated><entry><title>2013</title><link href="http://nwcpp.org/2013-summary.html" rel="alternate"></link><updated>2013-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-12-31:2013-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2013.html"&gt;January 16th,&amp;nbsp;2013 — Metadata and reflection in C++ — Jeff&amp;nbsp;Tucker&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-12-31T00:00:00-08:00</updated><entry><title>2013</title><link href="http://nwcpp.org/2013-summary.html" rel="alternate"></link><published>2013-12-31T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-12-31:2013-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2013.html"&gt;January 16th,&amp;nbsp;2013 — Metadata and reflection in C++ — Jeff&amp;nbsp;Tucker&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2013.html"&gt;February 20th, 2013 — Component Programming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2013.html"&gt;March 20th, 2013 — Profile Guided Optimization — Ankit&amp;nbsp;Asthana&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2013.html"&gt;April 17, 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +11,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2013.html"&gt;October 16th, 2013 — New Adventures in C++ with Cinder and More — Ale&amp;nbsp;Contenti&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2013.html"&gt;November 20th, 2013 — Real Time Debugging — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2013.html"&gt;December 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>December 2013: No Meeting</title><link href="http://nwcpp.org/december-2013.html" rel="alternate"></link><updated>2013-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2013-12-01:december-2013.html</id><summary type="html"></summary></entry><entry><title>November 20, 2013—Real Time Debugging—Lloyd Moore</title><link href="http://nwcpp.org/november-2013.html" rel="alternate"></link><updated>2013-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-11-01:november-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>December 2013: No Meeting</title><link href="http://nwcpp.org/december-2013.html" rel="alternate"></link><published>2013-12-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2013-12-01:december-2013.html</id><summary type="html"></summary></entry><entry><title>November 20, 2013—Real Time Debugging—Lloyd Moore</title><link href="http://nwcpp.org/november-2013.html" rel="alternate"></link><published>2013-11-01T00:00:00-07:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-11-01:november-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -51,7 +51,7 @@ and organizer of the &lt;a class="reference external" href="http://www.robothon.
 &lt;p&gt;&lt;a class="reference external" href="http://youtu.be/rCrO0zJ4PqI"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="http://www.slideshare.net/LloydMoore/real-time-debugging"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 16, 2013—New Adventures in C++ with Cinder and More—Ale Contenti</title><link href="http://nwcpp.org/october-2013.html" rel="alternate"></link><updated>2013-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-10-01:october-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>October 16, 2013—New Adventures in C++ with Cinder and More—Ale Contenti</title><link href="http://nwcpp.org/october-2013.html" rel="alternate"></link><published>2013-10-01T00:00:00-07:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-10-01:october-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 16th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -94,7 +94,7 @@ and he&amp;#8217;s the busy and proud father of ~4 years old twin&amp;nbsp;boys.
 &lt;p&gt;&lt;a class="reference external" href="http://youtu.be/hwHYJM2GV1U"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2013/new-adventures-in-cpp.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 18, 2013—Stability in Numerical Programming: An Introduction—Robert Goddard</title><link href="http://nwcpp.org/september-2013.html" rel="alternate"></link><updated>2013-09-05T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-09-05:september-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>September 18, 2013—Stability in Numerical Programming: An Introduction—Robert Goddard</title><link href="http://nwcpp.org/september-2013.html" rel="alternate"></link><published>2013-09-05T00:00:00-07:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-09-05:september-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;September 18th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -162,7 +162,7 @@ and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://youtu.be/amez0WdSJX8"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2013/Stability.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 2013: No Meeting</title><link href="http://nwcpp.org/august-2013.html" rel="alternate"></link><updated>2013-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2013-08-01:august-2013.html</id><summary type="html"></summary></entry><entry><title>July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers</title><link href="http://nwcpp.org/july-2013.html" rel="alternate"></link><updated>2013-06-25T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-06-25:july-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>August 2013: No Meeting</title><link href="http://nwcpp.org/august-2013.html" rel="alternate"></link><published>2013-08-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2013-08-01:august-2013.html</id><summary type="html"></summary></entry><entry><title>July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers</title><link href="http://nwcpp.org/july-2013.html" rel="alternate"></link><published>2013-06-25T00:00:00-07:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-06-25:july-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;July 17th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -217,7 +217,7 @@ which he hopes to publish in early&amp;nbsp;2014.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://youtu.be/T5swP3dr190"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2013/URefs-and-Overloading-revised.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>June 19, 2013—Multi-Platform Applications with Qt—Tuukka Ahoniemi</title><link href="http://nwcpp.org/june-2013.html" rel="alternate"></link><updated>2013-05-29T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-05-29:june-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>June 19, 2013—Multi-Platform Applications with Qt—Tuukka Ahoniemi</title><link href="http://nwcpp.org/june-2013.html" rel="alternate"></link><published>2013-05-29T00:00:00-07:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-05-29:june-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;June 19th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -291,7 +291,7 @@ and a Nokia Developer&amp;nbsp;Champion.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=lCyfWRef5Oo"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2013/Multi_platform_apps_with_Qt.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 15, 2013—C++ In the Post-PC Era—Diego Dagum</title><link href="http://nwcpp.org/may-2013.html" rel="alternate"></link><updated>2013-04-30T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-30:may-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>May 15, 2013—C++ In the Post-PC Era—Diego Dagum</title><link href="http://nwcpp.org/may-2013.html" rel="alternate"></link><published>2013-04-30T00:00:00-07:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-30:may-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 15th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -335,10 +335,10 @@ You can follow him on Twitter, &lt;a class="reference external" href="http://twi
 &lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=hg7HhkbbEz4"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2013/Cpp-post-pc.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 17, 2013—No Meeting</title><link href="http://nwcpp.org/april-2013.html" rel="alternate"></link><updated>2013-04-08T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-08:april-2013.html</id><summary type="html">&lt;p&gt;The April 2013 Meeting has been rescheduled to&amp;nbsp;July.&lt;/p&gt;
+</summary></entry><entry><title>April 17, 2013—No Meeting</title><link href="http://nwcpp.org/april-2013.html" rel="alternate"></link><published>2013-04-08T00:00:00-07:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-08:april-2013.html</id><summary type="html">&lt;p&gt;The April 2013 Meeting has been rescheduled to&amp;nbsp;July.&lt;/p&gt;
 &lt;p&gt;The speaker is unavailable, board members are not available to record talks,
 and we had no pizza&amp;nbsp;provider.&lt;/p&gt;
-</summary></entry><entry><title>March 20, 2013—Profile Guided Optimization—Ankit Asthana</title><link href="http://nwcpp.org/march-2013.html" rel="alternate"></link><updated>2013-03-02T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-03-02:march-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>March 20, 2013—Profile Guided Optimization—Ankit Asthana</title><link href="http://nwcpp.org/march-2013.html" rel="alternate"></link><published>2013-03-02T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-03-02:march-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -381,7 +381,7 @@ which sold over a few thousand&amp;nbsp;copies.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=zEsdBcu4R00"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2013/ProfileGuidedOptimizationMarch21st.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 20, 2013—Component Programming in D—Walter Bright</title><link href="http://nwcpp.org/february-2013.html" rel="alternate"></link><updated>2013-01-27T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-27:february-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>February 20, 2013—Component Programming in D—Walter Bright</title><link href="http://nwcpp.org/february-2013.html" rel="alternate"></link><published>2013-01-27T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-27:february-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -439,7 +439,7 @@ which is still popular today over 30 years after its&amp;nbsp;debut.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=0cX1f41Fnkc"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2013/ComponentProgrammingInD.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><updated>2013-01-03T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:january-2013.html</id><summary type="html">&lt;p&gt;Please &lt;a class="reference external" href="http://nwcpp.org/camera-donations.html"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><published>2013-01-03T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:january-2013.html</id><summary type="html">&lt;p&gt;Please &lt;a class="reference external" href="http://nwcpp.org/camera-donations.html"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
