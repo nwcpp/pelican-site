@@ -26,7 +26,7 @@ Gabriel Dos Reis is a Principal Software Engineer at Microsoft, with interests i
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://www.youtube.com/watch?v=mbhAQIZuI5k&feature=em-upload_owner#action=share>`_ 
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
