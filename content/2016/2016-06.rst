@@ -1,4 +1,4 @@
-June 18th 2016: The LIQUi Simulator
+June 15th 2016: The LIQUiD Simulator
 ##############################################################################
 
 :date: 2016-05-20
@@ -18,12 +18,11 @@ Time and Location
 
 Abstract
 ~~~~~~~~
-LIQUi provides a modular software architecture for the simulation of quantum algorithms. It provides a high level interface and is independent of a specific quantum architecture. Recently we’ve released LIQUi|> to the public for academic use. It is a free package that runs on Windows, Linux and OSX as a provided executable with built-in examples and sample scripts as well as a development environment (using Visual Studio or mono, also freely available) that allows the user to compile their own quantum algorithms into an executable. The package includes a 100 page User’s Manual as well as over 700 pages of API documentation. This talk will cover the basics of Quantum Computing as well as an overview of the simulator and its applications. See: http://StationQ.github.io/Liquid if you’d like to “kick the tires” beforehand.
+LIQUiD provides a modular software architecture for the simulation of quantum algorithms. It provides a high level interface and is independent of a specific quantum architecture. Recently we’ve released LIQUiD to the public for academic use. It is a free package that runs on Windows, Linux and OSX as a provided executable with built-in examples and sample scripts as well as a development environment (using Visual Studio or mono, also freely available) that allows the user to compile their own quantum algorithms into an executable. The package includes a 100 page User’s Manual as well as over 700 pages of API documentation. This talk will cover the basics of Quantum Computing as well as an overview of the simulator and its applications. See: http://StationQ.github.io/Liquid if you’d like to “kick the tires” beforehand.
 
 Bio
 ~~~
-Dave Wecker – Architect, Quantum Architectures and Compilation (QuArC), Microsoft Research
-Dave came to Microsoft in 1995 and helped create the "Blender" (digital video post-production facility). He designed and worked on a Broadband MSN offering when he became architect for the Handheld PC v1 & v2 as well as AutoPC v1 and Pocket PC v1. He moved to Intelligent Interface Technology and resurrected SHRDLU for Natural Language research as well as building a state of the art Neural Network based Speech Recognition system. For the Mobile Devices Division he implemented secure DRM on e-books and Pocket PCs. He created and was director of ePeriodicals before taking on the role of Architect for Emerging Technologies. This lead to starting the Machine Learning Incubation Team and then architect for Parallel Computing Technology Strategy working on Big Data and now Quantum Computing. He has over 20 patents for Microsoft and 9 Ship-It awards. He started coding professionally in 1973, worked in the AI labs at CMU while obtaining a BSEE and MSIA and was at DEC for 13 years (ask him about DIDDLY sometime ;).
+Martin Rotteler of Microsoft Research, More Coming Soon!
 
 Resources
 ~~~~~~~~~
