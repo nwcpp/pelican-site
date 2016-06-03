@@ -22,7 +22,9 @@ LIQUiD provides a modular software architecture for the simulation of quantum al
 
 Bio
 ~~~
-Martin Rotteler of Microsoft Research, More Coming Soon!
+Martin Rotteler of Microsoft Research, Martin Roetteler received a Ph.D. in computer science from the University of Karlsruhe, Germany, in 2001. Subsequently, from 2003-2004 he held a post-doc position at the Institute for Quantum Computing from at U Waterloo. From 2005 on, he was a Research Staff Member with NEC Laboratories America. From 2007-2013 he was the leader of NEC's Quantum IT group in Princeton.  In 2013, Martin joined Microsoft Research in Redmond as a Senior Researcher.  He worked on projects funded by ARO, NSA, the European Union, the German DFG, and he was the PI of the IARPA QCS project TORQUE, a joint effort between Raytheon/BBN Technologies, NEC Labs America, U Waterloo, and U Melbourne. Martin's research focuses on quantum algorithms, quantum programming languages, and quantum error-correction.
+
+Personal website: http://research.microsoft.com/en-us/people/martinro/
 
 Resources
 ~~~~~~~~~
