@@ -28,7 +28,8 @@ Personal website: http://research.microsoft.com/en-us/people/martinro/
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://www.youtube.com/watch?v=_iDDtj6UhO0>`_ |
+`Slides </talks/2016/QuantumLiquid.pdf>`_
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
