@@ -1,0 +1,16 @@
+September 2016: CppCon
+######################
+
+:date: 2016-09-09
+:slug: Sep-2016
+:author: Rohit Patnaik
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+TBD
+
+Abstract
+~~~~~~~~
+
+The Northwest C++ Users Group will be having a special September meeting at CPPCon! Watch this space for further details.
+
