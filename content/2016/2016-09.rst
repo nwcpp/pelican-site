@@ -12,5 +12,9 @@ TBD
 Abstract
 ~~~~~~~~
 
-The Northwest C++ Users Group will be having a special September meeting at CPPCon! Watch this space for further details.
+The Northwest C++ Users Group will be hosting three panels at CPPCon! 
+
+* Monday 09/19/2016: How to work with universities to get more C++ courses and improve C++ education
+* Tuesday 09/20/2016: Writing Secure C++
+* Wednesday 09/21/2016: The Future of C++
 
