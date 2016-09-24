@@ -1,0 +1,40 @@
+October 19th 2016: Productive Parallel Programming At Scale
+##############################################################################
+
+:date: 2016-09-24
+:slug: October-2016
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| October 19th, 2016 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+Abstract
+~~~~~~~~
+Chapel is a portable, open-source language for parallel programming on laptops, clusters, clouds, and supercomputers.  Chapel strives to be as programmable as Python, as fast as Fortran, as portable as C, and as scalable as MPI.  In this talk, I'll provide some motivation for Chapel and then give a brief tour of its core features.  I'll wrap up by providing some project status and priorities for the future. 
+
+Bio
+~~~
+Bradford Chamberlain is a Principal Engineer at Cray Inc. where he works on parallel programming models, focusing primarily on the design and implementation of the Chapel language in his role as technical lead for that project.  Brad received his Ph.D. in Computer Science & Engineering from the University of Washington in 2001 where he focused on the design and implementation of the ZPL parallel array language.  In the past, he has also worked on languages for embedded reconfigurable processors and on algorithms for accelerating the rendering of complex 3D scenes.  Brad remains associated with the University of Washington as an affiliate faculty member.  He received his Bachelor's degree in Computer Science with honors from Stanford University in 1992. 
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
