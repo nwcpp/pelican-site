@@ -18,4 +18,9 @@ The Northwest C++ Users Group will be hosting three panels at CPPCon!
 * Monday 09/19/2016 - Evening: Grill The Committee/The Future of C++
 * Wednesday 09/21/2016 8:30pm: Writing Secure C++
 
+Conference Resources
+~~~~~~~~~~~~~~~~~~~~
+`Video <https://www.youtube.com/user/CppCon>`_ |
+`Slides <https://github.com/CppCon/CppCon2016>`_
+
 
