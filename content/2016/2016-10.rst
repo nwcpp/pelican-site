@@ -24,7 +24,8 @@ Bradford Chamberlain is a Principal Engineer at Cray Inc. where he works on para
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://www.youtube.com/attribution_link?a=71Nzrm4nIG8&u=/watch%3Fv%3D-AYSCE6crwU%26feature%3Dem-upload_owner>`_ |
+`Slides </talks/2016/ChapelForNWCPP2016.pdf>`_
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
