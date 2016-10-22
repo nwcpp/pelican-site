@@ -1,0 +1,53 @@
+November 16th 2016: Memory Safety and the D Programming Language
+##############################################################################
+
+:date: 2016-11-22
+:slug: November-2016
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| November 16th, 2016 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+Abstract
+~~~~~~~~
+While memory safe code can be written in any language, it 
+has become increasingly obvious that languages need to be
+able to mechanically check memory safety. Errors in memory
+safety are regularly exploited to breach security, and
+is all too commonplace in code that was thought to be secure.
+Relying on best practices and code reviews simply isn't good enough
+anymore.
+
+This presentation is about D's approach to mechanically checking
+for memory safety in a language with pointers. 
+
+Bio
+~~~
+Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several
+other languages. He's an expert in all areas of compiler technology, including front ends, optimizers, code generation,
+interpreter engines and runtime libraries. Walter regularly writes articles about compilers and programming, is known for
+engaging and informative presentations, and provides training in compiler development techniques. Many are surprised to
+discover that Walter is also the creator of the wargame Empire, which is still popular today over 30 years after its debut.  
+
+Resources
+~~~~~~~~~
+Coming Soon....
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+For over 50 years, Kforce has operated as a customer-centric partner offering a variety of engagement options to address the unique needs of our clients. We focus on engineering business solutions and user experience for clients ranging from start-up to enterprise level. As the 5th largest technology staffing and solutions firm, Kforce provides over 12,000 dedicated technology consultants annually. Our portfolio highlights successful partnerships with more than 1,000 customers, including 70% of the Fortune 100.
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
