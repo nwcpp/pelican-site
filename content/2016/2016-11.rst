@@ -37,7 +37,9 @@ discover that Walter is also the creator of the wargame Empire, which is still p
 
 Resources
 ~~~~~~~~~
-Coming Soon....
+Video -Sorry Folks the audio for this presentation dropped out at 18 minutes in. We'll get that fixed!
+
+`Slides </talks/2016/MemorySafetyAndD.pdf>`_
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
