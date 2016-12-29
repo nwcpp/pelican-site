@@ -9,8 +9,10 @@ January 18th 2017: Debugging Intermittent Issues
 Time and Location
 ~~~~~~~~~~~~~~~~~
 
+NOTE: We are in Building 34, room 1001 this month. This is NOT our normal meeting room!!!
+
 | January 18th, 2017 at 7:00 PM
-| Palouse Room, `Building 34 Room 1001 <{filename}/locations/steptoe.rst>`_,
+| Palouse Room, `Building 34 Room 1001 <http://nwcpp.org/images/MicrosoftMainCampusMap.jpg>`_,
 | Microsoft Campus,
 | 156th Ave NE,
 | Redmond, WA 98052.
@@ -43,3 +45,5 @@ Digital Media Links
 * Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
 * Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
 * Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
+
