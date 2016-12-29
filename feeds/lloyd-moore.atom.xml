@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-12-29T00:00:00-08:00</updated><entry><title>January 18th 2017: Debugging Intermittent Issues</title><link href="http://nwcpp.org/january-2017.html" rel="alternate"></link><published>2017-12-29T00:00:00-08:00</published><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-12-29:january-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: We are in Building 34, room 1001 this month. This is &lt;span class="caps"&gt;NOT&lt;/span&gt; our normal meeting&amp;nbsp;room!!!&lt;/p&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 18th, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Palouse Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Building 34 Room 1001&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Palouse Room, &lt;a class="reference external" href="http://nwcpp.org/images/MicrosoftMainCampusMap.jpg"&gt;Building 34 Room 1001&lt;/a&gt;,&lt;/div&gt;
 &lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
 &lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
 &lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
