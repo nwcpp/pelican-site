@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><atom:link href="http://nwcpp.org/feeds/lloyd-moore.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 22 Nov 2016 00:00:00 -0800</lastBuildDate><item><title>November 16th 2016: Memory Safety and the D Programming Language</title><link>http://nwcpp.org/November-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+<rss version="2.0"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Fri, 29 Dec 2017 00:00:00 -0800</lastBuildDate><item><title>January 18th 2017: Debugging Intermittent Issues</title><link>http://nwcpp.org/january-2017.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 18th, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Palouse Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Building 34 Room 1001&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Debugging intermittent issues present a unique set of challenges and requirements to the developer. Of particular interest is question “did this fix actually solve the problem, or am I just getting lucky today?” This talk will show you how to determine, with some level of confidence, if the issue is really solved or just not showing up. In addition issues which only show up rarely have a habit of accumulating until some issue seems to be happening all the time. Techniques for untangling the interaction of multiple issues will be&amp;nbsp;discussed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the robotics, machine vision and industrial automation fields. Lloyd has worked in software industry for 25 years. His formal training in biological-based artificial intelligence, electronics, and psychology. Lloyd is also currently the president of the Northwest C++ User&amp;#8217;s Group and an organizer of the Seattle Robotics Society Robothon&amp;nbsp;event.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 29 Dec 2017 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2017-12-29:january-2017.html</guid></item><item><title>November 16th 2016: Memory Safety and the D Programming Language</title><link>http://nwcpp.org/November-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 16th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -48,7 +85,7 @@ discover that Walter is also the creator of the wargame Empire, which is still p
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Tue, 22 Nov 2016 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2016-11-22:November-2016.html</guid></item><item><title>October 19th 2016: Productive Parallel Programming At Scale</title><link>http://nwcpp.org/October-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Tue, 22 Nov 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-11-22:November-2016.html</guid></item><item><title>October 19th 2016: Productive Parallel Programming At Scale</title><link>http://nwcpp.org/October-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 19th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -88,7 +125,7 @@ discover that Walter is also the creator of the wargame Empire, which is still p
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sat, 24 Sep 2016 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2016-09-24:October-2016.html</guid></item><item><title>June 15th 2016: The LIQUiD Simulator</title><link>http://nwcpp.org/June-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sat, 24 Sep 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-09-24:October-2016.html</guid></item><item><title>June 15th 2016: The LIQUiD Simulator</title><link>http://nwcpp.org/June-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;June 15th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -127,7 +164,7 @@ discover that Walter is also the creator of the wargame Empire, which is still p
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 20 May 2016 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2016-05-20:June-2016.html</guid></item><item><title>May 18th 2016: C++ Modules - Spring Update</title><link>http://nwcpp.org/May-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 20 May 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-05-20:June-2016.html</guid></item><item><title>May 18th 2016: C++ Modules - Spring Update</title><link>http://nwcpp.org/May-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 18th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -166,7 +203,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sun, 01 May 2016 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2016-05-01:May-2016.html</guid></item><item><title>April 20th 2016: Untangling Threads</title><link>http://nwcpp.org/April-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sun, 01 May 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-05-01:May-2016.html</guid></item><item><title>April 20th 2016: Untangling Threads</title><link>http://nwcpp.org/April-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;April 20th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -205,7 +242,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 01 Apr 2016 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2016-04-01:April-2016.html</guid></item><item><title>February 17th 2016: C++ 2D Graphics Standardization</title><link>http://nwcpp.org/february-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 01 Apr 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-04-01:April-2016.html</guid></item><item><title>February 17th 2016: C++ 2D Graphics Standardization</title><link>http://nwcpp.org/february-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 17th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -244,7 +281,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sat, 30 Jan 2016 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2016-01-30:february-2016.html</guid></item><item><title>November 18th 2015: STL Algorithms</title><link>http://nwcpp.org/november-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sat, 30 Jan 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-01-30:february-2016.html</guid></item><item><title>November 18th 2015: STL Algorithms</title><link>http://nwcpp.org/november-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -282,7 +319,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sun, 01 Nov 2015 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2015-11-01:november-2015.html</guid></item><item><title>October 21th 2015: Qt in the Embedded World - How to create a device using Qt</title><link>http://nwcpp.org/october-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sun, 01 Nov 2015 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-11-01:november-2015.html</guid></item><item><title>October 21th 2015: Qt in the Embedded World - How to create a device using Qt</title><link>http://nwcpp.org/october-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -322,7 +359,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Wed, 07 Oct 2015 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2015-10-07:october-2015.html</guid></item><item><title>September 16th 2015: The BBC micro:bit and C++</title><link>http://nwcpp.org/september-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Wed, 07 Oct 2015 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-10-07:october-2015.html</guid></item><item><title>September 16th 2015: The BBC micro:bit and C++</title><link>http://nwcpp.org/september-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;September 16th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -361,7 +398,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 14 Aug 2015 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2015-08-14:september-2015.html</guid></item><item><title>June 17th 2015: Porting Emacs via Native Client</title><link>http://nwcpp.org/june-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 14 Aug 2015 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-08-14:september-2015.html</guid></item><item><title>June 17th 2015: Porting Emacs via Native Client</title><link>http://nwcpp.org/june-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;June 17th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -403,7 +440,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Mon, 25 May 2015 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2015-05-25:june-2015.html</guid></item><item><title>May 20th 2015: STL Concepts and Ranges</title><link>http://nwcpp.org/may-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Mon, 25 May 2015 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-05-25:june-2015.html</guid></item><item><title>May 20th 2015: STL Concepts and Ranges</title><link>http://nwcpp.org/may-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 20th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -443,7 +480,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Thu, 23 Apr 2015 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2015-04-23:may-2015.html</guid></item><item><title>Feburary 18, 2015—The STM32 Microcontroller</title><link>http://nwcpp.org/february-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Thu, 23 Apr 2015 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-04-23:may-2015.html</guid></item><item><title>Feburary 18, 2015—The STM32 Microcontroller</title><link>http://nwcpp.org/february-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -470,7 +507,7 @@ Ken has been with STMicro for 2 years. He has been in sales and marking in the &
 &lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ekwyr5pW2xE"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2015/STMicro_Presentation.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Mon, 02 Feb 2015 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2015-02-02:february-2015.html</guid></item><item><title>January 21, 2015—Interfacing D To Legacy C++ Code—Walter Bright</title><link>http://nwcpp.org/january-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Mon, 02 Feb 2015 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-02-02:february-2015.html</guid></item><item><title>January 21, 2015—Interfacing D To Legacy C++ Code—Walter Bright</title><link>http://nwcpp.org/january-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -529,7 +566,7 @@ Phone: 425-298-1392      | Mobile: 763-227-0247  | Fax: 973-292-2838 |
 &lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=IkwaV6k6BmM"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2015/DInterfacing.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sat, 24 Jan 2015 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2015-01-24:january-2015.html</guid></item><item><title>CppCon, September 7–12, Bellevue, WA</title><link>http://nwcpp.org/cppcon-2014.html</link><description>&lt;p&gt;CppCon is a local C++ Conference (Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;) happening on September 7–12, 2014.
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Sat, 24 Jan 2015 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-01-24:january-2015.html</guid></item><item><title>CppCon, September 7–12, Bellevue, WA</title><link>http://nwcpp.org/cppcon-2014.html</link><description>&lt;p&gt;CppCon is a local C++ Conference (Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;) happening on September 7–12, 2014.
 Full details on the conference can be found at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The conference will also be hosting several &lt;span class="caps"&gt;FREE&lt;/span&gt; sessions.
 From 8:00 &lt;span class="caps"&gt;AM&lt;/span&gt; to 8:45 &lt;span class="caps"&gt;AM&lt;/span&gt; there will be several rooms holding various sessions
@@ -545,7 +582,7 @@ please get in touch with Brett Searles at
 to let him know that you are&amp;nbsp;interested!!&lt;/p&gt;
 &lt;p&gt;Again, full details on the conference are available at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;;
 please feel free to attend in which ever capacity suits&amp;nbsp;you!!!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 08 Aug 2014 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2014-08-08:cppcon-2014.html</guid></item><item><title>Donate towards better video recordings</title><link>http://nwcpp.org/camera-donations.html</link><description>&lt;style&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Fri, 08 Aug 2014 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2014-08-08:cppcon-2014.html</guid></item><item><title>Donate towards better video recordings</title><link>http://nwcpp.org/camera-donations.html</link><description>&lt;style&gt;
 .left-float  {float: left}
 .right-float {float: right; padding-left: 5em; }
 &lt;/style&gt;&lt;div class="figure"&gt;
@@ -590,4 +627,4 @@ are tax-deductible to the extent permitted by law.
 Our tax identification number is &lt;strong&gt;91-1718733&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Thank you very much for your continued support of the Northwest C++ Users&amp;#8217; Group
 and we look forward to bringing you another year of interesting and engaging&amp;nbsp;speakers!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Mon, 10 Dec 2012 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2012-12-10:camera-donations.html</guid></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Mon, 10 Dec 2012 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2012-12-10:camera-donations.html</guid></item></channel></rss>
