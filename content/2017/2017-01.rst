@@ -29,7 +29,8 @@ Lloyd Moore is the founder and owner of CyberData Corporation, which provides co
 
 Resources
 ~~~~~~~~~
-Coming soon!
+`Video <https://youtu.be/7weo84Er9tQ>`_ |
+`Slides </talks/2017/IntermittentDebugging.pptx>`_
 
 
 A Word From Our Sponsor
