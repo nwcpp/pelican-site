@@ -1,0 +1,49 @@
+February 15th 2017: C++ Move constructors again now that we can use them
+##############################################################################
+
+:date: 2017-1-22
+:slug: february-2017
+:author: Lloyd Moore
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+NOTE: We are in Building 37, room 1717 this month. This is NOT our normal meeting room!!!
+
+| February 15th, 2017 at 7:00 PM
+| Room 1717, `Building 37 Room 1717 <http://nwcpp.org/images/MicrosoftMainCampusMap.jpg>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+Back in 2008 or so we got our first introduction to move constructors that were coming with the C++0X standard.  However, our compilers didn't support it yet.  Then later when our compilers did support it, we weren't allowed to use the "new-fangled" features yet.  Now that C++11 is in mainstream, let's take another look at move constructors.  Why would you use them, when would you use them, how would you use them, and how do they actually work under the hood?  What is this '&&' thing which does not mean logical and?
+
+
+Bio
+~~~
+Pete has worked as a programmer for over 25 years at Boeing, Microsoft, Amazon, Google, and other places.  He has been attending NWCPP off and on for a lot of that time.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Coming Soon!
+ 
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
+
