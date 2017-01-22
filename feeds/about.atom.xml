@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/about.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-01-01T00:00:00-08:00</updated><entry><title>Welcome to the Northwest C++ Users’ Group</title><link href="http://nwcpp.org/about.html" rel="alternate"></link><updated>2013-01-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-01:about.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users&amp;#8217; Group (&lt;span class="caps"&gt;NWCPP&lt;/span&gt;) is a group of professional developers and hobbyists
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/about.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-01-01T00:00:00-08:00</updated><entry><title>Welcome to the Northwest C++ Users’ Group</title><link href="http://nwcpp.org/about.html" rel="alternate"></link><published>2013-01-01T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-01:about.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users&amp;#8217; Group (&lt;span class="caps"&gt;NWCPP&lt;/span&gt;) is a group of professional developers and hobbyists
 living and working in the Pacific Northwest
 who meet monthly to discuss trends, techniques, and technology
 regarding the C++ language and industry.
@@ -67,7 +67,7 @@ Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsor
 &lt;p&gt;Please use our &lt;a class="reference external" href="http://nwcpp.org/contact.html"&gt;contact form&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>NWCPP Sponsors</title><link href="http://nwcpp.org/sponsors.html" rel="alternate"></link><updated>2012-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-12-31:sponsors.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; thanks the following organizations for their&amp;nbsp;sponsorship.&lt;/p&gt;
+</summary></entry><entry><title>NWCPP Sponsors</title><link href="http://nwcpp.org/sponsors.html" rel="alternate"></link><published>2012-12-31T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-12-31:sponsors.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; thanks the following organizations for their&amp;nbsp;sponsorship.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.microsoft.com/"&gt;Microsoft&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad&amp;nbsp;Technologies&lt;/a&gt;&lt;/li&gt;
@@ -78,7 +78,7 @@ Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsor
 &lt;h2&gt;Sponsoring &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;Want to sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;? Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;how&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Contact NWCPP</title><link href="http://nwcpp.org/contact.html" rel="alternate"></link><updated>2012-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-06-01:contact.html</id><summary type="html">&lt;p&gt;If you need to contact the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; board and the
+</summary></entry><entry><title>Contact NWCPP</title><link href="http://nwcpp.org/contact.html" rel="alternate"></link><published>2012-06-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-06-01:contact.html</id><summary type="html">&lt;p&gt;If you need to contact the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; board and the
 &lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;social media channels&lt;/a&gt; aren&amp;#8217;t enough,
 use this form to email&amp;nbsp;us.&lt;/p&gt;
 &lt;!-- :ref:`social-media` aren't enough, --&gt;
@@ -86,7 +86,7 @@ use this form to email&amp;nbsp;us.&lt;/p&gt;
 &lt;iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHlUZmZGbFFhMjd6a0M0NGh1WGtQanc6MQ"
         width="760" height="891" frameborder="0" marginheight="0" marginwidth="0"&gt;
     Loading&amp;#8230;
-&lt;/iframe&gt;</summary></entry><entry><title>How to Sponsor NWCPP</title><link href="http://nwcpp.org/sponsors-howto.html" rel="alternate"></link><updated>2011-06-13T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-13:sponsors-howto.html</id><summary type="html">&lt;p&gt;Several companies have chosen to sponsor our monthly meetings.
+&lt;/iframe&gt;</summary></entry><entry><title>How to Sponsor NWCPP</title><link href="http://nwcpp.org/sponsors-howto.html" rel="alternate"></link><published>2011-06-13T00:00:00-07:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-13:sponsors-howto.html</id><summary type="html">&lt;p&gt;Several companies have chosen to sponsor our monthly meetings.
 Often these companies supply free pizza for the meeting.
 Other companies may choose to give away&amp;nbsp;products.&lt;/p&gt;
 &lt;p&gt;If you sponsor us, we will add a brief mention on the front page which

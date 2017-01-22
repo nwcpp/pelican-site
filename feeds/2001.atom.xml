@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2001.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2001-12-31T00:00:00-08:00</updated><entry><title>2001</title><link href="http://nwcpp.org/2001-summary.html" rel="alternate"></link><updated>2001-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2001-12-31:2001-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2001.html"&gt;January 8th–9th, 2001 — Microsoft&amp;#8217;s .&lt;span class="caps"&gt;NET&lt;/span&gt; Initiative — Jeffrey&amp;nbsp;Richter&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2001.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2001-12-31T00:00:00-08:00</updated><entry><title>2001</title><link href="http://nwcpp.org/2001-summary.html" rel="alternate"></link><published>2001-12-31T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2001-12-31:2001-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2001.html"&gt;January 8th–9th, 2001 — Microsoft&amp;#8217;s .&lt;span class="caps"&gt;NET&lt;/span&gt; Initiative — Jeffrey&amp;nbsp;Richter&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2001.html"&gt;February 15th, 2001 — Volatile - Multithreaded Programmer&amp;#8217;s Best Friend — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2001.html"&gt;March 14th, 2001 — &lt;span class="caps"&gt;XML&lt;/span&gt; and C++ — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2001.html"&gt;April 11th, 2001 — &lt;span class="caps"&gt;CPP&lt;/span&gt;-Unit Testing Framework — Troy&amp;nbsp;Frever&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +11,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2001.html"&gt;October 8th, 2001 — Inside the .&lt;span class="caps"&gt;NET&lt;/span&gt; Framework — Paul Johns, aka &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s &amp;quot;Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;quot;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2001.html"&gt;November 14th, 2001 — &lt;span class="caps"&gt;JNI&lt;/span&gt;: How to use Java and C++ together — Christian&amp;nbsp;Harlass&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2001.html"&gt;December 12th, 2001 — A C++ Programmer&amp;#8217;s Introduction to C# — Mike&amp;nbsp;Moskowitz&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>December 12th, 2001 — A C++ Programmer’s Introduction to C# — Mike Moskowitz</title><link href="http://nwcpp.org/december-2001.html" rel="alternate"></link><updated>2001-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-12-01:december-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>December 12th, 2001 — A C++ Programmer’s Introduction to C# — Mike Moskowitz</title><link href="http://nwcpp.org/december-2001.html" rel="alternate"></link><published>2001-12-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-12-01:december-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -19,7 +19,7 @@
 &lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>November 14th, 2001 — JNI: How to use Java and C++ together — Christian Harlass</title><link href="http://nwcpp.org/november-2001.html" rel="alternate"></link><updated>2001-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-11-01:november-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>November 14th, 2001 — JNI: How to use Java and C++ together — Christian Harlass</title><link href="http://nwcpp.org/november-2001.html" rel="alternate"></link><published>2001-11-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-11-01:november-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -35,7 +35,7 @@ and project manager in a Unix, Mac and Windows environment. The idea for
 this presentation comes from his project experiences with creating a
 portable application with a Java &lt;span class="caps"&gt;GUI&lt;/span&gt; and a C++&amp;nbsp;core.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s "Dr. GUI"</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><updated>2001-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s "Dr. GUI"</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><published>2001-10-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Overlake Hospital Educational Conference Center&lt;/div&gt;
@@ -62,7 +62,7 @@ more-or-less monthly .&lt;span class="caps"&gt;NET&lt;/span&gt; column called Dr
 DevSIG (Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt;) &amp;#8212; formerly known as WinSIG (Window&amp;#8217;s
 Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt;).&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 2001: No Meeting</title><link href="http://nwcpp.org/september-2001.html" rel="alternate"></link><updated>2001-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-09-01:september-2001.html</id><summary type="html"></summary></entry><entry><title>August 2001: No Meeting</title><link href="http://nwcpp.org/august-2001.html" rel="alternate"></link><updated>2001-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-08-01:august-2001.html</id><summary type="html"></summary></entry><entry><title>July 2001: No Meeting</title><link href="http://nwcpp.org/july-2001.html" rel="alternate"></link><updated>2001-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-07-01:july-2001.html</id><summary type="html"></summary></entry><entry><title>June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei Alexandrescu</title><link href="http://nwcpp.org/june-2001.html" rel="alternate"></link><updated>2001-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-06-01:june-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>September 2001: No Meeting</title><link href="http://nwcpp.org/september-2001.html" rel="alternate"></link><published>2001-09-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-09-01:september-2001.html</id><summary type="html"></summary></entry><entry><title>August 2001: No Meeting</title><link href="http://nwcpp.org/august-2001.html" rel="alternate"></link><published>2001-08-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-08-01:august-2001.html</id><summary type="html"></summary></entry><entry><title>July 2001: No Meeting</title><link href="http://nwcpp.org/july-2001.html" rel="alternate"></link><published>2001-07-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-07-01:july-2001.html</id><summary type="html"></summary></entry><entry><title>June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei Alexandrescu</title><link href="http://nwcpp.org/june-2001.html" rel="alternate"></link><published>2001-06-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-06-01:june-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -93,7 +93,7 @@ may be contacted at &lt;a class="reference external" href="mailto:andrei&amp;#64
 for C/C++ Users Journal and one of the featured instructors of
 &lt;a class="reference external" href="http://www.gotw.ca/cpp_seminar"&gt;The C++ Seminar&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 7th, 2001 — Effective STL Sneak Preview — Scott Meyers</title><link href="http://nwcpp.org/may-2001.html" rel="alternate"></link><updated>2001-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-05-01:may-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>May 7th, 2001 — Effective STL Sneak Preview — Scott Meyers</title><link href="http://nwcpp.org/may-2001.html" rel="alternate"></link><published>2001-05-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-05-01:may-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Overlake Hospital Conference Center&lt;/div&gt;
@@ -122,7 +122,7 @@ book and urges everyone to buy their usual minimum of three copies: one
 for the office, one for home, and one for each of your cars (for when
 you&amp;#8217;re stuck in&amp;nbsp;traffic).&amp;quot;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 11th, 2001 — CPP-Unit Testing Framework — Troy Frever</title><link href="http://nwcpp.org/april-2001.html" rel="alternate"></link><updated>2001-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-04-01:april-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>April 11th, 2001 — CPP-Unit Testing Framework — Troy Frever</title><link href="http://nwcpp.org/april-2001.html" rel="alternate"></link><published>2001-04-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-04-01:april-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -152,7 +152,7 @@ covered by the following&amp;nbsp;sites:&lt;/p&gt;
 &lt;p&gt;Recommended book: Martin Fowler&amp;#8217;s &amp;quot;Refactoring: Improving the Design of
 Existing&amp;nbsp;Code&amp;quot;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 14th, 2001 — XML and C++ — Mike Moskowitz</title><link href="http://nwcpp.org/march-2001.html" rel="alternate"></link><updated>2001-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-03-01:march-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>March 14th, 2001 — XML and C++ — Mike Moskowitz</title><link href="http://nwcpp.org/march-2001.html" rel="alternate"></link><published>2001-03-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-03-01:march-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -165,7 +165,7 @@ Existing&amp;nbsp;Code&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Note: If you attended the &lt;span class="caps"&gt;WSA&lt;/span&gt; Developer&amp;#8217;s Seminar on &lt;span class="caps"&gt;XML&lt;/span&gt;, you know that
 Mike gave a great presentation on &lt;span class="caps"&gt;XML&lt;/span&gt;. But, he didn&amp;#8217;t talk about&amp;nbsp;C++.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 15th, 2001 — Volatile - Multithreaded Programmer’s Best Friend — Andrei Alexandrescu</title><link href="http://nwcpp.org/february-2001.html" rel="alternate"></link><updated>2001-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-02-01:february-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>February 15th, 2001 — Volatile - Multithreaded Programmer’s Best Friend — Andrei Alexandrescu</title><link href="http://nwcpp.org/february-2001.html" rel="alternate"></link><published>2001-02-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-02-01:february-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -189,7 +189,7 @@ is a former columnist of the C++ Report magazine, and a columnist of
 C/C++ Users Journal. You can reach him at
 &lt;a class="reference external" href="mailto:andrei&amp;#64;metalanguage.com"&gt;andrei&amp;#64;metalanguage.com&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 8th–9th, 2001 — Microsoft’s .NET Initiative — Jeffrey Richter</title><link href="http://nwcpp.org/january-2001.html" rel="alternate"></link><updated>2001-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-01-01:january-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>January 8th–9th, 2001 — Microsoft’s .NET Initiative — Jeffrey Richter</title><link href="http://nwcpp.org/january-2001.html" rel="alternate"></link><published>2001-01-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-01-01:january-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Overlake Hospital Conference Center&lt;/div&gt;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2004.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2004-12-31T00:00:00-08:00</updated><entry><title>2004</title><link href="http://nwcpp.org/2004-summary.html" rel="alternate"></link><updated>2004-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2004-12-31:2004-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2004.html"&gt;January 14th, 2004 — for_each — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2004.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2004-12-31T00:00:00-08:00</updated><entry><title>2004</title><link href="http://nwcpp.org/2004-summary.html" rel="alternate"></link><published>2004-12-31T00:00:00-08:00</published><author><name>George Reilly</name></author><id>tag:nwcpp.org,2004-12-31:2004-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2004.html"&gt;January 14th, 2004 — for_each — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2004.html"&gt;February 11th, 2004 — C++ Development for PocketPC, SmartPhone, and Windows &lt;span class="caps"&gt;CE&lt;/span&gt; — Nishan Jebanasam &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Rich&amp;nbsp;Hanbidge&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2004.html"&gt;March 8th, 2004 — Code Complete 2: A Decade of Advances in Software Construction — Steve&amp;nbsp;McConnell&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2004.html"&gt;April 14th, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +11,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2004.html"&gt;October 13th, 2004 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2004.html"&gt;November 10th, 2004 — &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2004.html"&gt;December 2004: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>December 2004: No Meeting</title><link href="http://nwcpp.org/december-2004.html" rel="alternate"></link><updated>2004-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-12-01:december-2004.html</id><summary type="html"></summary></entry><entry><title>November 10th, 2004 — STL/CLI — Stan Lippman</title><link href="http://nwcpp.org/november-2004.html" rel="alternate"></link><updated>2004-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-11-01:november-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>December 2004: No Meeting</title><link href="http://nwcpp.org/december-2004.html" rel="alternate"></link><published>2004-12-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-12-01:december-2004.html</id><summary type="html"></summary></entry><entry><title>November 10th, 2004 — STL/CLI — Stan Lippman</title><link href="http://nwcpp.org/november-2004.html" rel="alternate"></link><published>2004-11-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-11-01:november-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Building 43, Adams Conference Room&lt;/div&gt;
@@ -53,7 +53,7 @@ and you are welcome to attend without prior registration.
 However, we do ask that you register if you know beforehand
 that you will be attending this&amp;nbsp;meeting.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 13th, 2004 — The D Programming Language — Walter Bright</title><link href="http://nwcpp.org/october-2004.html" rel="alternate"></link><updated>2004-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-10-01:october-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 13th, 2004 — The D Programming Language — Walter Bright</title><link href="http://nwcpp.org/october-2004.html" rel="alternate"></link><published>2004-10-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-10-01:october-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
@@ -82,7 +82,7 @@ His extensive experience writing C++ compilers
 and well over a decade being on the front lines of doing C++ customer support
 is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 8th, 2004 — Achieving Source-Level Software Portability Using GNU Autoconf, Automake, Libtool, and Make — Robert P. Goddard</title><link href="http://nwcpp.org/september-2004.html" rel="alternate"></link><updated>2004-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-09-01:september-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>September 8th, 2004 — Achieving Source-Level Software Portability Using GNU Autoconf, Automake, Libtool, and Make — Robert P. Goddard</title><link href="http://nwcpp.org/september-2004.html" rel="alternate"></link><published>2004-09-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-09-01:september-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
@@ -129,7 +129,7 @@ and &lt;a class="reference external" href="http://eis.apl.washington.edu/project
 &lt;p&gt;&lt;a class="reference external" href="/talks/2004/GNU_Autotools_040908.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 11th, 2004 — "Square Table" Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2004.html" rel="alternate"></link><updated>2004-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-08-01:august-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>August 11th, 2004 — "Square Table" Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2004.html" rel="alternate"></link><published>2004-08-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-08-01:august-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -145,7 +145,7 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring money for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>July 14th, 2004 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2004.html" rel="alternate"></link><updated>2004-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-07-01:july-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>July 14th, 2004 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2004.html" rel="alternate"></link><published>2004-07-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-07-01:july-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -161,7 +161,7 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring money for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>June 9th, 2004 — Roundtable Meeting: The Virtues of Linux — Open Discussion</title><link href="http://nwcpp.org/june-2004.html" rel="alternate"></link><updated>2004-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-06-01:june-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>June 9th, 2004 — Roundtable Meeting: The Virtues of Linux — Open Discussion</title><link href="http://nwcpp.org/june-2004.html" rel="alternate"></link><published>2004-06-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-06-01:june-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -177,7 +177,7 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring money for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 12th, 2004 — Improving Testability — Dave Catlett</title><link href="http://nwcpp.org/may-2004.html" rel="alternate"></link><updated>2004-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-05-01:may-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>May 12th, 2004 — Improving Testability — Dave Catlett</title><link href="http://nwcpp.org/may-2004.html" rel="alternate"></link><published>2004-05-01T00:00:00-07:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-05-01:may-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -224,7 +224,7 @@ Go&amp;nbsp;blue!&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2004/ImprovingTestabilityNWCPP.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 14th, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott Meyers</title><link href="http://nwcpp.org/april-2004.html" rel="alternate"></link><updated>2004-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-04-01:april-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>April 14th, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott Meyers</title><link href="http://nwcpp.org/april-2004.html" rel="alternate"></link><published>2004-04-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-04-01:april-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -266,7 +266,7 @@ and a Ph.D. from Brown&amp;nbsp;University.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2004/DCLP_notes.pdf"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 8th, 2004 — Code Complete 2: A Decade of Advances in Software Construction — Steve McConnell</title><link href="http://nwcpp.org/march-2004.html" rel="alternate"></link><updated>2004-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-03-01:march-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>March 8th, 2004 — Code Complete 2: A Decade of Advances in Software Construction — Steve McConnell</title><link href="http://nwcpp.org/march-2004.html" rel="alternate"></link><published>2004-03-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-03-01:march-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.overlakehospital.org/conferencecenter/fs.htm"&gt;Overlake Hospital Conference Center&lt;/a&gt;&lt;/div&gt;
@@ -323,7 +323,7 @@ Center&lt;/strong&gt; rather than our usual Wednesday meeting at&amp;nbsp;Avaya.
 &lt;p&gt;&lt;a class="reference external" href="/talks/2004/CodeComplete-Keynote.pdf"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 11th, 2004 — C++ Development for PocketPC, SmartPhone, and Windows CE — Nishan Jebanasam &amp; Rich Hanbidge</title><link href="http://nwcpp.org/february-2004.html" rel="alternate"></link><updated>2004-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-02-01:february-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>February 11th, 2004 — C++ Development for PocketPC, SmartPhone, and Windows CE — Nishan Jebanasam &amp; Rich Hanbidge</title><link href="http://nwcpp.org/february-2004.html" rel="alternate"></link><published>2004-02-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-02-01:february-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -374,7 +374,7 @@ I’m trying to help write a kick-ass native debugger for&amp;nbsp;devices.&lt;/
 to download the slides and source code from Nishan Jebanasam&amp;#8217;s&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 14th, 2004 — for_each — Eric Niebler</title><link href="http://nwcpp.org/january-2004.html" rel="alternate"></link><updated>2004-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-01-01:january-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>January 14th, 2004 — for_each — Eric Niebler</title><link href="http://nwcpp.org/january-2004.html" rel="alternate"></link><published>2004-01-01T00:00:00-08:00</published><author><name>nwcpp</name></author><id>tag:nwcpp.org,2004-01-01:january-2004.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
