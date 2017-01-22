@@ -1,7 +1,7 @@
 January 18th 2017: Debugging Intermittent Issues
 ##############################################################################
 
-:date: 2017-12-29
+:date: 2016-12-29
 :slug: january-2017
 :author: Lloyd Moore
 

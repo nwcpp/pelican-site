@@ -1,7 +1,7 @@
 February 15th 2017: C++ Move constructors again now that we can use them
 ##############################################################################
 
-:date: 2017-1-22
+:date: 2017-02-01
 :slug: february-2017
 :author: Lloyd Moore
 
