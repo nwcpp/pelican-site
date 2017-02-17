@@ -29,7 +29,8 @@ Pete has worked as a programmer for over 25 years at Boeing, Microsoft, Amazon, 
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/KcBmR05DU7o>`_ |
+`Slides </talks/2017/CopyElisionCpp.pdf>`_
 
 
 A Word From Our Sponsor
