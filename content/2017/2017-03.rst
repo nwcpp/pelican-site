@@ -5,6 +5,10 @@ March 15th 2017: C++ Code Productivity with Visual Studio 2017
 :slug: march-2017
 :author: Lloyd Moore
 
+Job Fair
+~~~~~~~~~
+Folks we are going to try something a bit different this month. AeroTek will be available at 6:00 PM to talk to anyone looking for a job in more detail then we have done in the past. If you are looking for a job please bring a resume and show up early to get some 1:1 time with the recruiters!!!
+
 
 Time and Location
 ~~~~~~~~~~~~~~~~~
@@ -34,7 +38,8 @@ Coming Soon!!
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
-Coming Soon!!
+Aerotek is one of the largest staffing firms in the US today, and specializes in staffing for contract, contract to direct, and direct hire placements in a variety of industries and skill sets. Our local Technical Recruiting staff specializes in placing entry level to senior manager level individuals in a variety of industries including Aerospace, Medical Device, Industrial, and Consumer products with a focus on embedded engineering skill sets to include Hardware, Firmware, and Embedded Software and Test Engineering professionals from initial concept to final product release.
+We also staff for placements as Mechanical, Electrical, Manufacturing, Process, Program and Project Management, and Quality Engineering skill sets to work in manufacturing and R&D companies in the greater Seattle area.
  
 
 Digital Media Links
