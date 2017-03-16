@@ -33,7 +33,9 @@ Augustin Popa is a Program Manager on the Visual Studio C++ team. He works on th
 
 Resources
 ~~~~~~~~~
-Coming Soon!!
+`Video <https://www.youtube.com/attribution_link?a=a4lIr1F3OkNPgNfT&u=/watch%3Fv%3DKXKGlTjJ6DE%26feature%3Dem-upload_owner>`_ |
+`Slides </talks/2017/CPPVS2017.pdf>`_
+
 
 
 A Word From Our Sponsor
