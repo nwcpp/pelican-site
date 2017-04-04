@@ -5,6 +5,9 @@ April 19th 2017: The Curse of Knowledge: Humane Library Design with D
 :slug: april-2017
 :author: Lloyd Moore
 
+Job Fair
+~~~~~~~~~
+Continuing with our job fair activities Aim Consulting will be available at 6:00 PM to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering interview advice. How to prepare for an interview, how to handle the technical interview and what to do when you are not sure in an interview. Come have some dinner with us and bring your interview questions!
 
 Time and Location
 ~~~~~~~~~~~~~~~~~
@@ -27,7 +30,8 @@ Adam Wilson is a Software Engineer at Microsoft working on a large scale analyti
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+AIM Consulting combines technical expertise with an understanding of business goals to solve your toughest challenges. We know technology and can help you design for the user experience, build innovative software, leverage data for actionable insights, implement modern processes and tools, and maintain critical applications and systems.
+Our engagement model is designed with flexibility in mind for long-term partnerships. From strategy and implementation to sustained services, we provide technology consultants in custom configurations to fit your priorities and scale over the lifecycle of your solutions. 
 
 
 
