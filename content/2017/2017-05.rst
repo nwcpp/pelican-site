@@ -24,9 +24,9 @@ Abstract
 The Ranges TS is almost done. This talk introduces the latest experimental additions to the standard library, and the concepts and the design decisions behind them. We'll also explore the future directions the Standard Library is likely to take and touch on how Ranges intersect with Coroutines. The future looks very composable! This talk would interest you if you wish the STL were easier to use; or if you like generators, comprehensions, and LINQ from python and C#.
 
 
-Bio
-~~~
-Eric has been programming C++ for over 20 years (!). His first stint was at Microsoft, where he tinkered with libraries in the Visual C++ team. Then he consulted solo and with BoostPro for many years, during which time he traveled the world. He's now resting comfortably in Seattle again, having married a local sweetheart and accepting full-time work at Facebook, where he tinkers with libraries. Eric has been a long-time contributor to Boost, the C++ Standardization Committee, and NWCPP. He is the author of the popular range-v3 library, and firmly believes programming can and should be artful and fun.
+Speaker Bio
+~~~~~~~~~~~
+Eric Niebler has been programming C++ for over 20 years (!). His first stint was at Microsoft, where he tinkered with libraries in the Visual C++ team. Then he consulted solo and with BoostPro for many years, during which time he traveled the world. He's now resting comfortably in Seattle again, having married a local sweetheart and accepting full-time work at Facebook, where he tinkers with libraries. Eric has been a long-time contributor to Boost, the C++ Standardization Committee, and NWCPP. He is the author of the popular range-v3 library, and firmly believes programming can and should be artful and fun.
 
 
 A Word From Our Sponsor
