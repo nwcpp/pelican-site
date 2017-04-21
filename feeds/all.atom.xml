@@ -17,9 +17,9 @@
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The Ranges &lt;span class="caps"&gt;TS&lt;/span&gt; is almost done. This talk introduces the latest experimental additions to the standard library, and the concepts and the design decisions behind them. We&amp;#8217;ll also explore the future directions the Standard Library is likely to take and touch on how Ranges intersect with Coroutines. The future looks very composable! This talk would interest you if you wish the &lt;span class="caps"&gt;STL&lt;/span&gt; were easier to use; or if you like generators, comprehensions, and &lt;span class="caps"&gt;LINQ&lt;/span&gt; from python and&amp;nbsp;C#.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="bio"&gt;
-&lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Eric has been programming C++ for over 20 years (!). His first stint was at Microsoft, where he tinkered with libraries in the Visual C++ team. Then he consulted solo and with BoostPro for many years, during which time he traveled the world. He&amp;#8217;s now resting comfortably in Seattle again, having married a local sweetheart and accepting full-time work at Facebook, where he tinkers with libraries. Eric has been a long-time contributor to Boost, the C++ Standardization Committee, and &lt;span class="caps"&gt;NWCPP&lt;/span&gt;. He is the author of the popular range-v3 library, and firmly believes programming can and should be artful and&amp;nbsp;fun.&lt;/p&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Eric Niebler has been programming C++ for over 20 years (!). His first stint was at Microsoft, where he tinkered with libraries in the Visual C++ team. Then he consulted solo and with BoostPro for many years, during which time he traveled the world. He&amp;#8217;s now resting comfortably in Seattle again, having married a local sweetheart and accepting full-time work at Facebook, where he tinkers with libraries. Eric has been a long-time contributor to Boost, the C++ Standardization Committee, and &lt;span class="caps"&gt;NWCPP&lt;/span&gt;. He is the author of the popular range-v3 library, and firmly believes programming can and should be artful and&amp;nbsp;fun.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
