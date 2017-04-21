@@ -1,0 +1,52 @@
+May 17th 2017: Concepts of the Upcoming Ranges TS
+##############################################################################
+
+:date: 2017-04-21
+:slug: may-2017
+:author: Lloyd Moore
+
+Job Fair
+~~~~~~~~~
+Continuing with our job fair activities Mainz Bradley Group will be available at 6:00 PM to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering tips on how to improve your resume. Come have some dinner with us and bring your resume along for a once over!
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| May 17th, 2017 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+The Ranges TS is almost done. This talk introduces the latest experimental additions to the standard library, and the concepts and the design decisions behind them. We'll also explore the future directions the Standard Library is likely to take and touch on how Ranges intersect with Coroutines. The future looks very composable! This talk would interest you if you wish the STL were easier to use; or if you like generators, comprehensions, and LINQ from python and C#.
+
+
+Bio
+~~~
+Eric has been programming C++ for over 20 years (!). His first stint was at Microsoft, where he tinkered with libraries in the Visual C++ team. Then he consulted solo and with BoostPro for many years, during which time he traveled the world. He's now resting comfortably in Seattle again, having married a local sweetheart and accepting full-time work at Facebook, where he tinkers with libraries. Eric has been a long-time contributor to Boost, the C++ Standardization Committee, and NWCPP. He is the author of the popular range-v3 library, and firmly believes programming can and should be artful and fun.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Mainz Brady Group is a privately held staffing firm originally based in California; with offices in San Mateo, Oakland, Portland, and Seattle. It was founded in 2003 by Richard Mainz and Eric Brady; both have over 25 years of technical staffing experience and have held executive level positions within large, international staffing organizations.
+
+MBG was created because we believed there was a better way of recruiting: one in which the needs of our clients and candidates come first. Our relationship-based approach focuses on both clients and candidates and their unique and individual needs. We want to positively impact the people and businesses of the technology communities we support.
+
+Mainz Brady Group is a technology focused recruiting firm, and is recognized as a leader in providing comprehensive employment and staffing solutions to the best known companies; in finance, retail, research & development, sports equipment, healthcare, biotechnology, gaming, and telecommunications.
+ 
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
