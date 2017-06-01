@@ -1,0 +1,45 @@
+June 21 2017: Understanding Compiler Optimization
+##############################################################################
+
+:date: 2017-05-31
+:slug: june-2017
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| June 21, 2017 at 7:00 PM
+| Steptoe Room, `Cafeteria 40 <{filename}/locations/steptoe.rst>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+C++ is used in applications where resources are constrained and performance is critical. However, its power in this domain comes from the ability to build large, complex systems in C++. These systems leverage numerous C++ features in order to build and utilize abstractions that make reasoning about these complex systems possible. Abstractions are the very essence of how we scale software to solve ever larger and more complex problems.
+
+But the common C++ idea of "zero cost" abstractions is, in some senses, a myth. The real achievement of C++ is allowing you, the programmer, to control where and how the cost of your abstractions will be paid. It does this by leveraging remarkably advanced optimizing compilers and carefully written libraries and techniques, all working together to control the cost. In order to be effective writing software that leverages this control, it is essential that the programmer understand the core fundamentals of how the compiler optimizations will behave. Without this, it is too easy to unknowingly limit it or create challenges that it cannot overcome.
+
+Speaker Bio
+~~~~~~~~~~~
+Chandler Carruth leads the C++ language team and LLVM team at Google. He is also an active contributor to the LLVM and Clang open source projects, and speaks at various C++ events where he tries to help spread knowledge about C++, compilers, tools, and optimization. Previously, he worked on several components of Google’s distributed build system. He received his M.S. and B.S. in Computer Science from Wake Forest University, but disavows all knowledge of the contents of his Master’s thesis. He can usually found coding with the aid of Cherry Coke Zero in the daytime and pontificating over a single malt scotch in the evening.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Coming Soon!
+ 
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
