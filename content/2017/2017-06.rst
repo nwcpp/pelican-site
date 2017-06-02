@@ -28,7 +28,7 @@ Chandler Carruth leads the C++ language team and LLVM team at Google. He is also
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
-Coming Soon!
+For over 50 years, Kforce has operated as a customer-centric partner offering a variety of engagement options to address the unique needs of our clients. We focus on engineering business solutions and user experience for clients ranging from start-up to enterprise level. As the 5th largest technology staffing and solutions firm, Kforce provides over 12,000 dedicated technology consultants annually. Our portfolio highlights successful partnerships with more than 1,000 customers, including 70% of the Fortune 100.
  
 Resources
 ~~~~~~~~~
