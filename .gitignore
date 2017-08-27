@@ -41,4 +41,7 @@ nosetests.xml
 .project
 .pydevproject
 
+#emacs
+*~
+
 /README.html
