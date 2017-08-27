@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2012</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2012.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2012-12-31T00:00:00-08:00</updated><entry><title>2012</title><link href="http://nwcpp.org/2012-summary.html" rel="alternate"></link><published>2012-12-31T00:00:00-08:00</published><updated>2012-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-12-31:/2012-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2012.html"&gt;January 25th,&amp;nbsp;2012 — Finding Race Condition and Data Races Effectively — Madan&amp;nbsp;Musuvathi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2012.html"&gt;February 15th,&amp;nbsp;2012 — Expressing Parallel Patterns in Modern C++ — Rahul V.&amp;nbsp;Patil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2012.html"&gt;March 21st,&amp;nbsp;2012 — A Multi-Core Algorithmic Differentiation Benchmarking System — Brad&amp;nbsp;Bell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2012.html"&gt;April 18th, 2012 — Essential Skills for the Agile Developer – Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2012.html"&gt;May 16th, 2012 — An …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2012.html"&gt;January 25th,&amp;nbsp;2012 — Finding Race Condition and Data Races Effectively — Madan&amp;nbsp;Musuvathi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2012.html"&gt;February 15th,&amp;nbsp;2012 — Expressing Parallel Patterns in Modern C++ — Rahul V.&amp;nbsp;Patil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2012.html"&gt;March 21st,&amp;nbsp;2012 — A Multi-Core Algorithmic Differentiation Benchmarking System — Brad&amp;nbsp;Bell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2012.html"&gt;April 18th, 2012 — Essential Skills for the Agile Developer – Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2012.html"&gt;May 16th, 2012 — An Introduction to Microsoft’s C++ Accelerated Massive Parallelism – Don&amp;nbsp;McCrady&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2012.html"&gt;June 20th, 2012 — LKRhash: The design of a scalable hashtable — George V.&amp;nbsp;Reilly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2012.html"&gt;July 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2012.html"&gt;August 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2012.html"&gt;September 19th, 2012 — Functional Patterns in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2012.html"&gt;October 17th, 2012 — Casablanca: C++ in the Cloud — Steve&amp;nbsp;Gates&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2012.html"&gt;November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch — Tom&amp;nbsp;Ball&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2012.html"&gt;December 2012: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>December 2012: No Meeting</title><link href="http://nwcpp.org/december-2012.html" rel="alternate"></link><published>2012-12-01T00:00:00-08:00</published><updated>2012-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-12-01:/december-2012.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 21st, 2012 — TouchDevelop: Tips and Types for Programming via Touch — Tom Ball</title><link href="http://nwcpp.org/november-2012.html" rel="alternate"></link><published>2012-11-01T00:00:00-07:00</published><updated>2012-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-11-01:/november-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;November 21, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.touchdevelop.com"&gt;TouchDevelop&lt;/a&gt; brings a modern programming experience
+to devices where touch is the primary input mechanism, such as smartphones and tablets.
+The TouchDevelop environment does this through an interlocking set of features,&amp;nbsp;including:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;a …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;November 21, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.touchdevelop.com"&gt;TouchDevelop&lt;/a&gt; brings a modern programming experience
+to devices where touch is the primary input mechanism, such as smartphones and tablets.
+The TouchDevelop environment does this through an interlocking set of features,&amp;nbsp;including:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;a simple statically-typed scripting&amp;nbsp;language;&lt;/li&gt;
+&lt;li&gt;syntax-directed editing with a context-sensitive virtual&amp;nbsp;keyboard;&lt;/li&gt;
+&lt;li&gt;code completion and refactoring&amp;nbsp;features;&lt;/li&gt;
+&lt;li&gt;integrated search of platform&amp;nbsp;APIs;&lt;/li&gt;
+&lt;li&gt;cloud-based sharing, searching, and synthesis of&amp;nbsp;code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this talk, I’ll demonstrate the TouchDevelop Web App
+and focus on some of the unique features of the TouchDevelop language,
+including support for client/cloud shared data.
+Additionally, I’ll describe how the TouchDevelop Web App was written in
+&lt;a class="reference external" href="http://www.typescriptlang.org"&gt;TypeScript&lt;/a&gt;,
+a typed superset of JavaScript that compiles to plain JavaScript.
+The TouchDevelop web application is a complete rewrite of the C#/&lt;span class="caps"&gt;XAML&lt;/span&gt;-based TouchDevelop
+application for Windows&amp;nbsp;Phone.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://research.microsoft.com/en-us/people/tball/"&gt;Thomas (Tom) Ball&lt;/a&gt;
+is a Principal Researcher and Research Manager at Microsoft Research Redmond,
+where he works in the area of software engineering,
+having made contributions in program profiling, software model checking,
+and empirical software engineering.
+Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt;&amp;nbsp;Fellow.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/54243075"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/touchdevelop2012.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>October 17th, 2012 — Casablanca: C++ in the Cloud — Steve Gates</title><link href="http://nwcpp.org/october-2012.html" rel="alternate"></link><published>2012-10-01T00:00:00-07:00</published><updated>2012-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-10-01:/october-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 17, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this talk, I&amp;#8217;ll introduce the Microsoft incubation project
+&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/devlabs/casablanca.aspx"&gt;Casablanca&lt;/a&gt;,
+the aim of which is to help C++ developers
+productively take advantage of cloud-based computing without sacrificing performance.
+Through a series of …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 17, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this talk, I&amp;#8217;ll introduce the Microsoft incubation project
+&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/devlabs/casablanca.aspx"&gt;Casablanca&lt;/a&gt;,
+the aim of which is to help C++ developers
+productively take advantage of cloud-based computing without sacrificing performance.
+Through a series of libraries and tooling,
+Casablanca provides support for accessing Azure&amp;#8217;s platform as a service (PaaS) functionality
+and general purpose client and server &lt;span class="caps"&gt;REST&lt;/span&gt; communication.
+Key aspects about the libraries in Casablanca include cross platform support,
+leveraging modern C++11 features for productivity,
+and &lt;span class="caps"&gt;API&lt;/span&gt; design asynchrony in mind to improve application responsiveness and&amp;nbsp;scalability.&lt;/p&gt;
+&lt;p&gt;With this talk, we&amp;#8217;ll go through the fundamental principles that
+Casablanca is built on, an overview of the features it provides,
+and several demos and examples illustrating what kind of applications can be built.
+If you have interest in using C++ to author or interact with services in Azure
+or &lt;span class="caps"&gt;REST&lt;/span&gt; services in general, this talk is for&amp;nbsp;you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Steve Gates is a senior tester on the Visual C++ team at Microsoft.
+He has been at Microsoft for the past 5 years working on parallel computing in C++,
+specifically the C++ Concurrency Runtime, &lt;span class="caps"&gt;PPL&lt;/span&gt;, and Agents Library.
+Now he is focusing on the C++ experience for the cloud and Azure.
+In his free time, Steve is interested in growing vegetables and food&amp;nbsp;preservation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://vimeo.com/51695153"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/casablanca.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>September 19th, 2012 — Functional Patterns in C++ — Bartosz Milewski</title><link href="http://nwcpp.org/september-2012.html" rel="alternate"></link><published>2012-09-01T00:00:00-07:00</published><updated>2012-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-09-01:/september-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;September 19, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We are familiar with at least some of the GoF patterns like Visitor or Factory.
+Less known are some very powerful abstract patterns used primarily in functional languages.
+I will show you how …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;September 19, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We are familiar with at least some of the GoF patterns like Visitor or Factory.
+Less known are some very powerful abstract patterns used primarily in functional languages.
+I will show you how to implement them in C++,
+as long as you don&amp;#8217;t get intimidated by names
+like Type Constructor, Functor, Applicative Functor, or Monad.
+Examples of those patterns are everywhere:
+&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;std::unique_ptr&lt;/span&gt;&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;std::vector&lt;/span&gt;&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;std::function&lt;/span&gt;&lt;/tt&gt;, and many more.
+What piqued my interest in those patterns was their use in C#
+to solve some of the problem of abstracting asynchronous APIs and threads.
+Their understanding might help in fixing C++11 support for&amp;nbsp;concurrency.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz Milewski has a Ph.D. in Quantum Physics and many years of
+experience as a C++ programmer.
+He worked at Microsoft on the Context Index—a search engine before the Internet—still an active part of Windows.
+He designed the first distributed version control system,
+&lt;a class="reference external" href="http://www.relisoft.com/co_op/"&gt;Code Co-op&lt;/a&gt; (before BitKeeper and Git).
+Bartosz took part in the design of the &lt;a class="reference external" href="http://www.digitalmars.com/d/2.0/index.html"&gt;D language&lt;/a&gt;.
+His main topics of interest are concurrent and distributed computing.
+He works as a Software Architect at &lt;span class="caps"&gt;FP&lt;/span&gt; Complete,
+a company whose goal is to make Haskell an industrial language.
+He regularly publishes a blog at
+&lt;a class="reference external" href="http://bartoszmilewski.wordpress.com/"&gt;http://BartoszMilewski.com&lt;/a&gt;
+and at &lt;a class="reference external" href="http://fpcomplete.com/blog"&gt;http://FPComplete.com/blog&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://fpcomplete.com/functional-patterns-in-c/"&gt;Video and&amp;nbsp;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>August 2012: No Meeting</title><link href="http://nwcpp.org/august-2012.html" rel="alternate"></link><published>2012-08-01T00:00:00-07:00</published><updated>2012-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-08-01:/august-2012.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>July 2012: No Meeting</title><link href="http://nwcpp.org/july-2012.html" rel="alternate"></link><published>2012-07-01T00:00:00-07:00</published><updated>2012-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-07-01:/july-2012.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>June 20th, 2012 — LKRhash: The design of a scalable hashtable — George V. Reilly</title><link href="http://nwcpp.org/june-2012.html" rel="alternate"></link><published>2012-06-01T00:00:00-07:00</published><updated>2012-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-06-01:/june-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;June 20th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;LKRhash is a hashtable that scales to multiple processors and millions of items.
+LKRhash was invented at Microsoft in 1997 by Paul Larson, Murali Krishnan, and George Reilly,
+and has been used in …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;June 20th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;LKRhash is a hashtable that scales to multiple processors and millions of items.
+LKRhash was invented at Microsoft in 1997 by Paul Larson, Murali Krishnan, and George Reilly,
+and has been used in many Microsoft products.
+George will discuss the techniques that give LKRhash its performance,
+including &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Linear_hashing"&gt;linear hashing&lt;/a&gt;,
+cache-friendly data structures,
+and fine-grained&amp;nbsp;locking.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://plus.google.com/114544378971035279158/about"&gt;George Reilly&lt;/a&gt;
+is a lead developer at &lt;a class="reference external" href="http://www.cozi.com/"&gt;Cozi&lt;/a&gt;
+who spent 10 years working at Microsoft.
+He is a graduate of Trinity College Dublin and Brown University.
+He cowrote &lt;a class="reference external" href="http://www.amazon.com/Beginning-ATL-3-Com-Programming/dp/1861001207"&gt;Beginning &lt;span class="caps"&gt;ATL&lt;/span&gt; 3 &lt;span class="caps"&gt;COM&lt;/span&gt; Programming&lt;/a&gt;
+(Wrox 1999) and &lt;a class="reference external" href="http://www.amazon.com/Professional-Active-Server-Pages-3-0/dp/B0000B0SYJ/"&gt;Professional Active Server Pages 3.0&lt;/a&gt;
+(Wrox 1999).
+George is, among other things, a cyclist;
+the President of &lt;a class="reference external" href="http://freelyspeaking.org/"&gt;Freely Speaking Toastmasters&lt;/a&gt;;
+the Director &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Dramaturg of the &lt;a class="reference external" href="http://www.wildgeeseseattle.org/"&gt;Wild Geese Players of Seattle&lt;/a&gt;;
+and the Secretary/Webmaster of &lt;a class="reference external" href="http://nwcpp.org/"&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://vimeo.com/44575071"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/lkrhash.pptx"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/hashtable.py.txt"&gt;Python hashtable simulator&lt;/a&gt; |
+&lt;a class="reference external" href="http://www.csd.uoc.gr/~hy460/pdf/Dynamic%20Hash%20Tables.pdf"&gt;Linear Hashing&amp;nbsp;paper&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>May 16th, 2012 — An Introduction to Microsoft’s C++ Accelerated Massive Parallelism – Don McCrady</title><link href="http://nwcpp.org/may-2012.html" rel="alternate"></link><published>2012-05-01T00:00:00-07:00</published><updated>2012-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-05-01:/may-2012.html</id><summary type="html">&lt;p&gt;Come at 6:45 for pizza sponsored by
+&lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad Technologies&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microsoft’s C++ &lt;span class="caps"&gt;AMP&lt;/span&gt; (&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/library/hh265136(v=vs.110).aspx"&gt;Accelerated Massive Parallelism&lt;/a&gt;)
+is a C++ programming model and language extension that allows any C++ developer
+to take advantage of the massive parallelism available in today’s &lt;span class="caps"&gt;GPU&lt;/span&gt;’s.
+It offers a developer-friendly, lightweight, and …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Come at 6:45 for pizza sponsored by
+&lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad Technologies&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microsoft’s C++ &lt;span class="caps"&gt;AMP&lt;/span&gt; (&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/library/hh265136(v=vs.110).aspx"&gt;Accelerated Massive Parallelism&lt;/a&gt;)
+is a C++ programming model and language extension that allows any C++ developer
+to take advantage of the massive parallelism available in today’s &lt;span class="caps"&gt;GPU&lt;/span&gt;’s.
+It offers a developer-friendly, lightweight, and portable interface
+that can enable programmers to achieve impressive performance boosts
+on a variety of hardware platforms.
+As an integrated part of Visual C++,
+it is also supported by a full suite of familiar developer tools
+including the editor, debugger, and profiler.
+This presentation will introduce C++ &lt;span class="caps"&gt;AMP&lt;/span&gt;
+and talk about its projected future as the hardware ecosystem&amp;nbsp;evolves.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Madan Musuvathi is a Senior Researcher in the
+Don McCrady is the development lead for the C++ &lt;span class="caps"&gt;AMP&lt;/span&gt; project.
+He has worked for Microsoft for nearly 15 years in many diverse areas
+including &lt;span class="caps"&gt;COM&lt;/span&gt; services, workflow services, and concurrency programming models.
+In his spare time, he is an avid (if highly frustrated) astrophotographer and amateur&amp;nbsp;astronomer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/42419539"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/accelerated-massive-parallelism.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>April 18th, 2012 — Essential Skills for the Agile Developer – Alan Shalloway</title><link href="http://nwcpp.org/april-2012.html" rel="alternate"></link><published>2012-04-01T00:00:00-07:00</published><updated>2012-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-04-01:/april-2012.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many developers have been suddenly thrown into developing code in stages
+whereas they used to be able to do bigger designs up front.
+Many people tell them to do test-driven development and emergent design
+while ignoring the fact that their work with legacy systems may prevent such actions.
+In …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many developers have been suddenly thrown into developing code in stages
+whereas they used to be able to do bigger designs up front.
+Many people tell them to do test-driven development and emergent design
+while ignoring the fact that their work with legacy systems may prevent such actions.
+In any event, new methods require new skills – skills they don’t have time to get.
+At first, it may appear that the required developer skill set for this new way of writing code
+is huge and daunting.
+Fortunately, it isn’t.
+One of the things we’ve learned at Net Objectives,
+is that there are often a few simple things one can do that make a huge difference.
+We like to have people start with these trim tabs.
+We refer to these as trim tabs since they are small things that make a big difference.
+This talk introduces some trim tabs for the new agile&amp;nbsp;developer.&lt;/p&gt;
+&lt;p&gt;Outline:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Programming by&amp;nbsp;Intention&lt;/li&gt;
+&lt;li&gt;Separating Use from&amp;nbsp;&amp;nbsp;Construction&lt;/li&gt;
+&lt;li&gt;Define tests Up&amp;nbsp;Front&lt;/li&gt;
+&lt;li&gt;Shalloway’s&amp;nbsp;Law&lt;/li&gt;
+&lt;li&gt;Encapsulate&amp;nbsp;That&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The lessons learned are taken from Net Objectives’ new book
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/essential-skills-agile-developers"&gt;Essential Skills for the Agile Developer&lt;/a&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Alan&amp;nbsp;Shalloway&lt;/strong&gt; is the founder and &lt;span class="caps"&gt;CEO&lt;/span&gt; of &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net Objectives&lt;/a&gt;.
+With over 40 years of experience, Alan is an industry thought leader
+in Lean, Kanban, Scrum and design patterns.
+He helps companies transition to Lean and Agile methods enterprise-wide
+as well teaches courses in these areas.
+Alan has developed training and coaching methods for Lean-Agile
+that have helped his clients achieve long-term, sustainable productivity gains.
+He is a popular speaker at prestigious conferences worldwide.
+He is the primary author of
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/design-patterns-explained"&gt;Design Patterns Explained: A New Perspective on Object-Oriented Design&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/lean-agile-pocket-guide-scrum-teams"&gt;Lean-Agile Pocket Guide for Scrum Teams&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/lean-agile-software-development"&gt;Lean-Agile Software Development: Achieving Enterprise Agility&lt;/a&gt;,
+and is currently writing
+&lt;a class="reference external" href="http://www.netobjectives.com/resources/books/essential-skills-agile-developers"&gt;Essential Skills for the Agile Developer&lt;/a&gt;.
+Alan has worked in literally dozens of industries over his career.
+He is a co-founder and board member for the
+&lt;a class="reference external" href="http://www.leanssc.org/"&gt;Lean Software and Systems Consortium&lt;/a&gt;.
+He has a Masters in Computer Science from &lt;span class="caps"&gt;M.I.T.
+&lt;/span&gt;as well as a Masters in Mathematics from Emory University.
+You can follow Alan on Twitter,
+&lt;a class="reference external" href="http://twitter.com/alshalloway"&gt;&amp;#64;alshalloway&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/40726192"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/essential-skills-for-the-agile-developer-2012.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>March 21st, 2012 — A Multi-Core Algorithmic Differentiation Benchmarking System — Brad Bell</title><link href="http://nwcpp.org/march-2012.html" rel="alternate"></link><published>2012-03-01T00:00:00-08:00</published><updated>2012-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-03-01:/march-2012.html</id><summary type="html">&lt;p&gt;Please join us at 6:45 for pizza sponsored by
+&lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Implementing code that is fast in a multi-core environment
+is one of the challenges of modern software&amp;nbsp;engineering.&lt;/p&gt;
+&lt;p&gt;To meet this challenge, future Automatic Differentiation (&lt;span class="caps"&gt;AD&lt;/span&gt;) software
+will have to avoid excessive synchronization barriers between threads …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Please join us at 6:45 for pizza sponsored by
+&lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Implementing code that is fast in a multi-core environment
+is one of the challenges of modern software&amp;nbsp;engineering.&lt;/p&gt;
+&lt;p&gt;To meet this challenge, future Automatic Differentiation (&lt;span class="caps"&gt;AD&lt;/span&gt;) software
+will have to avoid excessive synchronization barriers between threads as
+well as manage memory&amp;nbsp;efficiently.&lt;/p&gt;
+&lt;p&gt;This talk presents a benchmarking system that is being used as an aid in
+the development of the C++ &lt;span class="caps"&gt;AD&lt;/span&gt; software package
+&lt;a class="reference external" href="http://www.coin-or.org/CppAD/"&gt;CppAD&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Different threading systems, and different versions of this software package,
+are easily compared for speed of&amp;nbsp;execution.&lt;/p&gt;
+&lt;p&gt;As an example of the importance of this benchmark testing,
+and how it has improved this software package,
+we compare the results for three versions of CppAD.
+These versions correspond to improvements
+in a general purpose C++ multi-threading memory allocator
+that is now part of the CppAD&amp;nbsp;library.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.seanet.com/~bradbell/"&gt;Dr. Bell&lt;/a&gt; received his &lt;span class="caps"&gt;BA&lt;/span&gt; in math
+and physics from Saint Lawrence University in 1973,
+his &lt;span class="caps"&gt;MA&lt;/span&gt; in mathematics from the University of Washington in 1976,
+and his Ph.D. in mathematics from the University of Washington in 1984.
+Currently he is employed by the Applied Physics Laboratory of the University of Washington.
+Much of his current work is in collaboration with the &lt;span class="caps"&gt;UW&lt;/span&gt; School of Public Health
+as a member of the The Institute for Health Metrics and Evaluation.
+He is also the project manager for the Coin-&lt;span class="caps"&gt;OR&lt;/span&gt; Algorithmic Differentiation project CppAD.
+His current research is focused on statistically motivated numerical methods
+for scientific modeling and data analysis.
+This includes: algorithmic differentiation, Kalman filtering and smoothing,
+stochastic function estimation (Tikhonov regularization),
+nonlinear mixed effects estimation, optimization, and monte-carlo&amp;nbsp;simulation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/39008544"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/cppad-benchmark.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CppAD pages are best viewed with Firefox, as they make heavy use of
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/MathML"&gt;MathML&lt;/a&gt; to display&amp;nbsp;math.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.coin-or.org/CppAD/"&gt;CppAD homepage&lt;/a&gt;
+| &lt;a class="reference external" href="http://www.coin-or.org/CppAD/Doc/thread_test.cpp.xml"&gt;multi-threading test routine&lt;/a&gt;
+| &lt;a class="reference external" href="http://www.coin-or.org/CppAD/Doc/introduction.xml"&gt;intro to theory of &lt;span class="caps"&gt;AD&lt;/span&gt;&lt;/a&gt;
+| &lt;a class="reference external" href="http://www.coin-or.org/CppAD/Doc/get_started.cpp.xml"&gt;getting started with&amp;nbsp;CppAD&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>February 15th, 2012 — Expressing Parallel Patterns in Modern C++ — Rahul V. Patil</title><link href="http://nwcpp.org/february-2012.html" rel="alternate"></link><published>2012-02-01T00:00:00-08:00</published><updated>2012-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-02-01:/february-2012.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for pizza supplied by
+&lt;a class="reference external" href="http://www.amazon.com/gp/digital/careers/jobs.html"&gt;Amazon Digital&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We’ll do a lap around the most commonly applicable parallel patterns.
+The goal of the talk is to map each of these parallel patterns to equivalent C++ code,
+while taking advantage of the modern constructs in the language …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Come at 6:30pm for pizza supplied by
+&lt;a class="reference external" href="http://www.amazon.com/gp/digital/careers/jobs.html"&gt;Amazon Digital&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We’ll do a lap around the most commonly applicable parallel patterns.
+The goal of the talk is to map each of these parallel patterns to equivalent C++ code,
+while taking advantage of the modern constructs in the language.
+We’ll demonstrate this by looking at the Parallel Patterns Library
+available in Visual Studio and Intel’s &lt;span class="caps"&gt;TBB&lt;/span&gt;.
+We’ll also look at some tools within Intel’s Parallel Studio and Microsoft’s Visual Studio
+that help identify, debug and analyze parallel&amp;nbsp;programs.&lt;/p&gt;
+&lt;p&gt;This talk is for you, if you are looking to learn
+generally accepted parallel patterns and start using them in your C++ code.
+The talk will scale between 200 level and 400&amp;nbsp;level.&lt;/p&gt;
+&lt;p&gt;Note: The talk will &lt;em&gt;not&lt;/em&gt; discuss C++ &lt;span class="caps"&gt;AMP&lt;/span&gt;, which deserves a full hour of its&amp;nbsp;own.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Rahul V. Patil is a Lead Program Manager, in Microsoft’s C++ Parallel Computing team.
+He started at Microsoft 8 years ago and has been a part
+of the C++ concurrency runtime team since its&amp;nbsp;inception.&lt;/p&gt;
+&lt;p&gt;About Rahul’s team: Parallel Computing team was founded 5 years ago
+with the mission of bringing programming models and tools to developers,
+so they may take advantage of the multi-cores and GPUs on the&amp;nbsp;machine.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/concurrency/bb964701"&gt;Microsoft &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;nbsp;concurrency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/nativeconcurrency/"&gt;C++ &lt;span class="caps"&gt;PPL&lt;/span&gt; and &lt;span class="caps"&gt;AMP&lt;/span&gt;&amp;nbsp;blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://vimeo.com/36917212"&gt;video&lt;/a&gt; of Rahul&amp;#8217;s talk
+or read the &lt;a class="reference external" href="/talks/2012/parallel_talk_nwcpp_redux.pptx"&gt;slides&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>January 25th, 2012 — Finding Race Condition and Data Races Effectively — Madan Musuvathi</title><link href="http://nwcpp.org/january-2012.html" rel="alternate"></link><published>2012-01-01T00:00:00-08:00</published><updated>2012-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-01-01:/january-2012.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 25th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+43"&gt;Building 43/1540–Adams&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;(note room change).&lt;/div&gt;
+&lt;div class="line"&gt;This meeting was originally scheduled for Jan 18th but postponed due to snow.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:30pm for pizza supplied by
+&lt;a class="reference external" href="http://bit.ly/STBjobs"&gt;Microsoft Server and Tools&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this talk, I will …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 25th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+43"&gt;Building 43/1540–Adams&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;(note room change).&lt;/div&gt;
+&lt;div class="line"&gt;This meeting was originally scheduled for Jan 18th but postponed due to snow.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:30pm for pizza supplied by
+&lt;a class="reference external" href="http://bit.ly/STBjobs"&gt;Microsoft Server and Tools&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this talk, I will describe two &lt;span class="caps"&gt;MSR&lt;/span&gt; tools,
+Cuzz and DataCollider, for finding concurrency errors.
+Cuzz uses a randomized algorithm to insert delays
+in a concurrent program to force race conditions with probabilistic guarantees.
+Cuzz is easy to use and is integrated with Microsoft’s Application Verifier.
+DataCollider uses hardware facilities in interesting ways
+to find data races with little runtime overhead.
+While other data-race detection techniques incur a 1000% runtime overhead or more,
+DataCollider incurs about 0 to 20%&amp;nbsp;overhead.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Madan Musuvathi is a Senior Researcher in the
+&lt;a class="reference external" href="http://research.microsoft.com/groups/rise/"&gt;Research in Software Engineering&lt;/a&gt; group at
+&lt;a class="reference external" href="http://research.microsoft.com/"&gt;Microsoft Research&lt;/a&gt;.
+His research focus is on scalable analysis of concurrent systems.
+More broadly, his interests include systems, program analysis, model checking,
+verification, and theorem proving.
+He also spends a lot of time at Microsoft
+building analysis tools to improve the productivity of software developers and&amp;nbsp;testers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/35722387"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2012/nwcpp-2012-01-musuvathi-cuzz-datacollider.pptx"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="http://research.microsoft.com/pubs/118655/asplos277-pct.pdf"&gt;Cuzz paper&lt;/a&gt; |
+&lt;a class="reference external" href="http://research.microsoft.com/pubs/139266/DataCollider%20-%20OSDI2010.pdf"&gt;DataCollider paper&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry></feed>

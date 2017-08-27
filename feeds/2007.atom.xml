@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2007</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2007.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2007-12-31T00:00:00-08:00</updated><entry><title>2007</title><link href="http://nwcpp.org/2007-summary.html" rel="alternate"></link><published>2007-12-31T00:00:00-08:00</published><updated>2007-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2007-12-31:/2007-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2007.html"&gt;January 17th, 2007 — Advanced D Programming Language Features — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2007.html"&gt;February 21st, 2007 — Text Processing with Boost — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2007.html"&gt;March 21st, 2007 — Software Transactional Memory: A different approach to concurrency — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2007.html"&gt;April 25th, 2007 — Red Code, Green Code:&amp;nbsp; Generalizing const — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2007.html"&gt;May 23rd, 2007 — The Zero Debugger — Cristian …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2007.html"&gt;January 17th, 2007 — Advanced D Programming Language Features — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2007.html"&gt;February 21st, 2007 — Text Processing with Boost — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2007.html"&gt;March 21st, 2007 — Software Transactional Memory: A different approach to concurrency — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2007.html"&gt;April 25th, 2007 — Red Code, Green Code:&amp;nbsp; Generalizing const — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2007.html"&gt;May 23rd, 2007 — The Zero Debugger — Cristian&amp;nbsp;Vlasceanu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2007.html"&gt;June 20th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2007.html"&gt;July 18th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2007.html"&gt;August 15th, 2007 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2007.html"&gt;September 19th, 2007 — Machine Architecture: Things Your Programming Language Never Told You — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2007.html"&gt;October 17th, 2007 — Function Hijacking Mitigation — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2007.html"&gt;November 14th, 2007 — Domain-Specific Languages with Boost — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2007.html"&gt;December 2007: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>December 2007: No Meeting</title><link href="http://nwcpp.org/december-2007.html" rel="alternate"></link><published>2007-12-01T00:00:00-08:00</published><updated>2007-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-12-01:/december-2007.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 14th, 2007 — Domain-Specific Languages with Boost — Eric Niebler</title><link href="http://nwcpp.org/november-2007.html" rel="alternate"></link><published>2007-11-01T00:00:00-07:00</published><updated>2007-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-11-01:/november-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Designing your own programming language is fun!
+It can also increase the expressiveness of your code.
+But did you know that you can host your little languages right in C++?
+Libraries like Boost.Spirit and the Lambda Library …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Designing your own programming language is fun!
+It can also increase the expressiveness of your code.
+But did you know that you can host your little languages right in C++?
+Libraries like Boost.Spirit and the Lambda Library
+do just that with the help of templates and operator overloading.
+Come learn how you can easily create your own mini language-in-a-library, too.
+We&amp;#8217;ll talk about Boost.Proto,
+a new library that takes the pain out of working with expression&amp;nbsp;templates.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Eric is an independent software consultant currently working
+with Dave Abrahams and Boost Consulting.
+He is a former employee of Microsoft Research and Visual C++,
+and his writings about C++ have been published
+in the &lt;em&gt;C/C++ User&amp;#8217;s Journal&lt;/em&gt; and &lt;em&gt;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Magazine&lt;/em&gt;.
+When he&amp;#8217;s not writing C++ for money, Eric has been known to write C++ for&amp;nbsp;fun.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2007/proto3.ppt"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>October 17th, 2007 — Function Hijacking Mitigation — Walter Bright</title><link href="http://nwcpp.org/october-2007.html" rel="alternate"></link><published>2007-10-01T00:00:00-07:00</published><updated>2007-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-10-01:/october-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;As software becomes more complex, we become more reliant on module interfaces.
+An application may import and combine modules from multiple sources,
+including sources from outside the company.
+The module developers must be able to maintain and improve …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;As software becomes more complex, we become more reliant on module interfaces.
+An application may import and combine modules from multiple sources,
+including sources from outside the company.
+The module developers must be able to maintain and improve those modules
+without inadvertently stepping on the behavior of modules
+over which they cannot have knowledge of.
+The application developer needs to be notified
+if any module changes would break the application.
+This talk covers function hijacking,
+where adding innocent and reasonable declarations in a module
+can wreak arbitrary havoc on an application program in C++ and Java.
+We&amp;#8217;ll then look at how modest language design changes
+can largely eliminate the problem in the D programming&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright&amp;#8217;s first major program was the groundbreaking wargame Empire.
+He then became interested in compilers and computer languages.
+He&amp;#8217;s written compilers for &lt;span class="caps"&gt;ABEL&lt;/span&gt;, Pascal, C, C++, Java, Javascript, and now D.
+His extensive experience writing C++ compilers
+and well over a decade being on the front lines of doing C++ customer support
+is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2007/FunctionHijack.html"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>September 19th, 2007 — Machine Architecture: Things Your Programming Language Never Told You — Herb Sutter</title><link href="http://nwcpp.org/september-2007.html" rel="alternate"></link><published>2007-09-01T00:00:00-07:00</published><updated>2007-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-09-01:/september-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;High-level languages insulate the programmer from the machine.
+That’s a wonderful thing—except when it obscures the answers
+to the fundamental questions of
+“What does the program do?” and “How much does it&amp;nbsp;cost?”&lt;/p&gt;
+&lt;p&gt;The C++/C …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;High-level languages insulate the programmer from the machine.
+That’s a wonderful thing—except when it obscures the answers
+to the fundamental questions of
+“What does the program do?” and “How much does it&amp;nbsp;cost?”&lt;/p&gt;
+&lt;p&gt;The C++/C#/Java programmer is less insulated than most,
+and still we find that programmers are consistently surprised
+at what simple code actually does and how expensive it can be—not because of any complexity of a language,
+but because of being unaware of the complexity
+of the machine on which the program actually&amp;nbsp;runs.&lt;/p&gt;
+&lt;p&gt;This talk examines the “real meanings” and “true costs” of the code we write and run
+especially on commodity and server systems,
+by delving into the performance effects of bandwidth vs. latency limitations,
+the ever-deepening memory hierarchy,
+the changing costs arising from the hardware concurrency explosion,
+memory model effects all the way from the compiler
+to the &lt;span class="caps"&gt;CPU&lt;/span&gt; to the chipset to the cache, and more—and what you can do about&amp;nbsp;them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://herbsutter.com/"&gt;Herb Sutter&lt;/a&gt; is a software architect at Microsoft
+and chair of the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ standards committee.
+Among his books and papers on software development
+is the widely-cited article &amp;#8220;The Free Lunch Is Over&amp;#8221;
+where he coined the title phrase and &amp;#8220;concurrency revolution&amp;#8221;
+as applied to describe the software sea change
+now in progress to exploit increasingly parallel&amp;nbsp;hardware&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2007/Machine_Architecture_-_NWCPP.pdf"&gt;slides&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://video.google.com/videoplay?docid=-4714369049736584770"&gt;video&lt;/a&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>August 15th, 2007 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2007.html" rel="alternate"></link><published>2007-08-01T00:00:00-07:00</published><updated>2007-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-08-01:/august-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>July 18th, 2007 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2007.html" rel="alternate"></link><published>2007-07-01T00:00:00-07:00</published><updated>2007-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-07-01:/july-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;TBD&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;TBD&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>June 20th, 2007 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/june-2007.html" rel="alternate"></link><published>2007-06-01T00:00:00-07:00</published><updated>2007-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-06-01:/june-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&amp;nbsp;members.&lt;/p&gt;
+&lt;/div&gt;
+</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&amp;nbsp;members.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>May 23rd, 2007 — The Zero Debugger — Cristian Vlasceanu</title><link href="http://nwcpp.org/may-2007.html" rel="alternate"></link><published>2007-05-01T00:00:00-07:00</published><updated>2007-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-05-01:/may-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this presentation, I&amp;nbsp;will:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;overview the debugging support provided at the &lt;span class="caps"&gt;OS&lt;/span&gt; level on Linux,
+how limitations in the design impacts debugger&amp;nbsp;architecture&lt;/li&gt;
+&lt;li&gt;share with the group my experience in implementing a C++ debugger on&amp;nbsp;Linux&lt;/li&gt;
+&lt;li&gt;underline …&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this presentation, I&amp;nbsp;will:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;overview the debugging support provided at the &lt;span class="caps"&gt;OS&lt;/span&gt; level on Linux,
+how limitations in the design impacts debugger&amp;nbsp;architecture&lt;/li&gt;
+&lt;li&gt;share with the group my experience in implementing a C++ debugger on&amp;nbsp;Linux&lt;/li&gt;
+&lt;li&gt;underline the power of adding a scripting language to a debugger,
+and shine the light on the Boost.Python&amp;nbsp;library&lt;/li&gt;
+&lt;li&gt;Extending debugger support to other languages, namely Walter Bright&amp;#8217;s&amp;nbsp;D.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I found that debugger architecture lends itself well to the paradigms of C++.
+I may give some examples;
+however there is not enough time to outline the complete architecture
+at the C++ source level of&amp;nbsp;detail.&lt;/p&gt;
+&lt;p&gt;And last but not least&amp;#8230;
+&lt;span class="caps"&gt;DISCLAIMER&lt;/span&gt;: I am not interested in talking about
+the political aspects of Linux / OpenSource / &lt;span class="caps"&gt;GPL&lt;/span&gt; in this setting.
+I intend to keep the discussion rather&amp;nbsp;technical.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;The Zero debugger was created by Cristian Vlasceanu.
+He works on custom interpreters and language translators in his daytime job,
+and hacks Zero at&amp;nbsp;night.&lt;/p&gt;
+&lt;p&gt;Cristian is a lifelong friend of Andrei Alexandrescu
+and has programmed in&amp;nbsp; C++ for over a decade.
+He suggested the name Loki for the C++ library described
+in the ground breaking book &lt;em&gt;Modern C++ Design&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;After spending a couple of years in Atlanta,
+Cristian has moved to Seattle and has lived in the Pacific Northwest since&amp;nbsp;2000.&lt;/p&gt;
+&lt;p&gt;Cristian has written a couple of technical articles
+for the now defunct &lt;em&gt;C/C++ Users Journal&lt;/em&gt;,
+blogs infrequently, and is a veteran of Amazon.com and&amp;nbsp;RealNetworks.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2007/anatomy_of_zero.pdf"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>April 25th, 2007 — Red Code, Green Code:  Generalizing const — Scott Meyers</title><link href="http://nwcpp.org/april-2007.html" rel="alternate"></link><published>2007-04-01T00:00:00-07:00</published><updated>2007-04-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-04-01:/april-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;C++ compilers allow non-const code to call const code,
+but going the other way requires a cast.
+In this talk, Scott describes an approach
+he&amp;#8217;s been pursuing to generalize this notion to arbitrary criteria.
+For example, thread-safe …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;C++ compilers allow non-const code to call const code,
+but going the other way requires a cast.
+In this talk, Scott describes an approach
+he&amp;#8217;s been pursuing to generalize this notion to arbitrary criteria.
+For example, thread-safe code should only call other thread-safe code
+(unless you explicitly permit it on a per-call basis).
+Ditto for exception-safe code,
+code not &amp;#8220;contaminated&amp;#8221; by some open source license,
+or any other constraint you choose.
+The approach is based on template metaprogramming (&lt;span class="caps"&gt;TMP&lt;/span&gt;),
+and the implementation uses the Boost metaprogramming library (Boost.&lt;span class="caps"&gt;MPL&lt;/span&gt;),
+so constraint violations are,
+wherever possible, detected during&amp;nbsp;compilation.&lt;/p&gt;
+&lt;p&gt;Topics likely to be mentioned during the talk include Hellen Keller,
+namespaces, multiple inheritance, Barton and Nackman, enable_if,
+traits, &lt;span class="caps"&gt;TMP&lt;/span&gt; debugging, &lt;span class="caps"&gt;VC8&lt;/span&gt; ICEs, &lt;span class="caps"&gt;MPL&lt;/span&gt; bugs, dancing bears, &lt;span class="caps"&gt;NVI&lt;/span&gt;,
+metaprogrammer Hell, Captain Kirk, Acyclic Visitor, Scopeguard,
+External Polymorphism, and prayer.
+Possibly also Vista, Google, and&amp;nbsp;Lenovo.&lt;/p&gt;
+&lt;p&gt;Scott will show proof-of-concept code that, so far as he can tell, actually&amp;nbsp;works.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Scott Meyers is one of the world&amp;#8217;s foremost authorities on C++;
+he provides training and consulting services to clients worldwide.
+He wrote the best-selling &lt;em&gt;Effective C++&lt;/em&gt; series
+(&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-92488-9/"&gt;Effective C++&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-63371-X/"&gt;More Effective C++&lt;/a&gt;,
+and &lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-74962-9/"&gt;Effective &lt;span class="caps"&gt;STL&lt;/span&gt;&lt;/a&gt;);
+wrote and designed the innovative
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-31015-5/"&gt;Effective C++ &lt;span class="caps"&gt;CD&lt;/span&gt;&lt;/a&gt;;
+is consulting editor for Addison Wesley&amp;#8217;s &lt;em&gt;Effective Software Development Series&lt;/em&gt;;
+and serves on the Advisory Board for &lt;a class="reference external" href="http://www.artima.com/cppsource"&gt;The C++ Source&lt;/a&gt;.
+He has a Ph.D in Computer Science from Brown University.
+His web site is &lt;a class="reference external" href="http://aristeia.com"&gt;aristeia.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2007/redcode_-_updated.pdf"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://video.google.com/videoplay?docid=-4728145737208991310&amp;amp;hl=en"&gt;video&lt;/a&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>March 21st, 2007 — Software Transactional Memory: A different approach to concurrency — Bartosz Milewski</title><link href="http://nwcpp.org/march-2007.html" rel="alternate"></link><published>2007-03-01T00:00:00-08:00</published><updated>2007-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-03-01:/march-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 40&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Traditional approach to multi-threaded programming,
+for which I have coined the nickname &amp;#8220;deadlock-oriented programming&amp;#8221;,
+suffers from a major flaw—it&amp;#8217;s not composable.
+If you try to perform operations on multiple lockable objects,
+you run into the risk …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 40&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Traditional approach to multi-threaded programming,
+for which I have coined the nickname &amp;#8220;deadlock-oriented programming&amp;#8221;,
+suffers from a major flaw—it&amp;#8217;s not composable.
+If you try to perform operations on multiple lockable objects,
+you run into the risk of deadlocks, livelocks,
+priority inversions, and other assorted&amp;nbsp;plagues.&lt;/p&gt;
+&lt;p&gt;Software Transactional Memory, &lt;span class="caps"&gt;STM&lt;/span&gt;, promises to solve those problems
+once and for all.
+Under the covers it works like lock-free programming on steroids,
+but to the programmer, it is a&amp;nbsp;no-brainer.&lt;/p&gt;
+&lt;p&gt;I will discuss general ideas behind &lt;span class="caps"&gt;STM&lt;/span&gt; as well as some concrete&amp;nbsp;implementations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz has his roots in theory
+(Ph.D. in theoretical particle physics)
+and his branches in programming practice
+(eight years at Microsoft and then his own little software firm).
+His current activities, outside of his company,
+include graduate study at the &lt;span class="caps"&gt;UW&lt;/span&gt;,
+partaking in the design of D,
+and (secretly) writing a book on Windows in D.
+He&amp;#8217;s also the author of &lt;em&gt;C++ in Action&lt;/em&gt;, Addison-Wesley,&amp;nbsp;2001.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2007/Bartosz/index.html"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>February 21st, 2007 — Text Processing with Boost — Eric Niebler</title><link href="http://nwcpp.org/february-2007.html" rel="alternate"></link><published>2007-02-01T00:00:00-08:00</published><updated>2007-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-02-01:/february-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The abysmal support in the C and C++ standard libraries
+for string handling has driven many programmers
+to other languages like Perl and Python.
+Boost aims to reverse that trend.
+Libraries such as &lt;tt class="docutils literal"&gt;Boost.Lexical_cast&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;Boost.String_algo&lt;/tt&gt;,
+&lt;tt class="docutils literal"&gt;Boost …&lt;/tt&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The abysmal support in the C and C++ standard libraries
+for string handling has driven many programmers
+to other languages like Perl and Python.
+Boost aims to reverse that trend.
+Libraries such as &lt;tt class="docutils literal"&gt;Boost.Lexical_cast&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;Boost.String_algo&lt;/tt&gt;,
+&lt;tt class="docutils literal"&gt;Boost.Regex&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;Boost.Xpressive&lt;/tt&gt;, and &lt;tt class="docutils literal"&gt;Boost.Spirit&lt;/tt&gt;
+are invaluable tools for slicing and dicing strings.
+If your task is as simple as turning an integer into a string,
+or as&amp;nbsp; complicated as developing a parser generator for a new scripting&amp;nbsp; language,
+Boost has a library that can help.
+In addition to covering&amp;nbsp; all the afore mentioned libraries from a user&amp;#8217;s perspective,
+we&amp;#8217;ll&amp;nbsp; also look at how Boost can be used to get more out of the standard&amp;nbsp; IOstreams,
+and discover some hidden gems in Boost for dealing with&amp;nbsp;Unicode.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Eric is an independent software consultant currently working
+with Dave Abrahams and Boost Consulting.
+He is a former employee of Microsoft Research and Visual C++,
+and his writings about C++ have been published
+in the &lt;em&gt;C/C++ User&amp;#8217;s Journal&lt;/em&gt; and &lt;em&gt;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Magazine&lt;/em&gt;.
+When he&amp;#8217;s not writing C++ for money, Eric has been known to write C++ for&amp;nbsp;fun.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2007/Text_Processing_With_Boost.ppt"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://video.google.com/videoplay?docid=3723782552647089226&amp;amp;hl=en"&gt;video&lt;/a&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>January 17th, 2007 — Advanced D Programming Language Features — Walter Bright</title><link href="http://nwcpp.org/january-2007.html" rel="alternate"></link><published>2007-01-01T00:00:00-08:00</published><updated>2007-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2007-01-01:/january-2007.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk assumes you&amp;#8217;re bored with the usual macguffins—expressions, statements, and core strings vs library strings.
+We&amp;#8217;ll skip right to the naughty bits—lambdas, mixins, tuples, scope guards, lazy arguments, and static if&amp;#8217;s.
+What …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk assumes you&amp;#8217;re bored with the usual macguffins—expressions, statements, and core strings vs library strings.
+We&amp;#8217;ll skip right to the naughty bits—lambdas, mixins, tuples, scope guards, lazy arguments, and static if&amp;#8217;s.
+What are they, and what they are good for, will be&amp;nbsp;explored.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright&amp;#8217;s first major program was the groundbreaking wargame Empire.
+He then became interested in compilers and computer languages.
+He&amp;#8217;s written compilers for &lt;span class="caps"&gt;ABEL&lt;/span&gt;, Pascal, C, C++, Java, Javascript, and now D.
+His extensive experience writing C++ compilers
+and well over a decade being on the front lines of doing C++ customer support
+is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2007/AdvancedD.html"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://video.google.com/videoplay?docid=-7073020265668105471"&gt;video&lt;/a&gt;
+of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry></feed>

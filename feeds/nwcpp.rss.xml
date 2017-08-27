@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Northwest C++ Users’ Group - nwcpp</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Mon, 01 Dec 2014 00:00:00 -0800</lastBuildDate><item><title>December 2014: No Meeting</title><link>http://nwcpp.org/december-2014.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Dec 2014 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2014-12-01:/december-2014.html</guid></item><item><title>August 2014: No Meeting</title><link>http://nwcpp.org/august-2014.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Aug 2014 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2014-08-01:/august-2014.html</guid></item><item><title>July 2014: No Meeting</title><link>http://nwcpp.org/july-2014.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Jul 2014 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2014-07-01:/july-2014.html</guid></item><item><title>December 2013: No Meeting</title><link>http://nwcpp.org/december-2013.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Dec 2013 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2013-12-01:/december-2013.html</guid></item><item><title>August 2013: No Meeting</title><link>http://nwcpp.org/august-2013.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Aug 2013 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2013-08-01:/august-2013.html</guid></item><item><title>December 2012: No Meeting</title><link>http://nwcpp.org/december-2012.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Dec 2012 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2012-12-01:/december-2012.html</guid></item><item><title>August 2012: No Meeting</title><link>http://nwcpp.org/august-2012.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Aug 2012 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2012-08-01:/august-2012.html</guid></item><item><title>July 2012: No Meeting</title><link>http://nwcpp.org/july-2012.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Jul 2012 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2012-07-01:/july-2012.html</guid></item><item><title>Contact NWCPP</title><link>http://nwcpp.org/contact.html</link><description>&lt;p&gt;If you need to contact the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; board and the
+&lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;social media channels&lt;/a&gt; aren&amp;#8217;t enough,
+use this form to email&amp;nbsp;us.&lt;/p&gt;
+&lt;!-- :ref:`social-media` aren't enough, --&gt;
+&lt;!-- Adapted from http://www.bloggerbuster.com/2012/04/create-contact-form-with-google-docs.html --&gt;
+&lt;iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHlUZmZGbFFhMjd6a0M0NGh1WGtQanc6MQ"
+        width="760" height="891" frameborder="0" marginheight="0" marginwidth="0"&gt;
+    Loading&amp;#8230;
+&lt;/iframe&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Jun 2012 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2012-06-01:/contact.html</guid></item><item><title>January 25th, 2012 — Finding Race Condition and Data Races Effectively — Madan Musuvathi</title><link>http://nwcpp.org/january-2012.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 25th, 2012 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+43"&gt;Building 43/1540–Adams&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;(note room change).&lt;/div&gt;
+&lt;div class="line"&gt;This meeting was originally scheduled for Jan 18th but postponed due to snow.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:30pm for pizza supplied by
+&lt;a class="reference external" href="http://bit.ly/STBjobs"&gt;Microsoft Server and Tools&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this talk, I will …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2012-01-01:/january-2012.html</guid></item><item><title>December 2011: No Meeting</title><link>http://nwcpp.org/december-2011.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Dec 2011 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2011-12-01:/december-2011.html</guid></item><item><title>August 2011: No Meeting</title><link>http://nwcpp.org/august-2011.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Aug 2011 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2011-08-01:/august-2011.html</guid></item><item><title>July 2011: No Meeting</title><link>http://nwcpp.org/july-2011.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Jul 2011 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2011-07-01:/july-2011.html</guid></item><item><title>December 2010: No Meeting</title><link>http://nwcpp.org/december-2010.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Dec 2010 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2010-12-01:/december-2010.html</guid></item><item><title>August 2010: No Meeting</title><link>http://nwcpp.org/august-2010.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Aug 2010 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2010-08-01:/august-2010.html</guid></item><item><title>July 2010: No Meeting</title><link>http://nwcpp.org/july-2010.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Jul 2010 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2010-07-01:/july-2010.html</guid></item><item><title>February 2010: No Meeting</title><link>http://nwcpp.org/february-2010.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Feb 2010 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2010-02-01:/february-2010.html</guid></item><item><title>January 2010: No Meeting</title><link>http://nwcpp.org/january-2010.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Jan 2010 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2010-01-01:/january-2010.html</guid></item><item><title>December 2009: No Meeting</title><link>http://nwcpp.org/december-2009.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Dec 2009 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-12-01:/december-2009.html</guid></item><item><title>November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill Baxter</title><link>http://nwcpp.org/november-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In the D Programming Language
+it is possible for even mere mortals to write code that executes at compile-time.
+And the resulting code is generally even human readable!
+In this talk I&amp;#8217;ll show some of the metaprogramming …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Nov 2009 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-11-01:/november-2009.html</guid></item><item><title>October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz Milewski</title><link>http://nwcpp.org/october-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;It’s a well known fact in C++ metaprogramming circles
+that it’s all based on functional programming.
+What else is based on functional programming?
+Haskell!
+I will go through functional features of Haskell, one by one,
+and …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Oct 2009 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-10-01:/october-2009.html</guid></item><item><title>September 16th, 2009 — Ownership System Against Data Races — Bartosz Milewski</title><link>http://nwcpp.org/september-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;After reading a bunch of papers about type systems
+that prevent data races in multithreaded programs,
+I asked myself the question:
+Short of a type system, can a clever methodology be used to prevent data races?
+It turns …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Sep 2009 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-09-01:/september-2009.html</guid></item><item><title>August 2009: No Meeting</title><link>http://nwcpp.org/august-2009.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Aug 2009 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-08-01:/august-2009.html</guid></item><item><title>July 2009: No Meeting</title><link>http://nwcpp.org/july-2009.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Jul 2009 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-07-01:/july-2009.html</guid></item><item><title>June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter Bright</title><link>http://nwcpp.org/june-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many-core concurrent programming offers exciting and compelling advantages.
+The single-core, single-thread programming model
+is assumed by imperative programming languages.
+This model offers sequential consistency as its fundamental characteristic.
+Because many-core systems use layered cache memory systems,
+sequential consistency …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Jun 2009 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-06-01:/june-2009.html</guid></item><item><title>May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick Molloy</title><link>http://nwcpp.org/may-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="c-building-scalable-applications-in-visual-studio-2010-with-the-concurrency-runtime-and-parallel-pattern-library"&gt;
+&lt;h2&gt;C++: Building scalable applications in Visual Studio 2010 with the Concurrency Runtime and Parallel Pattern&amp;nbsp;Library&lt;/h2&gt;
+&lt;p&gt;In this talk, we&amp;#8217;ll do a deep dive of the Concurrency Runtime
+and the Parallel Libraries built on top of them,
+and …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 May 2009 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-05-01:/may-2009.html</guid></item><item><title>April 15th, 2009 — Axum: The Language Of Agents — Artur Laksberg</title><link>http://nwcpp.org/april-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Axum is an incubation project in Microsoft&amp;#8217;s Parallel Computing Team.
+A .Net programming language based on asynchronous agents, isolation, and message-passing,
+Axum allows developers to partition their applications
+into isolated components that communicate with each other via …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Apr 2009 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-04-01:/april-2009.html</guid></item><item><title>March 18th, 2009 — How Compilers Work — Walter Bright</title><link>http://nwcpp.org/march-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Compilers are a fundamental tool for programmers.
+Knowing how they work enables a much more effective use of them.
+This presentation covers how they work—the various passes like lexing, parsing semantic analysis,
+optimization, and code generation—and …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Mar 2009 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-03-01:/march-2009.html</guid></item><item><title>February 18th, 2009 — CCR: Concurrency and Coordination Runtime — Andreas Ulbrich</title><link>http://nwcpp.org/february-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Concurrency and Coordination Runtime (&lt;span class="caps"&gt;CCR&lt;/span&gt;)
+provides developers an easy way to create and coordinate
+loosely-coupled, data-driven applications.
+It is one of the core building blocks of Microsoft Robotics Developer Studio
+but has applications far beyond robotics.
+&lt;span class="caps"&gt;CCR …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Feb 2009 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-02-01:/february-2009.html</guid></item><item><title>January 21st, 2009 — Metaprogramming in D — Walter Bright</title><link>http://nwcpp.org/january-2009.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Metaprograms are programs that output other programs.
+They can greatly increase the expressive power of a language.
+Familiar metaprogramming languages are the C text preprocessor and C++ templates.
+Walter will show how some simple language features
+like string …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2009-01-01:/january-2009.html</guid></item><item><title>December 2008: No Meeting</title><link>http://nwcpp.org/december-2008.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Dec 2008 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-12-01:/december-2008.html</guid></item><item><title>November 19th, 2008 — Things You Never Wanted to Know about Memory Fences — Bartosz Milewski</title><link>http://nwcpp.org/november-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="things-you-never-wanted-to-know-about-memory-fences-but-were-afraid-would-be-explained-to-you-anyway"&gt;
+&lt;h2&gt;Things You Never Wanted to Know about Memory Fences (But were afraid would be explained to you&amp;nbsp;anyway)&lt;/h2&gt;
+&lt;p&gt;Why study fences on an x86, other than to satisfy one’s curiosity?
+One reason is that, even when you program …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Nov 2008 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-11-01:/november-2008.html</guid></item><item><title>October 15th, 2008 — Concepts in C++0X — Gary Powell</title><link>http://nwcpp.org/october-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;An introduction to the Standard Library and Concepts in C++0X.
+A general overview, and a couple of in-depth analyses of
+how to understand and use this new feature of the&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Programming since &amp;#8216;74, using C …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Oct 2008 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-10-01:/october-2008.html</guid></item><item><title>September 17th, 2008 — Functional Programming with F# — Chris Smith</title><link>http://nwcpp.org/september-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;With developers reaching the limits for what Object-Oriented programming can do,
+they are looking for a new programming paradigm to lead to
+cleaner, more elegant solutions.
+Functional Programming has been around since the 1930s
+but has never been …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Sep 2008 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-09-01:/september-2008.html</guid></item><item><title>August 20th, 2008 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/august-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&amp;nbsp;members.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Aug 2008 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-08-01:/august-2008.html</guid></item><item><title>July 16th, 2008 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/july-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&amp;nbsp;members.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Jul 2008 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-07-01:/july-2008.html</guid></item><item><title>June 18th, 2008 — The C++ Memory Model — Bartosz Milewski</title><link>http://nwcpp.org/june-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;What is a memory model and why does C++ need it so badly?
+I&amp;#8217;ll try to explain both the practical and the theoretical side of things.
+We&amp;#8217;ll look into a few simple multithreaded idioms,
+sketch the …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Jun 2008 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-06-01:/june-2008.html</guid></item><item><title>May 20th, 2008 — Enforcing Code Feature Requirements in C++ — Scott Meyers</title><link>http://nwcpp.org/may-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Functions often depend on particular behavioral characteristics (&amp;#8220;features&amp;#8221;)
+of code they invoke.
+For example, thread-safe code must invoke only thread-safe code
+if it is to remain thread-safe,
+and exception-safe code must invoke only exception-safe code.
+This talk describes …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 May 2008 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-05-01:/may-2008.html</guid></item><item><title>April 16th, 2008 — Programming Declaratively in C++ Using the Logic Paradigm — Roshan Naik</title><link>http://nwcpp.org/april-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Logic paradigm (&lt;span class="caps"&gt;LP&lt;/span&gt;) is a powerful, Turing-complete programming paradigm
+that has seen little representation in mainstream languages
+as compared to the Object-Oriented, Imperative and Functional paradigms.
+&lt;span class="caps"&gt;LP&lt;/span&gt; is an important approach in Computer Science towards
+what is …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Apr 2008 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-04-01:/april-2008.html</guid></item><item><title>March 19th, 2008 — shared_ptr, Or: How I Learned To Stop Worrying And Love Resource Management — Stephan T. Lavavej</title><link>http://nwcpp.org/march-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;shared_ptr is the most powerful addition to the Standard C++ Library
+since the &lt;span class="caps"&gt;STL&lt;/span&gt; itself.
+This presentation begins with an overview of shared_ptr&amp;#8217;s design
+and the philosophy behind it.
+Next, important uses of shared_ptr are explained in …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Mar 2008 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-03-01:/march-2008.html</guid></item><item><title>February 20th, 2008 — Memory Allocation: Either Love It or Hate It. (Or Just Think It’s OK.) — Andrei Alexandrescu</title><link>http://nwcpp.org/february-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Memory allocation is a problem so wicked,
+many people think it&amp;#8217;s either solved or unsolvable.
+This talk goes through the gory details of memory allocation;
+what the classic designs are;
+how special handcrafted allocators may improve (or …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Feb 2008 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-02-01:/february-2008.html</guid></item><item><title>January 16th, 2008 — Design Patterns in an Agile Environment — Alan Shalloway</title><link>http://nwcpp.org/january-2008.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="design-patterns-in-an-agile-environment-the-object-pool-an-example-of-emergent-design"&gt;
+&lt;h2&gt;Design Patterns in an Agile Environment – The Object Pool An Example of Emergent&amp;nbsp;Design&lt;/h2&gt;
+&lt;p&gt;There runs a heated debate about how to build application architectures.
+Many practitioners believe you must design up front,
+others feel that doing so leads …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2008-01-01:/january-2008.html</guid></item><item><title>December 2007: No Meeting</title><link>http://nwcpp.org/december-2007.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Dec 2007 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-12-01:/december-2007.html</guid></item><item><title>November 14th, 2007 — Domain-Specific Languages with Boost — Eric Niebler</title><link>http://nwcpp.org/november-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Designing your own programming language is fun!
+It can also increase the expressiveness of your code.
+But did you know that you can host your little languages right in C++?
+Libraries like Boost.Spirit and the Lambda Library …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Nov 2007 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-11-01:/november-2007.html</guid></item><item><title>October 17th, 2007 — Function Hijacking Mitigation — Walter Bright</title><link>http://nwcpp.org/october-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;As software becomes more complex, we become more reliant on module interfaces.
+An application may import and combine modules from multiple sources,
+including sources from outside the company.
+The module developers must be able to maintain and improve …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Oct 2007 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-10-01:/october-2007.html</guid></item><item><title>September 19th, 2007 — Machine Architecture: Things Your Programming Language Never Told You — Herb Sutter</title><link>http://nwcpp.org/september-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;High-level languages insulate the programmer from the machine.
+That’s a wonderful thing—except when it obscures the answers
+to the fundamental questions of
+“What does the program do?” and “How much does it&amp;nbsp;cost?”&lt;/p&gt;
+&lt;p&gt;The C++/C …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Sep 2007 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-09-01:/september-2007.html</guid></item><item><title>August 15th, 2007 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/august-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Aug 2007 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-08-01:/august-2007.html</guid></item><item><title>July 18th, 2007 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/july-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;TBD&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Jul 2007 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-07-01:/july-2007.html</guid></item><item><title>June 20th, 2007 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/june-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.terrabite.org"&gt;Terra Bite Lounge&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;219 Kirkland Ave&lt;/div&gt;
+&lt;div class="line"&gt;Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&amp;nbsp;members.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Jun 2007 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-06-01:/june-2007.html</guid></item><item><title>May 23rd, 2007 — The Zero Debugger — Cristian Vlasceanu</title><link>http://nwcpp.org/may-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this presentation, I&amp;nbsp;will:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;overview the debugging support provided at the &lt;span class="caps"&gt;OS&lt;/span&gt; level on Linux,
+how limitations in the design impacts debugger&amp;nbsp;architecture&lt;/li&gt;
+&lt;li&gt;share with the group my experience in implementing a C++ debugger on&amp;nbsp;Linux&lt;/li&gt;
+&lt;li&gt;underline …&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 May 2007 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-05-01:/may-2007.html</guid></item><item><title>April 25th, 2007 — Red Code, Green Code:  Generalizing const — Scott Meyers</title><link>http://nwcpp.org/april-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;C++ compilers allow non-const code to call const code,
+but going the other way requires a cast.
+In this talk, Scott describes an approach
+he&amp;#8217;s been pursuing to generalize this notion to arbitrary criteria.
+For example, thread-safe …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Apr 2007 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-04-01:/april-2007.html</guid></item><item><title>March 21st, 2007 — Software Transactional Memory: A different approach to concurrency — Bartosz Milewski</title><link>http://nwcpp.org/march-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 40&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Traditional approach to multi-threaded programming,
+for which I have coined the nickname &amp;#8220;deadlock-oriented programming&amp;#8221;,
+suffers from a major flaw—it&amp;#8217;s not composable.
+If you try to perform operations on multiple lockable objects,
+you run into the risk …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Mar 2007 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-03-01:/march-2007.html</guid></item><item><title>February 21st, 2007 — Text Processing with Boost — Eric Niebler</title><link>http://nwcpp.org/february-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The abysmal support in the C and C++ standard libraries
+for string handling has driven many programmers
+to other languages like Perl and Python.
+Boost aims to reverse that trend.
+Libraries such as &lt;tt class="docutils literal"&gt;Boost.Lexical_cast&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;Boost.String_algo&lt;/tt&gt;,
+&lt;tt class="docutils literal"&gt;Boost …&lt;/tt&gt;&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Feb 2007 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-02-01:/february-2007.html</guid></item><item><title>January 17th, 2007 — Advanced D Programming Language Features — Walter Bright</title><link>http://nwcpp.org/january-2007.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk assumes you&amp;#8217;re bored with the usual macguffins—expressions, statements, and core strings vs library strings.
+We&amp;#8217;ll skip right to the naughty bits—lambdas, mixins, tuples, scope guards, lazy arguments, and static if&amp;#8217;s.
+What …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2007-01-01:/january-2007.html</guid></item><item><title>December 2006: No Meeting</title><link>http://nwcpp.org/december-2006.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Dec 2006 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-12-01:/december-2006.html</guid></item><item><title>November 15th, 2006 — What makes a Good Programmer? Things they never told you — Adair Dingle</title><link>http://nwcpp.org/november-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 40&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Time constraints and demands for breadth constrain academic instruction.
+Job experience fills in the gap between theory and practice.
+Here we discuss some circumvented hurdles
+(representation, resource management, failures)
+as well as key characteristics of students who succeed …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Nov 2006 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-11-01:/november-2006.html</guid></item><item><title>October 18th, 2006 — The Cost of C++ Exception Handling on Windows — Kevin Frei</title><link>http://nwcpp.org/october-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 40&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;There&amp;#8217;s a long running emotional battle over C++ exception handling.
+Rather than argue for or against either side,
+I&amp;#8217;ll be going into low-level detail of
+how much it costs to use on Windows for both x86 …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Oct 2006 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-10-01:/october-2006.html</guid></item><item><title>September 13th, 2006 — The Concur Project — Herb Sutter</title><link>http://nwcpp.org/september-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-concur-project-some-experimental-concurrency-abstractions-for-imperative-languages"&gt;
+&lt;h2&gt;The Concur Project: Some Experimental Concurrency Abstractions for Imperative&amp;nbsp;Languages&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Herb Sutter is a software architect at Microsoft
+and chair of the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ standards committee.
+Among his books and papers on software development
+is the widely-cited article …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Sep 2006 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-09-01:/september-2006.html</guid></item><item><title>August 16th, 2006 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/august-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.georgeanddragonpub.com/"&gt;The George &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Dragon Pub&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;206 North 36th St&lt;/div&gt;
+&lt;div class="line"&gt;Seattle, &lt;span class="caps"&gt;WA&lt;/span&gt; 98103&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Aug 2006 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-08-01:/august-2006.html</guid></item><item><title>July 19th, 2006 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/july-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.georgeanddragonpub.com/"&gt;The George &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Dragon Pub&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;206 North 36th St&lt;/div&gt;
+&lt;div class="line"&gt;Seattle, &lt;span class="caps"&gt;WA&lt;/span&gt; 98103&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Jul 2006 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-07-01:/july-2006.html</guid></item><item><title>June 21st, 2006 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/june-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Jun 2006 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-06-01:/june-2006.html</guid></item><item><title>May 17th, 2006 — The Power of None — Andrei Alexandrescu</title><link>http://nwcpp.org/may-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Exceptions. The final frontier.
+We wanted to understand them.
+We thought we&amp;#8217;ll love them, but they&amp;#8217;ve lacerated our code.
+We hated them.
+We tried to do without them.
+We couldn&amp;#8217;t because they kept on throwing themselves …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 May 2006 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-05-01:/may-2006.html</guid></item><item><title>April 19th, 2006 — C++ on Next-Gen Consoles: Effective Code for New Architectures — Pete Isensee</title><link>http://nwcpp.org/april-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;At &lt;span class="caps"&gt;GDC&lt;/span&gt; 2005, Chris Hecker stated that average game code
+is going to run slower on next-generation consoles than on the current generation.
+In many ways, he’s right.
+Programmers accustomed to having &lt;span class="caps"&gt;CPU&lt;/span&gt; silicon
+devoted to out-of-order execution …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Apr 2006 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-04-01:/april-2006.html</guid></item><item><title>March 15th, 2006 — Functional Programming in C++ using Boost.Lambda — Bartosz Milewski</title><link>http://nwcpp.org/march-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The power of &lt;span class="caps"&gt;STL&lt;/span&gt; is partially due to its embracing elements of functional programming.
+Algorithms implemented in &lt;span class="caps"&gt;STL&lt;/span&gt;, such as &lt;tt class="docutils literal"&gt;for_each&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;accumulate&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;find&lt;/tt&gt;, etc.,
+have functional customization points.
+You can customize them by providing your own function objects—be …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Mar 2006 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-03-01:/march-2006.html</guid></item><item><title>February 15th, 2006 — The Phoenix Compiler and Tools Framework — Andy Ayers</title><link>http://nwcpp.org/february-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-phoenix-compiler-and-tools-framework-built-from-building-and-building-on-c-cli"&gt;
+&lt;h2&gt;The Phoenix Compiler and Tools Framework: Built From, Building, and Building On C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Phoenix, Microsoft&amp;#8217;s next generation compiler and tools framework,
+is built entirely in C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;.
+Phoenix&amp;#8217;s design leverages both the traditional strengths of C++
+and …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Feb 2006 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-02-01:/february-2006.html</guid></item><item><title>January 18th, 2006 — Policy-Based Memory Allocation — Andrei Alexandrescu</title><link>http://nwcpp.org/january-2006.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Traditionally, memory allocation is approached as a monolithic, rigid design
+influenced by a performance-minded implementation.
+However, compile-time C++ techniques can yield
+a highly flexible and configurable design
+with the same performance profile
+as equivalent hand-implemented designs.
+This talk describes …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Jan 2006 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2006-01-01:/january-2006.html</guid></item><item><title>December 2005: No Meeting</title><link>http://nwcpp.org/december-2005.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Dec 2005 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-12-01:/december-2005.html</guid></item><item><title>November 16th, 2005 — The D Programming Language — Walter Bright</title><link>http://nwcpp.org/november-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Is it possible to have the power and efficiency of C++,
+but in a much easier to use form?
+Walter will contrast C++ and D
+and show how, with D, one can achieve the same or better results
+with …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Nov 2005 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-11-01:/november-2005.html</guid></item><item><title>October 19th, 2005 — C++ in the Trenches — David Brownell</title><link>http://nwcpp.org/october-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A presentation almost 20 years in the making!
+In this meeting, David Brownell will share a grab bag of C++ tips and tricks
+he has learned after 19 years of programming experience.
+Topics include designing with a design in …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Oct 2005 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-10-01:/october-2005.html</guid></item><item><title>September 21st, 2005 — Two Views of C++ — Scott Meyers</title><link>http://nwcpp.org/september-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract-two-views-of-c"&gt;
+&lt;h2&gt;Abstract: Two Views of&amp;nbsp;C++&lt;/h2&gt;
+&lt;p&gt;In 2002, Bertrand Meyer, inventor of Eiffel,
+asked me to give a talk on C++ at &lt;span class="caps"&gt;ETH&lt;/span&gt; in Zurich,
+where he is a member of the Software Engineering faculty.
+Meyer is a well-known C++-hater …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Sep 2005 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-09-01:/september-2005.html</guid></item><item><title>August 17th, 2005 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/august-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Aug 2005 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-08-01:/august-2005.html</guid></item><item><title>July 20th, 2005 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/july-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Jul 2005 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-07-01:/july-2005.html</guid></item><item><title>June 15th, 2005 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/june-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Jun 2005 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-06-01:/june-2005.html</guid></item><item><title>May 18th, 2005 — Writing safer code with the Visual C++ 8.0 Libraries — Martyn Lovell</title><link>http://nwcpp.org/may-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Over the past 5 years,
+Microsoft has conducted extensive and detailed security reviews
+and upgrades of its very large code bases.
+We’ve learnt a lot about how to build safer code,
+and in Visual C++ 8.0, we …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 May 2005 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-05-01:/may-2005.html</guid></item><item><title>April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric Niebler</title><link>http://nwcpp.org/april-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Another C++ regular expression library? Hasn&amp;#8217;t it all been done?&amp;nbsp;No!&lt;/p&gt;
+&lt;p&gt;xpressive pushes the boundaries of compile-time and run-time interaction.
+Regular expressions can be written either as a string to be parsed at runtime,
+or as an expression …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Apr 2005 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-04-01:/april-2005.html</guid></item><item><title>March 23rd, 2005 — Evolving C++ onto the CLI — Stan Lippman</title><link>http://nwcpp.org/march-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;C++ reflects a static object model optimized for executable speed and&amp;nbsp;size.&lt;/p&gt;
+&lt;p&gt;This has made it the language of choice for systems programming.
+The Common Language Infrastructure (&lt;span class="caps"&gt;CLI&lt;/span&gt;) represents a dynamic object model
+optimized for flexibility and security.
+C …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Mar 2005 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-03-01:/march-2005.html</guid></item><item><title>February 9th, 2005 — Dealing with Software Complexity — Bartosz Milewski</title><link>http://nwcpp.org/february-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;One of the big problems in software development
+is that a lot of energy is spent on understanding existing code,
+whether it was written by other programmers or by the current developer long time ago.
+Bartosz will argue that …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Feb 2005 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-02-01:/february-2005.html</guid></item><item><title>January 12th, 2005 — Lock-Free Programming — Andrei Alexandrescu</title><link>http://nwcpp.org/january-2005.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;With the increase of processor clock speeds hitting a snag,
+we&amp;#8217;re facing yet another silent revolution
+in processor architecture and programming style.
+Forget about writing lousy, inefficient code and
+then taking six months off to let Moore&amp;#8217;s …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Jan 2005 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2005-01-01:/january-2005.html</guid></item><item><title>December 2004: No Meeting</title><link>http://nwcpp.org/december-2004.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Dec 2004 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-12-01:/december-2004.html</guid></item><item><title>November 10th, 2004 — STL/CLI — Stan Lippman</title><link>http://nwcpp.org/november-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Building 43, Adams Conference Room&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; — &lt;span class="caps"&gt;STL&lt;/span&gt; containers and generic algorithms for Microsoft .&lt;span class="caps"&gt;NET&lt;/span&gt;
+Framework and &lt;span class="caps"&gt;ECMA&lt;/span&gt; Common Language&amp;nbsp;Infrastructure&lt;/p&gt;
+&lt;p&gt;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; brings C++ idioms to managed code development.
+With templates and &lt;span class="caps"&gt;CLI&lt;/span&gt; Generics, &lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLI&lt;/span&gt; brings the Standard …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Nov 2004 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-11-01:/november-2004.html</guid></item><item><title>October 13th, 2004 — The D Programming Language — Walter Bright</title><link>http://nwcpp.org/october-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The D Programming Language is the result of many years of experience
+with compilers and languages, especially C++.
+C++ is a powerful, groundbreaking language.
+D comes from looking at what works in C++, what doesn&amp;#8217;t work,
+and refactoring …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Oct 2004 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-10-01:/october-2004.html</guid></item><item><title>September 8th, 2004 — Achieving Source-Level Software Portability Using GNU Autoconf, Automake, Libtool, and Make — Robert P. Goddard</title><link>http://nwcpp.org/september-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;If you have ever downloaded &amp;#8220;open-source&amp;#8221; software as source code from &lt;span class="caps"&gt;GNU&lt;/span&gt; or elsewhere,
+you have witnessed the following&amp;nbsp;magic:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+./configure
+make
+make check
+make install
+&lt;/pre&gt;
+&lt;p&gt;after which the software just works, even for very complex packages,
+no matter …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Sep 2004 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-09-01:/september-2004.html</guid></item><item><title>August 11th, 2004 — “Square Table” Meeting — Open Discussion</title><link>http://nwcpp.org/august-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Aug 2004 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-08-01:/august-2004.html</guid></item><item><title>July 14th, 2004 — Roundtable Meeting — Open Discussion</title><link>http://nwcpp.org/july-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Jul 2004 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-07-01:/july-2004.html</guid></item><item><title>June 9th, 2004 — Roundtable Meeting: The Virtues of Linux — Open Discussion</title><link>http://nwcpp.org/june-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Jun 2004 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-06-01:/june-2004.html</guid></item><item><title>May 12th, 2004 — Improving Testability — Dave Catlett</title><link>http://nwcpp.org/may-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="improving-testability-decreasing-the-cost-of-developing-and-maintaining-software-while-increasing-quality"&gt;
+&lt;h2&gt;Improving Testability: Decreasing the cost of developing and maintaining software while increasing&amp;nbsp;quality&lt;/h2&gt;
+&lt;p&gt;Thorough testing can be expensive in terms of time and resources,
+especially if the software component or the systems it interacts with
+are difficult to test.
+It …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 May 2004 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-05-01:/may-2004.html</guid></item><item><title>April 14th, 2004 — Double-Checked Locking, Threads, Compiler Optimizations, and More — Scott Meyers</title><link>http://nwcpp.org/april-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Double-Checked Locking Pattern is a common approach to efficient lazy initialization.
+Unfortunately, it&amp;#8217;s not reliable in threaded systems,
+it can fail for different reasons in uniprocessor and multiprocessor environments,
+and there&amp;#8217;s no portable way to make …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Apr 2004 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-04-01:/april-2004.html</guid></item><item><title>March 8th, 2004 — Code Complete 2: A Decade of Advances in Software Construction — Steve McConnell</title><link>http://nwcpp.org/march-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.overlakehospital.org/conferencecenter/fs.htm"&gt;Overlake Hospital Conference Center&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;1035 116th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington, 98004&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Please note that in order to offset some of the costs necessary to host
+this meeting, there will be a &lt;strong&gt;$10 charge to non-&lt;span class="caps"&gt;NWCPP&lt;/span&gt; and non-&lt;span class="caps"&gt;WSA&lt;/span&gt; members&lt;/strong&gt;.
+Membership in the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is &lt;strong&gt;free&lt;/strong&gt;, and is …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Mar 2004 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-03-01:/march-2004.html</guid></item><item><title>February 11th, 2004 — C++ Development for PocketPC, SmartPhone, and Windows CE — Nishan Jebanasam &amp; Rich Hanbidge</title><link>http://nwcpp.org/february-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Learn about the new native device development feature
+in the next release of Visual Studio.
+This talk will cover developing, debugging and deploying C++ applications
+to Pocket &lt;span class="caps"&gt;PC&lt;/span&gt;, Smartphone and Windows &lt;span class="caps"&gt;CE&lt;/span&gt;.
+It will also cover improvements made since …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Feb 2004 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-02-01:/february-2004.html</guid></item><item><title>January 14th, 2004 — for_each — Eric Niebler</title><link>http://nwcpp.org/january-2004.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Writing loops over sequences is harder in C++ than in other languages,
+many of which provide a dedicated &lt;tt class="docutils literal"&gt;for_each&lt;/tt&gt; looping construct.
+In this talk, Eric describes how to implement and use
+a generic, type-safe and extensible foreach construct in …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Jan 2004 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2004-01-01:/january-2004.html</guid></item><item><title>December 10th, 2003 — The Future of C++ on .NET: A Tour of C++/CLI — Herb Sutter</title><link>http://nwcpp.org/december-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Microsoft Corporation&lt;/div&gt;
+&lt;div class="line"&gt;Building 27, Conference Room 1810 (Olympic)&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In October 2003, a new &lt;span class="caps"&gt;ECMA&lt;/span&gt; standards committee was formed to create an
+international standard for &amp;#8220;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;,&amp;#8221; a set of C++ extensions for .&lt;span class="caps"&gt;NET&lt;/span&gt;
+programming designed by Microsoft in collaboration with C++ industry …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Dec 2003 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-12-01:/december-2003.html</guid></item><item><title>November 10th, 2003 — The Future of C++: A Panel Discussion with the Experts — Andrei Alexandrescu, Scott Meyers, &amp; Herb Sutter</title><link>http://nwcpp.org/november-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.overlakehospital.org/conferencecenter/fs.htm"&gt;Overlake Hospital Conference Center&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;1035 116th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington, 98004&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Please note that in order to offset some of the costs necessary to host
+this meeting, there will be a &lt;strong&gt;$10 charge to non-&lt;span class="caps"&gt;NWCPP&lt;/span&gt; and non-&lt;span class="caps"&gt;WSA&lt;/span&gt; members&lt;/strong&gt;.
+Membership in the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is &lt;strong&gt;free&lt;/strong&gt;, and is …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Nov 2003 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-11-01:/november-2003.html</guid></item><item><title>October 8th, 2003 — Object-Oriented Multithreading in C++ — Bartosz Milewski</title><link>http://nwcpp.org/october-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Traditional procedural approach to thread programming is to create a
+thread and pass it a function to execute. But a function operates on
+data. The data is most likely shared with other threads. In the
+object-oriented world data comes …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Oct 2003 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-10-01:/october-2003.html</guid></item><item><title>September 10th, 2003 — Thread Safe Object—Never Think About Thread Safety Again — David Brownell</title><link>http://nwcpp.org/september-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Ask any developer, and they will tell you that multithreaded programming is hard.
+Very hard.
+One staple of this difficult style of programming
+is the effective and thorough use of mutexes and critical sections.
+Unfortunately this technique can be …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Sep 2003 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-09-01:/september-2003.html</guid></item><item><title>August 2003: No Meeting</title><link>http://nwcpp.org/august-2003.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Aug 2003 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-08-01:/august-2003.html</guid></item><item><title>July 2003: No Meeting</title><link>http://nwcpp.org/july-2003.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Jul 2003 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-07-01:/july-2003.html</guid></item><item><title>June 2003: No Meeting</title><link>http://nwcpp.org/june-2003.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Jun 2003 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-06-01:/june-2003.html</guid></item><item><title>May 14th, 2003 — The Bizarro World of hetero_stack… — Eric Niebler</title><link>http://nwcpp.org/may-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;The Bizarro World of hetero_stack, or How I Learned to Stop Worrying
+and Love &lt;span class="caps"&gt;RTTI&lt;/span&gt;, or Alignment, Exceptions and Type-Safety, Oh My! or
+Subverting the C++ Type System for Fun and&amp;nbsp;Profit.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;hetero_stack is a dynamic replacement for the …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 May 2003 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-05-01:/may-2003.html</guid></item><item><title>April 9th, 2003 — New Features in Visual C++ .NET 2003 — Ed Dudenhoefer</title><link>http://nwcpp.org/april-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;An overview of the newest version of Visual C++, codenamed Everett.
+New features including the &lt;span class="caps"&gt;IDE&lt;/span&gt;, project system, forms designer, compiler,
+debugger, conformance, security and library improvements are explained
+or demonstrated. Tips and possible breaking changes will also be …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Apr 2003 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-04-01:/april-2003.html</guid></item><item><title>March 12th, 2003 — Resource Management in C++ — Bartosz Milewski</title><link>http://nwcpp.org/march-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Everybody knows the adage &amp;#8220;Resource acquisition is initialization.&amp;#8221;
+Not many people know that this simple principle gave rise to the whole
+methodology of Resource Management (&lt;span class="caps"&gt;RM&lt;/span&gt;).
+Bartosz will try to convince us that &lt;span class="caps"&gt;RM&lt;/span&gt; is better than garbage collection …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Mar 2003 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-03-01:/march-2003.html</guid></item><item><title>February 12th, 2003 — Mojo — Andrei Alexandrescu</title><link>http://nwcpp.org/february-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Attend this talk to learn about Mojo, the new framework, library, and
+coding guideline that enables you to pass and return values without
+fearing that copying temporaries is going to ruin runtime performance or
+your code review. Mojo guarantees …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Feb 2003 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-02-01:/february-2003.html</guid></item><item><title>January 8th, 2003 — Unit Testing — Asim Jalis</title><link>http://nwcpp.org/january-2003.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The talk will focus on C/C++ unit testing and test-driven development
+using the CuTest library. CuTest is simple, portable, and follows the
+JUnit look and feel in its output and &lt;span class="caps"&gt;API&lt;/span&gt;. The topics covered will&amp;nbsp;include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction to …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Jan 2003 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2003-01-01:/january-2003.html</guid></item><item><title>December 2002: No Meeting</title><link>http://nwcpp.org/december-2002.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Dec 2002 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-12-01:/december-2002.html</guid></item><item><title>November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David Brownell</title><link>http://nwcpp.org/november-2002.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This presentation will illustrate techniques to ensure code correctness
+at compile time, extend the &lt;span class="caps"&gt;STL&lt;/span&gt;, and enhance C++ using the freely
+available and portable boost libraries,
+&lt;a class="reference external" href="http://www.boost.org"&gt;www.boost.org&lt;/a&gt;. Beginning with brief overviews
+of the boost organization and the …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Nov 2002 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-11-01:/november-2002.html</guid></item><item><title>October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb Sutter</title><link>http://nwcpp.org/october-2002.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;From exception specifications to export, from typedef templates to
+typeof to delegating constructors, this talk analyzes current C++
+features that you should use with care if at all, and important new
+C++0x language features coming soon to a …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Oct 2002 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-10-01:/october-2002.html</guid></item><item><title>September 18th, 2002 — Understanding templates as a form of weak typing — Bruce Eckel</title><link>http://nwcpp.org/september-2002.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;As I learned the Python programming language (see
+&lt;a class="reference external" href="http://www.python.org"&gt;www.Python.org&lt;/a&gt;), I began to understand the
+concept of weak/latent typing (which the Smalltalk programmers are so
+fond of). At first, this seems like a very heretical and dangerous …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Sep 2002 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-09-01:/september-2002.html</guid></item><item><title>August 2002: No Meeting</title><link>http://nwcpp.org/august-2002.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Aug 2002 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-08-01:/august-2002.html</guid></item><item><title>July 2002: No Meeting</title><link>http://nwcpp.org/july-2002.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Jul 2002 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-07-01:/july-2002.html</guid></item><item><title>June 2002: No Meeting</title><link>http://nwcpp.org/june-2002.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Jun 2002 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-06-01:/june-2002.html</guid></item><item><title>May 8th, 2002 — Embedded C++ : An Overview — Robert Blumberg</title><link>http://nwcpp.org/may-2002.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk sets out many of the parameters that are recurrent when
+programming small- to moderately-sized embedded systems in C++. It then
+delves into C++ techniques to work within the resource-limited,
+cost-sensitive, required-robustness confines of embedded systems. These
+techniques …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 May 2002 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-05-01:/may-2002.html</guid></item><item><title>April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei Alexandrescu</title><link>http://nwcpp.org/april-2002.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk presents a couple of new, safe idioms that bring order in your
+C++ multithreaded programs. We will cover three idioms for single-object
+transactions and two idioms for multi-object transactions, with
+examples. Warning: This talk is rated R …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Apr 2002 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-04-01:/april-2002.html</guid></item><item><title>March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between ANSI C++ and the ‘Managed C++’ of .NET — Matthew Griscom</title><link>http://nwcpp.org/march-2002.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microsoft Visual Studio 7 .&lt;span class="caps"&gt;NET&lt;/span&gt; has shipped with improved support for
+&lt;span class="caps"&gt;ANSI&lt;/span&gt; C++. The whole .&lt;span class="caps"&gt;NET&lt;/span&gt; aspect of this tool, discussed extensively in
+this and other forums, is radically new and at first blush is
+incompatible with &lt;span class="caps"&gt;ANSI&lt;/span&gt; C …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Mar 2002 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-03-01:/march-2002.html</guid></item><item><title>February 13th, 2002 — Visual C++ .NET — Christian Harlass</title><link>http://nwcpp.org/february-2002.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microsoft Visual Studio .&lt;span class="caps"&gt;NET&lt;/span&gt; will ship in the coming weeks (at least
+they say so) and everybody is talking about C#, &lt;span class="caps"&gt;VB&lt;/span&gt;, &lt;span class="caps"&gt;ASP&lt;/span&gt;, and &lt;span class="caps"&gt;ADO&lt;/span&gt;. What
+about C++? How does it fit with new technologies? We will explore a …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Feb 2002 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-02-01:/february-2002.html</guid></item><item><title>January 9th, 2002 — Inter-Process Communications Using Shared Memory — Bartosz Milewski</title><link>http://nwcpp.org/january-2002.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;You are stranded on a desert island. All you have is a piece of shared
+memory and a waitable timer. You are supposed to implement robust
+inter-process communications in C++. Bartosz will explain the concept of
+shared memory in …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Jan 2002 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2002-01-01:/january-2002.html</guid></item><item><title>December 12th, 2001 — A C++ Programmer’s Introduction to C# — Mike Moskowitz</title><link>http://nwcpp.org/december-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Dec 2001 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-12-01:/december-2001.html</guid></item><item><title>November 14th, 2001 — JNI: How to use Java and C++ together — Christian Harlass</title><link>http://nwcpp.org/november-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Christian Harlass works with Saxonia Systems, an international
+consulting company based in Germany. He works as a software developer
+and project manager in a Unix, Mac and Windows environment. The idea for
+this presentation comes from his project experiences …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Nov 2001 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-11-01:/november-2001.html</guid></item><item><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s “Dr. GUI”</title><link>http://nwcpp.org/october-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Educational Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;1035 116th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Room A&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;re very fortunate to have &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;, the always entertaining,
+often irreverent, generally accurate source of knowledge of all things
+.&lt;span class="caps"&gt;NET&lt;/span&gt;, come to speak to us in October. If you haven&amp;#8217;t …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Oct 2001 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-10-01:/october-2001.html</guid></item><item><title>September 2001: No Meeting</title><link>http://nwcpp.org/september-2001.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Sep 2001 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-09-01:/september-2001.html</guid></item><item><title>August 2001: No Meeting</title><link>http://nwcpp.org/august-2001.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Aug 2001 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-08-01:/august-2001.html</guid></item><item><title>July 2001: No Meeting</title><link>http://nwcpp.org/july-2001.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Jul 2001 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-07-01:/july-2001.html</guid></item><item><title>June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei Alexandrescu</title><link>http://nwcpp.org/june-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;If you are tired of writing code, this talk is for you. The scam of the
+century - how to get more behavior with less code - will unveil under
+your incredulous eyes. Like in those pyramid schemes, a linear
+code-writing …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Jun 2001 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-06-01:/june-2001.html</guid></item><item><title>May 7th, 2001 — Effective STL Sneak Preview — Scott Meyers</title><link>http://nwcpp.org/may-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;121 107th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We are very fortunate to have Scott Meyers come to speak with us this
+month. Scott of course is the author of &amp;#8220;Effective C++&amp;#8221; and &amp;#8220;More
+Effective C++&amp;#8221;, generally acclaimed as two of the most important books
+ever written …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 May 2001 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-05-01:/may-2001.html</guid></item><item><title>April 11th, 2001 — CPP-Unit Testing Framework — Troy Frever</title><link>http://nwcpp.org/april-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A unit testing framework simplifies the creation of a test suite for a
+software project. It encourages the programmer to write the tests along
+with the code and to run the suite often for verification of code
+changes. Troy …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Apr 2001 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-04-01:/april-2001.html</guid></item><item><title>March 14th, 2001 — XML and C++ — Mike Moskowitz</title><link>http://nwcpp.org/march-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Note: If you attended the &lt;span class="caps"&gt;WSA&lt;/span&gt; Developer&amp;#8217;s Seminar on &lt;span class="caps"&gt;XML&lt;/span&gt;, you know that
+Mike gave a great presentation on &lt;span class="caps"&gt;XML&lt;/span&gt;. But, he didn&amp;#8217;t talk about&amp;nbsp;C++.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Mar 2001 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-03-01:/march-2001.html</guid></item><item><title>February 15th, 2001 — Volatile - Multithreaded Programmer’s Best Friend — Andrei Alexandrescu</title><link>http://nwcpp.org/february-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Wouldn&amp;#8217;t it be great if you could have the compiler help you navigate
+the murky waters of multithreaded programming? This talk delves into the
+under explored issue of volatile-correctness. The exciting discovery is
+- if you follow a couple …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Feb 2001 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-02-01:/february-2001.html</guid></item><item><title>January 8th–9th, 2001 — Microsoft’s .NET Initiative — Jeffrey Richter</title><link>http://nwcpp.org/january-2001.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;121 107th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: The Overlake Hospital Conference Center is off Old Main Street and
+107th in Bellevue, not at the hospital itself. Take Main Street and turn
+North onto 107th, conference center will be on your&amp;nbsp;left.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This is a …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 Jan 2001 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2001-01-01:/january-2001.html</guid></item><item><title>December 2000: No Meeting</title><link>http://nwcpp.org/december-2000.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Dec 2000 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-12-01:/december-2000.html</guid></item><item><title>November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn Lovell</title><link>http://nwcpp.org/november-2000.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Visual Studio 7 is due to be launched early next year, and is
+Microsoft&amp;#8217;s first real deliverable in their .&lt;span class="caps"&gt;NET&lt;/span&gt; initiative. Martyn
+Lovell of Microsoft will give a preview of Visual Studio 7,
+concentrating on C# and &lt;span class="caps"&gt;ASP …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Nov 2000 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-11-01:/november-2000.html</guid></item><item><title>October 2000: No Meeting</title><link>http://nwcpp.org/october-2000.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sun, 01 Oct 2000 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-10-01:/october-2000.html</guid></item><item><title>September 13th, 2000 — Change the Way You Write Exception-Safe Code, Forever — Andrei Alexandrescu</title><link>http://nwcpp.org/september-2000.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk presents the subtle issues associated with writing correct
+code in the presence of exceptions. Writing exception-safe code is a
+must for preserving the sanity of any application. This task is daunting
+because exceptions introduce hidden control flows …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Fri, 01 Sep 2000 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-09-01:/september-2000.html</guid></item><item><title>August 9th, 2000 — Building a High Performance Server Product on Win NT/2000 Using C/C++ — Chris Hickman &amp; Joe Mullally</title><link>http://nwcpp.org/august-2000.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Joe will start by talking about building a high performance server
+product on Win &lt;span class="caps"&gt;NT&lt;/span&gt;/2000 using C/C++.&amp;nbsp;Specifically:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;I/O Completion&amp;nbsp;Ports&lt;/li&gt;
+&lt;li&gt;Object and Context&amp;nbsp;Pooling&lt;/li&gt;
+&lt;li&gt;Protocol and Error&amp;nbsp;Mapping&lt;/li&gt;
+&lt;li&gt;When and How to use Spinlock vs …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Aug 2000 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-08-01:/august-2000.html</guid></item><item><title>July 2000: No Meeting</title><link>http://nwcpp.org/july-2000.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Jul 2000 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-07-01:/july-2000.html</guid></item><item><title>June 2000: No Meeting</title><link>http://nwcpp.org/june-2000.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Thu, 01 Jun 2000 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-06-01:/june-2000.html</guid></item><item><title>May 10th, 2000 — C++ Exceptions — Bobby Schmidt</title><link>http://nwcpp.org/may-2000.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Overview of C++ exceptions, their rationale, and their usage. Followed
+with discussion of standard library support, exception safety
+considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;#8220;gotchas&amp;#8221;
+and wisdom sprinkled throughout :^) Talk assumes you understand the
+rudiments of C …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Mon, 01 May 2000 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-05-01:/may-2000.html</guid></item><item><title>April 12th, 2000 — Testing Object-Oriented Software — Steve Tockey</title><link>http://nwcpp.org/april-2000.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This presentation is an overview of software testing techniques with
+special emphasis on the application of those techniques to
+object-oriented&amp;nbsp;software.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Steve Tockey is Vice President of Consulting at Construx Software in
+Bellevue. Steve has been employed in …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Apr 2000 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-04-01:/april-2000.html</guid></item><item><title>March 8th, 2000 — Real-World Class Design — Mark Wiseman</title><link>http://nwcpp.org/march-2000.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;There is a lot you may need to consider when designing a C++ class
+including ease of use, reusability, extensibility, and portability,
+etc.. All of these considerations may suffer because of the real-world
+pressures of time and money. Mark …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Wed, 01 Mar 2000 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-03-01:/march-2000.html</guid></item><item><title>February 15th, 2000 — Datatypes++, A C++ Class Library for Windows — Tom Dowdell</title><link>http://nwcpp.org/february-2000.html</link><description>&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Tom, a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; member, will introduce his company, Intuitive Edge Corp.,
+and Datatypes++, Intuitive Edge&amp;#8217;s first product. Datatypes++ is a C++
+class library for Windows that extends C++&amp;#8217;s datatypes to text, exact
+numeric, date, time, binary, bitset …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Tue, 01 Feb 2000 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-02-01:/february-2000.html</guid></item><item><title>January 2000: No Meeting</title><link>http://nwcpp.org/january-2000.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nwcpp</dc:creator><pubDate>Sat, 01 Jan 2000 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2000-01-01:/january-2000.html</guid></item></channel></rss>

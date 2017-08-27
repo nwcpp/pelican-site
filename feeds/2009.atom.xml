@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2009</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2009.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2009-12-31T00:00:00-08:00</updated><entry><title>2009</title><link href="http://nwcpp.org/2009-summary.html" rel="alternate"></link><published>2009-12-31T00:00:00-08:00</published><updated>2009-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2009-12-31:/2009-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2009.html"&gt;January 21st, 2009 — Metaprogramming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2009.html"&gt;February 18th, 2009 — &lt;span class="caps"&gt;CCR&lt;/span&gt;: Concurrency and Coordination Runtime — Andreas&amp;nbsp;Ulbrich&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2009.html"&gt;March 18th, 2009 — How Compilers Work — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2009.html"&gt;April 15th, 2009 — Axum: The Language Of Agents — Artur&amp;nbsp;Laksberg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2009.html"&gt;May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2009.html"&gt;January 21st, 2009 — Metaprogramming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2009.html"&gt;February 18th, 2009 — &lt;span class="caps"&gt;CCR&lt;/span&gt;: Concurrency and Coordination Runtime — Andreas&amp;nbsp;Ulbrich&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2009.html"&gt;March 18th, 2009 — How Compilers Work — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2009.html"&gt;April 15th, 2009 — Axum: The Language Of Agents — Artur&amp;nbsp;Laksberg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2009.html"&gt;May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick&amp;nbsp;Molloy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2009.html"&gt;June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2009.html"&gt;July 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2009.html"&gt;August 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2009.html"&gt;September 16th, 2009 — Ownership System Against Data Races — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2009.html"&gt;October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2009.html"&gt;November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill&amp;nbsp;Baxter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2009.html"&gt;December 2009: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>December 2009: No Meeting</title><link href="http://nwcpp.org/december-2009.html" rel="alternate"></link><published>2009-12-01T00:00:00-08:00</published><updated>2009-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-12-01:/december-2009.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 18th, 2009 — Metaprogramming in D : Some Real-world Examples — Bill Baxter</title><link href="http://nwcpp.org/november-2009.html" rel="alternate"></link><published>2009-11-01T00:00:00-07:00</published><updated>2009-11-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-11-01:/november-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In the D Programming Language
+it is possible for even mere mortals to write code that executes at compile-time.
+And the resulting code is generally even human readable!
+In this talk I&amp;#8217;ll show some of the metaprogramming …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In the D Programming Language
+it is possible for even mere mortals to write code that executes at compile-time.
+And the resulting code is generally even human readable!
+In this talk I&amp;#8217;ll show some of the metaprogramming techniques available in D today,
+primarily by examining various tricks I&amp;#8217;ve found useful in my own code —
+in vector and matrix classes, in my port of the OpenMesh C++ library to D, and so on.
+I&amp;#8217;ll make some attempt to relate these back to C++ as well,
+though my threshold for pain is not very&amp;nbsp;high.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bill Baxter is a researcher in the eXtreme Computing Group of Microsoft Research,
+currently working on &lt;span class="caps"&gt;GPU&lt;/span&gt; applications.
+Before moving to Washington earlier this year,
+Bill was a computer graphics researcher and frequent sushi consumer at &lt;span class="caps"&gt;OLM&lt;/span&gt; Digital in Tokyo,
+the company best known for its Pokemon animations.
+Bill has been using C++ for about 15 years, and D for the last three.
+Bill has a Ph.D. in computer science from the University of North Carolina at Chapel Hill.
+Sometimes he can be found strumming a guitar
+to temporarily escape the workaday worries of the&amp;nbsp;world.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2009/NWCPP-D-meta-baxter-11-18-2009.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>October 21st, 2009 — Haskell and C++ Template Metaprogramming — Bartosz Milewski</title><link href="http://nwcpp.org/october-2009.html" rel="alternate"></link><published>2009-10-01T00:00:00-07:00</published><updated>2009-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-10-01:/october-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;It’s a well known fact in C++ metaprogramming circles
+that it’s all based on functional programming.
+What else is based on functional programming?
+Haskell!
+I will go through functional features of Haskell, one by one,
+and …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;It’s a well known fact in C++ metaprogramming circles
+that it’s all based on functional programming.
+What else is based on functional programming?
+Haskell!
+I will go through functional features of Haskell, one by one,
+and show you how they are implemented using C++ templates.
+Functions, recursion, pattern matching, higher-order functions,
+list processing, list comprehension and more…
+No previous contact with Haskell is required,
+although some familiarity with C++ templates will be assumed.
+I’ll also talk about C++0x variadic templates and template parameter&amp;nbsp;packs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, &lt;em&gt;C++ In Action&lt;/em&gt;.
+Bartosz keeps up with the latest developments in &lt;span class="caps"&gt;CS&lt;/span&gt;
+by attending graduate courses and seminars at the &lt;span class="caps"&gt;UW&lt;/span&gt;.
+He actively works on the design of the D language.
+He regularly blogs about programming languages and concurrency at
+&lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2009/Haskell_and_C___Template.pdf"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="http://www.vimeo.com/7211030"&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>September 16th, 2009 — Ownership System Against Data Races — Bartosz Milewski</title><link href="http://nwcpp.org/september-2009.html" rel="alternate"></link><published>2009-09-01T00:00:00-07:00</published><updated>2009-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-09-01:/september-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;After reading a bunch of papers about type systems
+that prevent data races in multithreaded programs,
+I asked myself the question:
+Short of a type system, can a clever methodology be used to prevent data races?
+It turns …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;After reading a bunch of papers about type systems
+that prevent data races in multithreaded programs,
+I asked myself the question:
+Short of a type system, can a clever methodology be used to prevent data races?
+It turns out that clear understanding of what data is shared
+and which operations are inherently unsafe
+goes a long way towards eliminating sources of data races.
+I&amp;#8217;ll talk about monitors, ownership, alias control,
+unique objects and lock-free programming,
+all in the service of race-free&amp;nbsp;concurrency.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz Milewski has a Ph.D. in Theoretical Physics.
+He published several papers on Quantum Gravity and String Theory
+before he switched to programming and Computer Science.
+He was project lead for the Microsoft search engine before the Internet explosion.
+He published a book, &lt;em&gt;C++ In Action&lt;/em&gt;.
+Bartosz keeps up with the latest developments in &lt;span class="caps"&gt;CS&lt;/span&gt;
+by attending graduate courses and seminars at the &lt;span class="caps"&gt;UW&lt;/span&gt;.
+He actively works on the design of the D language.
+He regularly blogs about concurrency at
+&lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2009/Ownership_Systems_against_Data_Races.pdf"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="http://www.vimeo.com/6689999"&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>August 2009: No Meeting</title><link href="http://nwcpp.org/august-2009.html" rel="alternate"></link><published>2009-08-01T00:00:00-07:00</published><updated>2009-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-08-01:/august-2009.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>July 2009: No Meeting</title><link href="http://nwcpp.org/july-2009.html" rel="alternate"></link><published>2009-07-01T00:00:00-07:00</published><updated>2009-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-07-01:/july-2009.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>June 17th, 2009 — Concurrent Programming in the D Programming Language — Walter Bright</title><link href="http://nwcpp.org/june-2009.html" rel="alternate"></link><published>2009-06-01T00:00:00-07:00</published><updated>2009-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-06-01:/june-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many-core concurrent programming offers exciting and compelling advantages.
+The single-core, single-thread programming model
+is assumed by imperative programming languages.
+This model offers sequential consistency as its fundamental characteristic.
+Because many-core systems use layered cache memory systems,
+sequential consistency …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many-core concurrent programming offers exciting and compelling advantages.
+The single-core, single-thread programming model
+is assumed by imperative programming languages.
+This model offers sequential consistency as its fundamental characteristic.
+Because many-core systems use layered cache memory systems,
+sequential consistency is not guaranteed among threads.
+Because imperative programming languages
+allow implicit sharing of data between threads,
+many misguided idioms and optimizations are possible
+that erroneously assume sequential consistency.
+One example of this is the double-checked locking optimization.
+The pernicious nature of these sorts of bugs is
+they defy programmers&amp;#8217; natural intuition about how programs behave,
+they are not statically detectable,
+and there is no way to reliably test a program to rule out the existence of such bugs.
+A program may appear to work, but have problems appear years later,
+fail when ported to a different platform,
+and such problems may be extremely hard to reproduce and&amp;nbsp;track down.
+In essence, the correctness of the program
+relies entirely on the expertise and care of the programmer.
+This is not an acceptable situation for developers of programs that require high&amp;nbsp;reliability.&lt;/p&gt;
+&lt;p&gt;The D programming language is an imperative programming language
+with an innovative type system that prevents implicit sharing
+and also fosters a complete, integrated pure functional subset.
+It is possible to statically verify that D programs do not have sequential consistency bugs.
+The double-checked locking optimization bug is not possible.
+Type support for shared data and immutable data, as well as pure functions,
+means that mutating data interactions between threads
+can occur only under carefully controlled conditions.
+This dramatically reduces the problem space for concurrency bugs
+from the whole of the source code to a small subset of it,
+making it a much more tractable&amp;nbsp;problem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever&amp;nbsp;since.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2009/accu.pdf"&gt;slides&lt;/a&gt; from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>May 20th, 2009 — Concurrency Runtime and Parallel Pattern Library — Dana Groff, Don McCrady, and Rick Molloy</title><link href="http://nwcpp.org/may-2009.html" rel="alternate"></link><published>2009-05-01T00:00:00-07:00</published><updated>2009-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-05-01:/may-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="c-building-scalable-applications-in-visual-studio-2010-with-the-concurrency-runtime-and-parallel-pattern-library"&gt;
+&lt;h2&gt;C++: Building scalable applications in Visual Studio 2010 with the Concurrency Runtime and Parallel Pattern&amp;nbsp;Library&lt;/h2&gt;
+&lt;p&gt;In this talk, we&amp;#8217;ll do a deep dive of the Concurrency Runtime
+and the Parallel Libraries built on top of them,
+and …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="c-building-scalable-applications-in-visual-studio-2010-with-the-concurrency-runtime-and-parallel-pattern-library"&gt;
+&lt;h2&gt;C++: Building scalable applications in Visual Studio 2010 with the Concurrency Runtime and Parallel Pattern&amp;nbsp;Library&lt;/h2&gt;
+&lt;p&gt;In this talk, we&amp;#8217;ll do a deep dive of the Concurrency Runtime
+and the Parallel Libraries built on top of them,
+and talk about what&amp;#8217;s new since the Visual Studio 2010 &lt;span class="caps"&gt;CTP&lt;/span&gt;.
+We&amp;#8217;ll provide a hands on look at how to use the Parallel Pattern Library
+and the Asynchronous Agents Library together
+to express parallelism and maintain responsiveness in applications.
+We&amp;#8217;ll discuss how to use the Concurrency Runtime
+to manage multiple scheduler instances within an application,
+how to extend the Concurrency Runtime itself for additional programming models,
+and how to fulfill quality of service requirements with the Resource Manager.
+Finally we&amp;#8217;ll talk about how the Concurrency Runtime
+takes advantage of the new Windows 7 functionality,
+User Mode Scheduled Threads and support for &amp;gt; 64 processors,
+to enable additional scalability on the Windows&amp;nbsp;Platform.&lt;/p&gt;
+&lt;p&gt;The presentation will be given by members of the Concurrency Runtime team:
+Dana Groff, Don McCrady and Rick&amp;nbsp;Molloy.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>April 15th, 2009 — Axum: The Language Of Agents — Artur Laksberg</title><link href="http://nwcpp.org/april-2009.html" rel="alternate"></link><published>2009-04-01T00:00:00-07:00</published><updated>2009-04-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-04-01:/april-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Axum is an incubation project in Microsoft&amp;#8217;s Parallel Computing Team.
+A .Net programming language based on asynchronous agents, isolation, and message-passing,
+Axum allows developers to partition their applications
+into isolated components that communicate with each other via …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Axum is an incubation project in Microsoft&amp;#8217;s Parallel Computing Team.
+A .Net programming language based on asynchronous agents, isolation, and message-passing,
+Axum allows developers to partition their applications
+into isolated components that communicate with each other via message passing
+and access shared state in a disciplined&amp;nbsp;way.&lt;/p&gt;
+&lt;p&gt;Axum has not yet been released by Microsoft but it is nearing its first public beta.
+Please check out Axum team blog at
+&lt;a class="reference external" href="http://blogs.msdn.com/maestroteam"&gt;http://blogs.msdn.com/maestroteam&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Artur Laksberg is a software design engineer in the Parallel Computing Team at Microsoft.
+During his career, Artur was involved in various projects
+including Visual C++ compiler and &lt;span class="caps"&gt;SQL&lt;/span&gt; Server.
+Over the last year, Artur has been a member of a small team in the Developer Division
+incubating new technologies for parallel programming.
+Native of Estonia, Artur lives in Redmond with his wife and&amp;nbsp;son.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Download the &lt;a class="reference external" href="/talks/2009/Axum_Presentation.pptx"&gt;slides&lt;/a&gt;
+and &lt;a class="reference external" href="/talks/2009/Axum_Presentation_code.zip"&gt;source code&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/li&gt;
+&lt;li&gt;Watch the &lt;a class="reference external" href="http://www.vimeo.com/4438927"&gt;video&lt;/a&gt; for a video of the&amp;nbsp;presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/maestroteam/archive/2009/05/07/the-first-axum-bits-are-now-available.aspx"&gt;Axum is now publicly&amp;nbsp;available!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content></entry><entry><title>March 18th, 2009 — How Compilers Work — Walter Bright</title><link href="http://nwcpp.org/march-2009.html" rel="alternate"></link><published>2009-03-01T00:00:00-08:00</published><updated>2009-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-03-01:/march-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Compilers are a fundamental tool for programmers.
+Knowing how they work enables a much more effective use of them.
+This presentation covers how they work—the various passes like lexing, parsing semantic analysis,
+optimization, and code generation—and …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Compilers are a fundamental tool for programmers.
+Knowing how they work enables a much more effective use of them.
+This presentation covers how they work—the various passes like lexing, parsing semantic analysis,
+optimization, and code generation—and how they fit together to transform source code into executable&amp;nbsp;code.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever since.
+He&amp;#8217;s written compilers for Pascal, &lt;span class="caps"&gt;ABEL&lt;/span&gt;, C, C++, Javascript, Java,
+and now the D programming&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>February 18th, 2009 — CCR: Concurrency and Coordination Runtime — Andreas Ulbrich</title><link href="http://nwcpp.org/february-2009.html" rel="alternate"></link><published>2009-02-01T00:00:00-08:00</published><updated>2009-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-02-01:/february-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Concurrency and Coordination Runtime (&lt;span class="caps"&gt;CCR&lt;/span&gt;)
+provides developers an easy way to create and coordinate
+loosely-coupled, data-driven applications.
+It is one of the core building blocks of Microsoft Robotics Developer Studio
+but has applications far beyond robotics.
+&lt;span class="caps"&gt;CCR …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The Concurrency and Coordination Runtime (&lt;span class="caps"&gt;CCR&lt;/span&gt;)
+provides developers an easy way to create and coordinate
+loosely-coupled, data-driven applications.
+It is one of the core building blocks of Microsoft Robotics Developer Studio
+but has applications far beyond robotics.
+&lt;span class="caps"&gt;CCR&lt;/span&gt; provides a message-passing architecture with powerful orchestration primitives
+enabling the coordination of data and&amp;nbsp;work.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andreas is a Senior Engineer in the Microsoft Robotics Group,
+where he works on &lt;span class="caps"&gt;CCR&lt;/span&gt;, &lt;span class="caps"&gt;DSS&lt;/span&gt;, and the Visual Programming Language.
+Prior to joining Microsoft,
+he worked on telecommunication and interactive television products
+and was a Research Assistant at Technische Universtitaet Berlin in&amp;nbsp;Germany.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Download the &lt;a class="reference external" href="/talks/2009/NWCPP-CCR.pptx"&gt;slides&lt;/a&gt;
+and &lt;a class="reference external" href="/talks/2009/NWCPPDemos.zip"&gt;source code&lt;/a&gt;
+from the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>January 21st, 2009 — Metaprogramming in D — Walter Bright</title><link href="http://nwcpp.org/january-2009.html" rel="alternate"></link><published>2009-01-01T00:00:00-08:00</published><updated>2009-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2009-01-01:/january-2009.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Metaprograms are programs that output other programs.
+They can greatly increase the expressive power of a language.
+Familiar metaprogramming languages are the C text preprocessor and C++ templates.
+Walter will show how some simple language features
+like string …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Metaprograms are programs that output other programs.
+They can greatly increase the expressive power of a language.
+Familiar metaprogramming languages are the C text preprocessor and C++ templates.
+Walter will show how some simple language features
+like string mixins and compile time function execution
+can lead to powerful metaprogramming facilities,
+with examples in the D programming&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright graduated from Caltech in 1979 with a degree in mechanical engineering.
+He worked for Boeing for 3 years on the development of the 757 stabilizer trim system.
+He then switched to writing software, in particular compilers,
+and has been writing them ever since.
+He&amp;#8217;s written compilers for Pascal, &lt;span class="caps"&gt;ABEL&lt;/span&gt;, C, C++, Javascript, Java,
+and now the D programming&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Watch the &lt;a class="reference external" href="http://www.vimeo.com/4333802"&gt;video&lt;/a&gt; of the&amp;nbsp;presentation.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry></feed>

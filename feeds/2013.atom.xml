@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2013</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2013.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-12-31T00:00:00-08:00</updated><entry><title>2013</title><link href="http://nwcpp.org/2013-summary.html" rel="alternate"></link><published>2013-12-31T00:00:00-08:00</published><updated>2013-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-12-31:/2013-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2013.html"&gt;January 16th,&amp;nbsp;2013 — Metadata and reflection in C++ — Jeff&amp;nbsp;Tucker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2013.html"&gt;February 20th, 2013 — Component Programming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2013.html"&gt;March 20th, 2013 — Profile Guided Optimization — Ankit&amp;nbsp;Asthana&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2013.html"&gt;April 17, 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2013.html"&gt;May 15th, 2013 — C++ In the Post-&lt;span class="caps"&gt;PC&lt;/span&gt; Era — Diego&amp;nbsp;Dagum&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2013.html"&gt;June 19th, 2013 — Multi-Platform Applications with Qt …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2013.html"&gt;January 16th,&amp;nbsp;2013 — Metadata and reflection in C++ — Jeff&amp;nbsp;Tucker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2013.html"&gt;February 20th, 2013 — Component Programming in D — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2013.html"&gt;March 20th, 2013 — Profile Guided Optimization — Ankit&amp;nbsp;Asthana&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2013.html"&gt;April 17, 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2013.html"&gt;May 15th, 2013 — C++ In the Post-&lt;span class="caps"&gt;PC&lt;/span&gt; Era — Diego&amp;nbsp;Dagum&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2013.html"&gt;June 19th, 2013 — Multi-Platform Applications with Qt — Tuukka&amp;nbsp;Ahoniemi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2013.html"&gt;July 17th, 2013 — The Universal Reference/Overloading Collision Conundrum — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2013.html"&gt;August 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2013.html"&gt;September 18th, 2013 — Stability in Numerical Programming: An Introduction — Robert&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2013.html"&gt;October 16th, 2013 — New Adventures in C++ with Cinder and More — Ale&amp;nbsp;Contenti&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2013.html"&gt;November 20th, 2013 — Real Time Debugging — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2013.html"&gt;December 2013: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>December 2013: No Meeting</title><link href="http://nwcpp.org/december-2013.html" rel="alternate"></link><published>2013-12-01T00:00:00-08:00</published><updated>2013-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2013-12-01:/december-2013.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 20, 2013—Real Time Debugging—Lloyd Moore</title><link href="http://nwcpp.org/november-2013.html" rel="alternate"></link><published>2013-11-01T00:00:00-07:00</published><updated>2013-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-11-01:/november-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;November 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.amazon.com/gp/jobs"&gt;Amazon Global Inventory Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Debugging real time issues
+present a unique set of challenges and requirements to the …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;November 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.amazon.com/gp/jobs"&gt;Amazon Global Inventory Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Debugging real time issues
+present a unique set of challenges and requirements to the developer.
+Normal debugging techniques such as breakpoints, printf statements, and logging
+frequently fail to locate the problem and can actually make the issue worse.
+This presentation will examine why common debugging techniques fail
+when applied to real time issues,
+and then present tools and techniques
+which can successfully address the unique challenges of real time&amp;nbsp;debugging.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Lloyd Moore is the founder and owner of
+&lt;a class="reference external" href="http://www.cyberdata-robotics.com/"&gt;CyberData Corporation&lt;/a&gt;,
+which provides consulting services
+in the robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 25 years,
+with his formal training in biological-based artificial intelligence,
+electronics, and psychology.
+Lloyd is also currently the president of &lt;span class="caps"&gt;NWCPP&lt;/span&gt;
+and organizer of the &lt;a class="reference external" href="http://www.robothon.org"&gt;Seattle Robotics Society Robothon&lt;/a&gt;&amp;nbsp;event.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/rCrO0zJ4PqI"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="http://www.slideshare.net/LloydMoore/real-time-debugging"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>October 16, 2013—New Adventures in C++ with Cinder and More—Ale Contenti</title><link href="http://nwcpp.org/october-2013.html" rel="alternate"></link><published>2013-10-01T00:00:00-07:00</published><updated>2013-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-10-01:/october-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 16th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for sandwiches and salads
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.xtremeconsulting.com/"&gt;Xtreme Consulting&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Play and be productive with modern C++, graphics, on-the-fly projects and more!
+Starting from the latest
+&lt;a class="reference external" href="http://channel9.msdn.com/Events/GoingNative/2013"&gt;Going Native 2013&lt;/a&gt;
+talks as …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 16th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for sandwiches and salads
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.xtremeconsulting.com/"&gt;Xtreme Consulting&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Play and be productive with modern C++, graphics, on-the-fly projects and more!
+Starting from the latest
+&lt;a class="reference external" href="http://channel9.msdn.com/Events/GoingNative/2013"&gt;Going Native 2013&lt;/a&gt;
+talks as an inspiration,
+we will explore how easy is to mold ideas into graphics apps
+with C++ and &lt;a class="reference external" href="http://libcinder.org/"&gt;Cinder&lt;/a&gt;,
+and how simple tools and techniques can help us be more productive in Visual&amp;nbsp;Studio!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Alessandro Contenti works as a Principal Development Manager
+in the Visual C++ team in Microsoft, Redmond.
+He oversees the development of the C++ FrontEnd Compiler,
+C++ &lt;span class="caps"&gt;AMP&lt;/span&gt;, the C++ &lt;span class="caps"&gt;IDE&lt;/span&gt;, the Graphics debugging tools,
+and the C++ Libraries shipped as part of Visual Studio.
+He has been working in Microsoft since June 2000:
+He worked as a developer on Team Server (a precursor of &lt;span class="caps"&gt;TFS&lt;/span&gt;),
+Venus (codename for Visual Web Developer), and Visual C++.
+Alessandro Contenti graduated in 1998 (magna cum laude)
+from Politecnico di Milano Master &lt;span class="caps"&gt;CS&lt;/span&gt; program
+and studied for 7 months at the École Polytechnique (aka X) in Paris,
+where he developed his thesis on functional languages.
+He currently lives in Seattle
+and he&amp;#8217;s the busy and proud father of ~4 years old twin&amp;nbsp;boys.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/hwHYJM2GV1U"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2013/new-adventures-in-cpp.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>September 18, 2013—Stability in Numerical Programming: An Introduction—Robert Goddard</title><link href="http://nwcpp.org/september-2013.html" rel="alternate"></link><published>2013-09-05T00:00:00-07:00</published><updated>2013-09-05T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-09-05:/september-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;September 18th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.km.kongsberg.com/"&gt;Kongsberg Underwater Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many numerical algorithms involve feedback loops
+in which the results of each step of the algorithm
+act as inputs to the following …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;September 18th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.km.kongsberg.com/"&gt;Kongsberg Underwater Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Many numerical algorithms involve feedback loops
+in which the results of each step of the algorithm
+act as inputs to the following&amp;nbsp;steps.&lt;/p&gt;
+&lt;p&gt;Examples include numerical solution of differential equations,
+filtering of sound (or other signals) using &lt;span class="caps"&gt;IIR&lt;/span&gt; (Infinite Impulse Response) filters,
+and control of device motion.
+Inevitably, small numerical errors are introduced at each step.
+In an unstable algorithm, the effects of those errors grow in subsequent feedback steps,
+eventually dominating over the &amp;#8220;right&amp;#8221; answer you are looking for.
+In a stable system, the effects of errors shrink,
+or at least do not grow, in subsequent steps.
+The consequences of instability vary from &amp;#8220;Huh?&amp;#8221; through &amp;#8220;aw, &amp;amp;%&amp;#64;%)$^&amp;amp;%*&amp;#8221; to&amp;nbsp;death.&lt;/p&gt;
+&lt;p&gt;In this talk, I will show examples of unstable and stable algorithms,
+investigate the differences,
+and introduce some methods for making sure your algorithms are stable.
+The presentation will include some college-level mathematics,
+but the emphasis will be on understanding
+why instability happens and how to avoid&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;The examples will be in C++, but the principles are not language-specific.
+This seminar will build on the general principles
+outlined in my &lt;a class="reference external" href="http://nwcpp.org/november-2011.html"&gt;previous &lt;span class="caps"&gt;NWCPP&lt;/span&gt; talk&lt;/a&gt;
+in November 2011, entitled &amp;#8220;Introduction to Scientific Computing.&amp;#8221;
+This talk begins where that one ends:
+with a demonstration of an unstable algorithm for solving a differential equation.
+(Sorry about the sound in that video.
+We have improved our technology since then, with your help.&amp;nbsp;Thanks.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Robert P. Goddard, Ph.D.&lt;/div&gt;
+&lt;div class="line"&gt;Principal Physicist, Applied Physics Laboratory, University of Washington&lt;/div&gt;
+&lt;div class="line"&gt;Treasurer (a.k.a. hat-passer), Northwest C++ Users&amp;#8217; Group&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Robert Goddard is a physicist and software developer.
+For the last 32 years, he has worked at
+the Applied Physics Laboratory of the University of Washington,
+mainly on computer modeling of underwater sound.
+He is the architect and team leader for the Sonar Simulation Toolset (&lt;span class="caps"&gt;SST&lt;/span&gt;),
+which produces simulated underwater sound,
+suitable as input to sophisticated signal processing systems
+(including human ears and brains),
+based on user-specified descriptions of the undersea environment,
+the listening system, and the sound sources and targets that might be out there.
+He has also developed systems for control of measurement devices,
+data analysis, visualization, modeling of quantum mechanical scattering,
+and optimization of parameter values to fit&amp;nbsp;observations.&lt;/p&gt;
+&lt;p&gt;Bob has been an active participant in &lt;span class="caps"&gt;NWCPP&lt;/span&gt; for most of its existence,
+and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/amez0WdSJX8"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2013/Stability.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>August 2013: No Meeting</title><link href="http://nwcpp.org/august-2013.html" rel="alternate"></link><published>2013-08-01T00:00:00-07:00</published><updated>2013-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2013-08-01:/august-2013.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>July 17, 2013—The Universal Reference/Overloading Collision Conundrum—Scott Meyers</title><link href="http://nwcpp.org/july-2013.html" rel="alternate"></link><published>2013-06-25T00:00:00-07:00</published><updated>2013-06-25T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-06-25:/july-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;July 17th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1261–Constance&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.f5.com/about/careers/"&gt;F5 Networks&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;To help address the confusion that arises
+when rvalue references become lvalue references through reference collapsing,
+Scott Meyers introduced the notion of &amp;#8220;universal …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;July 17th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1261–Constance&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.f5.com/about/careers/"&gt;F5 Networks&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;To help address the confusion that arises
+when rvalue references become lvalue references through reference collapsing,
+Scott Meyers introduced the notion of &amp;#8220;universal references.&amp;#8221;
+In this presentation, he builds on this foundation
+by explaining that overloading functions on rvalue references is sensible and useful,
+while seemingly similar overloading on universal references
+yields confusing, unhelpful behavior.
+But what do you do when you want to write a perfect forwarding function
+(which requires universal references),
+yet you want to customize its behavior for certain types?
+If overloading is off the table, what&amp;#8217;s on?
+In this talk, Scott surveys a variety of&amp;nbsp;options.&lt;/p&gt;
+&lt;p&gt;Though Scott will give a one-slide overview
+of the idea behind universal references at the beginning of the presentation,
+attendees are encouraged to familiarize themselves with the notion
+in more detail prior to the talk.
+Links to written and video introductions to universal references are available
+&lt;a class="reference external" href="http://scottmeyers.blogspot.com/2012/11/universal-references-in-c11-now-online.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://aristeia.com/"&gt;Scott Meyers&lt;/a&gt; is one of the world&amp;#8217;s foremost authorities on C++.
+He wrote the best-selling &lt;em&gt;Effective C++&lt;/em&gt; series
+(&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-92488-9/"&gt;Effective C++&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-63371-X/"&gt;More Effective C++&lt;/a&gt;,
+and &lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-74962-9/"&gt;Effective &lt;span class="caps"&gt;STL&lt;/span&gt;&lt;/a&gt;);
+published and maintains the annotated training materials
+&lt;a class="reference external" href="http://www.artima.com/shop/overview_of_the_new_cpp"&gt;Overview of the New C++ (C++11)&lt;/a&gt;
+and &lt;a class="reference external" href="http://www.artima.com/shop/effective_cpp_in_an_embedded_environment"&gt;Effective C++ in an Embedded Environment&lt;/a&gt;;
+is Consulting Editor for Addison Wesley&amp;#8217;s
+&lt;a class="reference external" href="http://www.informit.com/imprint/series_detail.aspx?st=61267"&gt;Effective Software Development Series&lt;/a&gt;,
+and, with Herb Sutter and Andrei Alexandrescu, is a principal in
+&lt;a class="reference external" href="http://cppandbeyond.com/"&gt;C++ and Beyond&lt;/a&gt;.
+He has a Ph.D in Computer Science from Brown University.
+He&amp;#8217;s currently working on a new book, Effective C++11/14,
+which he hopes to publish in early&amp;nbsp;2014.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/T5swP3dr190"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2013/URefs-and-Overloading-revised.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>June 19, 2013—Multi-Platform Applications with Qt—Tuukka Ahoniemi</title><link href="http://nwcpp.org/june-2013.html" rel="alternate"></link><published>2013-05-29T00:00:00-07:00</published><updated>2013-05-29T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-05-29:/june-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;June 19th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.coverity.com/"&gt;Coverity&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Software services often have a requirement
+to run on multiple different platforms and operating systems.
+A basic use case of a cross-platform software service …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;June 19th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.coverity.com/"&gt;Coverity&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Software services often have a requirement
+to run on multiple different platforms and operating systems.
+A basic use case of a cross-platform software service
+is to target across different desktop operating systems
+with the same code base.
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Qt_(framework)"&gt;Qt&lt;/a&gt;
+is a cross-platform application and user interface framework for C++
+that allows you to use the same code and deploy to multiple platforms.
+Going across different desktop operating systems
+has been the backbone for Qt users for over 15 years.
+Qt is well adopted within the Linux world,
+especially within the &lt;span class="caps"&gt;KDE&lt;/span&gt; community
+together with which Qt started way back then,
+forming the basis for &lt;span class="caps"&gt;KDE&lt;/span&gt;&amp;nbsp;applications.&lt;/p&gt;
+&lt;p&gt;Since the past decade
+the way software is used has changed
+from just personal computers to mobile phones
+and then lately to tablets, cars
+and all kinds of other different connected embedded devices.
+Regardless of being the same application
+the user experience can vary a lot across these different platforms.
+This adds a lot to the requirements of writing these software services:
+How to target all these different platforms with different user experiences
+and still try to maintain a reasonable workload,
+or not to re-write the application in its entirety for all the&amp;nbsp;platforms.&lt;/p&gt;
+&lt;p&gt;Qt in year 2013 with Qt 5 introduces technical enablers
+for creating modern, truly multi-platform applications
+that are written with Qt/C++
+and besides desktop OSs can run on Android, iOS, BlackBerry 10, embedded Linux,
+Windows Embedded and various Real-Time Operating Systems.
+With Qt Quick, the &lt;span class="caps"&gt;UI&lt;/span&gt; layout can be easily customized
+to match the desired user experience on the various devices
+yet re-using the same application&amp;nbsp;code.&lt;/p&gt;
+&lt;p&gt;In this talk, I will introduce Qt 5
+and discuss approaches on how to create multi-platform C++ applications
+with Qt from a technical and architectural perspective.
+No previous Qt knowledge required.
+Live coding is going to take&amp;nbsp;place.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.cs.tut.fi/~ahoniemt/"&gt;Tuukka Ahoniemi&lt;/a&gt;
+works as a technical product marketing manager for
+&lt;a class="reference external" href="http://qt.digia.com/"&gt;Qt by Digia&lt;/a&gt;.
+For the past years he has traveled around the world
+spreading the message of Qt supremacy
+in the form of having held over 100 Qt training courses,
+speaking in various conferences and trade shows.
+Still trying to “finish” his PhD
+he holds a M.Sc (tech) in Computer Sciences
+with the background in academic teaching of C++ programming and research around it.
+Still being passionate about teaching
+he is a certified Qt trainer,
+Nokia Developer Certified Trainer, Certified Qt Specialist
+and a Nokia Developer&amp;nbsp;Champion.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=lCyfWRef5Oo"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2013/Multi_platform_apps_with_Qt.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>May 15, 2013—C++ In the Post-PC Era—Diego Dagum</title><link href="http://nwcpp.org/may-2013.html" rel="alternate"></link><published>2013-04-30T00:00:00-07:00</published><updated>2013-04-30T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-30:/may-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;May 15th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Smartphones and tablets made personal computing more personal than ever.
+This post-&lt;span class="caps"&gt;PC&lt;/span&gt; era, with its new platforms and technologies,
+disrupted how developers design, build and deliver software.
+Moreover the fact the traditional …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;May 15th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Smartphones and tablets made personal computing more personal than ever.
+This post-&lt;span class="caps"&gt;PC&lt;/span&gt; era, with its new platforms and technologies,
+disrupted how developers design, build and deliver software.
+Moreover the fact the traditional &lt;span class="caps"&gt;PC&lt;/span&gt; renewal / replacement cycle is now longer
+confirms the notion that attention has shifted to the new form&amp;nbsp;factors.&lt;/p&gt;
+&lt;p&gt;What role do C++ and C++ developers play in this new&amp;nbsp;scenario?&lt;/p&gt;
+&lt;p&gt;In this talk, Diego reviews aspects that make C++ unique for &lt;span class="caps"&gt;ARM&lt;/span&gt;-based development,
+together with the many challenges and overlooked costs
+that C++ developers face when jumping in.
+Diego shows how the leading platforms enable C++ through technologies and tools.
+He also discusses the state-of-the art in cross-platform approaches with their pros and&amp;nbsp;cons.&lt;/p&gt;
+&lt;p&gt;You’ll leave this talk with a panorama of the many ways
+to use C++ in the post-&lt;span class="caps"&gt;PC&lt;/span&gt; world,
+what’s already achieved and what still needs to be&amp;nbsp;done.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.linkedin.com/in/diegum"&gt;Diego Dagum&lt;/a&gt;
+is a professional developer and architect.
+He got his first job in C-language back in 1991.
+The new century, though, caught him applying Java during the first dot-com wave.
+During the last decade, he focused more in the .&lt;span class="caps"&gt;NET&lt;/span&gt; platform.
+However, Diego’s all-times passion is C++,
+precisely because he considers that true developers don’t need to be&amp;nbsp;managed.&lt;/p&gt;
+&lt;p&gt;Beside software development,
+he writes the column “New Age C++” for
+&lt;a class="reference external" href="http://visualstudiomagazine.com/articles/list/new-age-c.aspx"&gt;Visual Studio Magazine&lt;/a&gt;.
+You can follow him on Twitter, &lt;a class="reference external" href="http://twitter.com/diedagum"&gt;&amp;#64;diedagum&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=hg7HhkbbEz4"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2013/Cpp-post-pc.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>April 17, 2013—No Meeting</title><link href="http://nwcpp.org/april-2013.html" rel="alternate"></link><published>2013-04-08T00:00:00-07:00</published><updated>2013-04-08T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-04-08:/april-2013.html</id><summary type="html">&lt;p&gt;The April 2013 Meeting has been rescheduled to&amp;nbsp;July.&lt;/p&gt;
+&lt;p&gt;The speaker is unavailable, board members are not available to record talks,
+and we had no pizza&amp;nbsp;provider.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;The April 2013 Meeting has been rescheduled to&amp;nbsp;July.&lt;/p&gt;
+&lt;p&gt;The speaker is unavailable, board members are not available to record talks,
+and we had no pizza&amp;nbsp;provider.&lt;/p&gt;
+</content></entry><entry><title>March 20, 2013—Profile Guided Optimization—Ankit Asthana</title><link href="http://nwcpp.org/march-2013.html" rel="alternate"></link><published>2013-03-02T00:00:00-08:00</published><updated>2013-03-02T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-03-02:/march-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+Gordon&amp;nbsp;Churchill.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk focuses on one of critical optimization
+provided as a part of the &lt;span class="caps"&gt;VC&lt;/span&gt;++ compiler:
+‘Profile Guided Optimization (&lt;span class="caps"&gt;PGO&lt;/span&gt;)’.
+&lt;span class="caps"&gt;PGO&lt;/span&gt; in simple …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+41"&gt;Building 41/1511–Townsend&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+Gordon&amp;nbsp;Churchill.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk focuses on one of critical optimization
+provided as a part of the &lt;span class="caps"&gt;VC&lt;/span&gt;++ compiler:
+‘Profile Guided Optimization (&lt;span class="caps"&gt;PGO&lt;/span&gt;)’.
+&lt;span class="caps"&gt;PGO&lt;/span&gt; in simple words is somewhat a major component
+of the secret sauce for high performant Microsoft internal products
+(Windows, Internet Explorer, Lync, Office, Surface and many others).
+To summarize, &lt;span class="caps"&gt;PGO&lt;/span&gt; helps in improving the runtime performance
+of the application by training it for a set of common user scenarios.
+This talk will go over a brief description of this optimization,
+the improvements that we have made recently
+followed by an exercise and demo on how &lt;span class="caps"&gt;PGO&lt;/span&gt; can be performed
+to performance boost your native&amp;nbsp;application.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Ankit Asthana is a program manager for the backend C/C++ compiler.
+He is knowledgeable in compiler technologies
+(dynamic and static compilation, optimizer, code generation),
+distributed computing and server side development.
+He has in the past worked for &lt;span class="caps"&gt;IBM&lt;/span&gt; and Oracle Canada
+as a developer building Java 7 (hotspot) and telecommunication products.
+Ankit back in 2008 also published a book on C++ titled
+&lt;a class="reference external" href="http://www.amazon.com/C-Beginners-Masters-Ankit-Asthana/dp/8122420249"&gt;C++ for Beginners to Masters&lt;/a&gt;
+which sold over a few thousand&amp;nbsp;copies.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=zEsdBcu4R00"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2013/ProfileGuidedOptimizationMarch21st.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>February 20, 2013—Component Programming in D—Walter Bright</title><link href="http://nwcpp.org/february-2013.html" rel="alternate"></link><published>2013-01-27T00:00:00-08:00</published><updated>2013-01-27T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-27:/february-2013.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;February 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://http://aws.amazon.com/"&gt;Amazon Web Services&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The idea of writing reusable software is as old as programming,
+and is so well …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;February 20th, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://http://aws.amazon.com/"&gt;Amazon Web Services&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The idea of writing reusable software is as old as programming,
+and is so well ingrained into programmers that we take it as an axiom.
+It&amp;#8217;s accepted, and non-controversial.
+Of course we all strive to produce reusable software;
+after all, we&amp;#8217;re professionals.
+But as I look back on 35 years of programming,
+I note with chagrin that practically none of the code I&amp;#8217;ve written
+has been usable in another project.
+I will &amp;#8216;reuse&amp;#8217; code by copy-paste-modify, but that&amp;#8217;s cheating,
+and even that doesn&amp;#8217;t happen too often.
+Somehow, I seemed to have missed the boat somewhere.
+I ask other long-time programmers,
+and they seem to have the same frustrating experience.
+This starts out, then, as a journey into figuring out what went wrong.
+Why does that hash table I wrote before not work in another project?
+Why is my macro expander not reusable?
+Why did I chuck all my carefully written &lt;span class="caps"&gt;UTF&lt;/span&gt; code?
+Why do I write symbol tables over (and over again)?
+Why is that disassembler I wrote completely unusable in another application?
+Why do I keep reinventing the&amp;nbsp;wheel?&lt;/p&gt;
+&lt;p&gt;This talk tries to answer that question,
+and delves into how component programming works
+and how it can address code&amp;nbsp;reusability.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.walterbright.com/"&gt;Walter Bright&lt;/a&gt;
+is the creator and first implementer of the D programming language
+and has implemented compilers for several other languages.
+He&amp;#8217;s an expert in all areas of compiler technology,
+including front ends, optimizers, code generation,
+interpreter engines, and runtime libraries.
+Walter regularly writes articles about compilers and programming,
+is known for engaging and informative presentations,
+and provides training in compiler development techniques.
+Many are surprised to discover that
+Walter is also the creator of the wargame Empire,
+which is still popular today over 30 years after its&amp;nbsp;debut.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=0cX1f41Fnkc"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2013/ComponentProgrammingInD.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>January 16, 2013 — Metadata and reflection in C++ — Jeff Tucker</title><link href="http://nwcpp.org/january-2013.html" rel="alternate"></link><published>2013-01-03T00:00:00-08:00</published><updated>2013-01-03T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-03:/january-2013.html</id><summary type="html">&lt;p&gt;Please &lt;a class="reference external" href="http://nwcpp.org/camera-donations.html"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 16, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad Technologies&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A robust reflection/metadata system in C++ can be extremely …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Please &lt;a class="reference external" href="http://nwcpp.org/camera-donations.html"&gt;donate towards better video recordings&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 16, 2013 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;Note: Cafeteria, not our normal meeting room&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad Technologies&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A robust reflection/metadata system in C++ can be extremely powerful
+and has many applications, particularly in game programming.
+It can facilitate sophisticated debug output and logging,
+trivial factory implementation,
+automatic serialization and deserialization for any arbitrary object,
+automatic binding to a &lt;span class="caps"&gt;GUI&lt;/span&gt; system,
+and even automatic binding of objects and functions to a scripting language
+(both Lua and Python are popular).
+The typeinfo/&lt;span class="caps"&gt;RTTI&lt;/span&gt; system currently in C++ however
+is simply not up to this level of functionality,
+so a more sophisticated solution is necessary.
+In this talk, I will implement a simple, yet powerful, meta reflection system in C++,
+completely from scratch,
+and using test-driven development.
+I will also show how I leverage a similar system in my own game engine.
+Finally, I promise there will be no more than three PowerPoint&amp;nbsp;slides.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Jeff Tucker is a &lt;a class="reference external" href="https://www.digipen.edu/academics/faculty/department-of-computer-science/#c31719"&gt;lecturer of Computer Science&lt;/a&gt;
+at DigiPen Institute of Technology,
+where he teaches classes on networking, databases, programming, and
+software engineering.
+He has been a software engineer for the past 13 years
+and formerly worked at Microsoft on the Windows Core Networking team.
+He also currently does research in procedural content generation
+and graphics algorithms as well as making computer&amp;nbsp;games.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/57720314"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2013/MetaReflectionDemo.zip"&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry></feed>

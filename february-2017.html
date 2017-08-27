@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>February 15th 2017: C++ Move constructors again now that we can use them</title>
+        <link rel="stylesheet" href="./theme/css/nwcpp.css" />
+        <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users’ Group Atom Feed" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <div class="title">
+                    <img src="./theme/images/icons/nwcpplogo.png" />
+                    <h1><a href="./">Northwest C++ Users’ Group </a></h1>
+                </div>
+                <nav><ul>
+                    <li><a href="./category/2000.html">2000</a></li>
+                    <li><a href="./category/2001.html">2001</a></li>
+                    <li><a href="./category/2002.html">2002</a></li>
+                    <li><a href="./category/2003.html">2003</a></li>
+                    <li><a href="./category/2004.html">2004</a></li>
+                    <li><a href="./category/2005.html">2005</a></li>
+                    <li><a href="./category/2006.html">2006</a></li>
+                    <li><a href="./category/2007.html">2007</a></li>
+                    <li><a href="./category/2008.html">2008</a></li>
+                    <li><a href="./category/2009.html">2009</a></li>
+                    <li><a href="./category/2010.html">2010</a></li>
+                    <li><a href="./category/2011.html">2011</a></li>
+                    <li><a href="./category/2012.html">2012</a></li>
+                    <li><a href="./category/2013.html">2013</a></li>
+                    <li><a href="./category/2014.html">2014</a></li>
+                    <li><a href="./category/2015.html">2015</a></li>
+                    <li><a href="./category/2016.html">2016</a></li>
+                    <li class="active"><a href="./category/2017.html">2017</a></li>
+                    <li><a href="./category/about.html">about</a></li>
+                    <li><a href="./category/locations.html">locations</a></li>
+                    <li><a href="./category/misc.html">misc</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+        <div class="content-wrapper">
+            <div class="sidebar">
+                <h2>Conferences</h2>
+                    <ul>
+                            <li><a href="http://cppcon.org">CPPCon 2016 Homepage</a></li>
+                            <li><a href="http://cppcon.org/registration/">CPPCon 2016 Registration</a></li>
+                    </ul>
+                <h2>Jobs</h2>
+                    <ul>
+                            <li><a href="http://www.aerotek.com/employment-agency/"><img src="./theme/images/icons/aerotek_logo.png" height="24" width="24" alt="Aerotek"/></a></li>
+                            <li><a href="http://akvelon.com/careers/"><img src="./theme/images/icons/akvelon.png" height="24" width="24" alt="Akvelon"/></a></li>
+                            <li><a href="http://apps.collabera.com/jobs/"><img src="./theme/images/icons/Collabera_Logo.png" height="24" width="24" alt="Collabera"/></a></li>
+                            <li><a href="http://www.mbg.com"><img src="./theme/images/icons/mbg.jpg" height="24" width="24" alt="Mainz Brady Group"/></a></li>
+                            <li><a href="http://jobs.protingent.com/"><img src="./theme/images/icons/protingent_masthead_logo_new.png" height="24" width="24" alt="Protingent"/></a></li>
+                            <li><a href="http://www.dli.com"><img src="./theme/images/icons/DLI_Badge_FINAL.JPG" height="24" width="24" alt="Design Laboratories, Inc."/></a></li>
+                            <li><a href="http://www.populusgroup.com/jobs/contract-direct-hire"><img src="./theme/images/icons/populus.JPG" height="24" width="24" alt="Populus Group"/></a></li>
+                    </ul>
+                <div class="sponsor-logo">
+                    <a href="http://shop.oreilly.com"><img src="./theme/images/icons/oreilly_discount.gif" /></a>
+                </div>
+            </div>
+            <div class="main-content">
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="./february-2017.html" rel="bookmark"
+           title="Permalink to February 15th 2017: C++ Move constructors again now that we can use them">February 15th 2017: C++ Move constructors again now that we can use&nbsp;them</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2017-02-01T00:00:00-08:00">
+                Published: Wed 01 February 2017
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="./category/2017.html">2017</a>. </p>
+
+</footer><!-- /.post-info -->      <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<p><span class="caps">NOTE</span>: We are in Building 37, room 1717 this month. This is <span class="caps">NOT</span> our normal meeting&nbsp;room!!!</p>
+<div class="line-block">
+<div class="line">February 15th, 2017 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Room 1717, <a class="reference external" href="https://www.bing.com/maps?v=2&amp;cp=47.6385125270791~-122.126272380441&amp;lvl=16&amp;dir=0&amp;sty=r&amp;rtp=~pos.47.6385125270791_-122.126272380441_near%2016071+NE+36th+Way%2C+Redmond%2C+WA+98052___a_&amp;mode=D&amp;rtop=0~0~0~&amp;encType=1&amp;q=16071+NE+36th+Way%2C+Redmond%2C+WA+98052">Building 37 Room 1717</a>,</div>
+<div class="line">Microsoft Campus,</div>
+<div class="line">16071 <span class="caps">NE</span> 36th Way,</div>
+<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
+</div>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>Back in 2008 or so we got our first introduction to move constructors that were coming with the C++0X standard.  However, our compilers didn&#8217;t support it yet.  Then later when our compilers did support it, we weren&#8217;t allowed to use the &#8220;new-fangled&#8221; features yet.  Now that C++11 is in mainstream, let&#8217;s take another look at move constructors.  Why would you use them, when would you use them, how would you use them, and how do they actually work under the hood?  What is this &#8216;&amp;&amp;&#8217; thing which does not mean logical&nbsp;and?</p>
+</div>
+<div class="section" id="bio">
+<h2>Bio</h2>
+<p>Pete has worked as a programmer for over 25 years at Boeing, Microsoft, Amazon, Google, and other places.  He has been attending <span class="caps">NWCPP</span> off and on for a lot of that&nbsp;time.</p>
+</div>
+<div class="section" id="resources">
+<h2>Resources</h2>
+<p><a class="reference external" href="https://youtu.be/KcBmR05DU7o">Video</a> |
+<a class="reference external" href="/talks/2017/CopyElisionCpp.pdf">Slides</a></p>
+</div>
+<div class="section" id="a-word-from-our-sponsor">
+<h2>A Word From Our&nbsp;Sponsor</h2>
+<p>Populus Group is built on one key belief; that everyone deserves an opportunity to succeed. This belief is what inspires us to build strong, trusting relationships with our customers, employees and partners so that we can live out this belief with them.  We value the culture of our community above everything else; it feeds our service mentality and allows us to live out our beliefs every day. We get to spend our time helping those we serve to make their dreams come true, and we think that&#8217;s pretty cool.
+We&#8217;re here to help our customers address challenges with their contingent workforce through solutions and services built around their needs, so they can spend their time on what matters most.  We&#8217;ve built our expertise around compliance, immigration, payroll, and talent management. Our customers allow us to be their guide to mitigate risk, save time and money, find and retain top talent and meet diversity spend goals as we partner to make their organizations better. Populus Group is a privately held, certified minority and veteran owned&nbsp;business.</p>
+</div>
+<div class="section" id="digital-media-links">
+<h2>Digital Media&nbsp;Links</h2>
+<ul class="simple">
+<li>Sign up for our <a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1">announcements mailing list</a> If you want to be more involved, sign up for our <a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers">volunteers</a>&nbsp;list</li>
+<li>Check out our web page at <a class="reference external" href="http://www.nwcpp.org/">http://www.nwcpp.org/</a></li>
+<li>Follow <a class="reference external" href="http://twitter.com/nwcpp">&#64;nwcpp</a> on&nbsp;Twitter</li>
+<li>Join our <a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930">Facebook&nbsp;Group</a></li>
+<li>Follow our <a class="reference external" href="https://plus.google.com/104974891006782790528/">Google+</a>&nbsp;page</li>
+<li>Tune in to our <a class="reference external" href="http://www.youtube.com/user/NWCPP">YouTube</a> and <a class="reference external" href="https://vimeo.com/nwcpp">Vimeo</a>&nbsp;channels</li>
+</ul>
+</div>
+
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+            </div>
+        </div>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://isocpp.org/">Standard C++ Foundation</a></li>
+                            <li><a href="http://herbsutter.com/">Sutter’s Mill</a></li>
+                            <li><a href="http://blogs.msdn.com/b/vcblog/">Visual C++ Team Blog</a></li>
+                            <li><a href="http://bartoszmilewski.com/">Bartosz Milewski</a></li>
+                            <li><a href="http://www.drdobbs.com/author/Walter-Bright">Walter Bright</a></li>
+                            <li><a href="http://www.cplusplus-soup.com/">C++ Soup!</a></li>
+                            <li><a href="http://www.drdobbs.com/cpp">Dr. Dobb’s C++</a></li>
+                            <li><a href="http://cpp-next.com/">C++Next</a></li>
+                            <li><a href="http://scottmeyers.blogspot.com/">Scott Meyers</a></li>
+                            <li><a href="http://blog.think-async.com/">Thinking Asynchronously in C++</a></li>
+                            <li><a href="http://www.justsoftwaresolutions.co.uk/cplusplus/">Anthony Williams</a></li>
+                            <li><a href="http://www.informit.com/authors/bio.aspx?a=e19aded6-574c-4c46-8511-101f9f0ed8f8">Danny Kalev</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="http://groups.google.com/group/NwcppAnnounce">Announcements List</a></li>
+                            <li><a href="http://groups.google.com/group/nwcpp-volunteers">Volunteers List</a></li>
+                            <li><a href="https://twitter.com/nwcpp">Twitter</a></li>
+                            <li><a href="https://www.facebook.com/groups/344125680930/">Facebook</a></li>
+                            <li><a href="https://plus.google.com/104974891006782790528/posts">Google+</a></li>
+                            <li><a href="http://www.youtube.com/user/NWCPP">YouTube</a></li>
+                            <li><a href="http://vimeo.com/nwcpp">Vimeo</a></li>
+                            <li><a href="http://www.linkedin.com/groups?gid=2770106">LinkedIn</a></li>
+                            <li><a href="https://speakerdeck.com/nwcpp">Speaker Deck</a></li>
+                            <li><a href="http://www.slideshare.net/nwcpp">SlideShare</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

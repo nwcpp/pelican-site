@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2014</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2014.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2014-12-31T00:00:00-08:00</updated><entry><title>2014</title><link href="http://nwcpp.org/2014-summary.html" rel="alternate"></link><published>2014-12-31T00:00:00-08:00</published><updated>2014-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-12-31:/2014-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2014.html"&gt;January 15, 2014 — Static Analysis: More than finding bugs — Bob&amp;nbsp;Archer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2014.html"&gt;February 19, 2014 — Test-Driven Development — Matt Becker and Madhavan&amp;nbsp;Lakshminarayanan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2014.html"&gt;March 19, 2014 — C++17: I See a Monad in Your Future — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2014.html"&gt;April 16, 2014 — The Chapel Programming Language — Thomas Van&amp;nbsp;Doren&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2014.html"&gt;May 21, 2014 — Agile Architecture …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2014.html"&gt;January 15, 2014 — Static Analysis: More than finding bugs — Bob&amp;nbsp;Archer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2014.html"&gt;February 19, 2014 — Test-Driven Development — Matt Becker and Madhavan&amp;nbsp;Lakshminarayanan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2014.html"&gt;March 19, 2014 — C++17: I See a Monad in Your Future — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2014.html"&gt;April 16, 2014 — The Chapel Programming Language — Thomas Van&amp;nbsp;Doren&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2014.html"&gt;May 21, 2014 — Agile Architecture — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2014.html"&gt;June 18, 2014 — High Reliability Systems — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2014.html"&gt;July 2014: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2014.html"&gt;August 2014: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2014.html"&gt;September 17, 2014 — Parallelism in the Standard C++: What to Expect in C++ 17 — Artur&amp;nbsp;Laksberg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2014.html"&gt;October 15, 2014 — Compiler Technologies — Jim&amp;nbsp;Hogg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2014.html"&gt;November 19, 2014 — Debugging, Profiling, and Diagnostics for C++ in Visual Studio vNext
+and Beyond — Dan&amp;nbsp;Taylor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2014.html"&gt;December 2014: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>December 2014: No Meeting</title><link href="http://nwcpp.org/december-2014.html" rel="alternate"></link><published>2014-12-01T00:00:00-08:00</published><updated>2014-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2014-12-01:/december-2014.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 19, 2014—Debugging, Profiling, and Diagnostics for C++ in Visual Studio vNext and Beyond—Dan Taylor</title><link href="http://nwcpp.org/november-2014.html" rel="alternate"></link><published>2014-10-19T00:00:00-07:00</published><updated>2014-10-19T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-10-19:/november-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;November 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Are you using the Visual Studio Debugger or Profiler
+to diagnose issues in  applications?
+Join the Visual Studio team for a roadmap and discussion
+of diagnostics features …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;November 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Are you using the Visual Studio Debugger or Profiler
+to diagnose issues in  applications?
+Join the Visual Studio team for a roadmap and discussion
+of diagnostics features for C++ developers
+in the preview releases of Visual Studio “14” and beyond.
+In this session we will demo the brand new and exciting capabilities
+that we have added to the debugger
+and the Performance and Diagnostics hub (profiler tools)
+to increase your productivity.
+We will then share our plans for moving forward
+and solicit feedback from you to help us shape Visual&amp;nbsp;Studio.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Dan Taylor is a Program Manager on the Visual Studio team.
+He and his colleagues (some of whom will be joining Dan for this meetup)
+are the team that designs and builds the debugging, profiling,
+IntelliTrace, and other diagnostics experiences
+that help make Visual Studio the most productive &lt;span class="caps"&gt;IDE&lt;/span&gt; on the&amp;nbsp;planet.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="no-video-recording"&gt;
+&lt;h2&gt;No Video&amp;nbsp;Recording&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;SESSION&lt;/span&gt; &lt;span class="caps"&gt;WILL&lt;/span&gt; &lt;span class="caps"&gt;NOT&lt;/span&gt; &lt;span class="caps"&gt;BE&lt;/span&gt; &lt;span class="caps"&gt;RECORDED&lt;/span&gt;.
+It will include material which our speakers have opted to &lt;span class="caps"&gt;NOT&lt;/span&gt; have recorded,
+as it is of a “non-public nature” at this time.
+Because of this we will &lt;span class="caps"&gt;NOT&lt;/span&gt; be recording this session as we normally do,
+so please plan to attend in person if you are interested in this topic.
+We record as many sessions as possible,
+but at the same time,
+we also respect the speakers&amp;#8217; wishes to control
+how the material they present is distributed.
+Thanks for your understanding, and sorry for the late notice on this&amp;nbsp;change.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Protingent is a locally owned staffing company
+with our corporate headquarters being in Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;.
+Protingent provides engineering and &lt;span class="caps"&gt;IT&lt;/span&gt; professionals
+with rewarding and exciting work opportunities
+at technology businesses throughout the Pacific Northwest.
+We are committed to helping you enhance your career
+while engaging in meaningful and creative work
+that drives your own personal spirit and passions.
+Protingent recruiters work exclusively with technology professionals
+and technology companies—we have technical understanding, expertise
+and are well connected in the technology community.
+Our principals bring deep personal understanding
+of both the business of engineering
+as well as the culture and nature of the engineer who operates within it.
+More than a database, we have an unparalleled client network
+built from years of collaboration with our clients.
+We have daily access to hiring managers
+at some of the most exciting technology companies.
+We can get your resume directly into the right hands.
+Protingent offers benefits
+including health insurance, dental insurance, 401(k),
+&lt;span class="caps"&gt;PTO&lt;/span&gt;, pre-tax commuter benefits and supplemental&amp;nbsp;insurance.&lt;/p&gt;
+&lt;p&gt;Please visit &lt;a class="reference external" href="http://www.protingent.com"&gt;Protingent.com&lt;/a&gt; for additional&amp;nbsp;information.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Attendes:&lt;/div&gt;
+&lt;div class="line"&gt;Laura Garcia &lt;a class="reference external" href="mailto:laura&amp;#64;protingent.com"&gt;laura&amp;#64;protingent.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Jeff Moorgate &lt;a class="reference external" href="mailto:jeff&amp;#64;protingent.com"&gt;jeff&amp;#64;protingent.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;JOHN&lt;/span&gt; &lt;span class="caps"&gt;MARSH&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;p 425 284 7762     f 425 642 8001&lt;/div&gt;
+&lt;div class="line"&gt;www.protingent.com&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Configuring &lt;strong&gt;Breakpoints&lt;/strong&gt;
+(Conditional Expressions, Hit Count, Filter, and Tracepoints)
+is easier with the modern peek style &lt;span class="caps"&gt;UI&lt;/span&gt;,
+and more discoverable with the new breakpoint toolbar.
+As a bonus, you can now restore a deleted&amp;nbsp;breakpoint.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/10/06/new-breakpoint-configuration-experience.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/711"&gt;Watch the&amp;nbsp;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;strong&gt;PerfTips&lt;/strong&gt; when you break in the debugger
+(via breakpoints or stepping)
+give you an unprecedented early view into potential performance&amp;nbsp;issues&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/18/perftips-performance-information-at-a-glance-while-debugging-with-visual-studio.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/718"&gt;Watch the&amp;nbsp;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;We’ve made your &lt;strong&gt;startup debugging faster&lt;/strong&gt;
+and added resiliency during func&amp;nbsp;eval&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/vcblog/archive/2014/10/06/debugging-improvements.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Debugging Android apps from any &lt;span class="caps"&gt;IDE&lt;/span&gt; and any language?
+Use &lt;strong&gt;Visual Studio’s Emulator for&amp;nbsp;Android&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/introducing-visual-studio-s-emulator-for-android.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/516"&gt;Watch the&amp;nbsp;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Writing &lt;strong&gt;C++ code for Android in Visual Studio&lt;/strong&gt;?
+Use our debugging&amp;nbsp;support&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/debugging-c-code-on-android-with-visual-studio-2015.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/510"&gt;Watch the&amp;nbsp;video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Always wanted to &lt;strong&gt;diagnose memory issues while live debugging&lt;/strong&gt;
+(instead of post-mortem)?
+Kick the tires on our new Memory Usage tool
+in the all new Diagnostic Tools&amp;nbsp;window&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/13/memory-usage-tool-while-debugging-in-visual-studio-2015.aspx"&gt;Read the blog&amp;nbsp;post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://microsoft.sharepoint.com/teams/DD_VSPlat/Diagnostics/Dogfooding/Pages/default.aspx"&gt;Share your feedback in our dogfooding&amp;nbsp;program&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content></entry><entry><title>October 15, 2014—Compiler Technologies—Jim Hogg</title><link href="http://nwcpp.org/october-2014.html" rel="alternate"></link><published>2014-09-29T00:00:00-07:00</published><updated>2014-09-29T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-09-29:/october-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 15th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Earlier this year, I taught a graduate class on Compilers
+at University of Washington:
+10 weeks of 3-hour, evening lectures.
+The class project was an interesting mixture …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 15th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Earlier this year, I taught a graduate class on Compilers
+at University of Washington:
+10 weeks of 3-hour, evening lectures.
+The class project was an interesting mixture of technologies:
+use Java to implement a subset of itself,
+but generate native machine code via an Assembler text.
+In this session, I will outline what the class covered
+– much of it appropriate for any language, such as C++,
+that compiles to native code and has to concern itself
+with calling conventions, stack frames, etc.
+I’ll also reflect upon what I think worked well, and what, less&amp;nbsp;well.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Jim is a Program Manager with Microsoft’s C++ Compiler Team,
+involved in code-optimization.
+In years gone by, he has worked on
+Computational Physics, Seismic Processing and Operating&amp;nbsp;Systems.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Protingent is a locally owned staffing company
+with our corporate headquarters being in Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;.
+Protingent provides engineering and &lt;span class="caps"&gt;IT&lt;/span&gt; professionals
+with rewarding and exciting work opportunities
+at technology businesses throughout the Pacific Northwest.
+We are committed to helping you enhance your career
+while engaging in meaningful and creative work
+that drives your own personal spirit and passions.
+Protingent recruiters work exclusively with technology professionals
+and technology companies—we have technical understanding, expertise
+and are well connected in the technology community.
+Our principals bring deep personal understanding
+of both the business of engineering
+as well as the culture and nature of the engineer who operates within it.
+More than a database, we have an unparalleled client network
+built from years of collaboration with our clients.
+We have daily access to hiring managers
+at some of the most exciting technology companies.
+We can get your resume directly into the right hands.
+Protingent offers benefits
+including health insurance, dental insurance, 401(k),
+&lt;span class="caps"&gt;PTO&lt;/span&gt;, pre-tax commuter benefits and supplemental&amp;nbsp;insurance.&lt;/p&gt;
+&lt;p&gt;Please visit &lt;a class="reference external" href="http://www.protingent.com"&gt;Protingent.com&lt;/a&gt; for additional&amp;nbsp;information.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Attendes:&lt;/div&gt;
+&lt;div class="line"&gt;Laura Garcia &lt;a class="reference external" href="mailto:laura&amp;#64;protingent.com"&gt;laura&amp;#64;protingent.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Jeff Moorgate &lt;a class="reference external" href="mailto:jeff&amp;#64;protingent.com"&gt;jeff&amp;#64;protingent.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;JOHN&lt;/span&gt; &lt;span class="caps"&gt;MARSH&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;p 425 284 7762     f 425 642 8001&lt;/div&gt;
+&lt;div class="line"&gt;www.protingent.com&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/5WEX-yN34Ak"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2014/CompilerConstruction.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>September 17, 2014—Parallelism in the Standard C++: What to Expect in C++ 17—Artur Laksberg</title><link href="http://nwcpp.org/september-2014.html" rel="alternate"></link><published>2014-08-28T00:00:00-07:00</published><updated>2014-08-28T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-08-28:/september-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;September 17th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Parallelism in C++ has become more accessible
+thanks to the plethora of libraries developed by the industry in the last decade or so.
+The time has come …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;September 17th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Parallelism in C++ has become more accessible
+thanks to the plethora of libraries developed by the industry in the last decade or so.
+The time has come to bring the innovations developed in these libraries into the mainstream
+– the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ Standard.
+In this talk we’ll dive into a couple of proposals that are currently on the agenda
+for the next major version of the C++ Standard
+– the Task Regions and the Parallel &lt;span class="caps"&gt;STL&lt;/span&gt;.
+Together, these proposals aim to make writing portable parallel code in C++
+easy and&amp;nbsp;productive.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Artur Laksberg leads the Visual C++ Libraries team at Microsoft.
+His interests include concurrency, programming language and library design,
+and modern C++.
+Artur is one of the co-authors of the Parallel &lt;span class="caps"&gt;STL&lt;/span&gt; proposal;
+his team has implemented a prototype of the&amp;nbsp;proposal.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Aerotek is a leading provider of staff augmentation services
+for engineering disciplines throughout the United States and abroad.
+We focus on a number of disciplines in engineering
+including specializing in areas of Embedded Systems
+with positions in Hardware, Electrical Systems, and Software Engineering.
+Positions that we offer include
+Contract, Contract to Hire, and Direct Placement
+with opportunities across industries
+in Aerospace, Medical device, and Consumer products/Industrial goods.
+In the Puget Sound
+Aerotek currently has offices located in Bellevue, Everett, and Federal&amp;nbsp;Way.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Tyler Roush&lt;/div&gt;
+&lt;div class="line"&gt;Technical Recruiter&lt;/div&gt;
+&lt;div class="line"&gt;Embedded Systems -Engineering&lt;/div&gt;
+&lt;div class="line"&gt;425-893-6026   Phone&lt;/div&gt;
+&lt;div class="line"&gt;425-893-6090   Fax&lt;/div&gt;
+&lt;div class="line"&gt;11000 &lt;span class="caps"&gt;N.E.&lt;/span&gt; 33rd Pl.&lt;/div&gt;
+&lt;div class="line"&gt;Suite 200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;, 98004&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.aerotek.com/"&gt;http://www.aerotek.com/&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/d5wUSSCHLlA"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2014/NWCPP_Parallel_STL2.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>CppCon, September 7–12, Bellevue, WA</title><link href="http://nwcpp.org/cppcon-2014.html" rel="alternate"></link><published>2014-08-08T00:00:00-07:00</published><updated>2014-08-08T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2014-08-08:/cppcon-2014.html</id><summary type="html">&lt;p&gt;CppCon is a local C++ Conference (Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;) happening on September 7–12, 2014.
+Full details on the conference can be found at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The conference will also be hosting several &lt;span class="caps"&gt;FREE&lt;/span&gt; sessions.
+From 8:00 &lt;span class="caps"&gt;AM&lt;/span&gt; to 8:45 &lt;span class="caps"&gt;AM&lt;/span&gt; there will be several rooms holding various …&lt;/p&gt;</summary><content type="html">&lt;p&gt;CppCon is a local C++ Conference (Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;) happening on September 7–12, 2014.
+Full details on the conference can be found at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The conference will also be hosting several &lt;span class="caps"&gt;FREE&lt;/span&gt; sessions.
+From 8:00 &lt;span class="caps"&gt;AM&lt;/span&gt; to 8:45 &lt;span class="caps"&gt;AM&lt;/span&gt; there will be several rooms holding various sessions
+which are free to everyone.
+The evening sessions and all sessions on Friday are also open to everyone.
+In the evening one room will have a planned 90 minute presentation
+and the other rooms will have two 45 minute open sessions.
+&lt;a class="reference external" href="http://cppcon.org/open-content-2014/"&gt;Full details on these sessions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, there are also multiple volunteer opportunities available.
+If you would like to help out at the conference in exchange for attendance
+please get in touch with Brett Searles at
+&lt;a class="reference external" href="mailto:brett.searles&amp;#64;attobotics.net"&gt;brett.searles&amp;#64;attobotics.net&lt;/a&gt;
+to let him know that you are&amp;nbsp;interested!!&lt;/p&gt;
+&lt;p&gt;Again, full details on the conference are available at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;;
+please feel free to attend in which ever capacity suits&amp;nbsp;you!!!&lt;/p&gt;
+</content></entry><entry><title>August 2014: No Meeting</title><link href="http://nwcpp.org/august-2014.html" rel="alternate"></link><published>2014-08-01T00:00:00-07:00</published><updated>2014-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2014-08-01:/august-2014.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>July 2014: No Meeting</title><link href="http://nwcpp.org/july-2014.html" rel="alternate"></link><published>2014-07-01T00:00:00-07:00</published><updated>2014-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2014-07-01:/july-2014.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>June 18, 2014—High Reliability Systems—Lloyd Moore</title><link href="http://nwcpp.org/june-2014.html" rel="alternate"></link><published>2014-06-01T00:00:00-07:00</published><updated>2014-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-06-01:/june-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;June 18th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.vmware.com/company/careers"&gt;VMware&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk will explore various software techniques
+that can be used to harden a software system
+and make …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;June 18th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.vmware.com/company/careers"&gt;VMware&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk will explore various software techniques
+that can be used to harden a software system
+and make it more reliable in a harsh environment.
+Specifically we will be looking at cases
+where the software needs to be more reliable than “average”
+but does not justify investment in a formal specification such as &lt;span class="caps"&gt;MISRA&lt;/span&gt; or &lt;span class="caps"&gt;DO&lt;/span&gt;-178B.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.linkedin.com/in/lloydamoore"&gt;Lloyd Moore&lt;/a&gt; is the founder and owner of
+&lt;a class="reference external" href="http://www.cyberdata-robotics.com/"&gt;CyberData Corporation&lt;/a&gt;,
+which provides consulting services
+in the robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 25 years.
+His formal training in biological-based artificial intelligence, electronics, and psychology.
+Lloyd is also currently the president of the Northwest C++ User&amp;#8217;s Group
+and an organizer of the
+&lt;a class="reference external" href="http://www.robothon.org/"&gt;Seattle Robotics Society Robothon&lt;/a&gt;&amp;nbsp;event.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;VMware recruiting is pleased to be a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; sponsor.
+VMware has pioneered virtualization of x86 platform
+separating software from underlying hardware.
+We’re the leader in virtualization infrastructure solutions with three main product&amp;nbsp;groups:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;span class="caps"&gt;SDDC&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;end user&amp;nbsp;computing&lt;/li&gt;
+&lt;li&gt;hybrid cloud&amp;nbsp;computing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;VMware is currently ramping up our Bellevue office location
+with roles on the Cloud Directory team.
+The Cloud technology we develop continues to have an unprecedented impact on our customers,
+and our rapid and continuing growth is proof of this.
+To continue this momentum, we seek passionate and innovative software engineers
+that can imagine, develop, and deliver transformative solutions
+that impact and improve &lt;span class="caps"&gt;IT&lt;/span&gt;&amp;nbsp;operations.&lt;/p&gt;
+&lt;p&gt;We’re assembling an invitation only hiring event August 14th-17th
+for seasoned backend Software Developers.
+If you’re interested in attending
+or just would like more information about the hiring event
+or opportunities VMware in general,
+please send me your resume or contact me at: &lt;a class="reference external" href="mailto:Halla&amp;#64;Vmware.com"&gt;Halla&amp;#64;Vmware.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/9WWuSU1w_ZY"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2014/HighReliabilitySystems.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>May 21, 2014—Agile Architecture—Alan Shalloway</title><link href="http://nwcpp.org/may-2014.html" rel="alternate"></link><published>2014-04-27T00:00:00-07:00</published><updated>2014-04-27T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-04-27:/may-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;May 21st, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.xtremeconsulting.com/careers"&gt;Xtreme Consulting&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Never has architecture been more important than now.
+Scrum acknowledges the need for quality code
+but gives …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;May 21st, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.xtremeconsulting.com/careers"&gt;Xtreme Consulting&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Never has architecture been more important than now.
+Scrum acknowledges the need for quality code
+but gives no advice on how to achieve Agile architecture.
+The Kanban Method ignores it completely.
+But as Agile moves into larger organizations we cannot continue to ignore&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;This talk discusses why Agile architecture is so important.
+It then discusses what Agile architecture needs to accomplish
+and provides some methods in how to achieve this.
+This seminar will touch on the why, what and how as summarized&amp;nbsp;here:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why&lt;/strong&gt;: Architecture, whether Agile or otherwise, needs to provide the&amp;nbsp;following:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A&amp;nbsp;vision&lt;/li&gt;
+&lt;li&gt;Enable extensions to the&amp;nbsp;system&lt;/li&gt;
+&lt;li&gt;Enable new ways of implementing existing&amp;nbsp;concepts&lt;/li&gt;
+&lt;li&gt;Foster testability throughout the&amp;nbsp;system&lt;/li&gt;
+&lt;li&gt;De-couple systems from the&amp;nbsp;application&lt;/li&gt;
+&lt;li&gt;Facilitate reuse of common functions across&amp;nbsp;teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How&lt;/strong&gt;: To build Agile architectures, one must be able&amp;nbsp;to:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Do Emergent&amp;nbsp;design&lt;/li&gt;
+&lt;li&gt;Do Testing at the behavior and functional&amp;nbsp;level&lt;/li&gt;
+&lt;li&gt;Understand the different perspectives of conceptual Vs specification;
+creation from using;
+and system architecture from application&amp;nbsp;architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;: Agile architectures will then enable us&amp;nbsp;to:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Inject new concepts with little to no&amp;nbsp;rework&lt;/li&gt;
+&lt;li&gt;Add new implementations of existing concepts
+with only minimally affecting the existing&amp;nbsp;system&lt;/li&gt;
+&lt;li&gt;Change the system with little risk of introducing errors
+and full confidence that if you do you will detect&amp;nbsp;them&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://twitter.com/alshalloway"&gt;Al Shalloway&lt;/a&gt; is the founder and &lt;span class="caps"&gt;CEO&lt;/span&gt;
+of &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net Objectives&lt;/a&gt;.
+With over 40 years of experience,
+Al is an industry thought leader in Lean, Kanban,
+product portfolio management, Scrum and agile design.
+He helps companies transition to Lean and Agile methods enterprise-wide
+as well teaches courses in these areas.
+Al is a SAFe Program Consultant as well as a co-founder of the Lean Systems Society.
+Al has developed training and coaching methods for Lean-Agile
+that have helped Net Objectives&amp;#8217; clients
+achieve long-term, sustainable productivity gains.
+He is a popular speaker at prestigious conferences worldwide.
+He is the primary author of Design Patterns Explained:
+A New Perspective on Object-Oriented Design,
+Lean-Agile Pocket Guide for Scrum Teams,
+Lean-Agile Software Development:
+Achieving Enterprise Agility and Essential Skills for the Agile Developer.
+Al has worked in literally dozens of industries over his career.
+He is a co-founder and board member for the Lean Software and Systems Consortium.
+He has a Masters in Computer Science from &lt;span class="caps"&gt;M.I.T.
+&lt;/span&gt;as well as a Masters in Mathematics from Emory&amp;nbsp;University.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;We’re thrilled to be a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; sponsor!
+Xtreme Consulting is locally owned and headquartered in Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;.
+We provide a wide-range of business and &lt;span class="caps"&gt;IT&lt;/span&gt; consulting solutions,
+managed services, and staff augmentation.
+We actively recruit for fun, smart, and career-driven &lt;span class="caps"&gt;IT&lt;/span&gt; professionals
+who bring an enthusiasm for personal growth
+and accelerating success for our clients.
+Xtreme’s consultants are provided the opportunity to work with and for
+some of the best technology companies in the industry.
+We work hard to create a passionate, supportive environment
+where employees can reach their career development goals,
+enjoy exceptional benefits, and have fun all at the same&amp;nbsp;time.&lt;/p&gt;
+&lt;p&gt;Xtreme focuses on solutions and services
+including analysis, design, architecture, development, testing,
+implementation, maintenance and support of a variety of software technologies
+with specific emphasis on portal development, technical content creation,
+virtual machine environments and client and server deployment.
+Visit &lt;a class="reference external" href="http://xtremeconsulting.com"&gt;xtremeconsulting.com&lt;/a&gt; for more information.
+You can view and apply to our open positions at
+&lt;a class="reference external" href="http://xtremeconsulting.com/careers"&gt;xtremeconsulting.com/careers&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Xtreme Contact:&lt;/div&gt;
+&lt;div class="line"&gt;Melissa Potera – Senior Recruiter (Technical focus)&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="mailto:melissap&amp;#64;xtremeconsulting.com"&gt;melissap&amp;#64;xtremeconsulting.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;(425) 861-9460 Ext. 229&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/76xYZqVBDkQ"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2014/AgileArchitecture_cpp_v6as.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>April 16, 2014—The Chapel Programming Language—Thomas Van Doren</title><link href="http://nwcpp.org/april-2014.html" rel="alternate"></link><published>2014-03-22T00:00:00-07:00</published><updated>2014-03-22T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-03-22:/april-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;April 16th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/41 Cafeteria&lt;/a&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.protingent.com/"&gt;Protingent&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://chapel.cray.com/"&gt;Chapel&lt;/a&gt;
+is an emerging parallel programming language
+whose design and development are being led by Cray Inc.
+in collaboration with academia, computing centers, and …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;April 16th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/41 Cafeteria&lt;/a&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.protingent.com/"&gt;Protingent&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://chapel.cray.com/"&gt;Chapel&lt;/a&gt;
+is an emerging parallel programming language
+whose design and development are being led by Cray Inc.
+in collaboration with academia, computing centers, and industry.
+Chapel&amp;#8217;s goal is to make parallel programming more productive,
+from high-end supercomputers to commodity clusters
+and multicore desktops and laptops.
+It supports a multithreaded execution model
+via high-level abstractions for data parallelism, task parallelism,
+concurrency, and nested parallelism.
+Chapel has a multi-resolution model that allows users
+to write high level abstract code
+while still maintaining control over lower level details as&amp;nbsp;needed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Thomas Van Doren is a software engineer at Cray Inc. in Seattle
+where he works on Chapel.
+Previously he worked at Cozi Inc.
+and graduated from the University of Washington.
+Thomas loves open source software, automation, and working on large scale&amp;nbsp;problems.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Thank you for allowing us to be a sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;!
+Protingent is a locally owned staffing company
+with our corporate headquarters being in Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt;.
+Protingent provides engineering and &lt;span class="caps"&gt;IT&lt;/span&gt; professionals
+with rewarding and exciting work opportunities at technology businesses
+throughout the Pacific Northwest.
+We are committed to helping you enhance your career
+while engaging in meaningful and creative work
+that drives your own personal spirit and passions.
+Protingent recruiters work exclusively
+with technology professionals and technology companies—we have technical understanding, expertise
+and are well connected in the technology community.
+Our principals bring deep personal understanding
+of both the business of engineering
+as well as the culture and nature of the engineer who operates within it.
+More than a database, we have an unparalleled client network
+built from years of collaboration with our clients.
+We have daily access to hiring managers
+at some of the most exciting technology companies.
+We can get your resume directly into the right hands.
+Protingent offers benefits
+including health insurance, dental insurance, 401(k),
+&lt;span class="caps"&gt;PTO&lt;/span&gt;, pre-tax commuter benefits and supplemental&amp;nbsp;insurance.&lt;/p&gt;
+&lt;p&gt;Please visit &lt;a class="reference external" href="http://www.protingent.com"&gt;Protingent.com&lt;/a&gt;
+for additional&amp;nbsp;information.&lt;/p&gt;
+&lt;p&gt;Protingent&amp;nbsp;Attendees:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;John Marsh — Recruiting Manager 425-284-7762 &lt;a class="reference external" href="mailto:john&amp;#64;protingent.com"&gt;john&amp;#64;protingent.com&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;David Jorden — Technical Recruiter&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/lo3a_b34zX0"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2014/ChapelForNWCPPUsersGroup.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>March 19, 2014—C++17: I See a Monad in Your Future—Bartosz Milewski</title><link href="http://nwcpp.org/march-2014.html" rel="alternate"></link><published>2014-02-24T00:00:00-08:00</published><updated>2014-02-24T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-02-24:/march-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.aerotek.com/"&gt;Aerotek&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The introduction of lambdas and first class function objects
+forever changed the nature of C++,
+opening up the floodgates to functional programming.
+Sometimes …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.aerotek.com/"&gt;Aerotek&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The introduction of lambdas and first class function objects
+forever changed the nature of C++,
+opening up the floodgates to functional programming.
+Sometimes the best library design is based
+on a pattern that’s very familiar to a Haskell programmer
+but alien to a C++ programmer.
+The new &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;std::future&lt;/span&gt;&lt;/tt&gt; proposal for C++17
+hides several functional patterns
+including that of a monad —
+the boogeyman of generations of imperative programmers.
+But once seen in action,
+the monad becomes just one more pattern in the toolbox of a library&amp;nbsp;designer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://bartoszmilewski.com/"&gt;Bartosz Milewski&lt;/a&gt; always tries to be where the action is.
+He started as a quantum physicist when superstrings were hot,
+joined the software industry to build the search engine for Microsoft Windows,
+became an avid proponent of object-oriented programming,
+and wrote a book on C++.
+He got into concurrency and parallelism when the multicores hit the market,
+and now he’s evangelizing functional programming as the Holy Grail of software&amp;nbsp;development.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;We wanted to introduce ourselves to the C++ community!
+Aerotek is a national staffing firm with a 30 year legacy of being the best!
+Aerotek is the largest technical staffing firm in the &lt;span class="caps"&gt;US&lt;/span&gt;,
+with over 200 offices nationwide.
+We staff for a variety of industries for a wide range of skill sets,
+including engineering, skilled trade, administrative and office support,
+and scientific and clinical studies.
+My name is Hope Rich,
+and I work in our engineering division with a focus on embedded systems
+as a Sr. Engineering Recruiter for the greater Seattle area.
+My partner Tyler Roush and myself work with companies
+in the aerospace, medical device, and consumer electronics industries
+to help staff for engineering needs from an embedded &lt;span class="caps"&gt;SW&lt;/span&gt; background,
+as well as for roles in mechanical, electrical, manufacturing,
+and quality engineering skill sets.
+In embedded, we focus to connect great engineers
+with a background in &lt;span class="caps"&gt;HW&lt;/span&gt; design, Firmware, middleware,
+and embedded &lt;span class="caps"&gt;SW&lt;/span&gt; applications development and test.
+Please visit our web page for additional details at &lt;a class="reference external" href="http://www.aerotek.com/"&gt;http://www.aerotek.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sincerely, Hope Rich (&lt;a class="reference external" href="mailto:hrich&amp;#64;aerotek.com"&gt;hrich&amp;#64;aerotek.com&lt;/a&gt;, 425-893-6051)
+and Tyler Roush (&lt;a class="reference external" href="mailto:troush&amp;#64;aerotek.com"&gt;troush&amp;#64;aerotek.com&lt;/a&gt;,&amp;nbsp;425-893-6026)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=BFnhhPehpKw"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2014/ISeeAMonadInYourFuture.pptx"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="http://bartoszmilewski.com/2014/02/26/c17-i-see-a-monad-in-your-future/"&gt;Blog&amp;nbsp;Post&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>February 19, 2014—Test-Driven Development—Matt Becker and Madhavan Lakshminarayanan</title><link href="http://nwcpp.org/february-2014.html" rel="alternate"></link><published>2014-02-01T00:00:00-08:00</published><updated>2014-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-02-01:/february-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;February 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon &lt;span class="caps"&gt;GIP&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Matt Becker and Madhavan Lakshminarayanan,
+from Amazon’s Global Inventory Platform team,
+will be presenting on Test Driven Development.
+They will provide …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;February 19th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon &lt;span class="caps"&gt;GIP&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Matt Becker and Madhavan Lakshminarayanan,
+from Amazon’s Global Inventory Platform team,
+will be presenting on Test Driven Development.
+They will provide a brief overview of the problem set
+their team tackles, and how it benefits Amazon customers.
+They will show how and when to use Test Driven Development
+as well as how to isolate their software from its&amp;nbsp;dependencies&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Amazon’s Global Inventory Platform team
+is responsible for the Supply Chain systems that support Amazon.com inventory worldwide.
+Given that our volume doubles in size roughly every 3 years,
+our team must always be at the forefront of research
+into new technologies, machine learning techniques, big data analysis,
+and complex forecasting models
+to more accurately and efficiently have items on their way to customers
+before they ever even click “buy”.
+We’re predicting the future and changing it, every&amp;nbsp;day.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Amazon Global Inventory Platform is mostly software development
+and we are always hiring for
+Senior Software Engineers, Research Scientists, Development Managers
+and very Technical Project Managers.
+We have new initiatives every year and are expanding like crazy!
+For more information contact Amy Renhard at &lt;a class="reference external" href="mailto:Renharda&amp;#64;amazon.com"&gt;Renharda&amp;#64;amazon.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=pLeNEOBesPM"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2014/TDD.pptx"&gt;Slides&lt;/a&gt; |
+Michael Feathers&amp;#8217; &lt;a class="reference external" href="http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052"&gt;Working Effectively with Legacy&amp;nbsp;Code&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>January 15, 2014—Static Analysis: More than finding bugs—Bob Archer</title><link href="http://nwcpp.org/january-2014.html" rel="alternate"></link><published>2014-01-15T00:00:00-08:00</published><updated>2014-01-15T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2014-01-15:/january-2014.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 15th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.uasc.com/company/careers.aspx"&gt;Universal Avionics&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Static analysis is a technique for finding bugs without running the code.
+This presentation will examine the technical problems of analyzing millions …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 15th, 2014 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft+Building+40"&gt;Building 40/1450–Steptoe&lt;/a&gt;
+(Cafeteria).&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Come at 6:45 for pizza
+&lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;sponsored&lt;/a&gt; by
+&lt;a class="reference external" href="http://www.uasc.com/company/careers.aspx"&gt;Universal Avionics&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Static analysis is a technique for finding bugs without running the code.
+This presentation will examine the technical problems of analyzing millions of lines of code,
+the philosophical problems of answering the question “what is a bug anyway?”
+and the psychological problems of explaining bugs to a skeptical&amp;nbsp;audience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bob Archer has worked at &lt;a class="reference external" href="http://www.coverity.com/"&gt;Coverity&lt;/a&gt; for the past year.
+Previously he has worked on image processing, computer games,
+virtual reality and 3D simulation.
+He has a particular interest in the problem of
+writing high quality code in the commercial&amp;nbsp;world.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://youtu.be/D3WzjjiC7K0"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2014/Coverity.pdf"&gt;Slides&lt;/a&gt; |
+&lt;a class="reference external" href="http://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext"&gt;A Few Billion Lines of Code&amp;nbsp;Later&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content></entry></feed>

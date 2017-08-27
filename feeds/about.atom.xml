@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - about</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/about.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2013-01-01T00:00:00-08:00</updated><entry><title>Welcome to the Northwest C++ Users’ Group</title><link href="http://nwcpp.org/about.html" rel="alternate"></link><published>2013-01-01T00:00:00-08:00</published><updated>2013-01-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2013-01-01:/about.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users&amp;#8217; Group (&lt;span class="caps"&gt;NWCPP&lt;/span&gt;) is a group of professional developers and hobbyists
+living and working in the Pacific Northwest
+who meet monthly to discuss trends, techniques, and technology
+regarding the C++ language and industry.
+The group meetings and resources are free, and anyone and everyone is welcome to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Northwest C++ Users&amp;#8217; Group (&lt;span class="caps"&gt;NWCPP&lt;/span&gt;) is a group of professional developers and hobbyists
+living and working in the Pacific Northwest
+who meet monthly to discuss trends, techniques, and technology
+regarding the C++ language and industry.
+The group meetings and resources are free, and anyone and everyone is welcome to&amp;nbsp;attend.&lt;/p&gt;
+&lt;p&gt;We are interested in C++, C, the D language, concurrency, scalability,
+performance, Boost, software engineering, design patterns, debugging,
+compilers, tools, functional programming, software architecture,
+machine architecture, DSLs, embedded software, test-driven development,
+cross-platform development, distributed programming, and&amp;nbsp;more.&lt;/p&gt;
+&lt;div class="section" id="meetings"&gt;
+&lt;h2&gt;Meetings&lt;/h2&gt;
+&lt;p&gt;Our meetings are held at the
+&lt;a class="reference external" href="/images/MicrosoftMainCampusMap.jpg"&gt;main Microsoft campus&lt;/a&gt;,
+One Microsoft Way, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052,
+in the Steptoe Room, &lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Cafe+40/"&gt;Cafeteria 40&lt;/a&gt;,
+at the corner of &lt;span class="caps"&gt;NE&lt;/span&gt; 31st and 156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;.
+Usually, we meet at 7pm on the &lt;em&gt;third Wednesday&lt;/em&gt; of the month.
+You may need to knock on the window so that we can let you into the&amp;nbsp;building.&lt;/p&gt;
+&lt;p&gt;Disclaimer: &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is not associated with Microsoft—although we take advantage of their generosity
+in providing the venue (since 2006) and occasional&amp;nbsp;speakers.&lt;/p&gt;
+&lt;p&gt;Past speakers at our meetings include
+&lt;a class="reference external" href="http://www.moderncppdesign.com"&gt;Andrei Alexandrescu&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.walterbright.com/"&gt;Walter Bright&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.bruceeckel.com/"&gt;Bruce Eckel&lt;/a&gt;,
+&lt;a class="reference external" href="http://blogs.msdn.com/slippman"&gt;Stan Lippman&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.construx.com/"&gt;Steve McConnell&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.aristeia.com/"&gt;Scott Meyers&lt;/a&gt;,
+&lt;a class="reference external" href="http://bartoszmilewski.com/"&gt;Bartosz Milewski&lt;/a&gt;,
+&lt;a class="reference external" href="http://ericniebler.com/"&gt;Eric Niebler&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.wintellect.com/CS/blogs/jeffreyr/default.aspx"&gt;Jeffrey Richter&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.linkedin.com/in/rhschmidt"&gt;Bobby Schmidt&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.netobjectives.com/bio-alan-shalloway"&gt;Alan Shalloway&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.gotw.ca/"&gt;Herb Sutter&lt;/a&gt;,
+and
+&lt;a class="reference external" href="http://steve-yegge.blogspot.com/"&gt;Steve Yegge&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;span id="social-media"&gt;&lt;/span&gt;&lt;h3&gt;Social&amp;nbsp;Media&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our
+&lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;Announcements&lt;/a&gt; mailing list.
+If you want to be more heavily involved,
+please sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;Volunteers&lt;/a&gt;&amp;nbsp;list.&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter.&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook group&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="http://google.com/+NwcppOrg"&gt;Google+ page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube channel&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo channel&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.linkedin.com/groups?gid=2770106"&gt;LinkedIn group&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;View slides at &lt;a class="reference external" href="https://speakerdeck.com/nwcpp"&gt;Speaker Deck&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;View slides at &lt;a class="reference external" href="http://www.slideshare.net/nwcpp"&gt;SlideShare&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="jobs"&gt;
+&lt;h3&gt;Jobs&lt;/h3&gt;
+&lt;p&gt;Seeking or offering a &lt;strong&gt;job&lt;/strong&gt;?
+Use our &lt;a class="reference external" href="http://www.linkedin.com/groupAnswers?viewQuestions=&amp;amp;gid=2770106&amp;amp;forumID=5&amp;amp;sik=1268291239461"&gt;LinkedIn Jobs Board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sponsoring-nwcpp"&gt;
+&lt;h3&gt;Sponsoring &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Want to sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;?
+Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;how&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="contacting-nwcpp"&gt;
+&lt;h3&gt;Contacting &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;Please use our &lt;a class="reference external" href="http://nwcpp.org/contact.html"&gt;contact form&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content></entry><entry><title>NWCPP Sponsors</title><link href="http://nwcpp.org/sponsors.html" rel="alternate"></link><published>2012-12-31T00:00:00-08:00</published><updated>2012-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2012-12-31:/sponsors.html</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; thanks the following organizations for their&amp;nbsp;sponsorship.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.microsoft.com/"&gt;Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad&amp;nbsp;Technologies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group&amp;nbsp;Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amazon.com/gp/digital/careers/jobs.html"&gt;Amazon&amp;nbsp;Digital&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="sponsoring-nwcpp"&gt;
+&lt;h2&gt;Sponsoring &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Want to sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;? Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;how&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary><content type="html">&lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; thanks the following organizations for their&amp;nbsp;sponsorship.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.microsoft.com/"&gt;Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://technologies.randstadusa.com/"&gt;Randstad&amp;nbsp;Technologies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group&amp;nbsp;Solutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amazon.com/gp/digital/careers/jobs.html"&gt;Amazon&amp;nbsp;Digital&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="sponsoring-nwcpp"&gt;
+&lt;h2&gt;Sponsoring &lt;span class="caps"&gt;NWCPP&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Want to sponsor &lt;span class="caps"&gt;NWCPP&lt;/span&gt;? Here&amp;#8217;s &lt;a class="reference external" href="http://nwcpp.org/sponsors-howto.html"&gt;how&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>Contact NWCPP</title><link href="http://nwcpp.org/contact.html" rel="alternate"></link><published>2012-06-01T00:00:00-07:00</published><updated>2012-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2012-06-01:/contact.html</id><summary type="html">&lt;p&gt;If you need to contact the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; board and the
+&lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;social media channels&lt;/a&gt; aren&amp;#8217;t enough,
+use this form to email&amp;nbsp;us.&lt;/p&gt;
+&lt;!-- :ref:`social-media` aren't enough, --&gt;
+&lt;!-- Adapted from http://www.bloggerbuster.com/2012/04/create-contact-form-with-google-docs.html --&gt;
+&lt;iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHlUZmZGbFFhMjd6a0M0NGh1WGtQanc6MQ"
+        width="760" height="891" frameborder="0" marginheight="0" marginwidth="0"&gt;
+    Loading&amp;#8230;
+&lt;/iframe&gt;</summary><content type="html">&lt;p&gt;If you need to contact the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; board and the
+&lt;a class="reference external" href="http://nwcpp.org/about.html"&gt;social media channels&lt;/a&gt; aren&amp;#8217;t enough,
+use this form to email&amp;nbsp;us.&lt;/p&gt;
+&lt;!-- :ref:`social-media` aren't enough, --&gt;
+&lt;!-- Adapted from http://www.bloggerbuster.com/2012/04/create-contact-form-with-google-docs.html --&gt;
+&lt;iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHlUZmZGbFFhMjd6a0M0NGh1WGtQanc6MQ"
+        width="760" height="891" frameborder="0" marginheight="0" marginwidth="0"&gt;
+    Loading&amp;#8230;
+&lt;/iframe&gt;</content></entry><entry><title>How to Sponsor NWCPP</title><link href="http://nwcpp.org/sponsors-howto.html" rel="alternate"></link><published>2011-06-13T00:00:00-07:00</published><updated>2011-06-13T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-13:/sponsors-howto.html</id><summary type="html">&lt;p&gt;Several companies have chosen to sponsor our monthly meetings.
+Often these companies supply free pizza for the meeting.
+Other companies may choose to give away&amp;nbsp;products.&lt;/p&gt;
+&lt;p&gt;If you sponsor us, we will add a brief mention on the front page which
+links to our &lt;a class="reference external" href="http://nwcpp.org/sponsors.html"&gt;sponsorship page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; welcomes your sponsorship …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Several companies have chosen to sponsor our monthly meetings.
+Often these companies supply free pizza for the meeting.
+Other companies may choose to give away&amp;nbsp;products.&lt;/p&gt;
+&lt;p&gt;If you sponsor us, we will add a brief mention on the front page which
+links to our &lt;a class="reference external" href="http://nwcpp.org/sponsors.html"&gt;sponsorship page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; welcomes your sponsorship, subject to the following&amp;nbsp;guidelines.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Donations to get onto the sponsor page must be at least $50 in&amp;nbsp;value.&lt;/li&gt;
+&lt;li&gt;All contributions must go to one or more members of our organization;
+no equipment or assets will be held at this time by the organization&amp;nbsp;itself.&lt;/li&gt;
+&lt;li&gt;In those cases where specific items are being given away,
+the recipient of those items must be determined by a drawing
+from all those wishing to participate.
+The drawing must be open to everyone and free to enter.
+You may collect business cards or email addresses.
+Board members of &lt;span class="caps"&gt;NWCPP&lt;/span&gt; are not eligible to enter the&amp;nbsp;drawings.&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; maintains a separate web page for sponsorship postings.
+Each month we will add the latest sponsors to the top of the page,
+and remove the postings that are 1+ years&amp;nbsp;old.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NWCPP&lt;/span&gt; is a 501(c)3 organization. Our &lt;span class="caps"&gt;EIN&lt;/span&gt; is &lt;strong&gt;91-1718733&lt;/strong&gt;.&lt;/p&gt;
+</content></entry></feed>

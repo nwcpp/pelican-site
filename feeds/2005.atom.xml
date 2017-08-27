@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2005</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2005.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2005-12-31T00:00:00-08:00</updated><entry><title>2005</title><link href="http://nwcpp.org/2005-summary.html" rel="alternate"></link><published>2005-12-31T00:00:00-08:00</published><updated>2005-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2005-12-31:/2005-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2005.html"&gt;January 12th, 2005 — Lock-Free Programming — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2005.html"&gt;February 9th, 2005 — Dealing with Software Complexity — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2005.html"&gt;March 23rd, 2005 — Evolving C++ onto the &lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2005.html"&gt;April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2005.html"&gt;May 18th, 2005 — Writing safer code with the Visual C++ 8 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2005.html"&gt;January 12th, 2005 — Lock-Free Programming — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2005.html"&gt;February 9th, 2005 — Dealing with Software Complexity — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2005.html"&gt;March 23rd, 2005 — Evolving C++ onto the &lt;span class="caps"&gt;CLI&lt;/span&gt; — Stan&amp;nbsp;Lippman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2005.html"&gt;April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2005.html"&gt;May 18th, 2005 — Writing safer code with the Visual C++ 8.0 Libraries — Martyn&amp;nbsp;Lovell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2005.html"&gt;June 15th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2005.html"&gt;July 20th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2005.html"&gt;August 17th, 2005 — Roundtable Meeting — Open&amp;nbsp;Discussion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/september-2005.html"&gt;September 21st, 2005 — Two Views of C++ — Scott&amp;nbsp;Meyers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2005.html"&gt;October 19th, 2005 — C++ in the Trenches — David&amp;nbsp;Brownell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2005.html"&gt;November 16th, 2005 — The D Programming Language — Walter&amp;nbsp;Bright&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2005.html"&gt;December 2005: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>December 2005: No Meeting</title><link href="http://nwcpp.org/december-2005.html" rel="alternate"></link><published>2005-12-01T00:00:00-08:00</published><updated>2005-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-12-01:/december-2005.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 16th, 2005 — The D Programming Language — Walter Bright</title><link href="http://nwcpp.org/november-2005.html" rel="alternate"></link><published>2005-11-01T00:00:00-08:00</published><updated>2005-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-11-01:/november-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Is it possible to have the power and efficiency of C++,
+but in a much easier to use form?
+Walter will contrast C++ and D
+and show how, with D, one can achieve the same or better results
+with …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Is it possible to have the power and efficiency of C++,
+but in a much easier to use form?
+Walter will contrast C++ and D
+and show how, with D, one can achieve the same or better results
+with much less complexity and with greater reliability,
+without sacrificing&amp;nbsp;performance.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Walter Bright&amp;#8217;s first major program was the groundbreaking wargame Empire.
+He then became interested in compilers and computer languages.
+He&amp;#8217;s written compilers for &lt;span class="caps"&gt;ABEL&lt;/span&gt;, Pascal, C, C++, Java, Javascript, and now D.
+His extensive experience writing C++ compilers
+and well over a decade being on the front lines of doing C++ customer support
+is an ideal background for improving on the&amp;nbsp;language.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>October 19th, 2005 — C++ in the Trenches — David Brownell</title><link href="http://nwcpp.org/october-2005.html" rel="alternate"></link><published>2005-10-01T00:00:00-07:00</published><updated>2005-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-10-01:/october-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A presentation almost 20 years in the making!
+In this meeting, David Brownell will share a grab bag of C++ tips and tricks
+he has learned after 19 years of programming experience.
+Topics include designing with a design in …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A presentation almost 20 years in the making!
+In this meeting, David Brownell will share a grab bag of C++ tips and tricks
+he has learned after 19 years of programming experience.
+Topics include designing with a design in mind, partnering with the compiler,
+handling errors without error,
+and other techniques that can be incorporated immediately into existing&amp;nbsp;code.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;David Brownell is the founder of &lt;a class="reference external" href="http://www.WiseRiddles.com"&gt;Wise Riddles Software&lt;/a&gt;—a product development and consulting company—and has been using C++ for the past 9 years.
+Graduating from Seattle University in 1998,
+David has worked on voice recognition software, peer-to-peer applications,
+secure communications technologies, automated scripting utilities,
+generic programming techniques, and faxing applications.
+David currently serves as president for the Northwest C++ Users&amp;#8217;&amp;nbsp;Group.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/C__InTheTrenches.pdf"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>September 21st, 2005 — Two Views of C++ — Scott Meyers</title><link href="http://nwcpp.org/september-2005.html" rel="alternate"></link><published>2005-09-01T00:00:00-07:00</published><updated>2005-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-09-01:/september-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract-two-views-of-c"&gt;
+&lt;h2&gt;Abstract: Two Views of&amp;nbsp;C++&lt;/h2&gt;
+&lt;p&gt;In 2002, Bertrand Meyer, inventor of Eiffel,
+asked me to give a talk on C++ at &lt;span class="caps"&gt;ETH&lt;/span&gt; in Zurich,
+where he is a member of the Software Engineering faculty.
+Meyer is a well-known C++-hater …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract-two-views-of-c"&gt;
+&lt;h2&gt;Abstract: Two Views of&amp;nbsp;C++&lt;/h2&gt;
+&lt;p&gt;In 2002, Bertrand Meyer, inventor of Eiffel,
+asked me to give a talk on C++ at &lt;span class="caps"&gt;ETH&lt;/span&gt; in Zurich,
+where he is a member of the Software Engineering faculty.
+Meyer is a well-known C++-hater, so the choice of topic was a delicate one.
+I ultimately decided to give two mini-talks,
+one making C++ look bad and one making it look&amp;nbsp;good.&lt;/p&gt;
+&lt;p&gt;The two talks&amp;nbsp;are:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;The meaning of &amp;#8216;f(x)&amp;#8217; in C++,&amp;#8221; an exploration of the rules for
+function overloading, template instantiation, template specialization,
+and the semantic mess that results from their&amp;nbsp;interactions.&lt;/li&gt;
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Dimensional Analysis in C++,&amp;#8221; a purely compile-time approach to
+making sure that physical quantities (e.g., mass, velocity, distance, etc.)
+are used consistently in C++&amp;nbsp;programs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;#8217;ll also be plugging the third edition of &lt;em&gt;Effective C++,&lt;/em&gt; reminding
+everyone that they should own &lt;em&gt;n&lt;/em&gt;+2 copies, where &lt;em&gt;n&lt;/em&gt; is the number of cars they own:
+1 for home, 1 for work, and &lt;em&gt;n&lt;/em&gt; for reading when they are stuck in&amp;nbsp;traffic.&lt;/p&gt;
+&lt;p&gt;I may also show slides of recent trips I&amp;#8217;ve taken to China and India.
+Or maybe of our new dog, Darla.
+Maybe even video.
+Whatever.
+We&amp;#8217;ll see&amp;nbsp;:-)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Scott Meyers is one of the world&amp;#8217;s foremost experts on C++ software development.
+He wrote the best-selling &lt;em&gt;Effective C++&lt;/em&gt; series
+(&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-92488-9/"&gt;Effective C++&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-63371-X/"&gt;More Effective C++&lt;/a&gt;,
+and &lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-74962-9/"&gt;Effective &lt;span class="caps"&gt;STL&lt;/span&gt;&lt;/a&gt;);
+wrote and designed the innovative
+&lt;a class="reference external" href="http://www.awl.com/cseng/titles/0-201-31015-5/"&gt;Effective C++ &lt;span class="caps"&gt;CD&lt;/span&gt;&lt;/a&gt;;
+is consulting editor for Addison Wesley&amp;#8217;s &lt;em&gt;Effective Software Development Series&lt;/em&gt;;
+and is a member of the advisory board for
+&lt;a class="reference external" href="http://www.sdmagazine.com/"&gt;Software Development&lt;/a&gt; magazine.
+He also sits on technical advisory boards for several start-up companies.
+A programmer since 1972, he holds an &lt;span class="caps"&gt;M.S.&lt;/span&gt; in Computer Science from Stanford University
+and a Ph.D. from Brown&amp;nbsp;University.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/twoViews.pdf"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>August 17th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2005.html" rel="alternate"></link><published>2005-08-01T00:00:00-07:00</published><updated>2005-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-08-01:/august-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>July 20th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2005.html" rel="alternate"></link><published>2005-07-01T00:00:00-07:00</published><updated>2005-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-07-01:/july-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>June 15th, 2005 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/june-2005.html" rel="alternate"></link><published>2005-06-01T00:00:00-07:00</published><updated>2005-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-06-01:/june-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
+If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>May 18th, 2005 — Writing safer code with the Visual C++ 8.0 Libraries — Martyn Lovell</title><link href="http://nwcpp.org/may-2005.html" rel="alternate"></link><published>2005-05-01T00:00:00-07:00</published><updated>2005-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-05-01:/may-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Over the past 5 years,
+Microsoft has conducted extensive and detailed security reviews
+and upgrades of its very large code bases.
+We’ve learnt a lot about how to build safer code,
+and in Visual C++ 8.0, we …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Over the past 5 years,
+Microsoft has conducted extensive and detailed security reviews
+and upgrades of its very large code bases.
+We’ve learnt a lot about how to build safer code,
+and in Visual C++ 8.0, we’re applying that to the Visual C++ Libraries
+to help protect against classic security problems (such as buffer overruns).
+The Standard C Library includes many venerable functions with security problems.
+Visual C++ 8.0 includes a full revamp of this library to help programmers
+build safer code with minimal source changes.
+The Standard C++ library provides a clean and simple abstraction
+for algorithms, iterators and containers that provides much better protection
+than the traditional C library.
+We extended our implementation of the Standard C++ Libraries to
+try to make them apply, by default,
+the lessons we’ve learnt from reviewing our code.
+The result is a much safer implementation of the Standard Libraries
+with only a small amount of reduced functionality.
+This talk describes the changes made and their impact on application code,
+as well as some of the internals of the&amp;nbsp;implementation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Martyn Lovell is the Development Lead on the Visual C++ Libraries Team,
+which is responsible for the C and C++ runtime libraries, &lt;span class="caps"&gt;MFC&lt;/span&gt;, &lt;span class="caps"&gt;ATL&lt;/span&gt;,
+&lt;span class="caps"&gt;STL&lt;/span&gt;/&lt;span class="caps"&gt;CLR&lt;/span&gt; and other libraries supporting managed code development in C++.
+His recent focus has been security in the standard libraries,
+and support for mixing managed and native code in a single program.
+As a long-standing member of the developer tools division,
+he has worked on a broad range of features.
+These include architecture, design and implementation for:
+the extensibility of the Visual Studio Shell;
+source control and Visual SourceSafe;
+source control integration and other team development features;
+the Visual Studio Analyzer infrastructure and user interface;
+the common development shell;
+web development;
+and the Visual Studio user interface.
+He is a frequent speaker at TechEd and other conferences,
+and a regular contributor to online&amp;nbsp;communities.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/Secure_NWCPP_May_2005.ppt"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>April 20th, 2005 — xpressive regular expressions: Library design at the edge — Eric Niebler</title><link href="http://nwcpp.org/april-2005.html" rel="alternate"></link><published>2005-04-01T00:00:00-08:00</published><updated>2005-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-04-01:/april-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Another C++ regular expression library? Hasn&amp;#8217;t it all been done?&amp;nbsp;No!&lt;/p&gt;
+&lt;p&gt;xpressive pushes the boundaries of compile-time and run-time interaction.
+Regular expressions can be written either as a string to be parsed at runtime,
+or as an expression …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Another C++ regular expression library? Hasn&amp;#8217;t it all been done?&amp;nbsp;No!&lt;/p&gt;
+&lt;p&gt;xpressive pushes the boundaries of compile-time and run-time interaction.
+Regular expressions can be written either as a string to be parsed at runtime,
+or as an expression template parsed (and optimized!) at compile time.
+In this talk, Eric will discuss library design at the compile-time/run-time boundary,
+and the interesting possibilities such a design makes&amp;nbsp;possible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Eric is an independent software consultant currently working
+with Dave Abrahams and Boost Consulting.
+He is a former employee of Microsoft Research and Visual C++,
+and his writings about C++ have been published
+in the &lt;em&gt;C/C++ User&amp;#8217;s Journal&lt;/em&gt; and &lt;em&gt;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Magazine&lt;/em&gt;.
+When he&amp;#8217;s not writing C++ for money, Eric has been known to write C++ for&amp;nbsp;fun.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/xpressive.ppt"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>March 23rd, 2005 — Evolving C++ onto the CLI — Stan Lippman</title><link href="http://nwcpp.org/march-2005.html" rel="alternate"></link><published>2005-03-01T00:00:00-08:00</published><updated>2005-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-03-01:/march-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;C++ reflects a static object model optimized for executable speed and&amp;nbsp;size.&lt;/p&gt;
+&lt;p&gt;This has made it the language of choice for systems programming.
+The Common Language Infrastructure (&lt;span class="caps"&gt;CLI&lt;/span&gt;) represents a dynamic object model
+optimized for flexibility and security.
+C …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;C++ reflects a static object model optimized for executable speed and&amp;nbsp;size.&lt;/p&gt;
+&lt;p&gt;This has made it the language of choice for systems programming.
+The Common Language Infrastructure (&lt;span class="caps"&gt;CLI&lt;/span&gt;) represents a dynamic object model
+optimized for flexibility and security.
+C++ programmers wishing to inhabit the &lt;span class="caps"&gt;CLI&lt;/span&gt; development space until now
+have had to leave C++ and generally work in C# (or Java).
+In this talk, I&amp;#8217;ll discuss our evolution of C++
+to adapt to the &lt;span class="caps"&gt;CLI&lt;/span&gt; programming environment,
+and couch it in a more general look at program language lifetimes
+and suggest some possible future&amp;nbsp;directions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Stan Lippman is Architect with the Visual C++ team at Microsoft.
+He began working on C++ with its inventor Bjarne Stroustrup back in 1984
+within Bell Laboratories.
+In between, he worked in Feature Animation at Disney and DreamWorks,
+was a Distinguished Consultant with &lt;span class="caps"&gt;JPL&lt;/span&gt;,
+and was a Software Technical Director on Fantasia 2000.
+He is the author of &lt;em&gt;C++ Primer, 4e&lt;/em&gt; (2005) and &lt;em&gt;Inside the C++ Object Model&lt;/em&gt;.
+For the last three years,
+he has been involved in the work to adapt C++ onto the &lt;span class="caps"&gt;CLI&lt;/span&gt;&amp;nbsp;environment.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/EvolvingC___Short.ppt"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>February 9th, 2005 — Dealing with Software Complexity — Bartosz Milewski</title><link href="http://nwcpp.org/february-2005.html" rel="alternate"></link><published>2005-02-01T00:00:00-08:00</published><updated>2005-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-02-01:/february-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;One of the big problems in software development
+is that a lot of energy is spent on understanding existing code,
+whether it was written by other programmers or by the current developer long time ago.
+Bartosz will argue that …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;One of the big problems in software development
+is that a lot of energy is spent on understanding existing code,
+whether it was written by other programmers or by the current developer long time ago.
+Bartosz will argue that a large part of code analysis can be automated
+using exotic new techniques inspired by biology, cellular automata,
+document processing, and&amp;nbsp;more.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz is a theoretical physicist turned programmer.
+He is the author of the book, &lt;em&gt;C++ In Action&lt;/em&gt;, published by Addison-Wesley in 2001.
+He founded &lt;a class="reference external" href="http://www.relisoft.com"&gt;Reliable Software &lt;span class="caps"&gt;LLC&lt;/span&gt;&lt;/a&gt; in 1996
+to get first-hand experience in creating and maintaining
+a large software project—a version-control system called Code Co-op.
+Studying complexity is his main&amp;nbsp;interest.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/Complexity.ppt"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content></entry><entry><title>January 12th, 2005 — Lock-Free Programming — Andrei Alexandrescu</title><link href="http://nwcpp.org/january-2005.html" rel="alternate"></link><published>2005-01-01T00:00:00-08:00</published><updated>2005-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2005-01-01:/january-2005.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;With the increase of processor clock speeds hitting a snag,
+we&amp;#8217;re facing yet another silent revolution
+in processor architecture and programming style.
+Forget about writing lousy, inefficient code and
+then taking six months off to let Moore&amp;#8217;s …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.humongous.com"&gt;Humongous Entertainment&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;3855 Monte Villa Parkway&lt;/div&gt;
+&lt;div class="line"&gt;Bothell, Washington 98021&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;With the increase of processor clock speeds hitting a snag,
+we&amp;#8217;re facing yet another silent revolution
+in processor architecture and programming style.
+Forget about writing lousy, inefficient code and
+then taking six months off to let Moore&amp;#8217;s law catch up.
+Once again the heydays of efficient code are up,
+and with the new multicore, massively parallel architectures,
+threads are the way to go.
+This talk presents the newest, hottest, and most addictive multithreaded technique in town:
+lock-free&amp;nbsp;programming.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andrei Alexandrescu is working on a graduate degree
+at the University of Washington in Seattle,
+specializing in automatic speech recognition.
+In the C++ community, Andrei is best known for his books &lt;em&gt;Modern C++ Design&lt;/em&gt;
+and &lt;em&gt;C++ Coding Standards&lt;/em&gt; (the latter coauthored with Herb Sutter).
+Andrei is also a columnist for &lt;em&gt;C/C++ Users Journal&lt;/em&gt;, a C++ former
+columnist for the &lt;em&gt;C++ Report&lt;/em&gt;, a guest speaker at numerous conferences,
+and one of the featured instructors of
+&lt;a class="reference external" href="http://www.thecppseminar.com"&gt;The C++ Seminar&lt;/a&gt;).
+His website is &lt;a class="reference external" href="http://www.moderncppdesign.com"&gt;www.moderncppdesign.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2005/Lock-Free.pdf"&gt;Click here&lt;/a&gt;
+to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content></entry></feed>

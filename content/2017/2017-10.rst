@@ -1,0 +1,63 @@
+October 18th 2017: Coordinate Transformation in Three dimensions
+##############################################################################
+
+:date: 2017-10-05
+:slug: october-2017
+:author: Pete Williamson
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| October 18, 2017 at 7:00 PM
+| Adams Room, Building 43,
+ `Microsoft Campus map <{filename}/images/MicrosoftMainCampusMap.jpg>`_,
+
+| ``*****`` **Note, this is not our normal meeting room!** ``*****``
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+
+Abstract
+~~~~~~~~
+Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is to follow a vehicle on the ground and report back the position and velocity of that vehicle. A camera operator (or computer) controls the camera mount to keep the vehicle's image in the camera's view, while the pilot (or computer) flies the airplane and an analyst (or computer) identifies and locates the target vehicle in the image.
+
+Where is the target vehicle now?
+
+Time-varying inputs include the location and orientation of the airplane, three rotation angles from the camera mount, and the X and Y locations of the vehicle in the camera's image. Fixed inputs include location and orientation of the camera mount on the airplane and a map of ground elevation.
+
+All parts of this problem, from navigation to control to image interpretation to reporting the results, depend on transforming information from one coordinate system to another. In particular, the image location on the screen (pixel row and column) somehow gets transformed, in several steps, into the inferred location of the target vehicle on the ground (latitude, longitude, and elevation). In a simulation, you would do the same thing in reverse, from a simulated 3D track to its appearance on a screen. Correctly and efficiently.
+
+Computer applications of 3D coordinate transformations include image interpretation, guidance, control, games, simulations for teaching, simulations for testing sensor ideas, and more.
+
+A lot of the talk will involve hand waving and manipulation of physical models. There will be mathematics (quaternions will be mentioned) and efficient C++ software will be described. But mostly it's about how to think about this broad class of computational problems.
+
+Speaker Bio
+~~~~~~~~~~~
+Robert Goddard
+Principal Physicist, Retired (but still active)
+University of Washington, Seattle
+
+Robert Goddard is a physicist and software developer. He recently retired (sort of) after 37 years at the Applied Physics Laboratory of the University of Washington, mainly on computer modeling of underwater sound. He is still the architect and team leader for the Sonar Simulation Toolset (SST), which produces simulated underwater sound, suitable as input to sophisticated signal processing systems (including human ears and brains), based on user-specified descriptions of the undersea environment, the listening system, and the sound sources and reflectors placed in this simulated ocean. He has also developed systems for control of measurement devices, data analysis, visualization, modeling of quantum mechanical scattering, and using data to infer model parameters.
+
+Bob has been an active participant in the Northwest C++ Users Group for most of its existence, and is currently Treasurer.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Smartsheet Inc. is the $850mm startup you’ve never heard of. We build a SaaS tool that looks like a spreadsheet and is used, among other things, to manage projects of all sizes, including opening data centers, rebuilding hospitals, and major motion pictures.
+ 
+ 
+Resources
+~~~~~~~~~
+<Video link will be posted here when available>
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
