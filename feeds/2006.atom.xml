@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2006.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2006-12-31T00:00:00-08:00</updated><entry><title>2006</title><link href="http://nwcpp.org/2006-summary.html" rel="alternate"></link><updated>2006-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2006-12-31:2006-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2006.html"&gt;January 18th, 2006 — Policy-Based Memory Allocation — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2006</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2006.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2006-12-31T00:00:00-08:00</updated><entry><title>2006</title><link href="http://nwcpp.org/2006-summary.html" rel="alternate"></link><published>2006-12-31T00:00:00-08:00</published><updated>2006-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2006-12-31:/2006-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2006.html"&gt;January 18th, 2006 — Policy-Based Memory Allocation — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2006.html"&gt;February 15th, 2006 — The Phoenix Compiler and Tools Framework — Andy&amp;nbsp;Ayers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2006.html"&gt;March 15th, 2006 — Functional Programming in C++ using Boost.Lambda — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2006.html"&gt;April 19th, 2006 — C++ on Next-Gen Consoles: Effective Code for New Architectures — Pete&amp;nbsp;Isensee&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2006.html"&gt;May 17th, 2006 — The Power …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2006.html"&gt;January 18th, 2006 — Policy-Based Memory Allocation — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2006.html"&gt;February 15th, 2006 — The Phoenix Compiler and Tools Framework — Andy&amp;nbsp;Ayers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2006.html"&gt;March 15th, 2006 — Functional Programming in C++ using Boost.Lambda — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2006.html"&gt;April 19th, 2006 — C++ on Next-Gen Consoles: Effective Code for New Architectures — Pete&amp;nbsp;Isensee&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +15,22 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2006.html"&gt;October 18th, 2006 — The Cost of C++ Exception Handling on Windows — Kevin&amp;nbsp;Frei&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2006.html"&gt;November 15th, 2006 — What makes a Good Programmer? Things they never told you — Adair&amp;nbsp;Dingle&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2006.html"&gt;December 2006: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>December 2006: No Meeting</title><link href="http://nwcpp.org/december-2006.html" rel="alternate"></link><updated>2006-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-12-01:december-2006.html</id><summary type="html"></summary></entry><entry><title>November 15th, 2006 — What makes a Good Programmer? Things they never told you — Adair Dingle</title><link href="http://nwcpp.org/november-2006.html" rel="alternate"></link><updated>2006-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-11-01:november-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>December 2006: No Meeting</title><link href="http://nwcpp.org/december-2006.html" rel="alternate"></link><published>2006-12-01T00:00:00-08:00</published><updated>2006-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-12-01:/december-2006.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 15th, 2006 — What makes a Good Programmer? Things they never told you — Adair Dingle</title><link href="http://nwcpp.org/november-2006.html" rel="alternate"></link><published>2006-11-01T00:00:00-08:00</published><updated>2006-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-11-01:/november-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 40&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Time constraints and demands for breadth constrain academic instruction.
+Job experience fills in the gap between theory and practice.
+Here we discuss some circumvented hurdles
+(representation, resource management, failures)
+as well as key characteristics of students who succeed …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -46,7 +65,21 @@ exploring background processes critical to software&amp;nbsp;design.&lt;/p&gt;
 &lt;p&gt;Watch a &lt;a class="reference external" href="http://video.google.com/videoplay?docid=-3746958180505089789&amp;amp;q=nwcpp"&gt;video&lt;/a&gt;
 of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 18th, 2006 — The Cost of C++ Exception Handling on Windows — Kevin Frei</title><link href="http://nwcpp.org/october-2006.html" rel="alternate"></link><updated>2006-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-10-01:october-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>October 18th, 2006 — The Cost of C++ Exception Handling on Windows — Kevin Frei</title><link href="http://nwcpp.org/october-2006.html" rel="alternate"></link><published>2006-10-01T00:00:00-07:00</published><updated>2006-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-10-01:/october-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 40&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;There&amp;#8217;s a long running emotional battle over C++ exception handling.
+Rather than argue for or against either side,
+I&amp;#8217;ll be going into low-level detail of
+how much it costs to use on Windows for both x86 …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -71,7 +104,7 @@ of why, how, and when C++ exceptions should or should not be&amp;nbsp;used.&lt;/
 &lt;p&gt;I&amp;#8217;ve been at &lt;span class="caps"&gt;MSFT&lt;/span&gt; for 9 years,
 working on the compiler back end/optimizer the entire time.
 I&amp;#8217;m currently responsible for the Orcas optimizer, linker, and other &amp;#8216;tools&amp;#8217;
-while the rest of the team works on the &amp;quot;Phoenix&amp;quot;&amp;nbsp;project.&lt;/p&gt;
+while the rest of the team works on the &amp;#8220;Phoenix&amp;#8221;&amp;nbsp;project.&lt;/p&gt;
 &lt;p&gt;Prior to my life at Microsoft, I graduated from the University of Utah with a &lt;span class="caps"&gt;BS&lt;/span&gt; in &lt;span class="caps"&gt;CS&lt;/span&gt;.
 I have a wife &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; 3 kids, enjoy playing with my kids,
 woodworking, mountain biking, writing goofy projects to learn new technologies,
@@ -83,7 +116,7 @@ and wasting time in front of a variety of video&amp;nbsp;games.&lt;/p&gt;
 &lt;p&gt;Watch a &lt;a class="reference external" href="http://video.google.com/videoplay?docid=9169999597330548749&amp;amp;hl=en"&gt;video&lt;/a&gt;
 of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 13th, 2006 — The Concur Project — Herb Sutter</title><link href="http://nwcpp.org/september-2006.html" rel="alternate"></link><updated>2006-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-09-01:september-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>September 13th, 2006 — The Concur Project — Herb Sutter</title><link href="http://nwcpp.org/september-2006.html" rel="alternate"></link><published>2006-09-01T00:00:00-07:00</published><updated>2006-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-09-01:/september-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
@@ -100,8 +133,25 @@ of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;p&gt;Herb Sutter is a software architect at Microsoft
 and chair of the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ standards committee.
 Among his books and papers on software development
-is the widely-cited article &amp;quot;The Free Lunch Is Over&amp;quot;
-where he coined the title phrase and &amp;quot;concurrency revolution&amp;quot;
+is the widely-cited article …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.microsoft.com"&gt;Microsoft Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Building 41&lt;/div&gt;
+&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-concur-project-some-experimental-concurrency-abstractions-for-imperative-languages"&gt;
+&lt;h2&gt;The Concur Project: Some Experimental Concurrency Abstractions for Imperative&amp;nbsp;Languages&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Herb Sutter is a software architect at Microsoft
+and chair of the &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ standards committee.
+Among his books and papers on software development
+is the widely-cited article &amp;#8220;The Free Lunch Is Over&amp;#8221;
+where he coined the title phrase and &amp;#8220;concurrency revolution&amp;#8221;
 as applied to describe the software sea change
 now in progress to exploit increasingly parallel&amp;nbsp;hardware.&lt;/p&gt;
 &lt;/div&gt;
@@ -112,7 +162,20 @@ from the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;p&gt;Watch a &lt;a class="reference external" href="http://video.google.com/videoplay?docid=7625918717318948700&amp;amp;q=herb+sutter"&gt;video&lt;/a&gt;
 of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 16th, 2006 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2006.html" rel="alternate"></link><updated>2006-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-08-01:august-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>August 16th, 2006 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/august-2006.html" rel="alternate"></link><published>2006-08-01T00:00:00-07:00</published><updated>2006-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-08-01:/august-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.georgeanddragonpub.com/"&gt;The George &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Dragon Pub&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;206 North 36th St&lt;/div&gt;
+&lt;div class="line"&gt;Seattle, &lt;span class="caps"&gt;WA&lt;/span&gt; 98103&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.georgeanddragonpub.com/"&gt;The George &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Dragon Pub&lt;/a&gt;&lt;/div&gt;
@@ -128,7 +191,20 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>July 19th, 2006 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2006.html" rel="alternate"></link><updated>2006-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-07-01:july-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>July 19th, 2006 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/july-2006.html" rel="alternate"></link><published>2006-07-01T00:00:00-07:00</published><updated>2006-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-07-01:/july-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.georgeanddragonpub.com/"&gt;The George &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Dragon Pub&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;206 North 36th St&lt;/div&gt;
+&lt;div class="line"&gt;Seattle, &lt;span class="caps"&gt;WA&lt;/span&gt; 98103&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.georgeanddragonpub.com/"&gt;The George &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Dragon Pub&lt;/a&gt;&lt;/div&gt;
@@ -144,7 +220,20 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>June 21st, 2006 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/june-2006.html" rel="alternate"></link><updated>2006-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-06-01:june-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>June 21st, 2006 — Roundtable Meeting — Open Discussion</title><link href="http://nwcpp.org/june-2006.html" rel="alternate"></link><published>2006-06-01T00:00:00-07:00</published><updated>2006-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-06-01:/june-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Desert Fire&lt;/div&gt;
+&lt;div class="line"&gt;7211 166th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="description"&gt;
+&lt;h2&gt;Description&lt;/h2&gt;
+&lt;p&gt;This will be an informal discussion over dinner.
+The topic is just a suggestion,
+and we may find that we prefer to socialize rather than discuss anything in particular.
+Come ready to chat and get to know your fellow …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Desert Fire&lt;/div&gt;
@@ -160,7 +249,22 @@ and we may find that we prefer to socialize rather than discuss anything in part
 Come ready to chat and get to know your fellow &lt;span class="caps"&gt;NWCPP&lt;/span&gt; members.
 If you plan on eating, please bring &lt;strong&gt;cash&lt;/strong&gt; for food and&amp;nbsp;drinks.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 17th, 2006 — The Power of None — Andrei Alexandrescu</title><link href="http://nwcpp.org/may-2006.html" rel="alternate"></link><updated>2006-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-05-01:may-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>May 17th, 2006 — The Power of None — Andrei Alexandrescu</title><link href="http://nwcpp.org/may-2006.html" rel="alternate"></link><published>2006-05-01T00:00:00-07:00</published><updated>2006-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-05-01:/may-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Exceptions. The final frontier.
+We wanted to understand them.
+We thought we&amp;#8217;ll love them, but they&amp;#8217;ve lacerated our code.
+We hated them.
+We tried to do without them.
+We couldn&amp;#8217;t because they kept on throwing themselves …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -205,7 +309,21 @@ His website is &lt;a class="reference external" href="http://www.erdani.org"&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2006/The_Power_of_None.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 19th, 2006 — C++ on Next-Gen Consoles: Effective Code for New Architectures — Pete Isensee</title><link href="http://nwcpp.org/april-2006.html" rel="alternate"></link><updated>2006-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-04-01:april-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>April 19th, 2006 — C++ on Next-Gen Consoles: Effective Code for New Architectures — Pete Isensee</title><link href="http://nwcpp.org/april-2006.html" rel="alternate"></link><published>2006-04-01T00:00:00-08:00</published><updated>2006-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-04-01:/april-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;At &lt;span class="caps"&gt;GDC&lt;/span&gt; 2005, Chris Hecker stated that average game code
+is going to run slower on next-generation consoles than on the current generation.
+In many ways, he’s right.
+Programmers accustomed to having &lt;span class="caps"&gt;CPU&lt;/span&gt; silicon
+devoted to out-of-order execution …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -240,7 +358,20 @@ and was a C++ template geek long before compilers knew what to make of functors 
 &lt;p&gt;&lt;a class="reference external" href="https://www.cmpevents.com/sessions/GD/S1549i1.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 15th, 2006 — Functional Programming in C++ using Boost.Lambda — Bartosz Milewski</title><link href="http://nwcpp.org/march-2006.html" rel="alternate"></link><updated>2006-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-03-01:march-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>March 15th, 2006 — Functional Programming in C++ using Boost.Lambda — Bartosz Milewski</title><link href="http://nwcpp.org/march-2006.html" rel="alternate"></link><published>2006-03-01T00:00:00-08:00</published><updated>2006-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-03-01:/march-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The power of &lt;span class="caps"&gt;STL&lt;/span&gt; is partially due to its embracing elements of functional programming.
+Algorithms implemented in &lt;span class="caps"&gt;STL&lt;/span&gt;, such as &lt;tt class="docutils literal"&gt;for_each&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;accumulate&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;find&lt;/tt&gt;, etc.,
+have functional customization points.
+You can customize them by providing your own function objects—be …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -277,7 +408,20 @@ Studying complexity is his main&amp;nbsp;interest.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2006/Customization_Points_and_Polymorphism.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 15th, 2006 — The Phoenix Compiler and Tools Framework — Andy Ayers</title><link href="http://nwcpp.org/february-2006.html" rel="alternate"></link><updated>2006-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-02-01:february-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>February 15th, 2006 — The Phoenix Compiler and Tools Framework — Andy Ayers</title><link href="http://nwcpp.org/february-2006.html" rel="alternate"></link><published>2006-02-01T00:00:00-08:00</published><updated>2006-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-02-01:/february-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-phoenix-compiler-and-tools-framework-built-from-building-and-building-on-c-cli"&gt;
+&lt;h2&gt;The Phoenix Compiler and Tools Framework: Built From, Building, and Building On C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Phoenix, Microsoft&amp;#8217;s next generation compiler and tools framework,
+is built entirely in C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;.
+Phoenix&amp;#8217;s design leverages both the traditional strengths of C++
+and …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -313,7 +457,23 @@ dates back to his days as a graduate student at &lt;span class="caps"&gt;MIT&lt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2006/Ayers_NWCPP_Talk.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 18th, 2006 — Policy-Based Memory Allocation — Andrei Alexandrescu</title><link href="http://nwcpp.org/january-2006.html" rel="alternate"></link><updated>2006-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-01-01:january-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content></entry><entry><title>January 18th, 2006 — Policy-Based Memory Allocation — Andrei Alexandrescu</title><link href="http://nwcpp.org/january-2006.html" rel="alternate"></link><published>2006-01-01T00:00:00-08:00</published><updated>2006-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2006-01-01:/january-2006.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;11820 Northup Way #E200&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, Washington 98005&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Traditionally, memory allocation is approached as a monolithic, rigid design
+influenced by a performance-minded implementation.
+However, compile-time C++ techniques can yield
+a highly flexible and configurable design
+with the same performance profile
+as equivalent hand-implemented designs.
+This talk describes …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.construx.com"&gt;Construx Software&lt;/a&gt;&lt;/div&gt;
@@ -351,4 +511,4 @@ His website is &lt;a class="reference external" href="http://www.erdani.com"&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2006/ChromedMetal.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry></feed>
+</content></entry></feed>
