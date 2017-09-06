@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-08-26T00:00:00-07:00</updated><entry><title>Meetings in September</title><link href="http://nwcpp.org/aug-2017.html" rel="alternate"></link><published>2017-08-26T00:00:00-07:00</published><updated>2017-08-26T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-08-26:/aug-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-09-05T00:00:00-07:00</updated><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2017.html" rel="alternate"></link><published>2017-09-05T00:00:00-07:00</published><updated>2017-09-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-09-05:/sep-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+&lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
+&lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
+&lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="featured-events-at-cppcon"&gt;
+&lt;h2&gt;Featured …&lt;/h2&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+&lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
+&lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
+&lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="featured-events-at-cppcon"&gt;
+&lt;h2&gt;Featured Events at&amp;nbsp;CppCon&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday at 8:30 &lt;span class="caps"&gt;PM&lt;/span&gt;: Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions&lt;/strong&gt; by Brett Searles and Kenny Kerr
+Even though we love C++, we don’t live in a C++-only world. In this session, you will be given the opportunity to ask questions about the best way to build applications in C++, yet also make them accessible to clients who use managed code. There will also be experts to answer questions about best practices for building C++ so it may be utilized efficiently in a cross-platform&amp;nbsp;environment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday at 8:30 &lt;span class="caps"&gt;PM&lt;/span&gt;:  Optimizing Code Speed and Space with Build Time Switches&lt;/strong&gt; by Brett Searles, Chandler Carruth, and Jim Radigan
+Our compilers and linkers are powerful tools and like many power tools, mastery means understanding the settings. Come join compiler experts to get your questions answered on how to get the best from your code whether you are building for speed or&amp;nbsp;space.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thursday 8:30 &lt;span class="caps"&gt;PM&lt;/span&gt;: C++ in the Internet of Things&lt;/strong&gt; by Brett Searles and Lloyd Moore
+C++ has not always been the first language choice to use in embedded environments, but with the advent of modern C++, its use has been on the rise. Developing for embedded environments generally and the Internet of Things (IoT) specifically, presents challenges for which modern C++ offers a unique tool set. Come ask the experts on how they view C++ in this space and how to use modern C++ to get the best performance possible to meet the demands of&amp;nbsp;IoT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friday 4:45 &lt;span class="caps"&gt;PM&lt;/span&gt; to 5:45 &lt;span class="caps"&gt;PM&lt;/span&gt;: Building for the Best of us: Design and Development with Kids in Mind&lt;/strong&gt;, Sara Chipps &lt;span class="caps"&gt;CEO&lt;/span&gt; of Jewelbots (&lt;a class="reference external" href="https://cppcon2017.sched.com/event/Bkep"&gt;https://cppcon2017.sched.com/event/Bkep&lt;/a&gt;)
+Jewelbots!
+Sarah Chipps will be talking about Jewelbots at CppCon.  Jewelbots are a great way to get
+kids (especially young ladies) into programming (in C++!).
+&lt;a class="reference external" href="https://cppcon.org/jewelbots-announce-2017/"&gt;https://cppcon.org/jewelbots-announce-2017/&lt;/a&gt;
+Coming to see her is free.  You can optionally reserve a Jewelbot for the workshop for $10
+There will be food trucks nearby at GameOn Bellevue
+Parking for the event is free at the Meydenbauer on Fri after&amp;nbsp;3pm.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/aug-2017.html" rel="alternate"></link><published>2017-08-26T00:00:00-07:00</published><updated>2017-08-26T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-08-26:/aug-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our next meeting will be in September, stay&amp;nbsp;tuned!&lt;/p&gt;
 &lt;p&gt;Also, we will be hosting 3 CppCon panels during the month of September between Sep 23 and Sep&amp;nbsp;29&lt;/p&gt;
