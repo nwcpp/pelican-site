@@ -66,10 +66,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="../sep-2017.html">Meetings in&nbsp;September</a></h1>
+                    <h1 class="entry-title"><a href="../october-2017.html">October 18th 2017: Coordinate Transformation in Three&nbsp;dimensions</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2017-09-05T00:00:00-07:00">
-                Published: Tue 05 September 2017
+        <abbr class="published" title="2017-10-05T00:00:00-07:00">
+                Published: Thu 05 October 2017
         </abbr>
 
         <address class="vcard author">
@@ -77,27 +77,41 @@
         </address>
 <p>In <a href="../category/2017.html">2017</a>. </p>
 
-</footer><!-- /.post-info --><div class="section" id="upcoming-meetings">
-<h2>Upcoming&nbsp;Meetings</h2>
-<p>Our <span class="caps">NWCPP</span> meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and <span class="caps">ALL</span> sessions on&nbsp;Friday.</p>
-<p>Please see the CppCon web site at <a class="reference external" href="Http://cppcon.org">Http://cppcon.org</a> for current&nbsp;details.</p>
+</footer><!-- /.post-info --><div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">October 18, 2017 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Adams Room, Building 43, <a class="reference external" href="../steptoe-meeting-room.html">Cafeteria 40</a>,</div>
+<div class="line"><strong>*</strong> Note, this is not our normal meeting room! <strong>*</strong></div>
+<div class="line">Microsoft Campus,</div>
+<div class="line">156th Ave <span class="caps">NE</span>,</div>
+<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
 </div>
-<div class="section" id="featured-events-at-cppcon">
-<h2>Featured Events at&nbsp;CppCon</h2>
-<p><strong>Tuesday at 8:30 <span class="caps">PM</span>: Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions</strong> by Brett Searles and Kenny Kerr
-Even though we love C++, we don’t live in a C++-only world. In this session, you will be given the opportunity to ask questions about the best way to build applications in C++, yet also make them accessible to clients who use managed code. There will also be experts to answer questions about best practices for building C++ so it may be utilized efficiently in a cross-platform&nbsp;environment.</p>
-<p><strong>Wednesday at 8:30 <span class="caps">PM</span>:  Optimizing Code Speed and Space with Build Time Switches</strong> by Brett Searles, Chandler Carruth, and Jim Radigan
-Our compilers and linkers are powerful tools and like many power tools, mastery means understanding the settings. Come join compiler experts to get your questions answered on how to get the best from your code whether you are building for speed or&nbsp;space.</p>
-<p><strong>Thursday 8:30 <span class="caps">PM</span>: C++ in the Internet of Things</strong> by Brett Searles and Lloyd Moore
-C++ has not always been the first language choice to use in embedded environments, but with the advent of modern C++, its use has been on the rise. Developing for embedded environments generally and the Internet of Things (IoT) specifically, presents challenges for which modern C++ offers a unique tool set. Come ask the experts on how they view C++ in this space and how to use modern C++ to get the best performance possible to meet the demands of&nbsp;IoT.</p>
-<p><strong>Friday 4:45 <span class="caps">PM</span> to 5:45 <span class="caps">PM</span>: Building for the Best of us: Design and Development with Kids in Mind</strong>, Sara Chipps <span class="caps">CEO</span> of Jewelbots (<a class="reference external" href="https://cppcon2017.sched.com/event/Bkep">https://cppcon2017.sched.com/event/Bkep</a>)
-Jewelbots!
-Sarah Chipps will be talking about Jewelbots at CppCon.  Jewelbots are a great way to get
-kids (especially young ladies) into programming (in C++!).
-<a class="reference external" href="https://cppcon.org/jewelbots-announce-2017/">https://cppcon.org/jewelbots-announce-2017/</a>
-Coming to see her is free.  You can optionally reserve a Jewelbot for the workshop for $10
-There will be food trucks nearby at GameOn Bellevue
-Parking for the event is free at the Meydenbauer on Fri after&nbsp;3pm.</p>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is to follow a vehicle on the ground and report back the position and velocity of that vehicle. A camera operator (or computer) controls the camera mount to keep the vehicle&#8217;s image in the camera&#8217;s view, while the pilot (or computer) flies the airplane and an analyst (or computer) identifies and locates the target vehicle in the&nbsp;image.</p>
+<p>Where is the target vehicle&nbsp;now?</p>
+<p>Time-varying inputs include the location and orientation of the airplane, three rotation angles from the camera mount, and the X and Y locations of the vehicle in the camera&#8217;s image. Fixed inputs include location and orientation of the camera mount on the airplane and a map of ground&nbsp;elevation.</p>
+<p>All parts of this problem, from navigation to control to image interpretation to reporting the results, depend on transforming information from one coordinate system to another. In particular, the image location on the screen (pixel row and column) somehow gets transformed, in several steps, into the inferred location of the target vehicle on the ground (latitude, longitude, and elevation). In a simulation, you would do the same thing in reverse, from a simulated 3D track to its appearance on a screen. Correctly and&nbsp;efficiently.</p>
+<p>Computer applications of 3D coordinate transformations include image interpretation, guidance, control, games, simulations for teaching, simulations for testing sensor ideas, and&nbsp;more.</p>
+<p>A lot of the talk will involve hand waving and manipulation of physical models. There will be mathematics (quaternions will be mentioned) and efficient C++ software will be described. But mostly it&#8217;s about how to think about this broad class of computational&nbsp;problems.</p>
+</div>
+<div class="section" id="speaker-bio">
+<h2>Speaker&nbsp;Bio</h2>
+<p>Robert Goddard
+Principal Physicist, Retired (but still active)
+University of Washington,&nbsp;Seattle</p>
+<p>Robert Goddard is a physicist and software developer. He recently retired (sort of) after 37 years at the Applied Physics Laboratory of the University of Washington, mainly on computer modeling of underwater sound. He is still the architect and team leader for the Sonar Simulation Toolset (<span class="caps">SST</span>), which produces simulated underwater sound, suitable as input to sophisticated signal processing systems (including human ears and brains), based on user-specified descriptions of the undersea environment, the listening system, and the sound sources and reflectors placed in this simulated ocean. He has also developed systems for control of measurement devices, data analysis, visualization, modeling of quantum mechanical scattering, and using data to infer model&nbsp;parameters.</p>
+<p>Bob has been an active participant in the Northwest C++ Users Group for most of its existence, and is currently&nbsp;Treasurer.</p>
+</div>
+<div class="section" id="a-word-from-our-sponsor">
+<h2>A Word From Our&nbsp;Sponsor</h2>
+<p>Smartsheet Inc. is the $850mm startup you’ve never heard of. We build a SaaS tool that looks like a spreadsheet and is used, among other things, to manage projects of all sizes, including opening data centers, rebuilding hospitals, and major motion&nbsp;pictures.</p>
+</div>
+<div class="section" id="resources">
+<h2>Resources</h2>
+<p><a class="reference external" href="https://youtu.be/UHv_Jog9Xuc">Video</a>&nbsp;|</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -116,6 +130,34 @@ Parking for the event is free at the Meydenbauer on Fri after&nbsp;3pm.</p>
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="../sep-2017.html" rel="bookmark"
+                           title="Permalink to Meetings in September">Meetings in&nbsp;September</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2017-09-05T00:00:00-07:00">
+                Published: Tue 05 September 2017
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="../author/pete-williamson.html">Pete Williamson</a>
+        </address>
+<p>In <a href="../category/2017.html">2017</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="upcoming-meetings">
+<h2>Upcoming&nbsp;Meetings</h2>
+<p>Our <span class="caps">NWCPP</span> meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and <span class="caps">ALL</span> sessions on&nbsp;Friday.</p>
+<p>Please see the CppCon web site at <a class="reference external" href="Http://cppcon.org">Http://cppcon.org</a> for current&nbsp;details.</p>
+</div>
+<div class="section" id="featured-events-at-cppcon">
+<h2>Featured …</h2></div>
+                <a class="readmore" href="../sep-2017.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>

@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2017</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2017.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-09-05T00:00:00-07:00</updated><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2017.html" rel="alternate"></link><published>2017-09-05T00:00:00-07:00</published><updated>2017-09-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-09-05:/sep-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2017</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2017.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-10-05T00:00:00-07:00</updated><entry><title>October 18th 2017: Coordinate Transformation in Three dimensions</title><link href="http://nwcpp.org/october-2017.html" rel="alternate"></link><published>2017-10-05T00:00:00-07:00</published><updated>2017-10-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-10-05:/october-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 18, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Adams Room, Building 43, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;*&lt;/strong&gt; Note, this is not our normal meeting room! &lt;strong&gt;*&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is to …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 18, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Adams Room, Building 43, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;*&lt;/strong&gt; Note, this is not our normal meeting room! &lt;strong&gt;*&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is to follow a vehicle on the ground and report back the position and velocity of that vehicle. A camera operator (or computer) controls the camera mount to keep the vehicle&amp;#8217;s image in the camera&amp;#8217;s view, while the pilot (or computer) flies the airplane and an analyst (or computer) identifies and locates the target vehicle in the&amp;nbsp;image.&lt;/p&gt;
+&lt;p&gt;Where is the target vehicle&amp;nbsp;now?&lt;/p&gt;
+&lt;p&gt;Time-varying inputs include the location and orientation of the airplane, three rotation angles from the camera mount, and the X and Y locations of the vehicle in the camera&amp;#8217;s image. Fixed inputs include location and orientation of the camera mount on the airplane and a map of ground&amp;nbsp;elevation.&lt;/p&gt;
+&lt;p&gt;All parts of this problem, from navigation to control to image interpretation to reporting the results, depend on transforming information from one coordinate system to another. In particular, the image location on the screen (pixel row and column) somehow gets transformed, in several steps, into the inferred location of the target vehicle on the ground (latitude, longitude, and elevation). In a simulation, you would do the same thing in reverse, from a simulated 3D track to its appearance on a screen. Correctly and&amp;nbsp;efficiently.&lt;/p&gt;
+&lt;p&gt;Computer applications of 3D coordinate transformations include image interpretation, guidance, control, games, simulations for teaching, simulations for testing sensor ideas, and&amp;nbsp;more.&lt;/p&gt;
+&lt;p&gt;A lot of the talk will involve hand waving and manipulation of physical models. There will be mathematics (quaternions will be mentioned) and efficient C++ software will be described. But mostly it&amp;#8217;s about how to think about this broad class of computational&amp;nbsp;problems.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Robert Goddard
+Principal Physicist, Retired (but still active)
+University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
+&lt;p&gt;Robert Goddard is a physicist and software developer. He recently retired (sort of) after 37 years at the Applied Physics Laboratory of the University of Washington, mainly on computer modeling of underwater sound. He is still the architect and team leader for the Sonar Simulation Toolset (&lt;span class="caps"&gt;SST&lt;/span&gt;), which produces simulated underwater sound, suitable as input to sophisticated signal processing systems (including human ears and brains), based on user-specified descriptions of the undersea environment, the listening system, and the sound sources and reflectors placed in this simulated ocean. He has also developed systems for control of measurement devices, data analysis, visualization, modeling of quantum mechanical scattering, and using data to infer model&amp;nbsp;parameters.&lt;/p&gt;
+&lt;p&gt;Bob has been an active participant in the Northwest C++ Users Group for most of its existence, and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Smartsheet Inc. is the $850mm startup you’ve never heard of. We build a SaaS tool that looks like a spreadsheet and is used, among other things, to manage projects of all sizes, including opening data centers, rebuilding hospitals, and major motion&amp;nbsp;pictures.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://youtu.be/UHv_Jog9Xuc"&gt;Video&lt;/a&gt;&amp;nbsp;|&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2017.html" rel="alternate"></link><published>2017-09-05T00:00:00-07:00</published><updated>2017-09-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-09-05:/sep-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
 &lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
@@ -26,6 +86,13 @@ kids (especially young ladies) into programming (in C++!).
 Coming to see her is free.  You can optionally reserve a Jewelbot for the workshop for $10
 There will be food trucks nearby at GameOn Bellevue
 Parking for the event is free at the Meydenbauer on Fri after&amp;nbsp;3pm.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Optimizing Code Speed and Spade with Build Time Switches Panel
+&lt;a class="reference external" href="https://www.youtube.com/attribution_link?a=n0SFbCDb71zCedy1&amp;amp;u=/watch%3Fv%3D9RFYVbHRoLg%26feature%3Dem-upload_owner"&gt;https://www.youtube.com/attribution_link?a=n0SFbCDb71zCedy1&amp;amp;u=/watch%3Fv%3D9RFYVbHRoLg%26feature%3Dem-upload_owner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Internet of Things Panel
+&lt;a class="reference external" href="https://www.youtube.com/attribution_link?a=sBfkW6xhbtpa6_Ip&amp;amp;u=/watch%3Fv%3DgmW6b0I_t5k%26feature%3Dem-upload_owner"&gt;https://www.youtube.com/attribution_link?a=sBfkW6xhbtpa6_Ip&amp;amp;u=/watch%3Fv%3DgmW6b0I_t5k%26feature%3Dem-upload_owner&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="digital-media-links"&gt;
 &lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;

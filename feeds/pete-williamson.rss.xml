@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Northwest C++ Users’ Group - Pete Williamson</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Tue, 05 Sep 2017 00:00:00 -0700</lastBuildDate><item><title>Meetings in September</title><link>http://nwcpp.org/sep-2017.html</link><description>&lt;div class="section" id="upcoming-meetings"&gt;
+<rss version="2.0"><channel><title>Northwest C++ Users’ Group - Pete Williamson</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Thu, 05 Oct 2017 00:00:00 -0700</lastBuildDate><item><title>October 18th 2017: Coordinate Transformation in Three dimensions</title><link>http://nwcpp.org/october-2017.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;October 18, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Adams Room, Building 43, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;&lt;strong&gt;*&lt;/strong&gt; Note, this is not our normal meeting room! &lt;strong&gt;*&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is to …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Thu, 05 Oct 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2017-10-05:/october-2017.html</guid></item><item><title>Meetings in September</title><link>http://nwcpp.org/sep-2017.html</link><description>&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
 &lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
