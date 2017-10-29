@@ -50,7 +50,8 @@ Smartsheet Inc. is the $850mm startup you’ve never heard of. We build a SaaS t
  
 Resources
 ~~~~~~~~~
-<Video link will be posted here when available>
+`Video <https://youtu.be/b2qOg7z763o>`_ |
+`Slides </talks/2017/CoordXform.pptx>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
