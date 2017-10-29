@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Pete Williamson</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/pete-williamson.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-10-05T00:00:00-07:00</updated><entry><title>October 18th 2017: Coordinate Transformation in Three dimensions</title><link href="http://nwcpp.org/october-2017.html" rel="alternate"></link><published>2017-10-05T00:00:00-07:00</published><updated>2017-10-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-10-05:/october-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;October 18, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Adams Room, Building 43,
-&lt;a class="reference external" href="http://nwcpp.org/images/MicrosoftMainCampusMap.jpg"&gt;Microsoft Campus map&lt;/a&gt;,&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt; &lt;strong&gt;Note, this is not our normal meeting room!&lt;/strong&gt; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/pete-williamson.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-10-05T00:00:00-07:00</updated><entry><title>October 18th 2017: Coordinate Transformation in Three dimensions</title><link href="http://nwcpp.org/october-2017.html" rel="alternate"></link><updated>2017-10-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-10-05:october-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 18, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -52,7 +36,8 @@ University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&amp;lt;Video link will be posted here when&amp;nbsp;available&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://youtu.be/b2qOg7z763o"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2017/CoordXform.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="digital-media-links"&gt;
 &lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
@@ -65,13 +50,7 @@ University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2017.html" rel="alternate"></link><published>2017-09-05T00:00:00-07:00</published><updated>2017-09-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-09-05:/sep-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
-&lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
-&lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
-&lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="featured-events-at-cppcon"&gt;
-&lt;h2&gt;Featured …&lt;/h2&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+</summary></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2017.html" rel="alternate"></link><updated>2017-09-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-09-05:sep-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
 &lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
@@ -111,20 +90,7 @@ Parking for the event is free at the Meydenbauer on Fri after&amp;nbsp;3pm.&lt;/
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/aug-2017.html" rel="alternate"></link><published>2017-08-26T00:00:00-07:00</published><updated>2017-08-26T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-08-26:/aug-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
-&lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
-&lt;p&gt;Our next meeting will be in September, stay&amp;nbsp;tuned!&lt;/p&gt;
-&lt;p&gt;Also, we will be hosting 3 CppCon panels during the month of September between Sep 23 and Sep&amp;nbsp;29&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;Optimizing the&amp;nbsp;Build&lt;/li&gt;
-&lt;li&gt;Mixing managed with unmanaged code and cross&amp;nbsp;platform&lt;/li&gt;
-&lt;li&gt;Using C++ in&amp;nbsp;Iot&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+</summary></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/aug-2017.html" rel="alternate"></link><updated>2017-08-26T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-08-26:aug-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our next meeting will be in September, stay&amp;nbsp;tuned!&lt;/p&gt;
 &lt;p&gt;Also, we will be hosting 3 CppCon panels during the month of September between Sep 23 and Sep&amp;nbsp;29&lt;/p&gt;
@@ -145,4 +111,4 @@ Parking for the event is free at the Meydenbauer on Fri after&amp;nbsp;3pm.&lt;/
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry></feed>
+</summary></entry></feed>

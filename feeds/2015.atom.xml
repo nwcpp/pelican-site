@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2015</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2015.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2015-11-01T00:00:00-07:00</updated><entry><title>November 18th 2015: STL Algorithms</title><link href="http://nwcpp.org/november-2015.html" rel="alternate"></link><published>2015-11-01T00:00:00-07:00</published><updated>2015-11-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-11-01:/november-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;November 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;This is a presentation on &lt;span class="caps"&gt;STL&lt;/span&gt; algorithms, their mechanics, and some interesting tricks. The talk is a piece of his upcoming book on algorithms, and is preceded …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2015.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2015-11-01T00:00:00-07:00</updated><entry><title>November 18th 2015: STL Algorithms</title><link href="http://nwcpp.org/november-2015.html" rel="alternate"></link><updated>2015-11-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-11-01:november-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -27,7 +15,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Michael VanLoon is a Principal Software Engineer at F5 Networks. He has more than 30 years experience writing software across a variety of industries. He&amp;#8217;s currently working on a book based on his talk from CPPCon 2015, &amp;#8220;Algorithms in&amp;nbsp;Action&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;Michael VanLoon is a Principal Software Engineer at F5 Networks. He has more than 30 years experience writing software across a variety of industries. He&amp;#8217;s currently working on a book based on his talk from CPPCon 2015, &amp;quot;Algorithms in&amp;nbsp;Action&amp;quot;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -49,19 +37,7 @@
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>October 21th 2015: Qt in the Embedded World - How to create a device using Qt</title><link href="http://nwcpp.org/october-2015.html" rel="alternate"></link><published>2015-10-07T00:00:00-07:00</published><updated>2015-10-07T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-10-07:/october-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;October 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;This presentation will discuss the tools are necessary to develop embedded software with Qt and what differences there are between each of the supported embedded platforms. The …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>October 21th 2015: Qt in the Embedded World - How to create a device using Qt</title><link href="http://nwcpp.org/october-2015.html" rel="alternate"></link><updated>2015-10-07T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-10-07:october-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -78,7 +54,7 @@
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Matthew Zanardi – Matt is the Northwest Account Manager for The Qt Company. He was born and raised in the Bay Area and Graduated from Michigan State University. If you want to inquire about anything Qt please reach out to him. Email: &lt;a class="reference external" href="mailto:matthew.zanardi&amp;#64;theqtcompany.com"&gt;matthew.zanardi&amp;#64;theqtcompany.com&lt;/a&gt;&amp;nbsp;(408)499-8319.&lt;/p&gt;
-&lt;p&gt;Shrikant Dhumal works as senior Consulting Engineer for &amp;#8220;The Qt Company&amp;#8221;. Shrikant has a Masters in holds Computer Science and has a real passion for the industry. He has been associated with Qt since 2001 (version Qt 3.0.x) and is one top consultants. He has worked on porting Qt to different embedded platforms which involves integrating/implementing Qt Graphics&amp;nbsp;plugins.&lt;/p&gt;
+&lt;p&gt;Shrikant Dhumal works as senior Consulting Engineer for &amp;quot;The Qt Company&amp;quot;. Shrikant has a Masters in holds Computer Science and has a real passion for the industry. He has been associated with Qt since 2001 (version Qt 3.0.x) and is one top consultants. He has worked on porting Qt to different embedded platforms which involves integrating/implementing Qt Graphics&amp;nbsp;plugins.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -101,19 +77,7 @@
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>September 16th 2015: The BBC micro:bit and C++</title><link href="http://nwcpp.org/september-2015.html" rel="alternate"></link><published>2015-08-14T00:00:00-07:00</published><updated>2015-08-14T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-08-14:/september-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;September 16th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit is a small wearable and programmable mbed-based device that visibly features a 5x5 &lt;span class="caps"&gt;LED&lt;/span&gt; display, accelerometer, compass, buttons, I/O pins, Micro &lt;span class="caps"&gt;USB …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>September 16th 2015: The BBC micro:bit and C++</title><link href="http://nwcpp.org/september-2015.html" rel="alternate"></link><updated>2015-08-14T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-08-14:september-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;September 16th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -129,7 +93,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Thomas Ball (Tom) is a Principal Researcher and Research Manager at Microsoft Research. Tom graduated with a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from Cornell University in 1987 and a &lt;span class="caps"&gt;M.S.&lt;/span&gt; and Ph.D. from the University of Wisconsin-Madison in 1993. From 1993-1999, he was a member of the technical staff at Bell Laboratories, where he made contributions in program visualization and program profiling. In 1999, Tom moved to Microsoft Research, where he started the &lt;span class="caps"&gt;SLAM&lt;/span&gt; software model checking project with Sriram Rajamani, which led to the creation of the Static Driver Verifier (&lt;span class="caps"&gt;SDV&lt;/span&gt;) tool for finding defects in device driver code. Tom and Sriram received the 2011 &lt;span class="caps"&gt;CAV&lt;/span&gt; Award &amp;#8220;for their contributions to software model checking, specifically the development of the &lt;span class="caps"&gt;SLAM&lt;/span&gt;/&lt;span class="caps"&gt;SDV&lt;/span&gt; software model checker that successfully demonstrated computer-aided verification techniques on real programs.&amp;#8221; Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt; Fellow for &amp;#8220;contributions to software analysis and defect detection&amp;#8221;. Since becoming a manager at Microsoft, he has nurtured research areas such as automated theorem proving, program testing/verification, empirical software engineering. His current focus is programming education via the TouchDevelop and &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit&amp;nbsp;projects&lt;/p&gt;
+&lt;p&gt;Thomas Ball (Tom) is a Principal Researcher and Research Manager at Microsoft Research. Tom graduated with a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from Cornell University in 1987 and a &lt;span class="caps"&gt;M.S.&lt;/span&gt; and Ph.D. from the University of Wisconsin-Madison in 1993. From 1993-1999, he was a member of the technical staff at Bell Laboratories, where he made contributions in program visualization and program profiling. In 1999, Tom moved to Microsoft Research, where he started the &lt;span class="caps"&gt;SLAM&lt;/span&gt; software model checking project with Sriram Rajamani, which led to the creation of the Static Driver Verifier (&lt;span class="caps"&gt;SDV&lt;/span&gt;) tool for finding defects in device driver code. Tom and Sriram received the 2011 &lt;span class="caps"&gt;CAV&lt;/span&gt; Award &amp;quot;for their contributions to software model checking, specifically the development of the &lt;span class="caps"&gt;SLAM&lt;/span&gt;/&lt;span class="caps"&gt;SDV&lt;/span&gt; software model checker that successfully demonstrated computer-aided verification techniques on real programs.&amp;quot; Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt; Fellow for &amp;quot;contributions to software analysis and defect detection&amp;quot;. Since becoming a manager at Microsoft, he has nurtured research areas such as automated theorem proving, program testing/verification, empirical software engineering. His current focus is programming education via the TouchDevelop and &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit&amp;nbsp;projects&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -152,19 +116,7 @@
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>June 17th 2015: Porting Emacs via Native Client</title><link href="http://nwcpp.org/june-2015.html" rel="alternate"></link><published>2015-05-25T00:00:00-07:00</published><updated>2015-05-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-05-25:/june-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;June 17th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Townsend Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Bldg 41, Room 1511&lt;/a&gt;, &lt;span class="caps"&gt;NOTE&lt;/span&gt;: &lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;NOT&lt;/span&gt; &lt;span class="caps"&gt;OUR&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;ROOM&lt;/span&gt;!!!!&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;As the preferred text editor for a multitude of software developers, Emacs has been ported to a …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>June 17th 2015: Porting Emacs via Native Client</title><link href="http://nwcpp.org/june-2015.html" rel="alternate"></link><updated>2015-05-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-05-25:june-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;June 17th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -206,19 +158,7 @@
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>May 20th 2015: STL Concepts and Ranges</title><link href="http://nwcpp.org/may-2015.html" rel="alternate"></link><published>2015-04-23T00:00:00-07:00</published><updated>2015-04-23T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-04-23:/may-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;May 20th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;With concepts and ranges coming, big changes are in store for the Standard Library and for the style of idiomatic C++. The effort to redefine the Standard …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>May 20th 2015: STL Concepts and Ranges</title><link href="http://nwcpp.org/may-2015.html" rel="alternate"></link><updated>2015-04-23T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-04-23:may-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 20th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -258,19 +198,7 @@
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>April 15th 2015: Pushing the Boundaries of C++ Code Generation</title><link href="http://nwcpp.org/april-2015.html" rel="alternate"></link><published>2015-04-01T00:00:00-07:00</published><updated>2015-04-01T00:00:00-07:00</updated><author><name>Rohit Patnaik</name></author><id>tag:nwcpp.org,2015-04-01:/april-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;April 15th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;It is not uncommon to see projects using C++ Code Generation to build initial .h and .cpp files out of &lt;span class="caps"&gt;UML&lt;/span&gt; models, or serialization/marshalling code for …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>April 15th 2015: Pushing the Boundaries of C++ Code Generation</title><link href="http://nwcpp.org/april-2015.html" rel="alternate"></link><updated>2015-04-01T00:00:00-07:00</updated><author><name>Rohit Patnaik</name></author><id>tag:nwcpp.org,2015-04-01:april-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;April 15th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -290,7 +218,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Since 1991, Collabera has been a leading provider of &lt;span class="caps"&gt;IT&lt;/span&gt; staffing solutions. With over 9,000 professionals working across 3 continents Collabera is one of the top 10 &lt;span class="caps"&gt;U.S.&lt;/span&gt; &lt;span class="caps"&gt;IT&lt;/span&gt; Staffing firms. Recognized from Staffing Industry Analysts as &amp;#8220;Best Staffing Firms to Work For&amp;#8221; 3 years in a row, we have the history, processes and most of all jobs that make Collabera a strong option when considering your next career&amp;nbsp;move.&lt;/p&gt;
+&lt;p&gt;Since 1991, Collabera has been a leading provider of &lt;span class="caps"&gt;IT&lt;/span&gt; staffing solutions. With over 9,000 professionals working across 3 continents Collabera is one of the top 10 &lt;span class="caps"&gt;U.S.&lt;/span&gt; &lt;span class="caps"&gt;IT&lt;/span&gt; Staffing firms. Recognized from Staffing Industry Analysts as &amp;quot;Best Staffing Firms to Work For&amp;quot; 3 years in a row, we have the history, processes and most of all jobs that make Collabera a strong option when considering your next career&amp;nbsp;move.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -307,21 +235,7 @@
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>March 18th 2015: The Go Programming Language</title><link href="http://nwcpp.org/march-2015.html" rel="alternate"></link><published>2015-02-28T00:00:00-08:00</published><updated>2015-02-28T00:00:00-08:00</updated><author><name>Rohit Patnaik</name></author><id>tag:nwcpp.org,2015-02-28:/march-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;March 18th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Go for C++ devs
-The talks covers the basics of Go: its origin, philosophy, and main features.
-It has a focus on how C++ aspects map (or …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>March 18th 2015: The Go Programming Language</title><link href="http://nwcpp.org/march-2015.html" rel="alternate"></link><updated>2015-02-28T00:00:00-08:00</updated><author><name>Rohit Patnaik</name></author><id>tag:nwcpp.org,2015-02-28:march-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 18th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -355,20 +269,7 @@ Last but not least, concurrency is a first class citizen in Go, so an overview a
 &lt;p&gt;Xtreme focuses on solutions and services including analysis, design, architecture, development, testing, implementation, maintenance and support of a variety of software technologies with specific emphasis on portal development, technical content creation, virtual machine environments and client and server deployment. Visitxtremeconsulting.com for more information. You can view and apply to our open positions at &lt;a class="reference external" href="http://www.xtremeconsulting.com/careers"&gt;http://www.xtremeconsulting.com/careers&lt;/a&gt;.
 Xtreme Contact: &lt;a class="reference external" href="mailto:info&amp;#64;xtremeconsulting.com"&gt;info&amp;#64;xtremeconsulting.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Feburary 18, 2015—The STM32 Microcontroller</title><link href="http://nwcpp.org/february-2015.html" rel="alternate"></link><published>2015-02-02T00:00:00-08:00</published><updated>2015-02-02T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-02-02:/february-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;February 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The talk will cover tools and techniques related to the &lt;span class="caps"&gt;ST&lt;/span&gt; Microelectronics &lt;span class="caps"&gt;STM32&lt;/span&gt; microcontrollers.
-Agenda: &lt;span class="caps"&gt;ST&lt;/span&gt; Overview, &lt;span class="caps"&gt;ST&lt;/span&gt; Nucleo Ecosystem Overview, &lt;span class="caps"&gt;ARM&lt;/span&gt; mbed Ecosystem Overview (tentative), &lt;span class="caps"&gt;STM32 …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>Feburary 18, 2015—The STM32 Microcontroller</title><link href="http://nwcpp.org/february-2015.html" rel="alternate"></link><updated>2015-02-02T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-02-02:february-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -395,21 +296,7 @@ Ken has been with STMicro for 2 years. He has been in sales and marking in the &
 &lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ekwyr5pW2xE"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2015/STMicro_Presentation.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>January 21, 2015—Interfacing D To Legacy C++ Code—Walter Bright</title><link href="http://nwcpp.org/january-2015.html" rel="alternate"></link><published>2015-01-24T00:00:00-08:00</published><updated>2015-01-24T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-01-24:/january-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;January 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;C++ programmers have developed a vast investment of existing code.
-Use of this code from other languages is normally impractical.
-Walter shows how this code can be …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>January 21, 2015—Interfacing D To Legacy C++ Code—Walter Bright</title><link href="http://nwcpp.org/january-2015.html" rel="alternate"></link><updated>2015-01-24T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-01-24:january-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -468,4 +355,4 @@ Phone: 425-298-1392      | Mobile: 763-227-0247  | Fax: 973-292-2838 |
 &lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=IkwaV6k6BmM"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2015/DInterfacing.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content></entry></feed>
+</summary></entry></feed>
