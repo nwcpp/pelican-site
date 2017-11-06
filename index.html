@@ -66,10 +66,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="./october-2017.html">October 18th 2017: Coordinate Transformation in Three&nbsp;dimensions</a></h1>
+                    <h1 class="entry-title"><a href="./november-2017.html">November 14th, 2017: C++&nbsp;Terminology</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2017-10-05T00:00:00-07:00">
-                Published: Thu 05 October 2017
+        <abbr class="published" title="2017-11-05T00:00:00-07:00">
+                Published: Sun 05 November 2017
         </abbr>
 
         <address class="vcard author">
@@ -80,42 +80,37 @@
 </footer><!-- /.post-info --><div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line">October 18, 2017 at 7:00 <span class="caps">PM</span></div>
-<div class="line">Adams Room, Building 43,
+<div class="line">November 15th, 2017 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Adams Room (1083), Building 30,
 <a class="reference external" href="./images/MicrosoftMainCampusMap.jpg">Microsoft Campus map</a>,</div>
-</div>
-<div class="line-block">
 <div class="line"><tt class="docutils literal"><span class="pre">*****</span></tt> <strong>Note, this is not our normal meeting room!</strong> <tt class="docutils literal"><span class="pre">*****</span></tt></div>
 <div class="line">Microsoft Campus,</div>
 <div class="line">156th Ave <span class="caps">NE</span>,</div>
 <div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
 </div>
 </div>
+<div class="section" id="title">
+<h2>Title</h2>
+<p>C++&nbsp;Termionology</p>
+</div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is to follow a vehicle on the ground and report back the position and velocity of that vehicle. A camera operator (or computer) controls the camera mount to keep the vehicle&#8217;s image in the camera&#8217;s view, while the pilot (or computer) flies the airplane and an analyst (or computer) identifies and locates the target vehicle in the&nbsp;image.</p>
-<p>Where is the target vehicle&nbsp;now?</p>
-<p>Time-varying inputs include the location and orientation of the airplane, three rotation angles from the camera mount, and the X and Y locations of the vehicle in the camera&#8217;s image. Fixed inputs include location and orientation of the camera mount on the airplane and a map of ground&nbsp;elevation.</p>
-<p>All parts of this problem, from navigation to control to image interpretation to reporting the results, depend on transforming information from one coordinate system to another. In particular, the image location on the screen (pixel row and column) somehow gets transformed, in several steps, into the inferred location of the target vehicle on the ground (latitude, longitude, and elevation). In a simulation, you would do the same thing in reverse, from a simulated 3D track to its appearance on a screen. Correctly and&nbsp;efficiently.</p>
-<p>Computer applications of 3D coordinate transformations include image interpretation, guidance, control, games, simulations for teaching, simulations for testing sensor ideas, and&nbsp;more.</p>
-<p>A lot of the talk will involve hand waving and manipulation of physical models. There will be mathematics (quaternions will be mentioned) and efficient C++ software will be described. But mostly it&#8217;s about how to think about this broad class of computational&nbsp;problems.</p>
+<p>A good refresher on the basics of some of the terms used in C++ that may help beginners to write higher performant code.
+The refresher will take a deep dive into compiler optimization, assembly generated code and computer architecture.
+At first, the presentation will discuss some keywords and then move towards other terms that are used when discussing an application from the developers code down to the computer&nbsp;architecture.</p>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
-<p>Robert Goddard
-Principal Physicist, Retired (but still active)
-University of Washington,&nbsp;Seattle</p>
-<p>Robert Goddard is a physicist and software developer. He recently retired (sort of) after 37 years at the Applied Physics Laboratory of the University of Washington, mainly on computer modeling of underwater sound. He is still the architect and team leader for the Sonar Simulation Toolset (<span class="caps">SST</span>), which produces simulated underwater sound, suitable as input to sophisticated signal processing systems (including human ears and brains), based on user-specified descriptions of the undersea environment, the listening system, and the sound sources and reflectors placed in this simulated ocean. He has also developed systems for control of measurement devices, data analysis, visualization, modeling of quantum mechanical scattering, and using data to infer model&nbsp;parameters.</p>
-<p>Bob has been an active participant in the Northwest C++ Users Group for most of its existence, and is currently&nbsp;Treasurer.</p>
+<p>Brett&nbsp;Searles</p>
+<p>Currently working in the <span class="caps">AR</span>/<span class="caps">VR</span> field for mobile applications. Loves to work in embedded and low level circuitry design. Very active in the C++ community with volunteering for <span class="caps">NWCPP</span>, CppCon and trying to get a hackathon started for college age&nbsp;students.</p>
 </div>
 <div class="section" id="a-word-from-our-sponsor">
 <h2>A Word From Our&nbsp;Sponsor</h2>
-<p>Smartsheet Inc. is the $850mm startup you’ve never heard of. We build a SaaS tool that looks like a spreadsheet and is used, among other things, to manage projects of all sizes, including opening data centers, rebuilding hospitals, and major motion&nbsp;pictures.</p>
+<p><span class="caps">AIM</span> Consulting combines technical expertise with an understanding of business goals to solve your toughest challenges. We know technology and can help you design for the user experience, build innovative software, leverage data for actionable insights, implement modern processes and tools, and maintain critical applications and systems. Our engagement model is designed with flexibility in mind for long-term partnerships. From strategy and implementation to sustained services, we provide technology consultants in custom configurations to fit your priorities and scale over the lifecycle of your&nbsp;solutions.</p>
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="https://youtu.be/b2qOg7z763o">Video</a> |
-<a class="reference external" href="/talks/2017/CoordXform.pptx">Slides</a></p>
+<p>&lt;Video and slides will be filled in here following the&nbsp;meeting.&gt;</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -134,6 +129,44 @@ University of Washington,&nbsp;Seattle</p>
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="./october-2017.html" rel="bookmark"
+                           title="Permalink to October 18th 2017: Coordinate Transformation in Three dimensions">October 18th 2017: Coordinate Transformation in Three&nbsp;dimensions</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2017-10-05T00:00:00-07:00">
+                Published: Thu 05 October 2017
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/pete-williamson.html">Pete Williamson</a>
+        </address>
+<p>In <a href="./category/2017.html">2017</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">October 18, 2017 at 7:00 <span class="caps">PM</span></div>
+<div class="line">Adams Room, Building 43,
+<a class="reference external" href="./images/MicrosoftMainCampusMap.jpg">Microsoft Campus map</a>,</div>
+</div>
+<div class="line-block">
+<div class="line"><tt class="docutils literal"><span class="pre">*****</span></tt> <strong>Note, this is not our normal meeting room!</strong> <tt class="docutils literal"><span class="pre">*****</span></tt></div>
+<div class="line">Microsoft Campus,</div>
+<div class="line">156th Ave <span class="caps">NE</span>,</div>
+<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
+</div>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is …</p></div>
+                <a class="readmore" href="./october-2017.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -158,7 +191,7 @@ University of Washington,&nbsp;Seattle</p>
 <p>Please see the CppCon web site at <a class="reference external" href="Http://cppcon.org">Http://cppcon.org</a> for current&nbsp;details.</p>
 </div>
 <div class="section" id="featured-events-at-cppcon">
-<h2>Featured ...</h2></div>
+<h2>Featured …</h2></div>
                 <a class="readmore" href="./sep-2017.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -193,7 +226,7 @@ University of Washington,&nbsp;Seattle</p>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
 <ul class="simple">
-<li>Sign up ...</li></ul></div>
+<li>Sign up …</li></ul></div>
                 <a class="readmore" href="./aug-2017.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -227,7 +260,7 @@ University of Washington,&nbsp;Seattle</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>C++ is used in applications where resources are constrained and performance is critical. However, its power in this domain comes from the ability to build large, complex ...</p></div>
+<p>C++ is used in applications where resources are constrained and performance is critical. However, its power in this domain comes from the ability to build large, complex …</p></div>
                 <a class="readmore" href="./june-2017.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -251,7 +284,7 @@ University of Washington,&nbsp;Seattle</p>
 
 </footer><!-- /.post-info -->                <div class="section" id="job-fair">
 <h2>Job&nbsp;Fair</h2>
-<p>Continuing with our job fair activities Mainz Bradley Group will be available at 6:00 <span class="caps">PM</span> to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering tips on how to improve your ...</p></div>
+<p>Continuing with our job fair activities Mainz Bradley Group will be available at 6:00 <span class="caps">PM</span> to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering tips on how to improve your …</p></div>
                 <a class="readmore" href="./may-2017.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -275,7 +308,7 @@ University of Washington,&nbsp;Seattle</p>
 
 </footer><!-- /.post-info -->                <div class="section" id="job-fair">
 <h2>Job&nbsp;Fair</h2>
-<p>Continuing with our job fair activities Aim Consulting will be available at 6:00 <span class="caps">PM</span> to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering interview advice. How to prepare for an ...</p></div>
+<p>Continuing with our job fair activities Aim Consulting will be available at 6:00 <span class="caps">PM</span> to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering interview advice. How to prepare for an …</p></div>
                 <a class="readmore" href="./april-2017.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -299,7 +332,7 @@ University of Washington,&nbsp;Seattle</p>
 
 </footer><!-- /.post-info -->                <div class="section" id="job-fair">
 <h2>Job&nbsp;Fair</h2>
-<p>Folks we are going to try something a bit different this month. AeroTek will be available at 6:00 <span class="caps">PM</span> to talk to anyone looking for a job in more detail then we have done in the past. If you are looking for a job please bring a ...</p></div>
+<p>Folks we are going to try something a bit different this month. AeroTek will be available at 6:00 <span class="caps">PM</span> to talk to anyone looking for a job in more detail then we have done in the past. If you are looking for a job please bring a …</p></div>
                 <a class="readmore" href="./march-2017.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -334,7 +367,7 @@ University of Washington,&nbsp;Seattle</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Back in 2008 or so we got ...</p></div>
+<p>Back in 2008 or so we got …</p></div>
                 <a class="readmore" href="./february-2017.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -369,7 +402,7 @@ University of Washington,&nbsp;Seattle</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Debugging intermittent issues present a unique set of ...</p></div>
+<p>Debugging intermittent issues present a unique set of …</p></div>
                 <a class="readmore" href="./january-2017.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -405,7 +438,7 @@ University of Washington,&nbsp;Seattle</p>
 <h2>Abstract</h2>
 <p>While memory safe code can be written in any language, it
 has become increasingly obvious that languages need to be
-able to mechanically check memory safety. Errors ...</p></div>
+able to mechanically check memory safety. Errors …</p></div>
                 <a class="readmore" href="./November-2016.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
@@ -439,40 +472,8 @@ able to mechanically check memory safety. Errors ...</p></div>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Chapel is a portable, open-source language for parallel programming on laptops, clusters, clouds, and supercomputers.  Chapel strives to be as programmable as Python, as fast as Fortran ...</p></div>
+<p>Chapel is a portable, open-source language for parallel programming on laptops, clusters, clouds, and supercomputers.  Chapel strives to be as programmable as Python, as fast as Fortran …</p></div>
                 <a class="readmore" href="./October-2016.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="./Sep-2016.html" rel="bookmark"
-                           title="Permalink to September 2016: CppCon">September 2016:&nbsp;CppCon</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2016-09-09T00:00:00-07:00">
-                Published: Fri 09 September 2016
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="./author/rohit-patnaik.html">Rohit Patnaik</a>
-        </address>
-<p>In <a href="./category/2016.html">2016</a>. </p>
-
-</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
-<h2>Time and&nbsp;Location</h2>
-<p><span class="caps">TBD</span></p>
-</div>
-<div class="section" id="abstract">
-<h2>Abstract</h2>
-<p>The Northwest C++ Users Group will be hosting three panels at&nbsp;CPPCon!</p>
-<ul class="simple">
-<li>Monday 09/19/2016 - Lunch Panel: How to work with universities to get more C++ courses and improve C++&nbsp;education</li>
-<li>Monday 09/19/2016 - Evening: Grill The Committee/The Future of&nbsp;C++</li>
-<li>Wednesday ...</li></ul></div>
-                <a class="readmore" href="./Sep-2016.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
             </ol><!-- /#posts-list -->
