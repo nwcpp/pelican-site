@@ -9,7 +9,7 @@ Time and Location
 ~~~~~~~~~~~~~~~~~
 
 | November 15th, 2017 at 7:00 PM
-| Adams Room (1083), Building 30,
+| Room 1083, Building 30,
  `Microsoft Campus map <{filename}/images/MicrosoftMainCampusMap.jpg>`_,
 | ``*****`` **Note, this is not our normal meeting room!** ``*****``
 | Microsoft Campus,
