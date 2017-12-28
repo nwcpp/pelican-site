@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Northwest C++ Users’ Group - Pete Williamson</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Sun, 05 Nov 2017 00:00:00 -0700</lastBuildDate><item><title>November 14th, 2017: C++ Terminology</title><link>http://nwcpp.org/november-2017.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+<rss version="2.0"><channel><title>Northwest C++ Users’ Group - Pete Williamson</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Thu, 28 Dec 2017 00:00:00 -0800</lastBuildDate><item><title>January 17th, 2018: Source Dependency Management</title><link>http://nwcpp.org/january-2018.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 17th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Room 1083, Building 30,
+&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt; &lt;strong&gt;Note, this is our *new* normal meeting room!&lt;/strong&gt; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Source Dependency&amp;nbsp;Management&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;I&amp;#8217;m careful to use the term &amp;#8220;Dependency Management&amp;#8221; to describe …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Thu, 28 Dec 2017 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2017-12-28:/january-2018.html</guid></item><item><title>November 14th, 2017: C++ Terminology</title><link>http://nwcpp.org/november-2017.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 15th, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
