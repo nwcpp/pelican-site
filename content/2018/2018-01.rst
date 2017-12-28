@@ -1,0 +1,55 @@
+January 17th, 2018: Source Dependency Management
+##############################################################################
+
+:date: 2017-12-28
+:slug: january-2018
+:author: Pete Williamson
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+
+| January 17th, 2018 at 7:00 PM
+| Room 1083, Building 30,
+ `Map to building 30 <https://www.google.com/maps/place/Microsoft+Building+30/@47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942>`_,
+| ``*****`` **Note, this is our *new* normal meeting room!** ``*****``
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+Title
+~~~~~
+Source Dependency Management
+
+Abstract
+~~~~~~~~
+I'm careful to use the term "Dependency Management" to describe this discussion as a generalized topic. I will outline my experience managing the software dependencies in my latest C# project, a RESTful web API. I'll cover software development goals such as SOLID and DRY principles, designing adaptable software components, testing, publishing and executing software in various environments.
+
+I'll discuss "Dependency Injectability" patterns that help concrete implementations fulfill the goals mentioned above. And I'll discuss the various forms of "Dependency Injection" from "Pure DI", which is just another pattern and does not require a supporting library, to the complicated and controversial world of "Dependency Injection Containers", which do. I hope to touch on a number of patterns, anti-patterns and a few patterns in between.
+
+Finally, I hope to take a tour of some DI Container libraries in C# (Unity, Autofac), C++ (boost::di) and D (poodinis).
+
+Speaker Bio
+~~~~~~~~~~~
+Michael Jones
+
+Michael Jones has 17 years of experience coding in languages such as C++, C#, Groovy, and Python. He's worked at Midway Games in Chicago, Cranky Pants Games in Kirkland, YouTube at Google in Mountain View, Xbox and Azure locally at Microsoft. He's interested in cool code, and has recently integrated dependency injection techniques into his programming practices. Mike's currently working on the Azure Identity services at Microsoft and has been programming exclusively in C# for a few years now. He enjoys the recent pace of modern language design across many languages.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank VerticalMove for sponsoring our pizza this month!!
+ 
+ 
+Resources
+~~~~~~~~~
+<Video and slides will be filled in here following the meeting.>
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce1>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
