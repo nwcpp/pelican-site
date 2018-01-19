@@ -50,7 +50,8 @@ Or for more general information please visit http://verticalmove.com
 
 Resources
 ~~~~~~~~~
-<Video and slides will be filled in here following the meeting.>
+`Video <https://youtu.be/--edwPyvywg>`_ |
+`Slides </talks/2018/DependencyManagement.pdf>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
