@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Pete Williamson</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/pete-williamson.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-12-28T00:00:00-08:00</updated><entry><title>January 17th, 2018: Source Dependency Management</title><link href="http://nwcpp.org/january-2018.html" rel="alternate"></link><published>2017-12-28T00:00:00-08:00</published><updated>2017-12-28T00:00:00-08:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-12-28:/january-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/pete-williamson.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2017-12-28T00:00:00-08:00</updated><entry><title>January 17th, 2018: Source Dependency Management</title><link href="http://nwcpp.org/january-2018.html" rel="alternate"></link><updated>2017-12-28T00:00:00-08:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-12-28:january-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 17th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -17,26 +17,8 @@
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;I&amp;#8217;m careful to use the term &amp;#8220;Dependency Management&amp;#8221; to describe …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;January 17th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt; &lt;strong&gt;Note, this is our *new* normal meeting room!&lt;/strong&gt; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Source Dependency&amp;nbsp;Management&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;I&amp;#8217;m careful to use the term &amp;#8220;Dependency Management&amp;#8221; to describe this discussion as a generalized topic. I will outline my experience managing the software dependencies in my latest C# project, a RESTful web &lt;span class="caps"&gt;API&lt;/span&gt;. I&amp;#8217;ll cover software development goals such as &lt;span class="caps"&gt;SOLID&lt;/span&gt; and &lt;span class="caps"&gt;DRY&lt;/span&gt; principles, designing adaptable software components, testing, publishing and executing software in various&amp;nbsp;environments.&lt;/p&gt;
-&lt;p&gt;I&amp;#8217;ll discuss &amp;#8220;Dependency Injectability&amp;#8221; patterns that help concrete implementations fulfill the goals mentioned above. And I&amp;#8217;ll discuss the various forms of &amp;#8220;Dependency Injection&amp;#8221; from &amp;#8220;Pure &lt;span class="caps"&gt;DI&lt;/span&gt;&amp;#8221;, which is just another pattern and does not require a supporting library, to the complicated and controversial world of &amp;#8220;Dependency Injection Containers&amp;#8221;, which do. I hope to touch on a number of patterns, anti-patterns and a few patterns in&amp;nbsp;between.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m careful to use the term &amp;quot;Dependency Management&amp;quot; to describe this discussion as a generalized topic. I will outline my experience managing the software dependencies in my latest C# project, a RESTful web &lt;span class="caps"&gt;API&lt;/span&gt;. I&amp;#8217;ll cover software development goals such as &lt;span class="caps"&gt;SOLID&lt;/span&gt; and &lt;span class="caps"&gt;DRY&lt;/span&gt; principles, designing adaptable software components, testing, publishing and executing software in various&amp;nbsp;environments.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ll discuss &amp;quot;Dependency Injectability&amp;quot; patterns that help concrete implementations fulfill the goals mentioned above. And I&amp;#8217;ll discuss the various forms of &amp;quot;Dependency Injection&amp;quot; from &amp;quot;Pure &lt;span class="caps"&gt;DI&lt;/span&gt;&amp;quot;, which is just another pattern and does not require a supporting library, to the complicated and controversial world of &amp;quot;Dependency Injection Containers&amp;quot;, which do. I hope to touch on a number of patterns, anti-patterns and a few patterns in&amp;nbsp;between.&lt;/p&gt;
 &lt;p&gt;Finally, I hope to take a tour of some &lt;span class="caps"&gt;DI&lt;/span&gt; Container libraries in C# (Unity, Autofac), C++ (boost::di) and D&amp;nbsp;(poodinis).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
@@ -55,7 +37,8 @@ Or for more general information please visit &lt;a class="reference external" hr
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&amp;lt;Video and slides will be filled in here following the&amp;nbsp;meeting.&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://youtu.be/--edwPyvywg"&gt;Video&lt;/a&gt; |
+&lt;a class="reference external" href="/talks/2018/DependencyManagement.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="digital-media-links"&gt;
 &lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
@@ -68,25 +51,7 @@ Or for more general information please visit &lt;a class="reference external" hr
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>November 14th, 2017: C++ Terminology</title><link href="http://nwcpp.org/november-2017.html" rel="alternate"></link><published>2017-11-05T00:00:00-07:00</published><updated>2017-11-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-11-05:/november-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;November 15th, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="http://nwcpp.org/images/MicrosoftMainCampusMap.jpg"&gt;Microsoft Campus map&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt; &lt;strong&gt;Note, this is not our normal meeting room!&lt;/strong&gt; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;C++&amp;nbsp;Termionology&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;A good refresher on the basics of some of the terms used in …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>November 14th, 2017: C++ Terminology</title><link href="http://nwcpp.org/november-2017.html" rel="alternate"></link><updated>2017-11-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-11-05:november-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 15th, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -132,23 +97,7 @@ At first, the presentation will discuss some keywords and then move towards othe
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>October 18th 2017: Coordinate Transformation in Three dimensions</title><link href="http://nwcpp.org/october-2017.html" rel="alternate"></link><published>2017-10-05T00:00:00-07:00</published><updated>2017-10-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-10-05:/october-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;October 18, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Adams Room, Building 43,
-&lt;a class="reference external" href="http://nwcpp.org/images/MicrosoftMainCampusMap.jpg"&gt;Microsoft Campus map&lt;/a&gt;,&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt; &lt;strong&gt;Note, this is not our normal meeting room!&lt;/strong&gt; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>October 18th 2017: Coordinate Transformation in Three dimensions</title><link href="http://nwcpp.org/october-2017.html" rel="alternate"></link><updated>2017-10-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-10-05:october-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 18, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -199,13 +148,7 @@ University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2017.html" rel="alternate"></link><published>2017-09-05T00:00:00-07:00</published><updated>2017-09-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-09-05:/sep-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
-&lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
-&lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
-&lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="featured-events-at-cppcon"&gt;
-&lt;h2&gt;Featured …&lt;/h2&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+</summary></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2017.html" rel="alternate"></link><updated>2017-09-05T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-09-05:sep-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
 &lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
@@ -245,20 +188,7 @@ Parking for the event is free at the Meydenbauer on Fri after&amp;nbsp;3pm.&lt;/
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/aug-2017.html" rel="alternate"></link><published>2017-08-26T00:00:00-07:00</published><updated>2017-08-26T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-08-26:/aug-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
-&lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
-&lt;p&gt;Our next meeting will be in September, stay&amp;nbsp;tuned!&lt;/p&gt;
-&lt;p&gt;Also, we will be hosting 3 CppCon panels during the month of September between Sep 23 and Sep&amp;nbsp;29&lt;/p&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;Optimizing the&amp;nbsp;Build&lt;/li&gt;
-&lt;li&gt;Mixing managed with unmanaged code and cross&amp;nbsp;platform&lt;/li&gt;
-&lt;li&gt;Using C++ in&amp;nbsp;Iot&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+</summary></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/aug-2017.html" rel="alternate"></link><updated>2017-08-26T00:00:00-07:00</updated><author><name>Pete Williamson</name></author><id>tag:nwcpp.org,2017-08-26:aug-2017.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our next meeting will be in September, stay&amp;nbsp;tuned!&lt;/p&gt;
 &lt;p&gt;Also, we will be hosting 3 CppCon panels during the month of September between Sep 23 and Sep&amp;nbsp;29&lt;/p&gt;
@@ -279,4 +209,4 @@ Parking for the event is free at the Meydenbauer on Fri after&amp;nbsp;3pm.&lt;/
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry></feed>
+</summary></entry></feed>
