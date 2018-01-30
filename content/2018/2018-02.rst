@@ -32,14 +32,11 @@ Bradford Chamberlain is a Principal Engineer at Cray Inc. where he works on para
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
-Coming Soon
-
-(We had a last minute cancelation, we're working on a new sponsor this month)
+Akvelon provides superior IT project support and software development solutions specializing in applying cutting-edge technology to problems in fields as diverse as mobile technology, finance, and healthcare. With over five hundred employees at seven offices worldwide, Akvelon is rapidly growing. Our firm is a global network of offices led by our partnership group. We have years of experience helping clients on a global scale drive innovation, productivity, and business performance.
 
 Resources
 ~~~~~~~~~
-`Video <https://youtu.be/--edwPyvywg>`_ |
-`Slides </talks/2018/DependencyManagement.pdf>`_
+Coming Soon!
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
