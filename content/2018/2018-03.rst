@@ -38,7 +38,8 @@ Mainz Brady Group is a technology focused recruiting firm, and is recognized as 
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://www.youtube.com/watch?v=vqQ2cDXJVss>`_ |
+`Slides </talks/2018/AlgorithmsRule.pptx>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
