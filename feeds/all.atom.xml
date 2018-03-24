@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-03-01T00:00:00-08:00</updated><entry><title>March 21st, 2018: Algorithms Rule</title><link href="http://nwcpp.org/march-2018.html" rel="alternate"></link><updated>2018-03-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-01:march-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-03-24T00:00:00-07:00</updated><entry><title>April 18th, 2018: Microsoft MakeCode: from C++ to TypeScript and Blockly (and Back)</title><link href="http://nwcpp.org/april-2018.html" rel="alternate"></link><updated>2018-03-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-24:april-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+&lt;h2&gt;Announcements&lt;/h2&gt;
+&lt;p&gt;We are currently looking for a pizza sponsor this month. If you have any suggestions please e-mail Lloyd at:
+&lt;a class="reference external" href="mailto:Lloyd&amp;#64;CyberData-Robotics.com"&gt;Lloyd&amp;#64;CyberData-Robotics.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are also looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down
+at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;April 18th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Room 1083, Building 30,
+&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt; &lt;strong&gt;Note, this is our *new* normal meeting room!&lt;/strong&gt; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Microsoft MakeCode: from C++  to TypeScript and Blockly (and&amp;nbsp;Back)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Across the globe, it is now commonplace for educators to engage in the making (design and development) of embedded systems in the classroom to motivate and excite their students. This new domain brings its own set of unique requirements. Historically, embedded systems development requires knowledge of languages such as C and C++, local installation of compilation toolchains, device drivers and applications. For students and educators, these requirements introduce unnecessary barriers and&amp;nbsp;restrictions.&lt;/p&gt;
+&lt;p&gt;Over the last two years, Microsoft has invested in a new web-based programming platform for embedded systems in education, called Microsoft MakeCode (www.makecode.com), in partnership with Lancaster University, who created the C++ Component-oriented Device Abstraction Layer (&lt;a class="reference external" href="https://github.com/lancaster-university/codal"&gt;https://github.com/lancaster-university/codal&lt;/a&gt;). In this talk, I’ll describe the design principles behind MakeCode and &lt;span class="caps"&gt;CODAL&lt;/span&gt; and our experience with it to date. In particular, I’ll describe how our stack exposes C++ in the browser via TypeScript and Blockly programming APIs, with an in-browser compiler tool chain that produces executable files without the need for a C++ compiler in the core end-user experience.  MakeCode is open source at &lt;a class="reference external" href="http://github.com/microsoft/pxt"&gt;http://github.com/microsoft/pxt&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Thomas Ball, Principal Researcher, Microsoft Research
+&lt;a class="reference external" href="http://research.microsoft.com/~tball/"&gt;http://research.microsoft.com/~tball/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thomas (Tom) Ball is a principal researcher and manager at Microsoft Research. In 1999, He initiated the influential &lt;span class="caps"&gt;SLAM&lt;/span&gt; software model-checking project with Sriram Rajamani, which led to the creation of the Static Driver Verifier tool for finding defects in Windows device drivers. Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt; Fellow for ‘contributions to software analysis and defect detection’. As a manager, he has nurtured research areas such as automated theorem proving, program testing/verification and empirical software engineering. His current focus is the Microsoft Makecode platform for programming with physical&amp;nbsp;computers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>March 21st, 2018: Algorithms Rule</title><link href="http://nwcpp.org/march-2018.html" rel="alternate"></link><updated>2018-03-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-01:march-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 21st, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
