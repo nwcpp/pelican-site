@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-03-24T00:00:00-07:00</updated><entry><title>April 18th, 2018: Microsoft MakeCode: from C++ to TypeScript and Blockly (and Back)</title><link href="http://nwcpp.org/april-2018.html" rel="alternate"></link><updated>2018-03-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-24:april-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
 &lt;h2&gt;Announcements&lt;/h2&gt;
-&lt;p&gt;We are currently looking for a pizza sponsor this month. If you have any suggestions please e-mail Lloyd at:
-&lt;a class="reference external" href="mailto:Lloyd&amp;#64;CyberData-Robotics.com"&gt;Lloyd&amp;#64;CyberData-Robotics.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We are also looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down
+&lt;p&gt;We are still looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down
 at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="time-and-location"&gt;
@@ -35,7 +33,7 @@ at the end of this year. If you are interested also please contact&amp;nbsp;Lloy
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;Aerotek is one of the largest staffing firms in the &lt;span class="caps"&gt;US&lt;/span&gt; today, and specializes in staffing for contract, contract to direct, and direct hire placements in a variety of industries and skill sets. Our local Technical Recruiting staff specializes in placing entry level to senior manager level individuals in a variety of industries including Aerospace, Medical Device, Industrial, and Consumer products with a focus on embedded engineering skill sets to include Hardware, Firmware, and Embedded Software and Test Engineering professionals from initial concept to final product release. We also staff for placements as Mechanical, Electrical, Manufacturing, Process, Program and Project Management, and Quality Engineering skill sets to work in manufacturing and R&amp;amp;D companies in the greater Seattle&amp;nbsp;area.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
