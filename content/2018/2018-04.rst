@@ -45,7 +45,8 @@ Aerotek is one of the largest staffing firms in the US today, and specializes in
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/tGhhV2kfJ-w>`_ |
+`Slides </talks/2018/MakeCode4cpp-users-group.pdf>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
