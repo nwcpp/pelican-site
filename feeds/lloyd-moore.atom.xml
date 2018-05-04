@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-03-24T00:00:00-07:00</updated><entry><title>April 18th, 2018: Microsoft MakeCode: from C++ to TypeScript and Blockly (and Back)</title><link href="http://nwcpp.org/april-2018.html" rel="alternate"></link><updated>2018-03-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-24:april-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-05-03T00:00:00-07:00</updated><entry><title>May 16th, 2018: Interpolation, Integration, and Coordinate Transformations</title><link href="http://nwcpp.org/may-2018.html" rel="alternate"></link><updated>2018-05-03T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-05-03:may-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+&lt;h2&gt;Announcements&lt;/h2&gt;
+&lt;p&gt;We are still looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;May 16th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Room 1083, Building 30,
+&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt; &lt;strong&gt;Note, this is our *new* normal meeting room!&lt;/strong&gt; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Interpolation, Integration, and Coordinate Transformations: Continuous Functions Versus Discrete&amp;nbsp;Samples&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In October 2017 I spoke to &lt;span class="caps"&gt;NWCPP&lt;/span&gt; about &amp;quot;Coordinate Transformations in Three Dimensions.&amp;quot; Due to a big storm and unavailability of the intended meeting room, very few people were there. Also my preparation was incomplete. So I agreed to try&amp;nbsp;again.&lt;/p&gt;
+&lt;p&gt;This time, I will start from an even more fundamental computational problem: Data come into the computer as a finite set of discrete numbers, even when the underlying phenomena are continuous. How should one estimate continuous phenomena based on discrete data? That&amp;#8217;s interpolation. The answer depends on several&amp;nbsp;factors:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;What are the independent variables, or domain? Examples include time (1 dimension), position (3), orientation (3), or mix of foods&amp;nbsp;(many).&lt;/li&gt;
+&lt;li&gt;What are the dependent variables, or range? Examples include pressure (1), position (3), orientation (3), or disease probabilities (many). Dependent variables for one process (e.g. orientation vs. time in a motion model) can be independent variables for another (e.g. sensitivity vs orientation in a sensor&amp;nbsp;model).&lt;/li&gt;
+&lt;li&gt;How will the continuous model be used? Does the application require a different set of discrete independent values that lie between the given ones? (Example: simulated sound samples as received from a moving platform.) Or do you need to integrate some function of the dependent variables over the independent ones? (Example: sensor response to sound coming from all&amp;nbsp;directions.)&lt;/li&gt;
+&lt;li&gt;How many discrete input values do we need to compute each output value? That&amp;#8217;s the &amp;quot;order&amp;quot; (plus 1). I will demonstrate some consequences for getting this&amp;nbsp;wrong.&lt;/li&gt;
+&lt;li&gt;Can it help to transform the range and/or the domain? For example, if Y(X) resembles a power law (Y equals X raised to some power), then a graph of log(Y) versus log(X) is close to a straight line, for which linear interpolation (order=1) would suffice, even for a sparse sample&amp;nbsp;set.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Transformations return us to October&amp;#8217;s subject: 3-D coordinate transformations. There are at least four equivalent representations of a rotation: Three angles (traditionally heading, pitch, and roll), a 3-by-3 unitary matrix (9 values), a unit quaternion (4 values), and a rotation vector (3 values). All four representations are useful, but only one is suitable for interpolation versus&amp;nbsp;time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Robert Goddard
+Principal Physicist, Retired (but still active)
+University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
+&lt;p&gt;Robert Goddard is a physicist and software developer. He retired (sort of) in 2017 after 37 years at the &lt;span class="caps"&gt;UW&lt;/span&gt; Applied Physics Laboratory, working mainly on computer modeling of underwater sound. He is still the architect and team leader for the Sonar Simulation Toolset (&lt;span class="caps"&gt;SST&lt;/span&gt;), which produces simulated underwater sound, suitable as input to sophisticated signal processing systems (including human ears and brains), based on user-specified descriptions of the undersea environment, the listening system, and the sound sources and reflectors placed in this simulated ocean. He has also developed systems for data acquisition and analysis, visualization, modeling of quantum mechanical scattering, and using data to infer model&amp;nbsp;parameters.&lt;/p&gt;
+&lt;p&gt;Bob has been an active participant in the Northwest C++ Users Group for most of its existence, and is currently Treasurer. (Wouldn&amp;#8217;t &lt;span class="caps"&gt;YOU&lt;/span&gt; like to be Treasurer? We are looking for my&amp;nbsp;replacement.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>April 18th, 2018: Microsoft MakeCode: from C++ to TypeScript and Blockly (and Back)</title><link href="http://nwcpp.org/april-2018.html" rel="alternate"></link><updated>2018-03-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-24:april-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
 &lt;h2&gt;Announcements&lt;/h2&gt;
 &lt;p&gt;We are still looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down
 at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
