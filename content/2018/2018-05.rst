@@ -54,7 +54,9 @@ Bob has been an active participant in the Northwest C++ Users Group for most of 
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
-Coming Soon!
+CyberData Corporation was founded by Lloyd Moore in 1996. CyberData specializes in providing custom software and hardware solutions for robotics, machine vision, embedded systems and industrial automation applications. Our mission is to create high quality, innovative technology for the global marketplace.
+
+CyberData also conducts internal research into the areas of robotics, machine vision and artificial intelligence. Specific technologies are then either licensed, sold as products or released as open source, depending on the specific nature and goals of the project. Technological developments are also provided directly to our clients through our consulting services.
 
 Resources
 ~~~~~~~~~
