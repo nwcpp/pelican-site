@@ -60,7 +60,8 @@ CyberData also conducts internal research into the areas of robotics, machine vi
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/0APcqutOqUc>`_ |
+`Slides </talks/2018/Interpolation.pptx>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
