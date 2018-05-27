@@ -30,7 +30,7 @@ In the past years volunteering at CppCon, it has been one of my efforts to discu
 
 Speaker Bio
 ~~~~~~~~~~~
-Brett Searles - In the past years volunteering at CppCon, it has been one of my efforts to discuss with college students some of the challenges that they face in attempting to secure post-graduation employment. Many of them have expressed their frustration at some of the job criteria listed in the job requirement and some have asked for help with their resumes. Therefore, this will be a training session to assist students and young engineers who have started their career, yet are looking to find something better.
+Brett Searles - Experienced in doing multiple interviews and writing resumes for the past couple of decades. Also working on my own processor chip to be the cornerstone for the Holographic Surgical Center. 
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
