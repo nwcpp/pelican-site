@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2011.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2011-12-31T00:00:00-08:00</updated><entry><title>2011</title><link href="http://nwcpp.org/2011-summary.html" rel="alternate"></link><updated>2011-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-12-31:2011-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2011.html"&gt;January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis&amp;nbsp;Ceze&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2011</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2011.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2011-12-31T00:00:00-08:00</updated><entry><title>2011</title><link href="http://nwcpp.org/2011-summary.html" rel="alternate"></link><published>2011-12-31T00:00:00-08:00</published><updated>2011-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-12-31:/2011-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2011.html"&gt;January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis&amp;nbsp;Ceze&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2011.html"&gt;February 16th, 2011 — The Thought Process of Patterns: Essential Design Skills — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2011.html"&gt;March 16th, 2011 — Debuggers and Mago — Aldo&amp;nbsp;Nunez&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2011.html"&gt;April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2011.html"&gt;May 18th, 2011 — C++0x Lambda …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2011.html"&gt;January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis&amp;nbsp;Ceze&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2011.html"&gt;February 16th, 2011 — The Thought Process of Patterns: Essential Design Skills — Alan&amp;nbsp;Shalloway&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2011.html"&gt;March 16th, 2011 — Debuggers and Mago — Aldo&amp;nbsp;Nunez&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2011.html"&gt;April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd&amp;nbsp;Moore&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +15,14 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2011.html"&gt;October 19th, 2011 — Asynchronous Tasks in C++11 — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2011.html"&gt;November 16th, 2011 — Introduction to Scientific Computing — Robert&amp;nbsp;Goddard&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2011.html"&gt;December 2011: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>December 2011: No Meeting</title><link href="http://nwcpp.org/december-2011.html" rel="alternate"></link><updated>2011-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-12-01:december-2011.html</id><summary type="html"></summary></entry><entry><title>November 16th, 2011 — Introduction to Scientific Computing — Robert Goddard</title><link href="http://nwcpp.org/november-2011.html" rel="alternate"></link><updated>2011-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-11-01:november-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for pizza supplied by
+</content></entry><entry><title>December 2011: No Meeting</title><link href="http://nwcpp.org/december-2011.html" rel="alternate"></link><published>2011-12-01T00:00:00-08:00</published><updated>2011-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-12-01:/december-2011.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 16th, 2011 — Introduction to Scientific Computing — Robert Goddard</title><link href="http://nwcpp.org/november-2011.html" rel="alternate"></link><published>2011-11-01T00:00:00-07:00</published><updated>2011-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-11-01:/november-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for pizza supplied by
+&lt;a class="reference external" href="http://www.km.kongsberg.com/"&gt;Kongsberg Underwater Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Computing in science and engineering involves modeling part of the physical world.
+The inputs could be detailed measurements of the environment,
+or a randomized set of potential measurements that might characterize some environment in the future.
+The outputs …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Come at 6:30pm for pizza supplied by
 &lt;a class="reference external" href="http://www.km.kongsberg.com/"&gt;Kongsberg Underwater Technology&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -64,7 +75,14 @@ and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/32281584"&gt;Video&lt;/a&gt; and
 &lt;a class="reference external" href="/talks/2011/scientificcomputing.pdf"&gt;slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 19th, 2011 — Asynchronous Tasks in C++11 — Bartosz Milewski</title><link href="http://nwcpp.org/october-2011.html" rel="alternate"></link><updated>2011-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-10-01:october-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by
+</content></entry><entry><title>October 19th, 2011 — Asynchronous Tasks in C++11 — Bartosz Milewski</title><link href="http://nwcpp.org/october-2011.html" rel="alternate"></link><published>2011-10-01T00:00:00-07:00</published><updated>2011-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-10-01:/october-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by
+&lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions, &lt;span class="caps"&gt;LLC&lt;/span&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;One of the goals of the new &lt;a class="reference external" href="http://en.wikipedia.org/wiki/C%2B%2B11"&gt;C++11 Standard&lt;/a&gt;
+was to provide support for concurrency, in particular for thread-based concurrency.
+But threads don’t scale very well.
+Do C++ tasks, which are created using &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;std::async …&lt;/span&gt;&lt;/tt&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Come at 6:30 for pizza provided by
 &lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions, &lt;span class="caps"&gt;LLC&lt;/span&gt;&lt;/a&gt;!&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -93,7 +111,13 @@ and a series of &lt;a class="reference external" href="http://www.corensic.com/L
 &lt;p&gt;&lt;a class="reference external" href="/talks/2011/asynctasksinc11.pptx"&gt;Slides&lt;/a&gt; and
 &lt;a class="reference external" href="http://vimeo.com/30868784"&gt;video&lt;/a&gt; of Bartosz&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>September 21st, 2011 — Beyond Threads — Rick Molloy</title><link href="http://nwcpp.org/september-2011.html" rel="alternate"></link><updated>2011-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-09-01:september-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by &lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon Digital&lt;/a&gt;!&lt;/p&gt;
+</content></entry><entry><title>September 21st, 2011 — Beyond Threads — Rick Molloy</title><link href="http://nwcpp.org/september-2011.html" rel="alternate"></link><published>2011-09-01T00:00:00-07:00</published><updated>2011-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-09-01:/september-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by &lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon Digital&lt;/a&gt;!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A stroll through actor and task based programming using Visual&amp;nbsp;Studio.&lt;/p&gt;
+&lt;p&gt;Developing concurrent applications and libraries is hard.
+Making them robust and inherently scalable is even more challenging.
+This talk will walk through a small handful of examples of …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Come at 6:30 for pizza provided by &lt;a class="reference external" href="http://www.amazon.com/"&gt;Amazon Digital&lt;/a&gt;!&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;A stroll through actor and task based programming using Visual&amp;nbsp;Studio.&lt;/p&gt;
@@ -123,7 +147,13 @@ and a passion for performance when working on&amp;nbsp;Windows.&lt;/p&gt;
 &lt;a class="reference external" href="/talks/2011/beyondthreads-code-rickmolloy-2011-09-21.zip"&gt;code&lt;/a&gt;,
 and &lt;a class="reference external" href="http://www.vimeo.com/29672551"&gt;video&lt;/a&gt; of Rick&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 2011: No Meeting</title><link href="http://nwcpp.org/august-2011.html" rel="alternate"></link><updated>2011-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-08-01:august-2011.html</id><summary type="html"></summary></entry><entry><title>July 2011: No Meeting</title><link href="http://nwcpp.org/july-2011.html" rel="alternate"></link><updated>2011-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-07-01:july-2011.html</id><summary type="html"></summary></entry><entry><title>June 15th, 2011 — Avoiding Over and Under Design — Alan Shalloway</title><link href="http://nwcpp.org/june-2011.html" rel="alternate"></link><updated>2011-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-01:june-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for the pizza provided by &lt;a class="reference external" href="http://www.corensic.com/"&gt;Corensic&lt;/a&gt;.&lt;/p&gt;
+</content></entry><entry><title>August 2011: No Meeting</title><link href="http://nwcpp.org/august-2011.html" rel="alternate"></link><published>2011-08-01T00:00:00-07:00</published><updated>2011-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-08-01:/august-2011.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>July 2011: No Meeting</title><link href="http://nwcpp.org/july-2011.html" rel="alternate"></link><published>2011-07-01T00:00:00-07:00</published><updated>2011-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2011-07-01:/july-2011.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>June 15th, 2011 — Avoiding Over and Under Design — Alan Shalloway</title><link href="http://nwcpp.org/june-2011.html" rel="alternate"></link><published>2011-06-01T00:00:00-07:00</published><updated>2011-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-06-01:/june-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm for the pizza provided by &lt;a class="reference external" href="http://www.corensic.com/"&gt;Corensic&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The question of how much design to do up-front on a project is an engaging one.
+Too much design often results in overkill, complexity, and wasted work.
+Too little design results in insufficient system structures
+that require rework, additional …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Come at 6:30pm for the pizza provided by &lt;a class="reference external" href="http://www.corensic.com/"&gt;Corensic&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The question of how much design to do up-front on a project is an engaging one.
@@ -169,7 +199,14 @@ You can follow Alan on Twitter,
 &lt;p&gt;&lt;a class="reference external" href="/talks/2011/avoidingoverandunderdesigncpp.pdf"&gt;Slides&lt;/a&gt;
 and &lt;a class="reference external" href="http://vimeo.com/25209064"&gt;video&lt;/a&gt; of Alan&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 18th, 2011 — C++0x Lambda Functions — Herb Sutter</title><link href="http://nwcpp.org/may-2011.html" rel="alternate"></link><updated>2011-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-05-01:may-2011.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users Group&amp;#8217; would like to extend a very special
+</content></entry><entry><title>May 18th, 2011 — C++0x Lambda Functions — Herb Sutter</title><link href="http://nwcpp.org/may-2011.html" rel="alternate"></link><published>2011-05-01T00:00:00-07:00</published><updated>2011-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-05-01:/may-2011.html</id><summary type="html">&lt;p&gt;The Northwest C++ Users Group&amp;#8217; would like to extend a very special
+welcome to Herb Sutter as the speaker for the May 2011&amp;nbsp;meeting.&lt;/p&gt;
+&lt;p&gt;Come at 6:30 for &lt;em&gt;pizza&lt;/em&gt; provided by
+&lt;a class="reference external" href="http://http//www.corensic.com//"&gt;Corensic&lt;/a&gt;!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Why care about &lt;a class="reference external" href="http://en.wikipedia.org/wiki/C%2B%2B0x#Lambda_functions_and_expressions"&gt;C++0x lambda functions&lt;/a&gt;?
+Syntactically, they are nothing but sugar for function objects …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;The Northwest C++ Users Group&amp;#8217; would like to extend a very special
 welcome to Herb Sutter as the speaker for the May 2011&amp;nbsp;meeting.&lt;/p&gt;
 &lt;p&gt;Come at 6:30 for &lt;em&gt;pizza&lt;/em&gt; provided by
 &lt;a class="reference external" href="http://http//www.corensic.com//"&gt;Corensic&lt;/a&gt;!&lt;/p&gt;
@@ -204,7 +241,13 @@ notably capture defaults and final&amp;nbsp;syntax.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2011/lambda.pdf"&gt;Slides&lt;/a&gt; and
 &lt;a class="reference external" href="http://vimeo.com/23975522"&gt;video&lt;/a&gt; of Herb&amp;#8217;s standing-room-only&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd Moore</title><link href="http://nwcpp.org/april-2011.html" rel="alternate"></link><updated>2011-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-04-01:april-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by Amazon&amp;nbsp;Digital!&lt;/p&gt;
+</content></entry><entry><title>April 20th, 2011: ‘C’ for Microcontrollers, Just Being Efficient — Lloyd Moore</title><link href="http://nwcpp.org/april-2011.html" rel="alternate"></link><published>2011-04-01T00:00:00-07:00</published><updated>2011-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-04-01:/april-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30 for pizza provided by Amazon&amp;nbsp;Digital!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microcontrollers represent a highly resource constrained environment.
+Very small microcontrollers typically have only several &lt;span class="caps"&gt;KB&lt;/span&gt; of program space available
+and several hundred bytes of memory, in addition to very low clock speeds.
+This talk will look at how to …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Come at 6:30 for pizza provided by Amazon&amp;nbsp;Digital!&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Microcontrollers represent a highly resource constrained environment.
@@ -229,7 +272,17 @@ with his formal training in biological based artificial intelligence, electronic
 &lt;p&gt;&lt;a class="reference external" href="/talks/2011/c%20for%20microcontrollers.ppt"&gt;Slides&lt;/a&gt; and
 &lt;a class="reference external" href="http://vimeo.com/nwcpp/april2011"&gt;video&lt;/a&gt; of Lloyd&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 16th, 2011 — Debuggers and Mago — Aldo Nunez</title><link href="http://nwcpp.org/march-2011.html" rel="alternate"></link><updated>2011-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-03-01:march-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm to socialize and eat pizza provided by
+</content></entry><entry><title>March 16th, 2011 — Debuggers and Mago — Aldo Nunez</title><link href="http://nwcpp.org/march-2011.html" rel="alternate"></link><published>2011-03-01T00:00:00-08:00</published><updated>2011-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-03-01:/march-2011.html</id><summary type="html">&lt;p&gt;Come at 6:30pm to socialize and eat pizza provided by
+&lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions&lt;/a&gt;!&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Debuggers are an important tool for helping software engineers
+get to the root of certain problems.
+&lt;a class="reference external" href="http://dsource.org/projects/mago_debugger"&gt;Mago&lt;/a&gt;
+is a graphical debugger dedicated to the
+&lt;a class="reference external" href="http://en.wikipedia.org/wiki/D_(programming_language)"&gt;D programming language&lt;/a&gt;
+on Windows.
+It is made up of several …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Come at 6:30pm to socialize and eat pizza provided by
 &lt;a class="reference external" href="http://www.summitgroupsolutions.com/"&gt;Summit Group Solutions&lt;/a&gt;!&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -256,7 +309,13 @@ and is interested in programming language tools and video&amp;nbsp;games.&lt;/p&
 &lt;p&gt;Aldo&amp;#8217;s &lt;a class="reference external" href="/talks/2011/mago%20debugger%20inner%20workings.pptx"&gt;slides&lt;/a&gt;.
 Video, &lt;a class="reference external" href="http://vimeo.com/21323893"&gt;Part I&lt;/a&gt; and &lt;a class="reference external" href="http://vimeo.com/21605995"&gt;Part &lt;span class="caps"&gt;II&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 16th, 2011 — The Thought Process of Patterns: Essential Design Skills — Alan Shalloway</title><link href="http://nwcpp.org/february-2011.html" rel="alternate"></link><updated>2011-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-02-01:february-2011.html</id><summary type="html">&lt;p&gt;Pizza will be supplied by &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net&amp;nbsp;Objectives&lt;/a&gt;&lt;/p&gt;
+</content></entry><entry><title>February 16th, 2011 — The Thought Process of Patterns: Essential Design Skills — Alan Shalloway</title><link href="http://nwcpp.org/february-2011.html" rel="alternate"></link><published>2011-02-01T00:00:00-08:00</published><updated>2011-02-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-02-01:/february-2011.html</id><summary type="html">&lt;p&gt;Pizza will be supplied by &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net&amp;nbsp;Objectives&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Patterns have been known as “Solutions to Recurring Problems in&amp;nbsp; a Context.”
+However, they are really more than just that.
+In fact, Christopher Alexander, the inspirer of design patterns in general and
+the author of this quote later says at the end …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Pizza will be supplied by &lt;a class="reference external" href="http://www.netobjectives.com/"&gt;Net&amp;nbsp;Objectives&lt;/a&gt;&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Patterns have been known as “Solutions to Recurring Problems in&amp;nbsp; a Context.”
@@ -306,7 +365,15 @@ He has a Masters in Computer Science from &lt;span class="caps"&gt;M.I.T.
 You can follow Alan on Twitter,
 &lt;a class="reference external" href="http://twitter.com/alshalloway"&gt;&amp;#64;alshalloway&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze</title><link href="http://nwcpp.org/january-2011.html" rel="alternate"></link><updated>2011-01-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-01-01:january-2011.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
+</content></entry><entry><title>January 19th, 2011 — Determinism and Fail-Stop Races for Sane Multiprocessing — Luis Ceze</title><link href="http://nwcpp.org/january-2011.html" rel="alternate"></link><published>2011-01-01T00:00:00-08:00</published><updated>2011-01-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2011-01-01:/january-2011.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Current multicore systems are nondeterministic.
+Each time they execute a multithreaded application, even if supplied with the same input,
+they can produce a different output.
+This frustrates debugging, limits the ability to properly test multithreaded code
+and hinders fault-tolerant scenarios.
+Moreover, data-races often lead to surprising behavior
+and complicate …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Current multicore systems are nondeterministic.
 Each time they execute a multithreaded application, even if supplied with the same input,
@@ -347,4 +414,4 @@ He co-founded Corensic, a &lt;span class="caps"&gt;UW&lt;/span&gt;-&lt;span clas
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2011/nwcpp-jan2011.pdf"&gt;Slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry></feed>
+</content></entry></feed>
