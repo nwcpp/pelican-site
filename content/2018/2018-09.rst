@@ -14,7 +14,7 @@ Please see the CppCon web site at Http://cppcon.org for current details.
 Featured Events at CppCon
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Tuesday September 25 at 8:30 PM - 10:00 PM: Embedded C++** by Ben Saks, Dan Saks, Andrew Close, and Odin Holmes
+**Tuesday September 25 at 8:30 PM - 10:00 PM: Embedded C++** by Ben Saks, Dan Saks, Andrew Close, Andrew Sloss and Odin Holmes
 
 C++ has not always been the first language choice to use in embedded environments, but with the advent of modern C++, its use has been on the rise. Developing for embedded environments generally and the Internet of Things (IoT) specifically, presents challenges for which modern C++ offers a unique tool set. Come ask the experts on how they view C++ in this space and how to use modern C++ to get the best performance possible to meet the demands embedded systems such as IoT.
 
