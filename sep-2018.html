@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8" />
-        <title>October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at Google</title>
+        <title>Meetings in September</title>
         <link rel="stylesheet" href="./theme/css/nwcpp.css" />
         <link href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Northwest C++ Users’ Group Atom Feed" />
 
@@ -28,7 +28,7 @@
                     <li><a href="./category/2007.html">2007</a></li>
                     <li><a href="./category/2008.html">2008</a></li>
                     <li><a href="./category/2009.html">2009</a></li>
-                    <li class="active"><a href="./category/2010.html">2010</a></li>
+                    <li><a href="./category/2010.html">2010</a></li>
                     <li><a href="./category/2011.html">2011</a></li>
                     <li><a href="./category/2012.html">2012</a></li>
                     <li><a href="./category/2013.html">2013</a></li>
@@ -36,7 +36,7 @@
                     <li><a href="./category/2015.html">2015</a></li>
                     <li><a href="./category/2016.html">2016</a></li>
                     <li><a href="./category/2017.html">2017</a></li>
-                    <li><a href="./category/2018.html">2018</a></li>
+                    <li class="active"><a href="./category/2018.html">2018</a></li>
                     <li><a href="./category/about.html">about</a></li>
                     <li><a href="./category/locations.html">locations</a></li>
                     <li><a href="./category/misc.html">misc</a></li>
@@ -68,55 +68,51 @@
   <article>
     <header>
       <h1 class="entry-title">
-        <a href="./october-2010.html" rel="bookmark"
-           title="Permalink to October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at Google">October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at&nbsp;Google</a></h1>
+        <a href="./sep-2018.html" rel="bookmark"
+           title="Permalink to Meetings in September">Meetings in&nbsp;September</a></h1>
     </header>
 
     <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2010-10-01T00:00:00-07:00">
-                Published: Fri 01 October 2010
+        <abbr class="published" title="2018-08-19T00:00:00-07:00">
+                Published: Sun 19 August 2018
         </abbr>
 
         <address class="vcard author">
-                By <a class="url fn" href="./author/george-reilly.html">George Reilly</a>
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
         </address>
-<p>In <a href="./category/2010.html">2010</a>. </p>
+<p>In <a href="./category/2018.html">2018</a>. </p>
 
-</footer><!-- /.post-info -->      <p>Wednesday, October 20, 2010, at 7pm. 41/1511, Microsoft.
-Come early to socialize and eat&nbsp;pizza.</p>
-<div class="section" id="abstract">
-<h2>Abstract</h2>
-<p>Modern IDEs and compilers generate a wealth of information,
-and you can&#8217;t have any of it.
-Tools in the compiler family — even the best IDEs — tend to be monolithic, language-specific,
-generally non-scalable special-purpose applications.
-Even when they do support headless analysis, none of them do it the same way,
-and very few of them can do cross-language analysis.
-At Google, I&#8217;ve put together a team with the long-term goal of addressing these problems
-in a general way.
-We&#8217;ve built infrastructure to run <span class="caps">IDE</span>-quality code analyzers such
-as <a class="reference external" href="http://www.eclipse.org/">Eclipse</a> and <a class="reference external" href="http://en.wikipedia.org/wiki/Clang">clang</a>
-over Google&#8217;s entire corpus and all open-source code.
-We translate the intermediate representations into a language-neutral index,
-then serve the index data back through language-neutral APIs and query interfaces.
-In this talk I&#8217;ll share what we&#8217;ve done so far,
-then about our longer-term plans for an open&nbsp;platform.</p>
+</footer><!-- /.post-info -->      <div class="section" id="upcoming-meetings">
+<h2>Upcoming&nbsp;Meetings</h2>
+<p>Our <span class="caps">NWCPP</span> meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and <span class="caps">ALL</span> sessions on&nbsp;Friday.</p>
+<p>Please see the CppCon web site at <a class="reference external" href="Http://cppcon.org">Http://cppcon.org</a> for current&nbsp;details.</p>
 </div>
-<div class="section" id="bio">
-<h2>Bio</h2>
-<p><a class="reference external" href="http://steve-yegge.blogspot.com/">Steve Yegge</a> graduated
-from the University of Washington with a <span class="caps">B.S.</span> in Computer Science.
-He spent five years as a developer and team lead at Geoworks,
-several years at various startups,
-and then more than six years at Amazon.com as a Senior Development Manager.
-He joined Google in 2005 and is a Staff Software Engineer in the Kirkland office,
-currently working on scaling language analysis.
-Steve lives in downtown Kirkland with his lovely wife Linh and their faithful furry sidekick&nbsp;Cino.</p>
+<div class="section" id="featured-events-at-cppcon">
+<h2>Featured Events at&nbsp;CppCon</h2>
+<p><strong>Tuesday September 25 at 8:30 <span class="caps">PM</span> - 10:00 <span class="caps">PM</span>: Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions</strong> by Brett Searles, Kate Gregory, Aaron Robinson, and Lloyd&nbsp;Moore</p>
+<p>Even though we love C++, we don’t live in a C++-only world. In this session, you will be given the opportunity to ask questions about the best way to build applications in C++, yet also make them accessible to clients who use managed code. There will also be experts to answer questions about best practices for building C++ so it may be utilized efficiently in a cross-platform&nbsp;environment.</p>
+<p><strong>Wednesday, September 26th at 12:30 <span class="caps">PM</span> to 1:30 <span class="caps">PM</span>: Embedded C++</strong> by Xiang Fan, Ian Bearman and Chandler&nbsp;Carruth</p>
+<p>C++ has not always been the first language choice to use in embedded environments, but with the advent of modern C++, its use has been on the rise. Developing for embedded environments generally and the Internet of Things (IoT) specifically, presents challenges for which modern C++ offers a unique tool set. Come ask the experts on how they view C++ in this space and how to use modern C++ to get the best performance possible to meet the demands embedded systems such as&nbsp;IoT.</p>
+<p><strong>Wednesday, September 26th at 8:<span class="caps">30PM</span> to 10:00 <span class="caps">PM</span>: Cross-platform C++ development is challenging - let tools help!</strong> by Marc Goodner, and Will&nbsp;Buik</p>
+<p>Writing high-quality error-free C++ code itself is a challenging task, let alone when having to juggle multiple platforms at the same time! In this session, we will talk about many challenges in cross-platform C++ development and how tools can help: what options do I have if my production environment is different than my dev box? Can I be as productive when working with remote Linux machines? Is there any good C++ editor that works consistently on all platforms I work on? How can I efficiently build and debug CMake projects, or even get IntelliSense? How can I easily find and acquire open sourced libraries? Is there an easy way to write and run cross-platform tests? Come to see what Visual Studio 2017, Visual Studio Code, CMake, <span class="caps">WSL</span>, Vcpkg and more have to offer to make cross-platform C++ development much easier in this demo-heavy&nbsp;talk.</p>
+<p><strong>Thursday, September 27 8:30 <span class="caps">PM</span> to 10:00 <span class="caps">PM</span>: Creating the Complete Build Package</strong> by  Boris Kolpackov, Titus Winter and Manuel&nbsp;Klimek</p>
+<p>Even though we all have to build our application, there may be issues that are necessary to consider. Like, how do we create build packages so that our application can be cross-platform? What about Modules? How can unit testing and end to end testing be integrated at the end of the build? Please bring questions so that you can get answers from our&nbsp;panelists.</p>
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="http://vimeo.com/16069687">Video</a> of Steve&#8217;s&nbsp;talk.</p>
+<p>Coming&nbsp;Soon!</p>
+</div>
+<div class="section" id="digital-media-links">
+<h2>Digital Media&nbsp;Links</h2>
+<ul class="simple">
+<li>Sign up for our <a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1">announcements mailing list</a> If you want to be more involved, sign up for our <a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers">volunteers</a>&nbsp;list</li>
+<li>Check out our web page at <a class="reference external" href="http://www.nwcpp.org/">http://www.nwcpp.org/</a></li>
+<li>Follow <a class="reference external" href="http://twitter.com/nwcpp">&#64;nwcpp</a> on&nbsp;Twitter</li>
+<li>Join our <a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930">Facebook&nbsp;Group</a></li>
+<li>Follow our <a class="reference external" href="https://plus.google.com/104974891006782790528/">Google+</a>&nbsp;page</li>
+<li>Tune in to our <a class="reference external" href="http://www.youtube.com/user/NWCPP">YouTube</a> and <a class="reference external" href="https://vimeo.com/nwcpp">Vimeo</a>&nbsp;channels</li>
+</ul>
 </div>
 
     </div><!-- /.entry-content -->

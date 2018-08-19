@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2010</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2010.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-12-31T00:00:00-08:00</updated><entry><title>2010</title><link href="http://nwcpp.org/2010-summary.html" rel="alternate"></link><published>2010-12-31T00:00:00-08:00</published><updated>2010-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-12-31:/2010-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2010.html"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2010.html"&gt;February 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2010.html"&gt;March 17th, 2010 — Short Talks on&amp;nbsp;Concurrency&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2010.html"&gt;April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark&amp;nbsp;Roberts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2010.html"&gt;May 19th, 2010 — The Anatomy of Message Passing — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2010.html"&gt;June 16th, 2010 — Massive Multithreading on the &lt;span class="caps"&gt;GPU&lt;/span&gt; — Gavriel&amp;nbsp;Plotke&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2010.html"&gt;July 2010 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2010.html"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2010.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2010-12-31T00:00:00-08:00</updated><entry><title>2010</title><link href="http://nwcpp.org/2010-summary.html" rel="alternate"></link><updated>2010-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-12-31:2010-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2010.html"&gt;January 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2010.html"&gt;February 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2010.html"&gt;March 17th, 2010 — Short Talks on&amp;nbsp;Concurrency&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2010.html"&gt;April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark&amp;nbsp;Roberts&lt;/a&gt;&lt;/p&gt;
@@ -17,16 +11,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2010.html"&gt;October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at&amp;nbsp;Google&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2010.html"&gt;November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs.&amp;nbsp;Concepts&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2010.html"&gt;December 2010: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-</content></entry><entry><title>December 2010: No Meeting</title><link href="http://nwcpp.org/december-2010.html" rel="alternate"></link><published>2010-12-01T00:00:00-08:00</published><updated>2010-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-12-01:/december-2010.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs. Concepts</title><link href="http://nwcpp.org/november-2010.html" rel="alternate"></link><published>2010-11-01T00:00:00-07:00</published><updated>2010-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-11-01:/november-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Concepts_(C%2B%2B)"&gt;C++ Concepts&lt;/a&gt;
-got a lot of bad press and were dropped from
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/C%2B%2B0x"&gt;C++0x&lt;/a&gt;.
-They were considered too complex with too few benefits.
-And yet their equivalent in Haskell,
-&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Type_class"&gt;type classes&lt;/a&gt;,
-are considered simple and powerful.
-I will talk about both languages, explaining some Haskell and C++ concept syntax …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="abstract"&gt;
+</summary></entry><entry><title>December 2010: No Meeting</title><link href="http://nwcpp.org/december-2010.html" rel="alternate"></link><updated>2010-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-12-01:december-2010.html</id><summary type="html"></summary></entry><entry><title>November 17th, 2010 — Bartosz Milewski — C++ vs. Haskell: Type Classes vs. Concepts</title><link href="http://nwcpp.org/november-2010.html" rel="alternate"></link><updated>2010-11-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-11-01:november-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Concepts_(C%2B%2B)"&gt;C++ Concepts&lt;/a&gt;
 got a lot of bad press and were dropped from
@@ -61,14 +46,7 @@ You may see him occasionally at &lt;span class="caps"&gt;CSE&lt;/span&gt; 950 P 
 &lt;p&gt;&lt;a class="reference external" href="http://bartoszmilewski.wordpress.com/2010/11/29/understanding-c-concepts-through-haskell-type-classes/"&gt;Video&lt;/a&gt;
 of the&amp;nbsp;presentation.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at Google</title><link href="http://nwcpp.org/october-2010.html" rel="alternate"></link><published>2010-10-01T00:00:00-07:00</published><updated>2010-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-10-01:/october-2010.html</id><summary type="html">&lt;p&gt;Wednesday, October 20, 2010, at 7pm. 41/1511, Microsoft.
-Come early to socialize and eat&amp;nbsp;pizza.&lt;/p&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Modern IDEs and compilers generate a wealth of information,
-and you can&amp;#8217;t have any of it.
-Tools in the compiler family — even the best IDEs — tend to be monolithic, language-specific,
-generally non-scalable …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Wednesday, October 20, 2010, at 7pm. 41/1511, Microsoft.
+</summary></entry><entry><title>October 20th, 2010 — Steve Yegge — Scaling and Standardizing Programming Language Analysis at Google</title><link href="http://nwcpp.org/october-2010.html" rel="alternate"></link><updated>2010-10-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-10-01:october-2010.html</id><summary type="html">&lt;p&gt;Wednesday, October 20, 2010, at 7pm. 41/1511, Microsoft.
 Come early to socialize and eat&amp;nbsp;pizza.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -103,14 +81,7 @@ Steve lives in downtown Kirkland with his lovely wife Linh and their faithful fu
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://vimeo.com/16069687"&gt;Video&lt;/a&gt; of Steve&amp;#8217;s&amp;nbsp;talk.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>September 15th, 2010 — The Many Faces of D — Walter Bright</title><link href="http://nwcpp.org/september-2010.html" rel="alternate"></link><published>2010-09-01T00:00:00-07:00</published><updated>2010-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-09-01:/september-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;There are many mainstream programming paradigms —
-imperative, object oriented, meta, functional, etc.
-Each has their proponents and languages oriented around it.
-But larger applications tend to not fit easily into any particular&amp;nbsp;paradigm.&lt;/p&gt;
-&lt;p&gt;In extreme cases, developers will resort to using multiple languages
-with an uneasy interface between them …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="abstract"&gt;
+</summary></entry><entry><title>September 15th, 2010 — The Many Faces of D — Walter Bright</title><link href="http://nwcpp.org/september-2010.html" rel="alternate"></link><updated>2010-09-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-09-01:september-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;There are many mainstream programming paradigms —
 imperative, object oriented, meta, functional, etc.
@@ -136,17 +107,7 @@ and has been writing them ever&amp;nbsp;since.&lt;/p&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;Here are &lt;a class="reference external" href="/talks/2010/nwcpp-2010-09.pdf"&gt;Walter&amp;#8217;s slides&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>August 2010: No Meeting</title><link href="http://nwcpp.org/august-2010.html" rel="alternate"></link><published>2010-08-01T00:00:00-07:00</published><updated>2010-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-08-01:/august-2010.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>July 2010: No Meeting</title><link href="http://nwcpp.org/july-2010.html" rel="alternate"></link><published>2010-07-01T00:00:00-07:00</published><updated>2010-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-07-01:/july-2010.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>June 16th, 2010 — Massive Multithreading on the GPU — Gavriel Plotke</title><link href="http://nwcpp.org/june-2010.html" rel="alternate"></link><published>2010-06-01T00:00:00-07:00</published><updated>2010-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-06-01:/june-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;GigaFlops or… TerraFlops?
-The modern &lt;span class="caps"&gt;GPU&lt;/span&gt; is a massively parallel supercomputer
-that has 2 orders of magnitude more processing power than a single &lt;span class="caps"&gt;CPU&lt;/span&gt; Core.
-But the threading model is very different than the &lt;span class="caps"&gt;CPU&lt;/span&gt;.
-Don’t get left behind on knowing about this different&amp;nbsp;paradigm.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="bio"&gt;
-&lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Gavriel Plotke …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="abstract"&gt;
+</summary></entry><entry><title>August 2010: No Meeting</title><link href="http://nwcpp.org/august-2010.html" rel="alternate"></link><updated>2010-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-08-01:august-2010.html</id><summary type="html"></summary></entry><entry><title>July 2010: No Meeting</title><link href="http://nwcpp.org/july-2010.html" rel="alternate"></link><updated>2010-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-07-01:july-2010.html</id><summary type="html"></summary></entry><entry><title>June 16th, 2010 — Massive Multithreading on the GPU — Gavriel Plotke</title><link href="http://nwcpp.org/june-2010.html" rel="alternate"></link><updated>2010-06-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-06-01:june-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;GigaFlops or… TerraFlops?
 The modern &lt;span class="caps"&gt;GPU&lt;/span&gt; is a massively parallel supercomputer
@@ -170,13 +131,7 @@ After that I spent many years doing business contract work
 — different projects, different platforms, lots of database design.
 Now I help support programming on today’s supercomputer, the modern graphics&amp;nbsp;card.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>May 19th, 2010 — The Anatomy of Message Passing — Bartosz Milewski</title><link href="http://nwcpp.org/may-2010.html" rel="alternate"></link><published>2010-05-01T00:00:00-07:00</published><updated>2010-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-05-01:/may-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The message passing paradigm makes multithreaded programming safer.
-In this talk I&amp;#8217;ll be trying to get to the bottom of message passing&amp;#8212;
-finding low level primitives from which a variety of message queues or
-mailboxes may be built.
-I&amp;#8217;ll make a few digressions into Haskell&amp;#8217;s MVars …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="abstract"&gt;
+</summary></entry><entry><title>May 19th, 2010 — The Anatomy of Message Passing — Bartosz Milewski</title><link href="http://nwcpp.org/may-2010.html" rel="alternate"></link><updated>2010-05-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-05-01:may-2010.html</id><summary type="html">&lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The message passing paradigm makes multithreaded programming safer.
 In this talk I&amp;#8217;ll be trying to get to the bottom of message passing&amp;#8212;
@@ -197,13 +152,7 @@ I also keep a blog at
 &lt;a class="reference external" href="http://BartoszMilewski.wordpress.com"&gt;http://BartoszMilewski.wordpress.com&lt;/a&gt;,
 mostly about concurrent&amp;nbsp;programming.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark Roberts</title><link href="http://nwcpp.org/april-2010.html" rel="alternate"></link><published>2010-04-01T00:00:00-07:00</published><updated>2010-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-04-01:/april-2010.html</id><summary type="html">&lt;p&gt;On Wednesday, April 21st, 2010 at 7pm, Mark Roberts from Microsoft will
-talk about new C++0x features implemented in Visual&amp;nbsp;Studio&amp;nbsp;2010.&lt;/p&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Why wait for the C++ committee to finish the specification when you can
-enjoy much of the power of C++0x today!
-C++0x, the next …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;On Wednesday, April 21st, 2010 at 7pm, Mark Roberts from Microsoft will
+</summary></entry><entry><title>April 21st, 2010 — New C++0x Features in Visual Studio 2010 — Mark Roberts</title><link href="http://nwcpp.org/april-2010.html" rel="alternate"></link><updated>2010-04-01T00:00:00-07:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-04-01:april-2010.html</id><summary type="html">&lt;p&gt;On Wednesday, April 21st, 2010 at 7pm, Mark Roberts from Microsoft will
 talk about new C++0x features implemented in Visual&amp;nbsp;Studio&amp;nbsp;2010.&lt;/p&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
@@ -230,21 +179,7 @@ over the past 3 years, including the debugger and &lt;span class="caps"&gt;IDE&l
 He is currently focused on implementing new language features in the C++ compiler
 while enhancing the accuracy and performance of&amp;nbsp;intellisense.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>March 17th, 2010 — Short Talks on Concurrency</title><link href="http://nwcpp.org/march-2010.html" rel="alternate"></link><published>2010-03-01T00:00:00-08:00</published><updated>2010-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-03-01:/march-2010.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;p&gt;Wednesday, March 17th, 2010 at
-&lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft%20Building%2040,%20WA&amp;amp;encType=1"&gt;Building 40/1450&lt;/a&gt;
-(Steptoe), One Microsoft Way, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052, at&amp;nbsp;7pm.&lt;/p&gt;
-&lt;p&gt;Three short talks on Concurrency from
-Bartosz Milewski, George Reilly, and Max&amp;nbsp;Wilson.&lt;/p&gt;
-&lt;div class="section" id="tasks-vs-sparks-comparing-ms-task-parallel-library-with-multicore-haskell-bartosz-milewski"&gt;
-&lt;h3&gt;Tasks vs. Sparks, comparing &lt;span class="caps"&gt;MS&lt;/span&gt; Task Parallel Library with Multicore Haskell — Bartosz&amp;nbsp;Milewski&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Microsoft
-&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/magazine/cc163340.aspx"&gt;&lt;span class="caps"&gt;TPS&lt;/span&gt;&lt;/a&gt; is …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>March 17th, 2010 — Short Talks on Concurrency</title><link href="http://nwcpp.org/march-2010.html" rel="alternate"></link><updated>2010-03-01T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2010-03-01:march-2010.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;p&gt;Wednesday, March 17th, 2010 at
 &lt;a class="reference external" href="http://www.bing.com/maps/?v=2&amp;amp;where1=Microsoft%20Building%2040,%20WA&amp;amp;encType=1"&gt;Building 40/1450&lt;/a&gt;
@@ -315,4 +250,4 @@ and how they make concurrent APIs easier to&amp;nbsp;consume.&lt;/p&gt;
 &lt;a class="reference external" href="http://msdn.microsoft.com/en-us/netframework/aa663324.aspx"&gt;&lt;span class="caps"&gt;WCF&lt;/span&gt;&lt;/a&gt; team.
 Other than that he is a totally normal&amp;nbsp;guy.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><published>2010-02-01T00:00:00-08:00</published><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:/february-2010.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><published>2010-01-01T00:00:00-08:00</published><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:/january-2010.html</id><summary type="html"></summary><content type="html"></content></entry></feed>
+</summary></entry><entry><title>February 2010: No Meeting</title><link href="http://nwcpp.org/february-2010.html" rel="alternate"></link><updated>2010-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-02-01:february-2010.html</id><summary type="html"></summary></entry><entry><title>January 2010: No Meeting</title><link href="http://nwcpp.org/january-2010.html" rel="alternate"></link><updated>2010-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2010-01-01:january-2010.html</id><summary type="html"></summary></entry></feed>
