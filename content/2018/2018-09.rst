@@ -14,13 +14,13 @@ Please see the CppCon web site at Http://cppcon.org for current details.
 Featured Events at CppCon
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Tuesday September 25 at 8:30 PM - 10:00 PM: Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions** by Brett Searles, Kate Gregory, Aaron Robinson, and Lloyd Moore
-
-Even though we love C++, we don’t live in a C++-only world. In this session, you will be given the opportunity to ask questions about the best way to build applications in C++, yet also make them accessible to clients who use managed code. There will also be experts to answer questions about best practices for building C++ so it may be utilized efficiently in a cross-platform environment.
-
-**Wednesday, September 26th at 12:30 PM to 1:30 PM: Embedded C++** by Xiang Fan, Ian Bearman and Chandler Carruth
+**Tuesday September 25 at 8:30 PM - 10:00 PM: Embedded C++** by Xiang Fan, Ian Bearman and Chandler Carruth
 
 C++ has not always been the first language choice to use in embedded environments, but with the advent of modern C++, its use has been on the rise. Developing for embedded environments generally and the Internet of Things (IoT) specifically, presents challenges for which modern C++ offers a unique tool set. Come ask the experts on how they view C++ in this space and how to use modern C++ to get the best performance possible to meet the demands embedded systems such as IoT.
+
+**Wednesday, September 26th at 12:30 PM to 1:30 PM: Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions** by Brett Searles, Kate Gregory, Aaron Robinson, and Lloyd Moore
+
+Even though we love C++, we don’t live in a C++-only world. In this session, you will be given the opportunity to ask questions about the best way to build applications in C++, yet also make them accessible to clients who use managed code. There will also be experts to answer questions about best practices for building C++ so it may be utilized efficiently in a cross-platform environment.
 
 **Wednesday, September 26th at 8:30PM to 10:00 PM: Cross-platform C++ development is challenging - let tools help!** by Marc Goodner, and Will Buik 
 
