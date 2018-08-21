@@ -30,7 +30,7 @@ Writing high-quality error-free C++ code itself is a challenging task, let alone
 
 Our compilers and linkers are powerful tools and like many power tools, mastery means understanding the settings. Come join compiler experts to get your questions answered on how to get the best from your code whether you are building for speed or space.
 
-**Thursday, September 27 8:30 PM to 10:00 PM: Creating the Complete Build Package** by Boris Kolpackov, Titus Winter and Manuel Klimek
+**Thursday, September 27 8:30 PM to 10:00 PM: Creating the Complete Build Package** by Boris Kolpackov, Titus Winter, Robert Schumacher and Manuel Klimek
 
 Even though we all have to build our application, there may be issues that are necessary to consider. Like, how do we create build packages so that our application can be cross-platform? What about Modules? How can unit testing and end to end testing be integrated at the end of the build? Please bring questions so that you can get answers from our panelists.
 
