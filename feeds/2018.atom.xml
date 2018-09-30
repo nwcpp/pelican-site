@@ -19,7 +19,21 @@
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embedded C++&lt;/strong&gt;
+by Ben Saks, Dan Saks, Andrew Sloss and Odin Holmes
+&lt;a class="reference external" href="https://youtu.be/9UYUMA-5fv4"&gt;Video1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions&lt;/strong&gt;
+by Brett Searles, Kate Gregory, Aaron Robinson, and Lloyd Moore
+&lt;a class="reference external" href="https://youtu.be/lFQUrhOo1e8"&gt;Video2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cross-platform C++ development is challenging - let tools help!&lt;/strong&gt;
+by Marc Goodner, and Will Buik
+&lt;a class="reference external" href="https://youtu.be/RorHhty3D6A"&gt;Video3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Optimizing Code Speed and Space with Build Time Switches&lt;/strong&gt;
+by Xiang Fan, Ian Bearman, Michael Wong, Brett Searles and Chandler Carruth
+&lt;a class="reference external" href="https://youtu.be/FsrC6PI2TBg"&gt;Video4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Creating the Complete Build Package&lt;/strong&gt;
+by Boris Kolpackov, Titus Winter, Robert Schumacher and Manuel Klimek
+&lt;a class="reference external" href="https://youtu.be/TjdCxXdjaSA"&gt;Video5&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="digital-media-links"&gt;
 &lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
