@@ -36,8 +36,25 @@ Even though we all have to build our application, there may be issues that are n
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+**Embedded C++**
+by Ben Saks, Dan Saks, Andrew Sloss and Odin Holmes
+`Video1 <https://youtu.be/9UYUMA-5fv4>`_ 
 
+**Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions**
+by Brett Searles, Kate Gregory, Aaron Robinson, and Lloyd Moore
+`Video2 <https://youtu.be/lFQUrhOo1e8>`_
+
+**Cross-platform C++ development is challenging - let tools help!**
+by Marc Goodner, and Will Buik
+`Video3 <https://youtu.be/RorHhty3D6A>`_
+
+**Optimizing Code Speed and Space with Build Time Switches**
+by Xiang Fan, Ian Bearman, Michael Wong, Brett Searles and Chandler Carruth
+`Video4 <https://youtu.be/FsrC6PI2TBg>`_
+
+**Creating the Complete Build Package**
+by Boris Kolpackov, Titus Winter, Robert Schumacher and Manuel Klimek
+`Video5 <https://youtu.be/TjdCxXdjaSA>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
