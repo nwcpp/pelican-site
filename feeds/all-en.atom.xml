@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-10-02T00:00:00-07:00</updated><entry><title>October 17th, 2018: Title coming soon!</title><link href="http://nwcpp.org/october-2018.html" rel="alternate"></link><updated>2018-10-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-10-02:october-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-10-02T00:00:00-07:00</updated><entry><title>October 17th, 2018: Avoiding Code Smells</title><link href="http://nwcpp.org/october-2018.html" rel="alternate"></link><updated>2018-10-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-10-02:october-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 17th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -12,11 +12,26 @@
 &lt;/div&gt;
 &lt;div class="section" id="title"&gt;
 &lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;Avoiding Code&amp;nbsp;Smells&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve been writing code for over 40 years. One thing that comes with
+experience is one develops a nose for code smells. When you&amp;#8217;re asked
+to help someone find a bug in their code, you can often just glance
+at it and get a pretty good idea where to hone in on where the error
+is likely&amp;nbsp;lurking.&lt;/p&gt;
+&lt;p&gt;How is this possible in a large code base? It turns out that the human
+brain is a very good pattern matcher, and by experience one learns
+to recognize what code looks like that has bugs in it, i.e. it smells.
+Sometimes, though, it is hard for the person to say just what it is
+that triggers the smell, just that it stinks. I&amp;#8217;ve tried to distill
+out what those characteristics&amp;nbsp;are.&lt;/p&gt;
+&lt;p&gt;Inevitably, since this is based on my own personal experience, it
+is a highly personal list. Many you&amp;#8217;ve surely heard before, I hope there
+will be some you haven&amp;#8217;t recognized yet. Will eliminating smells actually
+result in bug-free code? Maybe that&amp;#8217;s too much to hope for, but I bet
+we get a lot closer to&amp;nbsp;it.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
