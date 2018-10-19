@@ -50,7 +50,8 @@ Gordon Churchill is an embedded Linux specialist in medical devices and other sa
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/lbp6vwdnE0k>`_ |
+`Slides </talks/2018/code_smells.pdf>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
