@@ -1,0 +1,51 @@
+November 15th, 2018: C++ Today: The Beast is Back
+##############################################################################
+
+:date: 2018-10-20
+:slug: november-2018
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+NOTE: THIS MEETING IS AT A SPECIAL TIME ON A THURSDAY, NOT OUR NORMAL MEETING CADANCE!!!
+
+| November 15th, 2018 at 7:00 PM
+| Room 1087, Building 30,
+ `Map to building 30 <https://www.google.com/maps/place/Microsoft+Building+30/@47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+Title
+~~~~~
+C++ Today: The Beast is Back
+
+Abstract
+~~~~~~~~
+This presentation will cover why engineers looking for performance choose C++. I will present a historical perspective of C++ focusing on what’s going on in the C++ community right now and where the language and its user base is heading. With a renewed interest in performance for both data centers and mobile devices, and the success of open source software libraries, C++ is back, and it is hot!
+
+This presentation will explain why C++ is most software engineers' go-to language for performance. You will receive a rough historical sketch that puts C++ in perspective and covers its popularity ups and downs. This talk is based, in part, on the book "C++ Today: The Beast is Back" published by O’Reilly.
+
+    https://resources.jetbrains.com/storage/products/cpp/books/Cplusplus_Today.pdf
+
+Speaker Bio
+~~~~~~~~~~~
+Jon Kalb is a freelance C++ instructor and chairs C++Now, CppCon, and the Boost Steering Committee. He has been programming in C++ for over 25 years and has written C++ for Amazon, Apple, Dow Chemical, Intuit, Lotus, Microsoft, Netscape, Sun, and Yahoo! 
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Coming Soon!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
