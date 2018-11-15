@@ -35,7 +35,9 @@ Jon Kalb is a freelance C++ instructor and chairs C++Now, CppCon, and the Boost 
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
-Coming Soon!
+Hyper Analytix was founded by Paul Hylander in 2007.  Hyper Analytix specializes in VLSI and FPGA development/verification using C++ based tools and methods.  Recent projects include: error correction hardware for optical quantum computers, high-performance on-chip network generators, graph processing, and gigabit digital-subscriber-loop signal processing fabrics.
+
+Hyper Analytix also conducts internal research into the areas of data center computing using FPGAs, FPGA targeted C++ compilers, hardware-based SAT solvers, and analogy-based approaches to AI learning.  We are looking to collaborate or possibly start a new venture in one of these areas.  Contact paul@hyperanalytix.com for more info.
 
 Resources
 ~~~~~~~~~
