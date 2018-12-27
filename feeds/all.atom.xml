@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-10-20T00:00:00-07:00</updated><entry><title>November 15th, 2018: C++ Today: The Beast is Back</title><link href="http://nwcpp.org/november-2018.html" rel="alternate"></link><updated>2018-10-20T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-10-20:november-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2018-12-27T00:00:00-08:00</updated><entry><title>January 23th, 2019: Remedial C++ 11</title><link href="http://nwcpp.org/January-2019.html" rel="alternate"></link><updated>2018-12-27T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-12-27:January-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
+&lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: &lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, &lt;span class="caps"&gt;NOT&lt;/span&gt; &lt;span class="caps"&gt;OUR&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;CADENCE&lt;/span&gt;!!!
+If you are interested in helping out please also attend the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; Annual Board Meeting
+at 6:&lt;span class="caps"&gt;15PM&lt;/span&gt; - Just before his&amp;nbsp;meeting!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;January 23rd, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Room 1083, Building 30,
+&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
+&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Remedial C++&amp;nbsp;11&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;OK&lt;/span&gt;, Ladies and Gentlemen, your boss said you needed to attend tonight.  Your boss noticed that you haven&amp;#8217;t been using the latest C++ constructs, and that your work could be even better.  Tonight we&amp;#8217;ll go over additions to the language in C++ 11.  Don&amp;#8217;t make your boss send you back here for C++ 14 and&amp;nbsp;17!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Like the man in black said: &amp;quot;No one of consequence&amp;quot;.  Pete has been programming professionally for 29 years at companies like Boeing, Microsoft, Amazon, and Google.  He&amp;#8217;s been using C++ for most of that time, and attending &lt;span class="caps"&gt;NWCPP&lt;/span&gt; off and on since the 90&amp;#8217;s.  He has been known to talk about himself in third&amp;nbsp;person.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>November 15th, 2018: C++ Today: The Beast is Back</title><link href="http://nwcpp.org/november-2018.html" rel="alternate"></link><updated>2018-10-20T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-10-20:november-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;/div&gt;
 &lt;div class="section" id="note-this-meeting-is-at-a-special-time-on-a-thursday-not-our-normal-meeting-cadence"&gt;
