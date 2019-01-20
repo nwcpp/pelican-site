@@ -7,7 +7,11 @@ January 23th, 2019: Remedial C++ 11
 
 Special Announcements
 ~~~~~~~~~~~~~~~~~~~~~
-NOTE: THIS MEETING IS AT A SPECIAL TIME ON A WEDNESDAY, NOT OUR NORMAL MEETING CADENCE!!!
+NOTES: 
+THIS MEETING IS AT A SPECIAL TIME ON A WEDNESDAY, NOT OUR NORMAL MEETING CADENCE!!!
+
+We do not have a pizza sponsor for this meeting so please plan accordingly.
+
 If you are interested in helping out please also attend the NWCPP Annual Board Meeting 
 at 6:15PM - Just before his meeting!
 
