@@ -42,7 +42,8 @@ Coming Soon!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/i1zNN_U6tEQ>`_ |
+`Slides </talks/2019/RemedialCpp11.pdf>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
