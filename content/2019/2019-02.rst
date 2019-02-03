@@ -1,0 +1,45 @@
+February 20th, 2019: Looking under the Hood to Optimize C++ Code
+##############################################################################
+
+:date: 2019-02-03
+:slug: February-2019
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| February 20rd, 2019 at 7:00 PM
+| Room 1083, Building 30,
+ `Map to building 30 <https://www.google.com/maps/place/Microsoft+Building+30/@47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+Title
+~~~~~
+Looking under the Hood to Optimize C++ Code
+
+Abstract
+~~~~~~~~
+Coming Soon!
+
+Speaker Bio
+~~~~~~~~~~~
+Brett Searles is the Principal Architect and Developer for Attobotics and is working on a universal compiler for embedded systems. He has also been working on a chip design and programming language for that chipset for a Virtual Surgical Center for the past 20 years. Brett is currently the Vice President of the NWCPP and the volunteer chair for CppCon. 
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Coming Soon!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
