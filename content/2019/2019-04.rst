@@ -1,0 +1,51 @@
+April 17th, 2019: The Joys and Trials of Writing Cross-Platform C++ Code
+##############################################################################
+
+:date: 2019-03-31
+:slug: April-2019
+:author: Lloyd Moore
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~ 
+THIS MEETING IS AT A SPECIAL TIME ON A WEDNESDAY, 7:30 PM - ONE HALF HOUR LATER THAN NORMAL!
+
+As a courtesy to the sponsor and other attendees, we would like to get a headcount so the sponsor can adequately provide food for all attendees. If you have any suggestions on how to improve our communication between us and the sponsor, please feel free to reply or discuss with us at the meeting. We are trying our best to serve the programming language community and would love to hear your input.
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| April 20th, 2019 at 7:30 PM
+| Room 1083, Building 30,
+ `Map to building 30 <https://www.google.com/maps/place/Microsoft+Building+30/@47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+Title
+~~~~~
+The Joys and Trials of Writing Cross-Platform C++ Code - Let Tools Help!
+
+Abstract
+~~~~~~~~
+Writing high-quality error-free C++ code is a challenging task, let alone when having to juggle multiple platforms at the same time! In this session we will be exploring the many challenges in cross-platform C++ development and how tools can help. What options do I have if my production environment is different than my dev-box? Can I be as productive when working with remote Linux machines? How can I efficiently build and debug CMake projects and how can I acquire open-source libraries? Come see what Visual Studio 2019, Visual Studio Code, CMake, WSL, Vcpkg and more have to offer to make your C++ development much easier in this demo-heavy talk.
+
+Speaker Bio
+~~~~~~~~~~~
+Marc Goodner is a Program Manager on the C++ team at Microsoft. In that role he is has helped bring C++ support for remote Linux machines, local cross compiling for microcontrollers, and Azure Sphere support to Visual Studio.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Protingent is a Technical Staffing Firm focused in the areas of IT and Engineering with offices in Bellevue, WA., Portland, Oregon and the San Francisco Bay area. We have been building relationships with engineers and technology companies since 2002. We consistently strive for excellence in our customer service and ability to provide fulfilling opportunities to engineers, while bringing top talent to companies developing cutting-edge products. Protingent is an employee owned company that believes in the power of positive, long-term relationships.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
