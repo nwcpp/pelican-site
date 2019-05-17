@@ -34,7 +34,10 @@ Bringing people and positions together. Volt Workforce Solutions has become a pr
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/s6w7FyCYl5s>`_ |
+`Slides </talks/2019/MathAndCpp/MathAndCpp.pdf>`_ |
+`Sample Code </talks/2019/MathAndCpp/NWCPP_May_2019.zip>`_ |
+`Sponsor Slides </talks/2019/MathAndCpp/VoltOverview.pptx>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
