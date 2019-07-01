@@ -26,13 +26,13 @@ After a brief presentation of Everest at large, I will focus on EverCrypt, the c
 
 Speaker Bio
 ~~~~~~~~~~~
-I am a Researcher in the RiSE group at Microsoft Research Redmond, which I joined in Fall 2014.
+Jonathan Protzenko is a Researcher in the RiSE group at Microsoft Research Redmond, which he joined in Fall 2014.
 
-My research focuses on formally verifying critical software, i.e. showing with mathematical certainty that the software has no bugs and exhibits the intended behavior. To that end, I use the F* programming language, and its new Low* toolchain. It allows compiling a subset of F* programs to C for integration into existing software ecosystems. Code written in Low* and compiled by KReMLin has been integrated into Windows, Firefox, mbedTLS, and the Tezos blockchain, among others.
+Jonathan's research focuses on formally verifying critical software, i.e. showing with mathematical certainty that the software has no bugs and exhibits the intended behavior. To that end, I use the F* programming language, and its new Low* toolchain. It allows compiling a subset of F* programs to C for integration into existing software ecosystems. Code written in Low* and compiled by KReMLin has been integrated into Windows, Firefox, mbedTLS, and the Tezos blockchain, among others.
 
-My flagship project is EverCrypt, a complete cryptographic library that offers abstraction, multiplexing, agility and CPU auto-detection, verified in F*, compiled to C and assembly. My work is part of the larger Everest Project, an ambitious research effort spanning three continents, five institutions and twelve timezones.
+Jonathan's flagship project is EverCrypt, a complete cryptographic library that offers abstraction, multiplexing, agility and CPU auto-detection, verified in F*, compiled to C and assembly. My work is part of the larger Everest Project, an ambitious research effort spanning three continents, five institutions and twelve timezones.
 
-In my spare time, I maintain several open-source projects, including a Thunderbird addon that is now the 4th most-used addon with 200,000 users.
+In his spare time, he maintains several open-source projects, including a Thunderbird addon that is now the 4th most-used addon with 200,000 users.
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
