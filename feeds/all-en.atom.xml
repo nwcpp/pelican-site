@@ -21,10 +21,10 @@
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;I am a Researcher in the RiSE group at Microsoft Research Redmond, which I joined in Fall&amp;nbsp;2014.&lt;/p&gt;
-&lt;p&gt;My research focuses on formally verifying critical software, i.e. showing with mathematical certainty that the software has no bugs and exhibits the intended behavior. To that end, I use the F* programming language, and its new Low* toolchain. It allows compiling a subset of F* programs to C for integration into existing software ecosystems. Code written in Low* and compiled by KReMLin has been integrated into Windows, Firefox, mbedTLS, and the Tezos blockchain, among&amp;nbsp;others.&lt;/p&gt;
-&lt;p&gt;My flagship project is EverCrypt, a complete cryptographic library that offers abstraction, multiplexing, agility and &lt;span class="caps"&gt;CPU&lt;/span&gt; auto-detection, verified in F*, compiled to C and assembly. My work is part of the larger Everest Project, an ambitious research effort spanning three continents, five institutions and twelve&amp;nbsp;timezones.&lt;/p&gt;
-&lt;p&gt;In my spare time, I maintain several open-source projects, including a Thunderbird addon that is now the 4th most-used addon with 200,000&amp;nbsp;users.&lt;/p&gt;
+&lt;p&gt;Jonathan Protzenko is a Researcher in the RiSE group at Microsoft Research Redmond, which he joined in Fall&amp;nbsp;2014.&lt;/p&gt;
+&lt;p&gt;Jonathan&amp;#8217;s research focuses on formally verifying critical software, i.e. showing with mathematical certainty that the software has no bugs and exhibits the intended behavior. To that end, I use the F* programming language, and its new Low* toolchain. It allows compiling a subset of F* programs to C for integration into existing software ecosystems. Code written in Low* and compiled by KReMLin has been integrated into Windows, Firefox, mbedTLS, and the Tezos blockchain, among&amp;nbsp;others.&lt;/p&gt;
+&lt;p&gt;Jonathan&amp;#8217;s flagship project is EverCrypt, a complete cryptographic library that offers abstraction, multiplexing, agility and &lt;span class="caps"&gt;CPU&lt;/span&gt; auto-detection, verified in F*, compiled to C and assembly. My work is part of the larger Everest Project, an ambitious research effort spanning three continents, five institutions and twelve&amp;nbsp;timezones.&lt;/p&gt;
+&lt;p&gt;In his spare time, he maintains several open-source projects, including a Thunderbird addon that is now the 4th most-used addon with 200,000&amp;nbsp;users.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
