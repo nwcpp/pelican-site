@@ -28,7 +28,8 @@
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;&amp;quot;Molekule is a San Francisco-based science and clean technology company that has developed a fundamentally new approach to clean polluted air. While current air purifiers try to catch pollutants in filters, Molekule uses nanotechnology to break down and completely eliminate pollutants on a molecular level. Its new technology is the only one able to destroy the full spectrum of pollutants of allergens, bacteria, viruses, mold, and airborne chemicals. The technology was developed over the past 20 years at the University of Florida.
+Molekule devices are controlled and connected using modern software design and architecture principles in order to bring the best experience to customers. Firmware for Molekule devices is written in C++ using an actor model approach and highly test driven development focused using test frameworks for hardware in the loop testing as well as basic software unit&amp;nbsp;testing.&amp;quot;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
