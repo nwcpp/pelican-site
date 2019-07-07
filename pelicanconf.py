@@ -45,7 +45,7 @@ CONFERENCE_LINKS = ((u'CPPCon Homepage', 'http://cppcon.org'),
 
 					
 # job links
-JOB_LINKS = ((u'Populus Group', 'populus.JPG', 'http://www.populusgroup.com/jobs/contract-direct-hire'),
+JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.protingent.com/'),
              (u'Volt', 'Volt.jpg', 'https://jobs.volt.com'))
 					
 					
