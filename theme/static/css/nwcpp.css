@@ -8,23 +8,23 @@
     padding: 5px 1.1em;
 }
 #banner .title img {
-	float: left;
+    float: left;
 }
 
 #banner .title h1 {
-	/*float: right;*/
+  /*float: right;*/
 }
 
 .content-wrapper {
-	width: 1200px;
-	margin: 0 auto;
+    width: 1200px;
+    margin: 0 auto;
 }
 
 .sidebar {
-	border-radius: 10px;
-	background: #fff;
-	margin-bottom: 2em;
-	padding: 5px;
+    border-radius: 10px;
+    background: #fff;
+    margin-bottom: 2em;
+    padding: 5px;
     left:85%;
     position:absolute;
     top: 0px;
@@ -32,15 +32,15 @@
 }
 
 .sidebar h2 {
-	color: #C74451;
-	font-size: 1.714em;
-	margin-bottom: 0.333em;
-	margin-top: 1em;
+    color: #C74451;
+    font-size: 1.714em;
+    margin-bottom: 0.333em;
+    margin-top: 1em;
 }
 
 .sidebar img {
     height:48px;
-    width:100%;
+    width:auto;
 }
 
 .main-content {
@@ -51,11 +51,12 @@
     left:15%;
 }
 
-.sponsor-logo {
-	margin-left: auto;
-	margin-right: auto;
-	width: 125px;
-	margin-top: 3em;
+.sponsor-logo img {
+    margin-left: auto;
+    margin-right: auto;
+    height: 125px;
+    width: auto;
+    margin-top: 3em;
 }
 
 #rhssidebar{

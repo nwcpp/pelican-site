@@ -46,7 +46,8 @@ CONFERENCE_LINKS = ((u'CPPCon Homepage', 'http://cppcon.org'),
 					
 # job links
 JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.protingent.com/'),
-             (u'Volt', 'Volt.jpg', 'https://jobs.volt.com'))
+             (u'Volt', 'Volt.jpg', 'https://jobs.volt.com'),
+             (u'Triple Crown', 'TripleCrown.jpg', 'https://www.tripleco.com/find-tech-jobs/'))
 					
 					
 DEFAULT_PAGINATION = 12
