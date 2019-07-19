@@ -41,7 +41,8 @@ Molekule devices are controlled and connected using modern software design and a
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/9L_ERP5CcHE>`_ |
+`Slides </talks/2019/MathAndCpp/EverCrypt.pptx>`_ 
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
