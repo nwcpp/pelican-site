@@ -70,7 +70,7 @@ Skills: \
 Wish List/ Nice to Have\
 \
 • Experience in sensor modeling and calibration\
-• Experience working on AR/VR/MR', 'mailto:michelle.monti@johngalt.com'),
+• Experience working on AR/VR/MR', 'michelle.monti@johngalt.com', u'Michelle Monti'),
 						)
 					
 					
