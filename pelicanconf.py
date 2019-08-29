@@ -31,7 +31,6 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
           (u'Volunteers List', 'http://groups.google.com/group/nwcpp-volunteers'),
           (u'Twitter', 'https://twitter.com/nwcpp'),
           (u'Facebook', 'https://www.facebook.com/groups/344125680930/'),
-          (u'Google+', 'https://plus.google.com/104974891006782790528/posts'),
           (u'YouTube', 'http://www.youtube.com/user/NWCPP'),
           (u'Vimeo', 'http://vimeo.com/nwcpp'),
           (u'LinkedIn', 'http://www.linkedin.com/groups?gid=2770106'),
@@ -48,12 +47,37 @@ CONFERENCE_LINKS = ((u'CPPCon Homepage', 'http://cppcon.org'),
 JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.protingent.com/'),
              (u'Volt', 'Volt.jpg', 'https://jobs.volt.com'),
              (u'Triple Crown', 'TripleCrown.jpg', 'https://www.tripleco.com/find-tech-jobs/'))
+
+ANNOUNCEMENT_LINKS = ((u'John Galt', u'Job Details: \
+Job Title: Software Engineer III - Computer Vision \
+Location : Redmond, WA \
+Contract Duration: 12 months \
+\
+Job Description:\
+\
+Work with designers to help consolidate disparate program functions into a unified whole. Works with programmers and coders to help map out various programming tasks and smaller functions, which are then combined into larger, functioning programs or new features for existing software. Typically work in both design and development stages of the software creation. Work with dedicated designers or design teams to work out the basic things the program or update will be expected to perform. Plot out the various aspects of the automated tasks that will be necessary, usually using design documentation and flowcharts to help illustrate the process.\
+No Remote Work, must be willing to work on site\
+Open to candidates relocating within a 3 week time frame\
+\
+Skills: \
+\
+• 7+ years experience programming with C++\
+• 4+ years demonstrated ability in working with IMUs, cameras, and computer vision algorithms\
+• Experience with real-world system building and data collection, including design, coding (C++) and evaluation (C++)\
+• High levels of creativity and quick problem-solving capabilities\
+• Interpersonal experience: cross-group and cross-culture collaboration\
+\
+Wish List/ Nice to Have\
+\
+• Experience in sensor modeling and calibration\
+• Experience working on AR/VR/MR', 'mailto:michelle.monti@johngalt.com'),
+						)
 					
 					
 DEFAULT_PAGINATION = 12
 
 PATH = 'content'
-STATIC_PATHS = ['talks', 'images', 'extras', ]
+STATIC_PATHS = ['talks', 'images', 'extras']
 
 # Do not process .html files; e.g., Bartosz's 2007 slides
 READERS = {'html': None}
