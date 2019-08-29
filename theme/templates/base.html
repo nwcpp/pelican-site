@@ -107,8 +107,10 @@
                 <h3>Announcements</h3>
                 {% if ANNOUNCEMENT_LINKS %}
                 {% for name, jd, mto, name in ANNOUNCEMENT_LINKS %}
-                <div>{{ name }}<br/>{{ jd}} <br/>
-                <a style="display:block;" href="mailto:{{ mto }}">{{ name }}</a></div>
+                    <div>{{ name }}<br/>{{ jd}} <br/><br/>
+                    <div style="width:10%">contact</div>
+                    <div style="width:80%"><a href="mailto:{{ mto }}">{{ name }}</a></div>
+                    </div>
                 {% endfor %}
                 {% else %}
                 <p>No Announcements!</p>
