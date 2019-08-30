@@ -61,6 +61,12 @@
     }
 }
 
+@media only screen and (max-height: 600px) {
+    .main-content {
+        height: 35vh;
+    }
+}
+
 .announcement-wrapper {
     width: 1200px;
     margin: 0 auto;
@@ -68,7 +74,7 @@
 }
 
 .announce {
-    width: 60%;
+    width: 61%;
     margin: 0 auto;
     height: 150px;
     bottom: -100px;
@@ -88,13 +94,31 @@
     }
 }
 
-    .sponsor-logo img {
-        margin-left: auto;
-        margin-right: auto;
-        height: 125px;
-        width: auto;
-        margin-top: 3em;
+@media only screen and (max-width: 800px) {
+    .announce {
+        left: 33%;
     }
+}
+
+@media only screen and (max-width: 500px) {
+    .announcement-wrapper {
+        display: none;
+    }
+}
+
+@media only screen and (max-height: 500px) {
+    .announcement-wrapper {
+        display: none;
+    }
+}
+
+.sponsor-logo img {
+    margin-left: auto;
+    margin-right: auto;
+    height: 125px;
+    width: auto;
+    margin-top: 3em;
+}
 
     #rhssidebar {
         float: left;
