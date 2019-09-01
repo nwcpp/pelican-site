@@ -31,7 +31,6 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
           (u'Volunteers List', 'http://groups.google.com/group/nwcpp-volunteers'),
           (u'Twitter', 'https://twitter.com/nwcpp'),
           (u'Facebook', 'https://www.facebook.com/groups/344125680930/'),
-          (u'Google+', 'https://plus.google.com/104974891006782790528/posts'),
           (u'YouTube', 'http://www.youtube.com/user/NWCPP'),
           (u'Vimeo', 'http://vimeo.com/nwcpp'),
           (u'LinkedIn', 'http://www.linkedin.com/groups?gid=2770106'),
@@ -48,12 +47,21 @@ CONFERENCE_LINKS = ((u'CPPCon Homepage', 'http://cppcon.org'),
 JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.protingent.com/'),
              (u'Volt', 'Volt.jpg', 'https://jobs.volt.com'),
              (u'Triple Crown', 'TripleCrown.jpg', 'https://www.tripleco.com/find-tech-jobs/'))
+
+ANNOUNCEMENT_LINKS = ((u'Zensa', u'Job Details: <br\> \
+Job Title: Firmware Engineer 3 <br\>\
+Location : Redmond, WA <br\>\
+Contract Duration: 12-18 months <br\> \
+<br\>\
+Description <br\> \
+As an embedded firmware engineer you will be responsible for creating and maintaining firmware running on embedded consumer electronics. You will have responsibilities spanning all aspects of product bring-up and test:  write, debug, and integrate new device drivers, protocols, and other firmware code across embedded product line. Interacting with Hardware, OS, Test, Operations and various other cross-functional teams. Review board schematics and data sheets.  Utilize oscilloscopes, logic analyzers, and other test equipment to troubleshoot hardware/software issues.  Enable test strategies for new components in upcoming products.  Support product development builds locally and remotely.', ' Vishal@zensa.co', u'Vishal Misri'),
+						)
 					
 					
 DEFAULT_PAGINATION = 12
 
 PATH = 'content'
-STATIC_PATHS = ['talks', 'images', 'extras', ]
+STATIC_PATHS = ['talks', 'images', 'extras']
 
 # Do not process .html files; e.g., Bartosz's 2007 slides
 READERS = {'html': None}

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 <head>
         <meta charset="utf-8" />
@@ -68,7 +68,7 @@
                 {% endif %}
             </div><!-- /.social -->
             <div class="sidebar">
-                <h2>Conferences</h2style>
+                <h2>Conferences</h2>
                 {% if CONFERENCE_LINKS %}
                 <ul>
                     {% for name, url in CONFERENCE_LINKS %}
@@ -80,9 +80,9 @@
                 {% endif %}
                 <h2>Jobs</h2>
                 {% if JOB_LINKS %}
-                    {% for name, srce, url in JOB_LINKS %}
-                    <div><a href="{{ url }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/{{ srce }}" height="24" width="24" alt="{{name}}" /></a></div>
-                    {% endfor %}
+                {% for name, srce, url in JOB_LINKS %}
+                <div><a href="{{ url }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/{{ srce }}" height="24" width="24" alt="{{name}}" /></a></div>
+                {% endfor %}
                 {% else %}
                 <p>No current open positions</p>
                 {% endif %}
@@ -98,6 +98,23 @@
             <div class="main-content">
                 {% block content %}
                 {% endblock %}
+            </div>
+
+        </div>
+
+        <div class="announcement-wrapper">
+            <div class="announce">
+                <h3>Announcements</h3>
+                {% if ANNOUNCEMENT_LINKS %}
+                {% for company, jd, mto, name in ANNOUNCEMENT_LINKS %}
+                    <div>{{ company }}<br/>{{ jd}} <br/><br/>
+                    <div style="width:10%">contact</div>
+                    <div style="width:80%"><a href="mailto:{{ mto }}">{{ name }}</a></div>
+                    </div>
+                {% endfor %}
+                {% else %}
+                <p>No Announcements!</p>
+                {% endif %}
             </div>
         </div>
 {% include 'analytics.html' %}
