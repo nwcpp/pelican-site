@@ -48,29 +48,13 @@ JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.pr
              (u'Volt', 'Volt.jpg', 'https://jobs.volt.com'),
              (u'Triple Crown', 'TripleCrown.jpg', 'https://www.tripleco.com/find-tech-jobs/'))
 
-ANNOUNCEMENT_LINKS = ((u'John Galt', u'Job Details: \
-Job Title: Software Engineer III - Computer Vision \
-Location : Redmond, WA \
-Contract Duration: 12 months \
-\
-Job Description:\
-\
-Work with designers to help consolidate disparate program functions into a unified whole. Works with programmers and coders to help map out various programming tasks and smaller functions, which are then combined into larger, functioning programs or new features for existing software. Typically work in both design and development stages of the software creation. Work with dedicated designers or design teams to work out the basic things the program or update will be expected to perform. Plot out the various aspects of the automated tasks that will be necessary, usually using design documentation and flowcharts to help illustrate the process.\
-No Remote Work, must be willing to work on site\
-Open to candidates relocating within a 3 week time frame\
-\
-Skills: \
-\
-• 7+ years experience programming with C++\
-• 4+ years demonstrated ability in working with IMUs, cameras, and computer vision algorithms\
-• Experience with real-world system building and data collection, including design, coding (C++) and evaluation (C++)\
-• High levels of creativity and quick problem-solving capabilities\
-• Interpersonal experience: cross-group and cross-culture collaboration\
-\
-Wish List/ Nice to Have\
-\
-• Experience in sensor modeling and calibration\
-• Experience working on AR/VR/MR', 'michelle.monti@johngalt.com', u'Michelle Monti'),
+ANNOUNCEMENT_LINKS = ((u'Zensa', u'Job Details: <br\> \
+Job Title: Firmware Engineer 3 <br\>\
+Location : Redmond, WA <br\>\
+Contract Duration: 12-18 months <br\> \
+<br\>\
+Description <br\> \
+As an embedded firmware engineer you will be responsible for creating and maintaining firmware running on embedded consumer electronics. You will have responsibilities spanning all aspects of product bring-up and test:  write, debug, and integrate new device drivers, protocols, and other firmware code across embedded product line. Interacting with Hardware, OS, Test, Operations and various other cross-functional teams. Review board schematics and data sheets.  Utilize oscilloscopes, logic analyzers, and other test equipment to troubleshoot hardware/software issues.  Enable test strategies for new components in upcoming products.  Support product development builds locally and remotely.', ' Vishal@zensa.co', u'Vishal Misri'),
 						)
 					
 					
