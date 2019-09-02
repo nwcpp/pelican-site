@@ -1,0 +1,34 @@
+Sept 18th, 2019: NO MEETING THIS MONTH
+######################################
+
+:date: 2019-09-02
+:slug: Sept-2019
+:author: Lloyd Moore
+
+
+Title
+~~~~~
+NO MEETING THIS MONTH!!!
+
+Our normal meeting time this month overlaps with CppCon AND our speaker for the alternate meeting time had a last minute conflict. Because of these we'll skip the meeting this month.
+
+Alternatives
+~~~~~~~~~~~~
+Also if you are REALLY looking for your C++ fix this month here are some on-line resources to keep you going:
+
+`CppCon Website <https://cppcon.org/>`_
+`CppNow Videos <http://cppnow.org/history/2019/talks/>`_
+`CppCast <https://cppcast.com/>`_
+
+Enjoy and we'll see you in October at our normal meeting time!
+
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
