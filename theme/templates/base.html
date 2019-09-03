@@ -86,6 +86,13 @@
                 {% else %}
                 <p>No current open positions</p>
                 {% endif %}
+                <h2>Sponsors</h2>
+                {% if SPONSOR_LINKS %}
+                    {% for name, srce, url in SPONSOR_LINKS %}
+                    <div><a href="{{ url }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/{{ srce }}" height="24" width="24" alt="{{name}}" /></a></div>
+                    {% endfor %}
+                {% else %}
+                {% endif %}
                 <div class="sponsor-logo">
                     <a href="http://shop.oreilly.com"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/oreilly_discount.gif" /></a>
                 </div>

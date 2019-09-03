@@ -31,7 +31,6 @@ SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'
           (u'Volunteers List', 'http://groups.google.com/group/nwcpp-volunteers'),
           (u'Twitter', 'https://twitter.com/nwcpp'),
           (u'Facebook', 'https://www.facebook.com/groups/344125680930/'),
-          (u'Google+', 'https://plus.google.com/104974891006782790528/posts'),
           (u'YouTube', 'http://www.youtube.com/user/NWCPP'),
           (u'Vimeo', 'http://vimeo.com/nwcpp'),
           (u'LinkedIn', 'http://www.linkedin.com/groups?gid=2770106'),
@@ -47,7 +46,11 @@ CONFERENCE_LINKS = ((u'CPPCon Homepage', 'http://cppcon.org'),
 # job links
 JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.protingent.com/'),
              (u'Volt', 'Volt.jpg', 'https://jobs.volt.com'),
-             (u'Triple Crown', 'TripleCrown.jpg', 'https://www.tripleco.com/find-tech-jobs/'))
+             (u'Triple Crown', 'TripleCrown.jpg', 'https://www.tripleco.com/find-tech-jobs/'),
+             (u'John Galt', 'JohnGalt.jpg', 'https://j-galt.com/'))
+
+# sponsors
+SPONSOR_LINKS = ((u'Cyber Data', 'CyberDataLogo.jpg', 'http://www.cyberdata-robotics.com/'))
 					
 					
 DEFAULT_PAGINATION = 12
