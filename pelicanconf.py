@@ -50,13 +50,22 @@ JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.pr
              (u'John Galt', 'JohnGalt.jpg', 'https://j-galt.com/'))
 
 # sponsors
-SPONSOR_LINKS = ((u'Cyber Data', 'CyberDataLogo.jpg', 'http://www.cyberdata-robotics.com/'))
+#SPONSOR_LINKS = ((u'Cyber Data', 'CyberDataLogo.jpg', 'http://www.cyberdata-robotics.com/'))
+
+ANNOUNCEMENT_LINKS = ((u'Zensa', u'Job Details: <br\> \
+Job Title: Firmware Engineer 3 <br\>\
+Location : Redmond, WA <br\>\
+Contract Duration: 12-18 months <br\> \
+<br\>\
+Description <br\> \
+As an embedded firmware engineer you will be responsible for creating and maintaining firmware running on embedded consumer electronics. You will have responsibilities spanning all aspects of product bring-up and test:  write, debug, and integrate new device drivers, protocols, and other firmware code across embedded product line. Interacting with Hardware, OS, Test, Operations and various other cross-functional teams. Review board schematics and data sheets.  Utilize oscilloscopes, logic analyzers, and other test equipment to troubleshoot hardware/software issues.  Enable test strategies for new components in upcoming products.  Support product development builds locally and remotely.', ' Vishal@zensa.co', u'Vishal Misri'),
+						)
 					
 					
 DEFAULT_PAGINATION = 12
 
 PATH = 'content'
-STATIC_PATHS = ['talks', 'images', 'extras', ]
+STATIC_PATHS = ['talks', 'images', 'extras']
 
 # Do not process .html files; e.g., Bartosz's 2007 slides
 READERS = {'html': None}
