@@ -88,6 +88,8 @@
                 <div><a href="http://jobs.protingent.com/"><img src="./theme/images/icons/protingent_masthead_logo_new.png" height="24" width="24" alt="Protingent" /></a></div>
                 <div><a href="https://jobs.volt.com"><img src="./theme/images/icons/Volt.jpg" height="24" width="24" alt="Volt" /></a></div>
                 <div><a href="https://www.tripleco.com/find-tech-jobs/"><img src="./theme/images/icons/TripleCrown.jpg" height="24" width="24" alt="Triple Crown" /></a></div>
+                <div><a href="https://j-galt.com/"><img src="./theme/images/icons/JohnGalt.jpg" height="24" width="24" alt="John Galt" /></a></div>
+                <h2>Sponsors</h2>
                 <div class="sponsor-logo">
                     <a href="http://shop.oreilly.com"><img src="./theme/images/icons/oreilly_discount.gif" /></a>
                 </div>
@@ -139,14 +141,14 @@
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>In October 2017 I spoke to <span class="caps">NWCPP</span> about &quot;Coordinate Transformations in Three Dimensions.&quot; Due to a big storm and unavailability of the intended meeting room, very few people were there. Also my preparation was incomplete. So I agreed to try&nbsp;again.</p>
+<p>In October 2017 I spoke to <span class="caps">NWCPP</span> about &#8220;Coordinate Transformations in Three Dimensions.&#8221; Due to a big storm and unavailability of the intended meeting room, very few people were there. Also my preparation was incomplete. So I agreed to try&nbsp;again.</p>
 <p>This time, I will start from an even more fundamental computational problem: Data come into the computer as a finite set of discrete numbers, even when the underlying phenomena are continuous. How should one estimate continuous phenomena based on discrete data? That&#8217;s interpolation. The answer depends on several&nbsp;factors:</p>
 <blockquote>
 <ol class="arabic simple">
 <li>What are the independent variables, or domain? Examples include time (1 dimension), position (3), orientation (3), or mix of foods&nbsp;(many).</li>
 <li>What are the dependent variables, or range? Examples include pressure (1), position (3), orientation (3), or disease probabilities (many). Dependent variables for one process (e.g. orientation vs. time in a motion model) can be independent variables for another (e.g. sensitivity vs orientation in a sensor&nbsp;model).</li>
 <li>How will the continuous model be used? Does the application require a different set of discrete independent values that lie between the given ones? (Example: simulated sound samples as received from a moving platform.) Or do you need to integrate some function of the dependent variables over the independent ones? (Example: sensor response to sound coming from all&nbsp;directions.)</li>
-<li>How many discrete input values do we need to compute each output value? That&#8217;s the &quot;order&quot; (plus 1). I will demonstrate some consequences for getting this&nbsp;wrong.</li>
+<li>How many discrete input values do we need to compute each output value? That&#8217;s the &#8220;order&#8221; (plus 1). I will demonstrate some consequences for getting this&nbsp;wrong.</li>
 <li>Can it help to transform the range and/or the domain? For example, if Y(X) resembles a power law (Y equals X raised to some power), then a graph of log(Y) versus log(X) is close to a straight line, for which linear interpolation (order=1) would suffice, even for a sparse sample&nbsp;set.</li>
 </ol>
 </blockquote>
