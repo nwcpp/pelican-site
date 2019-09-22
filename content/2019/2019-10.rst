@@ -1,0 +1,52 @@
+Oct 16th, 2019: D at 20 : Hits and Misses
+#########################################
+
+:date: 2019-09-22
+:slug: Oct-2019
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| Oct 16th, 2019 at 7:00 PM
+| Room 1083, Building 30,
+ `Map to building 30 <https://www.google.com/maps/place/Microsoft+Building+30/@47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+Title
+~~~~~
+D at 20 : Hits and Misses
+
+Abstract
+~~~~~~~~
+Work began on the D programming language 20 years ago. A huge part of
+language design is looking at the past for what worked and what
+didn't, and divining future trajectories so the language can be where
+the ball lands. D has its share of strikes and home runs. I'll
+be talking about a few of each, and lessons learned the hard way.
+I'll pontificate a bit about where programming languages and D are
+headed. 
+
+Speaker Bio
+~~~~~~~~~~~
+Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages. He's an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines and runtime libraries. Walter regularly writes articles about compilers and programming, is known for
+engaging and informative presentations, and provides training in compiler development techniques. Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 30 years after its debut.  
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Coming Soon!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
