@@ -50,7 +50,8 @@ JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.pr
              (u'John Galt', 'JohnGalt.jpg', 'https://j-galt.com/'))
 
 # sponsors
-#SPONSOR_LINKS = ((u'Cyber Data', 'CyberDataLogo.jpg', 'http://www.cyberdata-robotics.com/'))
+SPONSOR_LINKS = ((u'Cyber Data', 'CyberDataLogo.jpg', 'http://www.cyberdata-robotics.com/'),
+                 (u'Microsoft', 'MSLogo.png', 'https://aka.ms/cpp'))
 
 ANNOUNCEMENT_LINKS = ((u'Zensa', u'Job Details: <br\> \
 Job Title: Firmware Engineer 3 <br\>\
