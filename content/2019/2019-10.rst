@@ -40,7 +40,8 @@ We  are always on the look out for smart  software engineers  to join our team
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://www.youtube.com/watch?v=p22MM1wc7xQ>`_ |
+`Slides </talks/2019/Dat20.pdf>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
