@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
 <head>
         <meta charset="utf-8" />
@@ -39,20 +39,25 @@
                 </ul></nav>
         </header><!-- /#banner -->
 
-        <div class="content-wrapper" style="position:relative;">
-            <div id="rhssidebar" class="social">
+        <div class="content-wrapper">
+
+            <!-- social sidebar -->
+            <div id="social" class="sidebar">
                 {% if SOCIAL or FEED_ALL_ATOM or FEED_ALL_RSS %}
                 <h2>social</h2>
                 <ul>
                     {% if FEED_ALL_ATOM %}
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
+                           href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a></li>
                     {% endif %}
                     {% if FEED_ALL_RSS %}
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
+                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
+                           href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
                     {% endif %}
 
                     {% for name, link in SOCIAL %}
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;" href="{{ link }}">{{ name }}</a></li>
+                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
+                           href="{{ link }}">{{ name }}</a></li>
                     {% endfor %}
                 </ul>
                 {% endif %}
@@ -66,8 +71,34 @@
                     </ul>
                 </div><!-- /.blogroll -->
                 {% endif %}
-            </div><!-- /.social -->
-            <div class="sidebar">
+            </div><!-- /social sidebar-->
+
+            <!-- Center section with main content and announcement sticky -->
+            <div class="main-content">
+                {% block content %}
+                {% endblock %}
+            </div>
+
+            <!-- Turn off for now until I get the main CSS right
+            <div class="announcement-wrapper">
+                <div class="announce">
+                    <h3>Announcements</h3>
+                    {% if ANNOUNCEMENT_LINKS %}
+                    {% for company, jd, mto, name in ANNOUNCEMENT_LINKS %}
+                        <div>{{ company }}<br/>{{ jd}} <br/><br/>
+                        <div style="width:10%">contact</div>
+                        <div style="width:80%"><a href="mailto:{{ mto }}">{{ name }}</a></div>
+                        </div>
+                    {% endfor %}
+                    {% else %}
+                    <p>No Announcements!</p>
+                    {% endif %}
+                </div>
+            </div>
+            -->
+
+            <!-- The sponsor sidebar -->
+            <div id="sponsor" class="sidebar">
                 <h2>Conferences</h2>
                 {% if CONFERENCE_LINKS %}
                 <ul>
@@ -94,36 +125,19 @@
                 {% else %}
                 {% endif %}
                 <div class="sponsor-logo">
-                    <a href="http://shop.oreilly.com"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/oreilly_discount.gif" /></a>
+                  <a href="http://shop.oreilly.com">
+                    <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/oreilly_discount.gif" />
+                  </a>
                 </div>
                 <address id="about" class="vcard body" style="width:100%;">
-                    Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                  Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                  which takes great advantage of <a href="http://python.org">Python</a>.
                 </address><!-- /#about -->
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+            </div> <!-- /sponsor sidebar -->
 
-            </div>
-            <div class="main-content">
-                {% block content %}
-                {% endblock %}
-            </div>
+        </div><!-- content wrapper -->
 
-        </div>
 
-        <div class="announcement-wrapper">
-            <div class="announce">
-                <h3>Announcements</h3>
-                {% if ANNOUNCEMENT_LINKS %}
-                {% for company, jd, mto, name in ANNOUNCEMENT_LINKS %}
-                    <div>{{ company }}<br/>{{ jd}} <br/><br/>
-                    <div style="width:10%">contact</div>
-                    <div style="width:80%"><a href="mailto:{{ mto }}">{{ name }}</a></div>
-                    </div>
-                {% endfor %}
-                {% else %}
-                <p>No Announcements!</p>
-                {% endif %}
-            </div>
-        </div>
 {% include 'analytics.html' %}
 {% include 'piwik.html' %}
 {% include 'disqus_script.html' %}
