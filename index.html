@@ -105,10 +105,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="./Oct-2019.html">Oct 16th, 2019: D at 20 : Hits and&nbsp;Misses</a></h1>
+                    <h1 class="entry-title"><a href="./Nov-2019.html">Nov 20th, 2019: A Unifying Abstraction for Async in&nbsp;C++</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2019-09-22T00:00:00-07:00">
-                Published: Sun 22 September 2019
+        <abbr class="published" title="2019-10-26T00:00:00-07:00">
+                Published: Sat 26 October 2019
         </abbr>
 
         <address class="vcard author">
@@ -119,7 +119,7 @@
 </footer><!-- /.post-info --><div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line">Oct 16th, 2019 at 7:30 <span class="caps">PM</span></div>
+<div class="line">Nov 20th, 2019 at 7:00 <span class="caps">PM</span></div>
 <div class="line">Room 1083, Building 30,
 <a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942">Map to building 30</a>,</div>
 <div class="line">Microsoft Campus,</div>
@@ -129,31 +129,25 @@
 </div>
 <div class="section" id="title">
 <h2>Title</h2>
-<p>D at 20 : Hits and&nbsp;Misses</p>
+<p>A Unifying Abstraction for Async in&nbsp;C++</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Work began on the D programming language 20 years ago. A huge part of
-language design is looking at the past for what worked and what
-didn&#8217;t, and divining future trajectories so the language can be where
-the ball lands. D has its share of strikes and home runs. I&#8217;ll
-be talking about a few of each, and lessons learned the hard way.
-I&#8217;ll pontificate a bit about where programming languages and D are&nbsp;headed.</p>
+<p>Async in C++ is in a sad state. The standard tools &#8212; promises, futures, threads, locks, and std::async &#8212; are either inefficient, broken, or both. Even worse, there is no standard way to say _where_ work should happen. Parallel algorithms, heterogeneous computing, networking <span class="amp">&amp;</span> <span class="caps">IO</span>, reactive streams, and more: all critically important foundational technologies that await a standard abstraction for asynchronous&nbsp;computation.</p>
+<p>In this talk, Eric Niebler digs into the Standard Committee&#8217;s search for the basis operations that underpin all asynchronous computation: the long-sought Executor concept. The latest iteration of Executors is based on the Sender/Receiver programming model, which provides a generalization of many existing paradigms in asynchronous programming, including future/promise, message passing, continuation passing, channels, and the observer pattern from reactive programming. It also has surprising and deep connections to coroutines, which further demonstrates the model’s potential to be a truly unifying abstraction for asynchronous programming in C++20 and&nbsp;beyond.</p>
+<p>Eric will present the short-term and long-term directions for Executors in <span class="caps">ISO</span> Standard C++, illustrating the design by walking through several implementation examples. They will talk about the direct connection between coroutines and the Sender/Receiver model and discuss what it means for the future of asynchronous APIs in C++. Finally, he will cover how the restrictions imposed by the Executors model should affect the way you write code today so your code is ready for the next big revolution in parallel and concurrent C++&nbsp;programming.</p>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
-<p>Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages. He&#8217;s an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines and runtime libraries. Walter regularly writes articles about compilers and programming, is known for
-engaging and informative presentations, and provides training in compiler development techniques. Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 30 years after its&nbsp;debut.</p>
+<p>Eric Niebler has been doing C++ professionally for the past 20 years, first for Microsoft, then as an independent consultant. He spent several years bringing Ranges to the Standard Library, in part with the generous help of the Standard C++ Foundation. Today, He is working at Facebook searching for the foundational abstractions of asynchronous programming. Ask him about the future of the Standard Library or about range-v3 or about executors and&nbsp;sender/receiver.</p>
 </div>
 <div class="section" id="a-word-from-our-sponsor">
 <h2>A Word From Our&nbsp;Sponsor</h2>
-<p>Zensa a mobile transformation company enabling business productivity for mid-size enterprises (250-10,000 employees). We develop line of business apps to support key business processes in order to enhance productivity, business to employee (<span class="caps">B2E</span>) engagement, revenue, etc., across mobile platforms. We are Microsoft and Amazon Certified partner and work closely with facebook as well.
-We  are always on the look out for smart  software engineers  to join our&nbsp;team</p>
+<p>Coming&nbsp;Soon</p>
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="https://www.youtube.com/watch?v=p22MM1wc7xQ">Video</a> |
-<a class="reference external" href="/talks/2019/Dat20.pdf">Slides</a></p>
+<p>Coming&nbsp;Soon</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -172,6 +166,46 @@ We  are always on the look out for smart  software engineers  to join our&nbsp;t
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="./Oct-2019.html" rel="bookmark"
+                           title="Permalink to Oct 16th, 2019: D at 20 : Hits and Misses">Oct 16th, 2019: D at 20 : Hits and&nbsp;Misses</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2019-09-22T00:00:00-07:00">
+                Published: Sun 22 September 2019
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="./category/2019.html">2019</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">Oct 16th, 2019 at 7:30 <span class="caps">PM</span></div>
+<div class="line">Room 1083, Building 30,
+<a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942">Map to building 30</a>,</div>
+<div class="line">Microsoft Campus,</div>
+<div class="line">156th Ave <span class="caps">NE</span>,</div>
+<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
+</div>
+</div>
+<div class="section" id="title">
+<h2>Title</h2>
+<p>D at 20 : Hits and&nbsp;Misses</p>
+</div>
+<div class="section" id="abstract">
+<h2>Abstract</h2>
+<p>Work began on the D programming language 20 years ago. A huge part of
+language design ...</p></div>
+                <a class="readmore" href="./Oct-2019.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -528,46 +562,6 @@ at 6:<span class="caps">15PM ...</span></p></div>
 <div class="section" id="abstract">
 <h2>Abstract ...</h2></div>
                 <a class="readmore" href="./november-2018.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="./october-2018.html" rel="bookmark"
-                           title="Permalink to October 17th, 2018: Avoiding Code Smells">October 17th, 2018: Avoiding Code&nbsp;Smells</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-10-02T00:00:00-07:00">
-                Published: Tue 02 October 2018
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
-        </address>
-<p>In <a href="./category/2018.html">2018</a>. </p>
-
-</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
-<h2>Time and&nbsp;Location</h2>
-<div class="line-block">
-<div class="line">October 17th, 2018 at 7:00 <span class="caps">PM</span></div>
-<div class="line">Room 1083, Building 30,
-<a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942">Map to building 30</a>,</div>
-<div class="line">Microsoft Campus,</div>
-<div class="line">156th Ave <span class="caps">NE</span>,</div>
-<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
-</div>
-</div>
-<div class="section" id="title">
-<h2>Title</h2>
-<p>Avoiding Code&nbsp;Smells</p>
-</div>
-<div class="section" id="abstract">
-<h2>Abstract</h2>
-<p>I&#8217;ve been writing code for over 40 years. One thing that comes with
-experience is one develops a ...</p></div>
-                <a class="readmore" href="./october-2018.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
             </ol><!-- /#posts-list -->
