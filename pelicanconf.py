@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+# TODO: Remove before checkin
+LOAD_CONTENT_CACHE = False
+
 AUTHOR = u'nwcpp'
 SITENAME = u"Northwest C++ Users’ Group"
 SITEURL = 'http://nwcpp.org'

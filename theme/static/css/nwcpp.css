@@ -18,7 +18,7 @@
 /* Contains sidebars and main content and announcement */
 .content-wrapper {
     display: flex;
-    margin: 0 auto;
+    margin: 0 0;
 }
 
 /* Attributes common to both left and right sidebars */
