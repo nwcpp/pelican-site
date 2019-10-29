@@ -80,24 +80,6 @@
                 {% endblock %}
             </div>
 
-            <!-- Turn off for now until I get the main CSS right
-            <div class="announcement-wrapper">
-                <div class="announce">
-                    <h3>Announcements</h3>
-                    {% if ANNOUNCEMENT_LINKS %}
-                    {% for company, jd, mto, name in ANNOUNCEMENT_LINKS %}
-                        <div>{{ company }}<br/>{{ jd}} <br/><br/>
-                        <div style="width:10%">contact</div>
-                        <div style="width:80%"><a href="mailto:{{ mto }}">{{ name }}</a></div>
-                        </div>
-                    {% endfor %}
-                    {% else %}
-                    <p>No Announcements!</p>
-                    {% endif %}
-                </div>
-            </div>
-            -->
-
             <!-- The sponsor sidebar -->
             <div id="sponsor" class="sidebar">
                 <h2>Conferences</h2>
@@ -137,6 +119,24 @@
             </div> <!-- /sponsor sidebar -->
 
         </div><!-- content wrapper -->
+
+        <div class="announcement-wrapper">
+            <div class="announce">
+                <h3>Announcements</h3>
+                {% if ANNOUNCEMENT_LINKS %}
+                {% for company, jd, mto, name in ANNOUNCEMENT_LINKS %}
+                    <div>{{ company }}<br/>{{ jd}} <br/><br/>
+                    <div style="width:10%">contact</div>
+                    <div style="width:80%"><a href="mailto:{{ mto }}">{{ name }}</a></div>
+                    </div>
+                {% endfor %}
+                {% else %}
+                <p>No Announcements!</p>
+                {% endif %}
+            </div>
+        </div>
+
+
 
 
 {% include 'analytics.html' %}
