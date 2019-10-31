@@ -27,7 +27,7 @@ LINKS =  ((u'Standard C++ Foundation', 'http://isocpp.org/'),
          )
 
 # Social widget
-SOCIAL = ((u'Announcements List', 'http://groups.google.com/group/NwcppAnnounce'),
+SOCIAL = ((u'Announcements', 'http://groups.google.com/group/NwcppAnnounce'),
           (u'Volunteers List', 'http://groups.google.com/group/nwcpp-volunteers'),
           (u'Twitter', 'https://twitter.com/nwcpp'),
           (u'Facebook', 'https://www.facebook.com/groups/344125680930/'),
