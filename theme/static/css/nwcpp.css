@@ -51,7 +51,7 @@
 /* Attributes common to both left and right sidebars */
 .sidebar {
     /* See https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for how flex works */
-    flex: 0 1 20%;
+    flex: 1 1 15%;
     border-radius: 10px;
     background: #fff;
     margin: 0em 2em 2em 2em;
@@ -82,7 +82,7 @@
 
 /* Body with the meeting details */
 .main-content {
-    flex: 1 1 auto;
+    flex: 3 1 auto;
     margin: auto;
     padding: 10px 0px 10px 20px;
     overflow-y: auto;
