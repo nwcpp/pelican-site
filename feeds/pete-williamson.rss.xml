@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><atom:link href="http://nwcpp.org/feeds/pete-williamson.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 29 Jan 2018 00:00:00 -0800</lastBuildDate><item><title>February 21st, 2018: Chapel’s Muiltiresolution Programming Model</title><link>http://nwcpp.org/february-2018.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+<rss version="2.0"><channel><title>Northwest C++ Users’ Group - Pete Williamson</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Mon, 29 Jan 2018 00:00:00 -0800</lastBuildDate><item><title>February 21st, 2018: Chapel’s Muiltiresolution Programming Model</title><link>http://nwcpp.org/february-2018.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 21st, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -17,34 +17,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Chapel (&lt;a class="reference external" href="http://chapel.cray.com"&gt;http://chapel.cray.com&lt;/a&gt;) is an open-source language for general parallel computing at scale whose design and development are being led by Cray Inc.  Chapel is designed for portability and can be run on laptops, commodity clusters, and the cloud, in addition to supercomputers from Cray and other vendors.  As a productive parallel language, Chapel has support for data and task parallelism, data-centric synchronization, distributed memory execution, type inference, iterator functions, generic programming, meta-programming,   and &lt;span class="caps"&gt;OOP&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;In my last Northwest C++ Users&amp;#8217; Group talk (Oct 2016), I provided a general overview of Chapel&amp;#8217;s philosophy and features.  In this talk, I&amp;#8217;ll start with a brief introduction to Chapel for those who are new, and then dive a bit deeper into some of Chapel&amp;#8217;s features that relate to C++ and how we use them to permit programmers to specify distributed array implementations within the language itself. This is what we refer to Chapel&amp;#8217;s multiresolution programming model, in which high-level concepts can be implemented at lower levels of the language.  I&amp;#8217;ll also provide a snapshot of recent Chapel performance and scalability&amp;nbsp;results.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="speaker-bio"&gt;
-&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;Bradford Chamberlain is a Principal Engineer at Cray Inc. where he works on parallel programming models, focusing primarily on the design and implementation of the Chapel language in his role as technical lead for that project. Brad received his Ph.D. in Computer Science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Engineering from the University of Washington in 2001 where he focused on the design and implementation of the &lt;span class="caps"&gt;ZPL&lt;/span&gt; parallel array language. In the past, he has also worked on languages for embedded reconfigurable processors and on algorithms for accelerating the rendering of complex 3D scenes. Brad remains associated with the University of Washington as an affiliate faculty member. He received his Bachelor’s degree in Computer Science with honors from Stanford University in&amp;nbsp;1992.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-word-from-our-sponsor"&gt;
-&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Akvelon provides superior &lt;span class="caps"&gt;IT&lt;/span&gt; project support and software development solutions specializing in applying cutting-edge technology to problems in fields as diverse as mobile technology, finance, and healthcare. With over five hundred employees at seven offices worldwide, Akvelon is rapidly growing. Our firm is a global network of offices led by our partnership group. We have years of experience helping clients on a global scale drive innovation, productivity, and business&amp;nbsp;performance.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=RmCT2bmENcU"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/talks/2018/ChapelForNWCPP2018-presented.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Mon, 29 Jan 2018 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2018-01-29:february-2018.html</guid></item><item><title>January 17th, 2018: Source Dependency Management</title><link>http://nwcpp.org/january-2018.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;p&gt;Chapel (&lt;a class="reference external" href="http://chapel.cray.com"&gt;http …&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Mon, 29 Jan 2018 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2018-01-29:/february-2018.html</guid></item><item><title>January 17th, 2018: Source Dependency Management</title><link>http://nwcpp.org/january-2018.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 17th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -62,41 +35,7 @@
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;I&amp;#8217;m careful to use the term &amp;quot;Dependency Management&amp;quot; to describe this discussion as a generalized topic. I will outline my experience managing the software dependencies in my latest C# project, a RESTful web &lt;span class="caps"&gt;API&lt;/span&gt;. I&amp;#8217;ll cover software development goals such as &lt;span class="caps"&gt;SOLID&lt;/span&gt; and &lt;span class="caps"&gt;DRY&lt;/span&gt; principles, designing adaptable software components, testing, publishing and executing software in various&amp;nbsp;environments.&lt;/p&gt;
-&lt;p&gt;I&amp;#8217;ll discuss &amp;quot;Dependency Injectability&amp;quot; patterns that help concrete implementations fulfill the goals mentioned above. And I&amp;#8217;ll discuss the various forms of &amp;quot;Dependency Injection&amp;quot; from &amp;quot;Pure &lt;span class="caps"&gt;DI&lt;/span&gt;&amp;quot;, which is just another pattern and does not require a supporting library, to the complicated and controversial world of &amp;quot;Dependency Injection Containers&amp;quot;, which do. I hope to touch on a number of patterns, anti-patterns and a few patterns in&amp;nbsp;between.&lt;/p&gt;
-&lt;p&gt;Finally, I hope to take a tour of some &lt;span class="caps"&gt;DI&lt;/span&gt; Container libraries in C# (Unity, Autofac), C++ (boost::di) and D&amp;nbsp;(poodinis).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="speaker-bio"&gt;
-&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;Michael&amp;nbsp;Jones&lt;/p&gt;
-&lt;p&gt;Michael Jones has 17 years of experience coding in languages such as C++, C#, Groovy, and Python. He&amp;#8217;s worked at Midway Games in Chicago, Cranky Pants Games in Kirkland, YouTube at Google in Mountain View, Xbox and Azure locally at Microsoft. He&amp;#8217;s interested in cool code, and has recently integrated dependency injection techniques into his programming practices. Mike&amp;#8217;s currently working on the Azure Identity services at Microsoft and has been programming exclusively in C# for a few years now. He enjoys the recent pace of modern language design across many&amp;nbsp;languages.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-word-from-our-sponsor"&gt;
-&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Please thank VerticalMove for sponsoring our pizza this&amp;nbsp;month!!&lt;/p&gt;
-&lt;p&gt;Verticalmove is a respected Staffing and &lt;span class="caps"&gt;IT&lt;/span&gt; services company with more than fifteen years of proven experience building out core product engineering teams for enterprise and start-up organizations throughout the Pacific Northwest, Norther California, Austin and the East&amp;nbsp;Coast.&lt;/p&gt;
-&lt;p&gt;At Verticalmove we are proud to defy the industry-standard every day by building lasting relationships with everyone that we come in contact with. We also set ourselves apart by taking the time to understand the technology and trends of the industry to keep pace with the brilliant minds that we converse with on a daily&amp;nbsp;basis.&lt;/p&gt;
-&lt;p&gt;It hasn’t been an easy, but over the years we’ve won the hearts of respected software companies such as Facebook, Zillow, Salesforce.com, and Expedia just to name a few, and of course the names of our smaller early-stage clients are top&amp;nbsp;secret.&lt;/p&gt;
-&lt;p&gt;For a list of open positions, please visit: &lt;a class="reference external" href="http://verticalmove.force.com/careers/"&gt;http://verticalmove.force.com/careers/&lt;/a&gt;
-Or for more general information please visit &lt;a class="reference external" href="http://verticalmove.com"&gt;http://verticalmove.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://youtu.be/--edwPyvywg"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/talks/2018/DependencyManagement.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Thu, 28 Dec 2017 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2017-12-28:january-2018.html</guid></item><item><title>November 14th, 2017: C++ Terminology</title><link>http://nwcpp.org/november-2017.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;p&gt;I&amp;#8217;m careful to use the term &amp;#8220;Dependency Management&amp;#8221; to describe …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Thu, 28 Dec 2017 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2017-12-28:/january-2018.html</guid></item><item><title>November 14th, 2017: C++ Terminology</title><link>http://nwcpp.org/november-2017.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 15th, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -114,35 +53,7 @@ Or for more general information please visit &lt;a class="reference external" hr
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;A good refresher on the basics of some of the terms used in C++ that may help beginners to write higher performant code.
-The refresher will take a deep dive into compiler optimization, assembly generated code and computer architecture.
-At first, the presentation will discuss some keywords and then move towards other terms that are used when discussing an application from the developers code down to the computer&amp;nbsp;architecture.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="speaker-bio"&gt;
-&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;Brett&amp;nbsp;Searles&lt;/p&gt;
-&lt;p&gt;Currently working in the &lt;span class="caps"&gt;AR&lt;/span&gt;/&lt;span class="caps"&gt;VR&lt;/span&gt; field for mobile applications. Loves to work in embedded and low level circuitry design. Very active in the C++ community with volunteering for &lt;span class="caps"&gt;NWCPP&lt;/span&gt;, CppCon and trying to get a hackathon started for college age&amp;nbsp;students.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-word-from-our-sponsor"&gt;
-&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;&lt;span class="caps"&gt;AIM&lt;/span&gt; Consulting combines technical expertise with an understanding of business goals to solve your toughest challenges. We know technology and can help you design for the user experience, build innovative software, leverage data for actionable insights, implement modern processes and tools, and maintain critical applications and systems. Our engagement model is designed with flexibility in mind for long-term partnerships. From strategy and implementation to sustained services, we provide technology consultants in custom configurations to fit your priorities and scale over the lifecycle of your&amp;nbsp;solutions.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&amp;lt;Since this turned into a free-form discussion, there was no video&amp;nbsp;made&amp;gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Sun, 05 Nov 2017 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2017-11-05:november-2017.html</guid></item><item><title>October 18th 2017: Coordinate Transformation in Three dimensions</title><link>http://nwcpp.org/october-2017.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;p&gt;A good refresher on the basics of some of the terms used in …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Sun, 05 Nov 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2017-11-05:/november-2017.html</guid></item><item><title>October 18th 2017: Coordinate Transformation in Three dimensions</title><link>http://nwcpp.org/october-2017.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 18, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -158,82 +69,13 @@ At first, the presentation will discuss some keywords and then move towards othe
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is to follow a vehicle on the ground and report back the position and velocity of that vehicle. A camera operator (or computer) controls the camera mount to keep the vehicle&amp;#8217;s image in the camera&amp;#8217;s view, while the pilot (or computer) flies the airplane and an analyst (or computer) identifies and locates the target vehicle in the&amp;nbsp;image.&lt;/p&gt;
-&lt;p&gt;Where is the target vehicle&amp;nbsp;now?&lt;/p&gt;
-&lt;p&gt;Time-varying inputs include the location and orientation of the airplane, three rotation angles from the camera mount, and the X and Y locations of the vehicle in the camera&amp;#8217;s image. Fixed inputs include location and orientation of the camera mount on the airplane and a map of ground&amp;nbsp;elevation.&lt;/p&gt;
-&lt;p&gt;All parts of this problem, from navigation to control to image interpretation to reporting the results, depend on transforming information from one coordinate system to another. In particular, the image location on the screen (pixel row and column) somehow gets transformed, in several steps, into the inferred location of the target vehicle on the ground (latitude, longitude, and elevation). In a simulation, you would do the same thing in reverse, from a simulated 3D track to its appearance on a screen. Correctly and&amp;nbsp;efficiently.&lt;/p&gt;
-&lt;p&gt;Computer applications of 3D coordinate transformations include image interpretation, guidance, control, games, simulations for teaching, simulations for testing sensor ideas, and&amp;nbsp;more.&lt;/p&gt;
-&lt;p&gt;A lot of the talk will involve hand waving and manipulation of physical models. There will be mathematics (quaternions will be mentioned) and efficient C++ software will be described. But mostly it&amp;#8217;s about how to think about this broad class of computational&amp;nbsp;problems.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="speaker-bio"&gt;
-&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;Robert Goddard
-Principal Physicist, Retired (but still active)
-University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
-&lt;p&gt;Robert Goddard is a physicist and software developer. He recently retired (sort of) after 37 years at the Applied Physics Laboratory of the University of Washington, mainly on computer modeling of underwater sound. He is still the architect and team leader for the Sonar Simulation Toolset (&lt;span class="caps"&gt;SST&lt;/span&gt;), which produces simulated underwater sound, suitable as input to sophisticated signal processing systems (including human ears and brains), based on user-specified descriptions of the undersea environment, the listening system, and the sound sources and reflectors placed in this simulated ocean. He has also developed systems for control of measurement devices, data analysis, visualization, modeling of quantum mechanical scattering, and using data to infer model&amp;nbsp;parameters.&lt;/p&gt;
-&lt;p&gt;Bob has been an active participant in the Northwest C++ Users Group for most of its existence, and is currently&amp;nbsp;Treasurer.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-word-from-our-sponsor"&gt;
-&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Smartsheet Inc. is the $850mm startup you’ve never heard of. We build a SaaS tool that looks like a spreadsheet and is used, among other things, to manage projects of all sizes, including opening data centers, rebuilding hospitals, and major motion&amp;nbsp;pictures.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://youtu.be/b2qOg7z763o"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/talks/2017/CoordXform.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Thu, 05 Oct 2017 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2017-10-05:october-2017.html</guid></item><item><title>Meetings in September</title><link>http://nwcpp.org/sep-2017.html</link><description>&lt;div class="section" id="upcoming-meetings"&gt;
+&lt;p&gt;Consider: A camera is attached to an airplane via a three-axis rotating mount. The mission is …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Thu, 05 Oct 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2017-10-05:/october-2017.html</guid></item><item><title>Meetings in September</title><link>http://nwcpp.org/sep-2017.html</link><description>&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
 &lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="featured-events-at-cppcon"&gt;
-&lt;h2&gt;Featured Events at&amp;nbsp;CppCon&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Tuesday at 8:30 &lt;span class="caps"&gt;PM&lt;/span&gt;: Mixing Managed and Unmanaged Code and Targeting Cross Platform Distributions&lt;/strong&gt; by Brett Searles and Kenny Kerr
-Even though we love C++, we don’t live in a C++-only world. In this session, you will be given the opportunity to ask questions about the best way to build applications in C++, yet also make them accessible to clients who use managed code. There will also be experts to answer questions about best practices for building C++ so it may be utilized efficiently in a cross-platform&amp;nbsp;environment.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wednesday at 8:30 &lt;span class="caps"&gt;PM&lt;/span&gt;:  Optimizing Code Speed and Space with Build Time Switches&lt;/strong&gt; by Brett Searles, Chandler Carruth, and Jim Radigan
-Our compilers and linkers are powerful tools and like many power tools, mastery means understanding the settings. Come join compiler experts to get your questions answered on how to get the best from your code whether you are building for speed or&amp;nbsp;space.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Thursday 8:30 &lt;span class="caps"&gt;PM&lt;/span&gt;: C++ in the Internet of Things&lt;/strong&gt; by Brett Searles and Lloyd Moore
-C++ has not always been the first language choice to use in embedded environments, but with the advent of modern C++, its use has been on the rise. Developing for embedded environments generally and the Internet of Things (IoT) specifically, presents challenges for which modern C++ offers a unique tool set. Come ask the experts on how they view C++ in this space and how to use modern C++ to get the best performance possible to meet the demands of&amp;nbsp;IoT.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Friday 4:45 &lt;span class="caps"&gt;PM&lt;/span&gt; to 5:45 &lt;span class="caps"&gt;PM&lt;/span&gt;: Building for the Best of us: Design and Development with Kids in Mind&lt;/strong&gt;, Sara Chipps &lt;span class="caps"&gt;CEO&lt;/span&gt; of Jewelbots (&lt;a class="reference external" href="https://cppcon2017.sched.com/event/Bkep"&gt;https://cppcon2017.sched.com/event/Bkep&lt;/a&gt;)
-Jewelbots!
-Sarah Chipps will be talking about Jewelbots at CppCon.  Jewelbots are a great way to get
-kids (especially young ladies) into programming (in C++!).
-&lt;a class="reference external" href="https://cppcon.org/jewelbots-announce-2017/"&gt;https://cppcon.org/jewelbots-announce-2017/&lt;/a&gt;
-Coming to see her is free.  You can optionally reserve a Jewelbot for the workshop for $10
-There will be food trucks nearby at GameOn Bellevue
-Parking for the event is free at the Meydenbauer on Fri after&amp;nbsp;3pm.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;Optimizing Code Speed and Spade with Build Time Switches Panel
-&lt;a class="reference external" href="https://www.youtube.com/attribution_link?a=n0SFbCDb71zCedy1&amp;amp;u=/watch%3Fv%3D9RFYVbHRoLg%26feature%3Dem-upload_owner"&gt;https://www.youtube.com/attribution_link?a=n0SFbCDb71zCedy1&amp;amp;u=/watch%3Fv%3D9RFYVbHRoLg%26feature%3Dem-upload_owner&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Internet of Things Panel
-&lt;a class="reference external" href="https://www.youtube.com/attribution_link?a=sBfkW6xhbtpa6_Ip&amp;amp;u=/watch%3Fv%3DgmW6b0I_t5k%26feature%3Dem-upload_owner"&gt;https://www.youtube.com/attribution_link?a=sBfkW6xhbtpa6_Ip&amp;amp;u=/watch%3Fv%3DgmW6b0I_t5k%26feature%3Dem-upload_owner&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Tue, 05 Sep 2017 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2017-09-05:sep-2017.html</guid></item><item><title>Meetings in September</title><link>http://nwcpp.org/aug-2017.html</link><description>&lt;div class="section" id="upcoming-meetings"&gt;
+&lt;h2&gt;Featured …&lt;/h2&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Tue, 05 Sep 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2017-09-05:/sep-2017.html</guid></item><item><title>Meetings in September</title><link>http://nwcpp.org/aug-2017.html</link><description>&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our next meeting will be in September, stay&amp;nbsp;tuned!&lt;/p&gt;
 &lt;p&gt;Also, we will be hosting 3 CppCon panels during the month of September between Sep 23 and Sep&amp;nbsp;29&lt;/p&gt;
@@ -246,12 +88,4 @@ Parking for the event is free at the Meydenbauer on Fri after&amp;nbsp;3pm.&lt;/
 &lt;div class="section" id="digital-media-links"&gt;
 &lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Sat, 26 Aug 2017 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2017-08-26:aug-2017.html</guid></item></channel></rss>
+&lt;li&gt;Sign up …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pete Williamson</dc:creator><pubDate>Sat, 26 Aug 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2017-08-26:/aug-2017.html</guid></item></channel></rss>

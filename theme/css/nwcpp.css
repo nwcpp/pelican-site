@@ -1,5 +1,32 @@
 @import url("main.css");
 
+/* Layout - This is what the css is trying to achieve
+|--------------------------------------------------------------------------|
+|  Logo Title (Northwest C++ User's Group)                                 |
+|--------------------------------------------------------------------------|
+|                          Navbar (centered)                               |
+|                          (hidden misc item)                              |
+|--------------------------------------------------------------------------|
+|    <br/> to make sure we don't put content on same line as misc          |
+|--------------------------------------------------------------------------|
+|   Flexbox - left to right                                            |-| |
+| |------------------------------ content-wrapper -------------------| | | |
+| | |---------| |-------------------------------------| |----------| | | | |
+| | | Left    | |  featured article                   | | Right    | | | | |
+| | | Sidebar | |-------------------------------------| | Sidebar  | | | | |
+| | |         | |                                     | |          | | | | |
+| | | social  | | older articles                      | | Conf     | | | | |
+| | |         | |                                     | |          | | | | |
+| | | blogroll| |                                     | | sponsors | | | | |
+| | |---------| |-------------------------------------| |----------| | | | |
+| |------------------------------------------------------------------| |-| |
+|--------------------------------------------------------------------------|
+| |----------------------------------------------------------------------| |
+| |   Announcement (sticky to bottom)                                    | |
+| |----------------------------------------------------------------------| |
+|--------------------------------------------------------------------------|
+*/
+
 /* Main Nav Banner */
 #banner nav {
     height: 80px;
@@ -15,20 +42,20 @@
   /*float: right;*/
 }
 
+/* Contains sidebars and main content and announcement */
 .content-wrapper {
-    width: 1200px;
-    margin: 0 auto;
+    display: flex;
+    margin: 0 0;
 }
 
+/* Attributes common to both left and right sidebars */
 .sidebar {
+    /* See https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for how flex works */
+    flex: 0 0 20%;
     border-radius: 10px;
     background: #fff;
-    margin-bottom: 2em;
+    margin: 0em 2em 2em 2em;
     padding: 5px;
-    left:85%;
-    position:absolute;
-    top: 0px;
-    width:15%;
 }
 
 .sidebar h2 {
@@ -45,73 +72,6 @@
     object-position:left;
 }
 
-.main-content {
-    width: 68%;
-    margin: auto;
-    padding: 10px 0px 10px 20px;
-    position: absolute;
-    left: 15%;
-    height: 65vh;
-    overflow-y: auto;
-}
-
-@media only screen and (max-height: 800px) {
-    .main-content {
-        height: 50vh;
-    }
-}
-
-@media only screen and (max-height: 600px) {
-    .main-content {
-        height: 35vh;
-    }
-}
-
-.announcement-wrapper {
-    width: 1200px;
-    margin: 0 auto;
-    padding-bottom: 10px;
-}
-
-.announce {
-    width: 61%;
-    margin: 0 auto;
-    height: 150px;
-    bottom: -100px;
-    position: absolute;
-    left: 30%;
-    overflow-y:auto;
-}
-
-    .announce h3 {
-        text-decoration: underline;
-        margin-top: 0px;
-    }
-
-@media only screen and (max-width: 1400px) {
-    .announce {
-        left: 20%;
-    }
-}
-
-@media only screen and (max-width: 800px) {
-    .announce {
-        left: 33%;
-    }
-}
-
-@media only screen and (max-width: 500px) {
-    .announcement-wrapper {
-        display: none;
-    }
-}
-
-@media only screen and (max-height: 500px) {
-    .announcement-wrapper {
-        display: none;
-    }
-}
-
 .sponsor-logo img {
     margin-left: auto;
     margin-right: auto;
@@ -120,29 +80,67 @@
     margin-top: 3em;
 }
 
-    #rhssidebar {
-        float: left;
-        width: 15%;
-        position: absolute;
-        left: 0px;
-        top: 0px;
+/* Body with the meeting details */
+.main-content {
+    flex: 1 1 auto;
+    margin: auto;
+    padding: 10px 0px 10px 20px;
+    overflow-y: auto;
+}
+
+.announcement-wrapper {
+    position: sticky;
+    bottom: 0;
+    margin: 10px;
+}
+
+/* We can put paid sponsor job announcements in .announce */
+.announce {
+    padding: 10px;
+    height: 150px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    overflow-y:auto;
+    background-color: white;
+}
+
+.announce h3 {
+    text-decoration: underline;
+    /* margin-top: 0px; */
+}
+
+/* Turn off the announcement if we have either a short or narrow screen */
+@media only screen and (max-width: 500px) {
+    .announcement-wrapper {
+        display: none;
     }
-
-        #rhssidebar a:hover, #rhssidebar a:active {
-            color: #fff;
-        }
-
-        /* Social */
-        #rhssidebar .social {
-            float: right;
-        }
-
-    .social_links {
-        background-repeat: no-repeat;
-        padding-left: 25px;
+}
+@media only screen and (max-height: 500px) {
+    .announcement-wrapper {
+        display: none;
     }
+}
 
-    .blogroll {
-        padding-top: 20px;
-    }
+/* Overrides for the social sidebar
+#social {
+}
+
+#social a:hover, #social a:active {
+    color: #fff;
+}
+
+/* Overrides for the sponsor sidebar
+#sponsor {
+}
+*/
+
+.social_links {
+    background-repeat: no-repeat;
+    padding-left: 25px;
+}
+
+.blogroll {
+    padding-top: 20px;
+}
 
