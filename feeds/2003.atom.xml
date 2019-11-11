@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2003</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2003.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2003-12-31T00:00:00-08:00</updated><entry><title>2003</title><link href="http://nwcpp.org/2003-summary.html" rel="alternate"></link><published>2003-12-31T00:00:00-08:00</published><updated>2003-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2003-12-31:/2003-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2003.html"&gt;January 8th, 2003 — Unit Testing — Asim&amp;nbsp;Jalis&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2003.html"&gt;February 12th, 2003 — Mojo — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2003.html"&gt;March 12th, 2003 — Resource Management in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2003.html"&gt;April 9th, 2003 — New Features in Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; 2003 — Ed&amp;nbsp;Dudenhoefer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2003.html"&gt;May 14th, 2003 — The Bizarro World of hetero_stack… — Eric&amp;nbsp;Niebler&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2003.html"&gt;June 2003: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2003.html"&gt;July 2003 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2003.html"&gt;January 8th, 2003 — Unit Testing — Asim&amp;nbsp;Jalis&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2003.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2003-12-31T00:00:00-08:00</updated><entry><title>2003</title><link href="http://nwcpp.org/2003-summary.html" rel="alternate"></link><updated>2003-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2003-12-31:2003-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2003.html"&gt;January 8th, 2003 — Unit Testing — Asim&amp;nbsp;Jalis&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2003.html"&gt;February 12th, 2003 — Mojo — Andrei&amp;nbsp;Alexandrescu&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2003.html"&gt;March 12th, 2003 — Resource Management in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2003.html"&gt;April 9th, 2003 — New Features in Visual C++ .&lt;span class="caps"&gt;NET&lt;/span&gt; 2003 — Ed&amp;nbsp;Dudenhoefer&lt;/a&gt;&lt;/p&gt;
@@ -17,7 +11,7 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2003.html"&gt;October 8th, 2003 — Object-Oriented Multithreading in C++ — Bartosz&amp;nbsp;Milewski&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2003.html"&gt;November 10th, 2003 — The Future of C++: A Panel Discussion with the Experts — Andrei Alexandrescu, Scott Meyers, &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2003.html"&gt;December 10th, 2003 — The Future of C++ on .&lt;span class="caps"&gt;NET&lt;/span&gt;: A Tour of C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; — Herb&amp;nbsp;Sutter&lt;/a&gt;&lt;/p&gt;
-</content></entry><entry><title>December 10th, 2003 — The Future of C++ on .NET: A Tour of C++/CLI — Herb Sutter</title><link href="http://nwcpp.org/december-2003.html" rel="alternate"></link><published>2003-12-01T00:00:00-08:00</published><updated>2003-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-12-01:/december-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>December 10th, 2003 — The Future of C++ on .NET: A Tour of C++/CLI — Herb Sutter</title><link href="http://nwcpp.org/december-2003.html" rel="alternate"></link><updated>2003-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-12-01:december-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Microsoft Corporation&lt;/div&gt;
@@ -29,22 +23,9 @@
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;In October 2003, a new &lt;span class="caps"&gt;ECMA&lt;/span&gt; standards committee was formed to create an
-international standard for &amp;#8220;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;,&amp;#8221; a set of C++ extensions for .&lt;span class="caps"&gt;NET&lt;/span&gt;
-programming designed by Microsoft in collaboration with C++ industry …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;Microsoft Corporation&lt;/div&gt;
-&lt;div class="line"&gt;Building 27, Conference Room 1810 (Olympic)&lt;/div&gt;
-&lt;div class="line"&gt;One Microsoft Way&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;In October 2003, a new &lt;span class="caps"&gt;ECMA&lt;/span&gt; standards committee was formed to create an
-international standard for &amp;#8220;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;,&amp;#8221; a set of C++ extensions for .&lt;span class="caps"&gt;NET&lt;/span&gt;
+international standard for &amp;quot;C++/&lt;span class="caps"&gt;CLI&lt;/span&gt;,&amp;quot; a set of C++ extensions for .&lt;span class="caps"&gt;NET&lt;/span&gt;
 programming designed by Microsoft in collaboration with C++ industry
-leaders as a successor to &amp;#8220;Managed C++.&amp;#8221;
+leaders as a successor to &amp;quot;Managed C++.&amp;quot;
 Formally, C++/&lt;span class="caps"&gt;CLI&lt;/span&gt; is a binding between &lt;span class="caps"&gt;ISO&lt;/span&gt; C++ and &lt;span class="caps"&gt;ISO&lt;/span&gt; &lt;span class="caps"&gt;CLI&lt;/span&gt;
 (Common Language Infrastructure, the standardized subset of
 the .&lt;span class="caps"&gt;NET&lt;/span&gt; runtime environment and frameworks class library);
@@ -81,19 +62,7 @@ usual meeting at&amp;nbsp;Avaya.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2003/HerbSutterCLI.pdf"&gt;Click here&lt;/a&gt;
 to download the source code and slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>November 10th, 2003 — The Future of C++: A Panel Discussion with the Experts — Andrei Alexandrescu, Scott Meyers, &amp; Herb Sutter</title><link href="http://nwcpp.org/november-2003.html" rel="alternate"></link><published>2003-11-01T00:00:00-08:00</published><updated>2003-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-11-01:/november-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.overlakehospital.org/conferencecenter/fs.htm"&gt;Overlake Hospital Conference Center&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;1035 116th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Bellevue, Washington, 98004&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Please note that in order to offset some of the costs necessary to host
-this meeting, there will be a &lt;strong&gt;$10 charge to non-&lt;span class="caps"&gt;NWCPP&lt;/span&gt; and non-&lt;span class="caps"&gt;WSA&lt;/span&gt; members&lt;/strong&gt;.
-Membership in the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; is &lt;strong&gt;free&lt;/strong&gt;, and is …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>November 10th, 2003 — The Future of C++: A Panel Discussion with the Experts — Andrei Alexandrescu, Scott Meyers, &amp; Herb Sutter</title><link href="http://nwcpp.org/november-2003.html" rel="alternate"></link><updated>2003-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-11-01:november-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.overlakehospital.org/conferencecenter/fs.htm"&gt;Overlake Hospital Conference Center&lt;/a&gt;&lt;/div&gt;
@@ -155,20 +124,7 @@ for new and current corporate&amp;nbsp;clients.&lt;/p&gt;
 meeting will be held on &lt;strong&gt;Monday&lt;/strong&gt; at the &lt;strong&gt;Overlake Medical Conference
 Center&lt;/strong&gt; rather than our usual Wednesday meeting at&amp;nbsp;Avaya.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>October 8th, 2003 — Object-Oriented Multithreading in C++ — Bartosz Milewski</title><link href="http://nwcpp.org/october-2003.html" rel="alternate"></link><published>2003-10-01T00:00:00-07:00</published><updated>2003-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-10-01:/october-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Traditional procedural approach to thread programming is to create a
-thread and pass it a function to execute. But a function operates on
-data. The data is most likely shared with other threads. In the
-object-oriented world data comes …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>October 8th, 2003 — Object-Oriented Multithreading in C++ — Bartosz Milewski</title><link href="http://nwcpp.org/october-2003.html" rel="alternate"></link><updated>2003-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-10-01:october-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -199,21 +155,7 @@ Code Co-op. He was one of the architects of the Microsoft Index&amp;nbsp;Server.
 &lt;p&gt;&lt;a class="reference external" href="/talks/2003/Bartosz.zip"&gt;Click here&lt;/a&gt;
 to download the source code and slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>September 10th, 2003 — Thread Safe Object—Never Think About Thread Safety Again — David Brownell</title><link href="http://nwcpp.org/september-2003.html" rel="alternate"></link><published>2003-09-01T00:00:00-07:00</published><updated>2003-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-09-01:/september-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Ask any developer, and they will tell you that multithreaded programming is hard.
-Very hard.
-One staple of this difficult style of programming
-is the effective and thorough use of mutexes and critical sections.
-Unfortunately this technique can be …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>September 10th, 2003 — Thread Safe Object—Never Think About Thread Safety Again — David Brownell</title><link href="http://nwcpp.org/september-2003.html" rel="alternate"></link><updated>2003-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-09-01:september-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -249,20 +191,7 @@ the Northwest C++ Users&amp;nbsp;Group.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2003/ThreadSafeObject.zip"&gt;Click here&lt;/a&gt;
 to download the source code and slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>August 2003: No Meeting</title><link href="http://nwcpp.org/august-2003.html" rel="alternate"></link><published>2003-08-01T00:00:00-07:00</published><updated>2003-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-08-01:/august-2003.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>July 2003: No Meeting</title><link href="http://nwcpp.org/july-2003.html" rel="alternate"></link><published>2003-07-01T00:00:00-07:00</published><updated>2003-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-07-01:/july-2003.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>June 2003: No Meeting</title><link href="http://nwcpp.org/june-2003.html" rel="alternate"></link><published>2003-06-01T00:00:00-07:00</published><updated>2003-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-06-01:/june-2003.html</id><summary type="html"></summary><content type="html"></content></entry><entry><title>May 14th, 2003 — The Bizarro World of hetero_stack… — Eric Niebler</title><link href="http://nwcpp.org/may-2003.html" rel="alternate"></link><published>2003-05-01T00:00:00-07:00</published><updated>2003-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-05-01:/may-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;The Bizarro World of hetero_stack, or How I Learned to Stop Worrying
-and Love &lt;span class="caps"&gt;RTTI&lt;/span&gt;, or Alignment, Exceptions and Type-Safety, Oh My! or
-Subverting the C++ Type System for Fun and&amp;nbsp;Profit.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;hetero_stack is a dynamic replacement for the …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>August 2003: No Meeting</title><link href="http://nwcpp.org/august-2003.html" rel="alternate"></link><updated>2003-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-08-01:august-2003.html</id><summary type="html"></summary></entry><entry><title>July 2003: No Meeting</title><link href="http://nwcpp.org/july-2003.html" rel="alternate"></link><updated>2003-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-07-01:july-2003.html</id><summary type="html"></summary></entry><entry><title>June 2003: No Meeting</title><link href="http://nwcpp.org/june-2003.html" rel="alternate"></link><updated>2003-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-06-01:june-2003.html</id><summary type="html"></summary></entry><entry><title>May 14th, 2003 — The Bizarro World of hetero_stack… — Eric Niebler</title><link href="http://nwcpp.org/may-2003.html" rel="alternate"></link><updated>2003-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-05-01:may-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -294,20 +223,7 @@ pattern&amp;nbsp;matching.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2003/Slides200305.ppt"&gt;Click here&lt;/a&gt;
 to download the slides from the&amp;nbsp;presentation&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>April 9th, 2003 — New Features in Visual C++ .NET 2003 — Ed Dudenhoefer</title><link href="http://nwcpp.org/april-2003.html" rel="alternate"></link><published>2003-04-01T00:00:00-08:00</published><updated>2003-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-04-01:/april-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;An overview of the newest version of Visual C++, codenamed Everett.
-New features including the &lt;span class="caps"&gt;IDE&lt;/span&gt;, project system, forms designer, compiler,
-debugger, conformance, security and library improvements are explained
-or demonstrated. Tips and possible breaking changes will also be …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>April 9th, 2003 — New Features in Visual C++ .NET 2003 — Ed Dudenhoefer</title><link href="http://nwcpp.org/april-2003.html" rel="alternate"></link><updated>2003-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-04-01:april-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -328,7 +244,7 @@ or demonstrated. Tips and possible breaking changes will also be&amp;nbsp;noted.
 He is responsible for internal and external C++ developer community support
 and product&amp;nbsp;adoption.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>March 12th, 2003 — Resource Management in C++ — Bartosz Milewski</title><link href="http://nwcpp.org/march-2003.html" rel="alternate"></link><published>2003-03-01T00:00:00-08:00</published><updated>2003-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-03-01:/march-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>March 12th, 2003 — Resource Management in C++ — Bartosz Milewski</title><link href="http://nwcpp.org/march-2003.html" rel="alternate"></link><updated>2003-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-03-01:march-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -338,20 +254,7 @@ and product&amp;nbsp;adoption.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Everybody knows the adage &amp;#8220;Resource acquisition is initialization.&amp;#8221;
-Not many people know that this simple principle gave rise to the whole
-methodology of Resource Management (&lt;span class="caps"&gt;RM&lt;/span&gt;).
-Bartosz will try to convince us that &lt;span class="caps"&gt;RM&lt;/span&gt; is better than garbage collection …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Everybody knows the adage &amp;#8220;Resource acquisition is initialization.&amp;#8221;
+&lt;p&gt;Everybody knows the adage &amp;quot;Resource acquisition is initialization.&amp;quot;
 Not many people know that this simple principle gave rise to the whole
 methodology of Resource Management (&lt;span class="caps"&gt;RM&lt;/span&gt;).
 Bartosz will try to convince us that &lt;span class="caps"&gt;RM&lt;/span&gt; is better than garbage collection.
@@ -368,20 +271,7 @@ published by Addison-Wesley in 2001.
 He is also the &lt;span class="caps"&gt;CEO&lt;/span&gt; of Reliable Software &lt;span class="caps"&gt;LLC&lt;/span&gt;
 (see his company website &lt;a class="reference external" href="http://www.relisoft.com"&gt;www.relisoft.com&lt;/a&gt;).&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>February 12th, 2003 — Mojo — Andrei Alexandrescu</title><link href="http://nwcpp.org/february-2003.html" rel="alternate"></link><published>2003-02-01T00:00:00-08:00</published><updated>2003-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-02-01:/february-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Attend this talk to learn about Mojo, the new framework, library, and
-coding guideline that enables you to pass and return values without
-fearing that copying temporaries is going to ruin runtime performance or
-your code review. Mojo guarantees …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>February 12th, 2003 — Mojo — Andrei Alexandrescu</title><link href="http://nwcpp.org/february-2003.html" rel="alternate"></link><updated>2003-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-02-01:february-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -412,21 +302,7 @@ of the featured instructors of The C++ Seminar
 (&lt;a class="reference external" href="http://www.gotw.ca/cpp_seminar"&gt;www.gotw.ca/cpp_seminar&lt;/a&gt;).
 His website is &lt;a class="reference external" href="http://www.moderncppdesign.com"&gt;www.moderncppdesign.com&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>January 8th, 2003 — Unit Testing — Asim Jalis</title><link href="http://nwcpp.org/january-2003.html" rel="alternate"></link><published>2003-01-01T00:00:00-08:00</published><updated>2003-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-01-01:/january-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
-&lt;h2&gt;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
-&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The talk will focus on C/C++ unit testing and test-driven development
-using the CuTest library. CuTest is simple, portable, and follows the
-JUnit look and feel in its output and &lt;span class="caps"&gt;API&lt;/span&gt;. The topics covered will&amp;nbsp;include:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Introduction to …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+</summary></entry><entry><title>January 8th, 2003 — Unit Testing — Asim Jalis</title><link href="http://nwcpp.org/january-2003.html" rel="alternate"></link><updated>2003-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-01-01:january-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -459,4 +335,4 @@ interested in test driven development and ways of making this easier and
 more effective. He is the author of CuTest, a unit testing framework for C,
 and Test::Extreme, a unit testing framework for&amp;nbsp;Perl.&lt;/p&gt;
 &lt;/div&gt;
-</content></entry></feed>
+</summary></entry></feed>
