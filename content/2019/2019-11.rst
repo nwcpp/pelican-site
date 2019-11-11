@@ -32,7 +32,7 @@ Eric Niebler has been doing C++ professionally for the past 20 years, first for 
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
-Coming Soon
+Please thank John Galt (https://j-galt.com/) and Triple Crown (https://www.tripleco.com/find-tech-jobs/) for sponsoring our pizza this month!
 
 Resources
 ~~~~~~~~~
