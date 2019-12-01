@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2019.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2019-10-26T00:00:00-07:00</updated><entry><title>Nov 20th, 2019: A Unifying Abstraction for Async in C++</title><link href="http://nwcpp.org/Nov-2019.html" rel="alternate"></link><updated>2019-10-26T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-10-26:Nov-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2019.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2019-12-01T00:00:00-08:00</updated><entry><title>December 2019: Happy Holidays</title><link href="http://nwcpp.org/Dec-2019.html" rel="alternate"></link><updated>2019-12-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-12-01:Dec-2019.html</id><summary type="html">&lt;div class="section" id="happy-holidays"&gt;
+&lt;h2&gt;Happy&amp;nbsp;Holidays!!&lt;/h2&gt;
+&lt;p&gt;Folks, Just a quick reminder that we don&amp;#8217;t have a meeting in December. Happy Holidays and we&amp;#8217;ll
+see you all in January&amp;nbsp;2020!!&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Nov 20th, 2019: A Unifying Abstraction for Async in C++</title><link href="http://nwcpp.org/Nov-2019.html" rel="alternate"></link><updated>2019-10-26T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-10-26:Nov-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Nov 20th, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
