@@ -1,0 +1,106 @@
+Jan 15th, 2020: DigiPen Senior Research Projects
+#######################################################
+
+:date: 2019-12-31
+:slug: Jan-2020
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| Jan 15th, 2020 at 7:00 PM
+| Room 1083, Building 30,
+ `Map to building 30 <https://www.google.com/maps/place/Microsoft+Building+30/@47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942>`_,
+| Microsoft Campus,
+| 156th Ave NE,
+| Redmond, WA 98052.
+
+Title
+~~~~~
+DigiPen Senior Research Projects
+
+Abstracts
+~~~~~~~~~
+This talk will feature a collection of senior research projects, presented by DigiPen students:
+
+Templatized Lua Binding by Lux Cardell:
+In order to integrate Lua scripting into a C++ project, each function
+accessible to Lua must have a binding function. For a custom game engine
+project, I bound Lua to allow our design team to iterate and design more
+efficiently. To this end I wrote a set of templates that generated
+binding functions automatically based on the data types the functions
+required. These templates were designed to encapsulate the entirety of
+the binding process, from popping arguments off the Lua stack to
+returning an arbitrary number of values. I used variadic templates to
+allow the template to handle any function signature. In order to interface
+between dynamic and strict typing, I wrote a generic class that wrapped the basic types from Lua and the user-defined types commonly used throughout the engine.
+
+TypeRT by Michael-Paul Moore:
+In order to develop a complex C++ simulation, many collections of data
+must be authored to control behavior during execution. Much of this is
+driven by the creation of different classes that will each require
+similar sets of utilities in order to effectively function. Utilities
+such as: Points of Access, serialization, classification, etc. While
+engineers can facilitate this functionality on a per class basis, this
+is time consuming and can often result in duplicated logic. Furthermore,
+while native representation is required during execution, by allowing
+the class definitions to reside outside of code we can gain the
+following benefits:
+•    Accessibility to non-engineers without compiler access
+•    Easily extend feature set on data usage inside and outside the main
+toolset
+•    Since these class definitions are outside the toolset, they do not
+require code to be built
+•    Further ensures abstraction from your data from different
+functionalities
+To solve these problems we want to utilize a single flexible wrapper
+class, referred to as TypeRT, to centralize interactions for game data.
+This creates an environment in which a given functionality only needs to
+be implemented once and then gained across multiple data types. In the
+actual talk details will then be given on the TypeRT implementation.
+Process by which existing classes can be ported will be explained.
+
+Experiences of a Technical Director and Gameplay programmer by Samuel Schimmel:
+Discussing of my experiences both as the technical director and gameplay programmer of a UE4 C++ project, and as the UE4 C++ gameplay programming TA. The slides for my workshop, footage of the game, and commentary on various gameplay features I've implemented using UE4 C++, can be found here: https://www.samuelschimmel.com/unreal/.
+
+Speaker Bios
+~~~~~~~~~~~~
+
+Lux Cardell:
+I'm a fourth-year student in the Bachelor's of
+Science in Computer Science program at DigiPen. I've worked on game
+engines for the past three years, and in the last year on a physics
+project calculating the binding energies of hydrogen in weak magnetic
+fields. Additionally, I competed this year in the International
+Collegiate Programming Contest, representing DigiPen in the first
+division. In the game engine I wrote in my third year, I integrated Lua
+scripting to facilitate a team of designers in creating a game. As the
+process of writing binding functions for Lua is largely repetitive but
+highly function-specific, I found a way to genericize the process of
+writing binding libraries using C++ templates.
+
+Michael-Paul Moore:
+I am a Senior at DigiPen institute of
+technology and currently work as an Associate Software Engineer at
+Monolith Productions.
+
+Sameul Schimmel:
+I was the technical director and gameplay programmer of the student game Perdition, which was selected to represent DigiPen at PAX West 2019, and is now available on Steam. Perdition was made in Unreal Engine 4, which allows developers to write gameplay code in C++ or using a proprietary visual scripting language called Blueprint. Despite the popularity and accessibility of Blueprint, I chose to write 100% of Perdition's gameplay code in C++ for performance and complexity management reasons. I'm now the junior project class' UE4 C++ gameplay programming TA, and present an annual workshop on UE4 C++ gameplay programming.
+My resume can be found here: https://www.samuelschimmel.com/ 
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Coming Soon!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <http://www.facebook.com/group.php?gid=344125680930>`_
+* Follow our `Google+ <https://plus.google.com/104974891006782790528/>`_ page
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+

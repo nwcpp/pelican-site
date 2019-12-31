@@ -37,6 +37,7 @@ Please thank John Galt (https://j-galt.com/) and Triple Crown (https://www.tripl
 Resources
 ~~~~~~~~~
 `Video <https://youtu.be/GGCP92GF1ss>`_
+`Slides </talks/2019/NWCPP_Universal_Async_Abstraction.pptx>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
