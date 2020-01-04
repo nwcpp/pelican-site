@@ -83,7 +83,7 @@ I am a Senior at DigiPen institute of
 technology and currently work as an Associate Software Engineer at
 Monolith Productions.
 
-Sameul Schimmel:
+Samuel Schimmel:
 I was the technical director and gameplay programmer of the student game Perdition, which was selected to represent DigiPen at PAX West 2019, and is now available on Steam. Perdition was made in Unreal Engine 4, which allows developers to write gameplay code in C++ or using a proprietary visual scripting language called Blueprint. Despite the popularity and accessibility of Blueprint, I chose to write 100% of Perdition's gameplay code in C++ for performance and complexity management reasons. I'm now the junior project class' UE4 C++ gameplay programming TA, and present an annual workshop on UE4 C++ gameplay programming.
 My resume can be found here: https://www.samuelschimmel.com/ 
 
