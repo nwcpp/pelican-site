@@ -1,0 +1,148 @@
+@import url("main.css");
+
+/* Main Nav Banner */
+#banner nav {
+    height: 80px;
+}
+#banner nav a:link, #banner nav a:visited {
+    padding: 5px 1.1em;
+}
+#banner .title img {
+    float: left;
+}
+
+#banner .title h1 {
+  /*float: right;*/
+}
+
+.content-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.sidebar {
+    border-radius: 10px;
+    background: #fff;
+    margin-bottom: 2em;
+    padding: 5px;
+    left:85%;
+    position:absolute;
+    top: 0px;
+    width:15%;
+}
+
+.sidebar h2 {
+    color: #C74451;
+    font-size: 1.714em;
+    margin-bottom: 0.333em;
+    margin-top: 1em;
+}
+
+.sidebar img {
+    height:48px;
+    width:100%;
+    object-fit:scale-down;
+    object-position:left;
+}
+
+.main-content {
+    width: 68%;
+    margin: auto;
+    padding: 10px 0px 10px 20px;
+    position: absolute;
+    left: 15%;
+    height: 65vh;
+    overflow-y: auto;
+}
+
+@media only screen and (max-height: 800px) {
+    .main-content {
+        height: 50vh;
+    }
+}
+
+@media only screen and (max-height: 600px) {
+    .main-content {
+        height: 35vh;
+    }
+}
+
+.announcement-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+.announce {
+    width: 61%;
+    margin: 0 auto;
+    height: 150px;
+    bottom: -100px;
+    position: absolute;
+    left: 30%;
+    overflow-y:auto;
+}
+
+    .announce h3 {
+        text-decoration: underline;
+        margin-top: 0px;
+    }
+
+@media only screen and (max-width: 1400px) {
+    .announce {
+        left: 20%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .announce {
+        left: 33%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .announcement-wrapper {
+        display: none;
+    }
+}
+
+@media only screen and (max-height: 500px) {
+    .announcement-wrapper {
+        display: none;
+    }
+}
+
+.sponsor-logo img {
+    margin-left: auto;
+    margin-right: auto;
+    height: 125px;
+    width: auto;
+    margin-top: 3em;
+}
+
+    #rhssidebar {
+        float: left;
+        width: 15%;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+    }
+
+        #rhssidebar a:hover, #rhssidebar a:active {
+            color: #fff;
+        }
+
+        /* Social */
+        #rhssidebar .social {
+            float: right;
+        }
+
+    .social_links {
+        background-repeat: no-repeat;
+        padding-left: 25px;
+    }
+
+    .blogroll {
+        padding-top: 20px;
+    }
+
