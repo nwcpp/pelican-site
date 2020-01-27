@@ -62,6 +62,9 @@ Process by which existing classes can be ported will be explained.
 Experiences of a Technical Director and Gameplay programmer by Samuel Schimmel:
 Discussing of my experiences both as the technical director and gameplay programmer of a UE4 C++ project, and as the UE4 C++ gameplay programming TA. The slides for my workshop, footage of the game, and commentary on various gameplay features I've implemented using UE4 C++, can be found here: https://www.samuelschimmel.com/unreal/.
 
+Transforming and Reducing Workloads: C++17 Parallel Algorithms for Rapid Prototyping by Louis Tan:
+C++17 introduced parallel execution policies for algorithms, and a versatile new std::transform_reduce algorithm for taking advantage of the feature. These both allow programmers to spend less time on the implementation details of dispatching parallel workloads, and more time on parallel design through rapid prototyping and iteration. In this talk, we will explore the use case of parallelizing a physics engine for performance, and how std::transform_reduce was used as a catch-all solution to accomplish this. 
+
 Speaker Bios
 ~~~~~~~~~~~~
 
@@ -86,6 +89,9 @@ Monolith Productions.
 Samuel Schimmel:
 I was the technical director and gameplay programmer of the student game Perdition, which was selected to represent DigiPen at PAX West 2019, and is now available on Steam. Perdition was made in Unreal Engine 4, which allows developers to write gameplay code in C++ or using a proprietary visual scripting language called Blueprint. Despite the popularity and accessibility of Blueprint, I chose to write 100% of Perdition's gameplay code in C++ for performance and complexity management reasons. I'm now the junior project class' UE4 C++ gameplay programming TA, and present an annual workshop on UE4 C++ gameplay programming.
 My resume can be found here: https://www.samuelschimmel.com/ 
+
+Louis Tan:
+Louis is an avid tinkerer and recent graduate who got his start in C++ developing game mods. He believes in the value of a diverse problem-solving toolkit and has gathered experience in multiple areas not limited to game development, including graphics, physics, reverse engineering and AI. He has also been known to engage in template metaprogramming for amusement, sometimes just to make certain people on the internet very, very angry. 
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
