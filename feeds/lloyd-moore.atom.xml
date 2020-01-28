@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Lloyd Moore</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2020-01-18T00:00:00-08:00</updated><entry><title>Feb 19th, 2020: DigiPen Senior Research Projects</title><link href="http://nwcpp.org/Feb-2020.html" rel="alternate"></link><published>2020-01-18T00:00:00-08:00</published><updated>2020-01-18T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2020-01-18:/Feb-2020.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;Feb 19th, 2020 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1087, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;DigiPen Senior Research&amp;nbsp;Projects&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstracts"&gt;
-&lt;h2&gt;Abstracts&lt;/h2&gt;
-&lt;p&gt;This talk will feature a collection of senior research projects, presented by DigiPen&amp;nbsp;students:&lt;/p&gt;
-&lt;p&gt;Templatized Lua Binding by …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2020-01-18T00:00:00-08:00</updated><entry><title>Feb 19th, 2020: DigiPen Senior Research Projects</title><link href="http://nwcpp.org/Feb-2020.html" rel="alternate"></link><updated>2020-01-18T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2020-01-18:Feb-2020.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Feb 19th, 2020 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -72,6 +54,8 @@ actual talk details will then be given on the TypeRT implementation.
 Process by which existing classes can be ported will be&amp;nbsp;explained.&lt;/p&gt;
 &lt;p&gt;Experiences of a Technical Director and Gameplay programmer by Samuel Schimmel:
 Discussing of my experiences both as the technical director and gameplay programmer of a &lt;span class="caps"&gt;UE4&lt;/span&gt; C++ project, and as the &lt;span class="caps"&gt;UE4&lt;/span&gt; C++ gameplay programming &lt;span class="caps"&gt;TA&lt;/span&gt;. The slides for my workshop, footage of the game, and commentary on various gameplay features I&amp;#8217;ve implemented using &lt;span class="caps"&gt;UE4&lt;/span&gt; C++, can be found here: &lt;a class="reference external" href="https://www.samuelschimmel.com/unreal/"&gt;https://www.samuelschimmel.com/unreal/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Transforming and Reducing Workloads: C++17 Parallel Algorithms for Rapid Prototyping by Louis Tan:
+C++17 introduced parallel execution policies for algorithms, and a versatile new std::transform_reduce algorithm for taking advantage of the feature. These both allow programmers to spend less time on the implementation details of dispatching parallel workloads, and more time on parallel design through rapid prototyping and iteration. In this talk, we will explore the use case of parallelizing a physics engine for performance, and how std::transform_reduce was used as a catch-all solution to accomplish&amp;nbsp;this.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bios"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bios&lt;/h2&gt;
@@ -94,6 +78,8 @@ Monolith&amp;nbsp;Productions.&lt;/p&gt;
 &lt;p&gt;Samuel Schimmel:
 I was the technical director and gameplay programmer of the student game Perdition, which was selected to represent DigiPen at &lt;span class="caps"&gt;PAX&lt;/span&gt; West 2019, and is now available on Steam. Perdition was made in Unreal Engine 4, which allows developers to write gameplay code in C++ or using a proprietary visual scripting language called Blueprint. Despite the popularity and accessibility of Blueprint, I chose to write 100% of Perdition&amp;#8217;s gameplay code in C++ for performance and complexity management reasons. I&amp;#8217;m now the junior project class&amp;#8217; &lt;span class="caps"&gt;UE4&lt;/span&gt; C++ gameplay programming &lt;span class="caps"&gt;TA&lt;/span&gt;, and present an annual workshop on &lt;span class="caps"&gt;UE4&lt;/span&gt; C++ gameplay programming.
 My resume can be found here: &lt;a class="reference external" href="https://www.samuelschimmel.com/"&gt;https://www.samuelschimmel.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Louis Tan:
+Louis is an avid tinkerer and recent graduate who got his start in C++ developing game mods. He believes in the value of a diverse problem-solving toolkit and has gathered experience in multiple areas not limited to game development, including graphics, physics, reverse engineering and &lt;span class="caps"&gt;AI&lt;/span&gt;. He has also been known to engage in template metaprogramming for amusement, sometimes just to make certain people on the internet very, very&amp;nbsp;angry.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
@@ -113,21 +99,7 @@ My resume can be found here: &lt;a class="reference external" href="https://www.
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Jan 15th, 2020: DigiPen Senior Research Projects</title><link href="http://nwcpp.org/Jan-2020.html" rel="alternate"></link><published>2019-12-31T00:00:00-08:00</published><updated>2019-12-31T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-12-31:/Jan-2020.html</id><summary type="html">&lt;div class="section" id="canceled"&gt;
-&lt;h2&gt;&lt;span class="caps"&gt;CANCELED&lt;/span&gt;&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;Jan 15th, 2020 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;&lt;span class="caps"&gt;DUE&lt;/span&gt; &lt;span class="caps"&gt;TO&lt;/span&gt; &lt;span class="caps"&gt;POOR&lt;/span&gt; &lt;span class="caps"&gt;WEATHER&lt;/span&gt; &lt;span class="caps"&gt;CONDITIONS&lt;/span&gt; &lt;span class="caps"&gt;WE&lt;/span&gt; &lt;span class="caps"&gt;ARE&lt;/span&gt; &lt;span class="caps"&gt;CANCELING&lt;/span&gt; &lt;span class="caps"&gt;THE&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;TONIGHT&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;&lt;span class="caps"&gt;EVERYONE&lt;/span&gt; &lt;span class="caps"&gt;PLEASE&lt;/span&gt; &lt;span class="caps"&gt;STAY&lt;/span&gt; &lt;span class="caps"&gt;SAFE&lt;/span&gt;!! &lt;span class="caps"&gt;WE&lt;/span&gt; &lt;span class="caps"&gt;WILL&lt;/span&gt; &lt;span class="caps"&gt;RESCHEDULE&lt;/span&gt; &lt;span class="caps"&gt;AS&lt;/span&gt; &lt;span class="caps"&gt;SOON&lt;/span&gt; &lt;span class="caps"&gt;AS&lt;/span&gt; &lt;span class="caps"&gt;POSSIBLE&lt;/span&gt;.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;DigiPen Senior Research&amp;nbsp;Projects&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstracts"&gt;
-&lt;h2&gt;Abstracts&lt;/h2&gt;
-&lt;p&gt;This talk will feature a collection of senior research projects, presented by DigiPen&amp;nbsp;students …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="canceled"&gt;
+</summary></entry><entry><title>Jan 15th, 2020: DigiPen Senior Research Projects</title><link href="http://nwcpp.org/Jan-2020.html" rel="alternate"></link><updated>2019-12-31T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-12-31:Jan-2020.html</id><summary type="html">&lt;div class="section" id="canceled"&gt;
 &lt;h2&gt;&lt;span class="caps"&gt;CANCELED&lt;/span&gt;&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Jan 15th, 2020 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -221,34 +193,12 @@ My resume can be found here: &lt;a class="reference external" href="https://www.
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>December 2019: Happy Holidays</title><link href="http://nwcpp.org/Dec-2019.html" rel="alternate"></link><published>2019-12-01T00:00:00-08:00</published><updated>2019-12-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-12-01:/Dec-2019.html</id><summary type="html">&lt;div class="section" id="happy-holidays"&gt;
+</summary></entry><entry><title>December 2019: Happy Holidays</title><link href="http://nwcpp.org/Dec-2019.html" rel="alternate"></link><updated>2019-12-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-12-01:Dec-2019.html</id><summary type="html">&lt;div class="section" id="happy-holidays"&gt;
 &lt;h2&gt;Happy&amp;nbsp;Holidays!!&lt;/h2&gt;
 &lt;p&gt;Folks, Just a quick reminder that we don&amp;#8217;t have a meeting in December. Happy Holidays and we&amp;#8217;ll
 see you all in January&amp;nbsp;2020!!&lt;/p&gt;
 &lt;/div&gt;
-</summary><content type="html">&lt;div class="section" id="happy-holidays"&gt;
-&lt;h2&gt;Happy&amp;nbsp;Holidays!!&lt;/h2&gt;
-&lt;p&gt;Folks, Just a quick reminder that we don&amp;#8217;t have a meeting in December. Happy Holidays and we&amp;#8217;ll
-see you all in January&amp;nbsp;2020!!&lt;/p&gt;
-&lt;/div&gt;
-</content></entry><entry><title>Nov 20th, 2019: A Unifying Abstraction for Async in C++</title><link href="http://nwcpp.org/Nov-2019.html" rel="alternate"></link><published>2019-10-26T00:00:00-07:00</published><updated>2019-10-26T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-10-26:/Nov-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;Nov 20th, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;A Unifying Abstraction for Async in&amp;nbsp;C++&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Async in C++ is in a sad state. The standard tools &amp;#8212; promises, futures, threads, locks …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>Nov 20th, 2019: A Unifying Abstraction for Async in C++</title><link href="http://nwcpp.org/Nov-2019.html" rel="alternate"></link><updated>2019-10-26T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-10-26:Nov-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Nov 20th, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -293,25 +243,7 @@ see you all in January&amp;nbsp;2020!!&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Oct 16th, 2019: D at 20 : Hits and Misses</title><link href="http://nwcpp.org/Oct-2019.html" rel="alternate"></link><published>2019-09-22T00:00:00-07:00</published><updated>2019-09-22T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-09-22:/Oct-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;Oct 16th, 2019 at 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;D at 20 : Hits and&amp;nbsp;Misses&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Work began on the D programming language 20 years ago. A huge part of
-language design …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>Oct 16th, 2019: D at 20 : Hits and Misses</title><link href="http://nwcpp.org/Oct-2019.html" rel="alternate"></link><updated>2019-09-22T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-09-22:Oct-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Oct 16th, 2019 at 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -361,14 +293,7 @@ We  are always on the look out for smart  software engineers  to join our&amp;nb
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Sept 18th, 2019: NO MEETING THIS MONTH</title><link href="http://nwcpp.org/Sept-2019.html" rel="alternate"></link><published>2019-09-02T00:00:00-07:00</published><updated>2019-09-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-09-02:/Sept-2019.html</id><summary type="html">&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;&lt;span class="caps"&gt;NO&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MONTH&lt;/span&gt;!!!&lt;/p&gt;
-&lt;p&gt;Our normal meeting time this month overlaps with CppCon &lt;span class="caps"&gt;AND&lt;/span&gt; our speaker for the alternate meeting time had a last minute conflict. Because of these we&amp;#8217;ll skip the meeting this&amp;nbsp;month.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="alternatives"&gt;
-&lt;h2&gt;Alternatives&lt;/h2&gt;
-&lt;p&gt;Also if you are &lt;span class="caps"&gt;REALLY&lt;/span&gt; looking for your C++ fix this month …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="title"&gt;
+</summary></entry><entry><title>Sept 18th, 2019: NO MEETING THIS MONTH</title><link href="http://nwcpp.org/Sept-2019.html" rel="alternate"></link><updated>2019-09-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-09-02:Sept-2019.html</id><summary type="html">&lt;div class="section" id="title"&gt;
 &lt;h2&gt;Title&lt;/h2&gt;
 &lt;p&gt;&lt;span class="caps"&gt;NO&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MONTH&lt;/span&gt;!!!&lt;/p&gt;
 &lt;p&gt;Our normal meeting time this month overlaps with CppCon &lt;span class="caps"&gt;AND&lt;/span&gt; our speaker for the alternate meeting time had a last minute conflict. Because of these we&amp;#8217;ll skip the meeting this&amp;nbsp;month.&lt;/p&gt;
@@ -392,24 +317,7 @@ We  are always on the look out for smart  software engineers  to join our&amp;nb
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Aug 21th, 2019: Darwin: a Neuroevolution and Evolutionary Algorithms framework</title><link href="http://nwcpp.org/Aug-2019.html" rel="alternate"></link><published>2019-08-01T00:00:00-07:00</published><updated>2019-08-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-08-01:/Aug-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;Aug 21st, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Darwin: a  Neuroevolution and Evolutionary Algorithms&amp;nbsp;framework&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Deep Learning is an exciting field that created a multi-billion industry. But it’s not …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>Aug 21th, 2019: Darwin: a Neuroevolution and Evolutionary Algorithms framework</title><link href="http://nwcpp.org/Aug-2019.html" rel="alternate"></link><updated>2019-08-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-08-01:Aug-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Aug 21st, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -455,24 +363,7 @@ We  are always on the look out for smart  software engineers  to join our&amp;nb
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>July 17th, 2019: EverCrypt: a no-excuses, industrial-grade cryptographic library</title><link href="http://nwcpp.org/July-2019.html" rel="alternate"></link><published>2019-07-01T00:00:00-07:00</published><updated>2019-07-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-07-01:/July-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;July 17th, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1085, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;EverCrypt: a no-excuses, industrial-grade cryptographic library, with full&amp;nbsp;verification&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Project Everest is a large, multi-year, collaborative research effort spread between Microsoft Research …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>July 17th, 2019: EverCrypt: a no-excuses, industrial-grade cryptographic library</title><link href="http://nwcpp.org/July-2019.html" rel="alternate"></link><updated>2019-07-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-07-01:July-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;July 17th, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -501,8 +392,8 @@ We  are always on the look out for smart  software engineers  to join our&amp;nb
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Molekule is a San Francisco-based science and clean technology company that has developed a fundamentally new approach to clean polluted air. While current air purifiers try to catch pollutants in filters, Molekule uses nanotechnology to break down and completely eliminate pollutants on a molecular level. Its new technology is the only one able to destroy the full spectrum of pollutants of allergens, bacteria, viruses, mold, and airborne chemicals. The technology was developed over the past 20 years at the University of Florida.
-Molekule devices are controlled and connected using modern software design and architecture principles in order to bring the best experience to customers. Firmware for Molekule devices is written in C++ using an actor model approach and highly test driven development focused using test frameworks for hardware in the loop testing as well as basic software unit&amp;nbsp;testing.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Molekule is a San Francisco-based science and clean technology company that has developed a fundamentally new approach to clean polluted air. While current air purifiers try to catch pollutants in filters, Molekule uses nanotechnology to break down and completely eliminate pollutants on a molecular level. Its new technology is the only one able to destroy the full spectrum of pollutants of allergens, bacteria, viruses, mold, and airborne chemicals. The technology was developed over the past 20 years at the University of Florida.
+Molekule devices are controlled and connected using modern software design and architecture principles in order to bring the best experience to customers. Firmware for Molekule devices is written in C++ using an actor model approach and highly test driven development focused using test frameworks for hardware in the loop testing as well as basic software unit&amp;nbsp;testing.&amp;quot;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -520,24 +411,7 @@ Molekule devices are controlled and connected using modern software design and a
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>June 19th, 2019: Intro to programming the HyperFlow computational array using C++</title><link href="http://nwcpp.org/June-2019.html" rel="alternate"></link><published>2019-06-02T00:00:00-07:00</published><updated>2019-06-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-06-02:/June-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
-&lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
-&lt;p&gt;&lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt; - &lt;span class="caps"&gt;ONE&lt;/span&gt; &lt;span class="caps"&gt;HALF&lt;/span&gt; &lt;span class="caps"&gt;HOUR&lt;/span&gt; &lt;span class="caps"&gt;LATER&lt;/span&gt; &lt;span class="caps"&gt;THAN&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt;!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;June 19th, 2019 at 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1085, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Intro to …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="special-announcements"&gt;
+</summary></entry><entry><title>June 19th, 2019: Intro to programming the HyperFlow computational array using C++</title><link href="http://nwcpp.org/June-2019.html" rel="alternate"></link><updated>2019-06-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-06-02:June-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
 &lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
 &lt;p&gt;&lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt; - &lt;span class="caps"&gt;ONE&lt;/span&gt; &lt;span class="caps"&gt;HALF&lt;/span&gt; &lt;span class="caps"&gt;HOUR&lt;/span&gt; &lt;span class="caps"&gt;LATER&lt;/span&gt; &lt;span class="caps"&gt;THAN&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt;!&lt;/p&gt;
 &lt;/div&gt;
@@ -583,24 +457,7 @@ Molekule devices are controlled and connected using modern software design and a
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>May 15th, 2019: Math and C++: Innovations and Improvement</title><link href="http://nwcpp.org/May-2019.html" rel="alternate"></link><published>2019-04-28T00:00:00-07:00</published><updated>2019-04-28T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-04-28:/May-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;May 15th, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1087, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Math and C++: Innovations and&amp;nbsp;Improvement&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Between enhancements added to the language beginning with C++11, and some of the mathematical capabilities …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>May 15th, 2019: Math and C++: Innovations and Improvement</title><link href="http://nwcpp.org/May-2019.html" rel="alternate"></link><updated>2019-04-28T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-04-28:May-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 15th, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -646,10 +503,7 @@ Molekule devices are controlled and connected using modern software design and a
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>April 17th, 2019: The Joys and Trials of Writing Cross-Platform C++ Code</title><link href="http://nwcpp.org/April-2019.html" rel="alternate"></link><published>2019-03-31T00:00:00-07:00</published><updated>2019-03-31T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-03-31:/April-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
-&lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
-&lt;p&gt;&lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt; - &lt;span class="caps"&gt;ONE&lt;/span&gt; &lt;span class="caps"&gt;HALF&lt;/span&gt; &lt;span class="caps"&gt;HOUR&lt;/span&gt; &lt;span class="caps"&gt;LATER&lt;/span&gt; &lt;span class="caps"&gt;THAN&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt;!&lt;/p&gt;
-&lt;p&gt;As a courtesy to the sponsor and other attendees, we would like to get a headcount so the sponsor can adequately provide food for all attendees. If you have …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="special-announcements"&gt;
+</summary></entry><entry><title>April 17th, 2019: The Joys and Trials of Writing Cross-Platform C++ Code</title><link href="http://nwcpp.org/April-2019.html" rel="alternate"></link><updated>2019-03-31T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-03-31:April-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
 &lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
 &lt;p&gt;&lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt; - &lt;span class="caps"&gt;ONE&lt;/span&gt; &lt;span class="caps"&gt;HALF&lt;/span&gt; &lt;span class="caps"&gt;HOUR&lt;/span&gt; &lt;span class="caps"&gt;LATER&lt;/span&gt; &lt;span class="caps"&gt;THAN&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt;!&lt;/p&gt;
 &lt;p&gt;As a courtesy to the sponsor and other attendees, we would like to get a headcount so the sponsor can adequately provide food for all attendees. If you have any suggestions on how to improve our communication between us and the sponsor, please feel free to reply or discuss with us at the meeting. We are trying our best to serve the programming language community and would love to hear your&amp;nbsp;input.&lt;/p&gt;
@@ -696,25 +550,7 @@ Molekule devices are controlled and connected using modern software design and a
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>March 20th, 2019: Bringing Photoshop to the iPad</title><link href="http://nwcpp.org/March-2019.html" rel="alternate"></link><published>2019-03-02T00:00:00-08:00</published><updated>2019-03-02T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-03-02:/March-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
-&lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
-&lt;p&gt;&lt;span class="caps"&gt;NOTES&lt;/span&gt;:
-&lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt; - &lt;span class="caps"&gt;ONE&lt;/span&gt; &lt;span class="caps"&gt;HALF&lt;/span&gt; &lt;span class="caps"&gt;HOUR&lt;/span&gt; &lt;span class="caps"&gt;LATER&lt;/span&gt; &lt;span class="caps"&gt;THAN&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt;!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;March 20th, 2019 at 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Bringing …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="special-announcements"&gt;
+</summary></entry><entry><title>March 20th, 2019: Bringing Photoshop to the iPad</title><link href="http://nwcpp.org/March-2019.html" rel="alternate"></link><updated>2019-03-02T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-03-02:March-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
 &lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
 &lt;p&gt;&lt;span class="caps"&gt;NOTES&lt;/span&gt;:
 &lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, 7:30 &lt;span class="caps"&gt;PM&lt;/span&gt; - &lt;span class="caps"&gt;ONE&lt;/span&gt; &lt;span class="caps"&gt;HALF&lt;/span&gt; &lt;span class="caps"&gt;HOUR&lt;/span&gt; &lt;span class="caps"&gt;LATER&lt;/span&gt; &lt;span class="caps"&gt;THAN&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt;!&lt;/p&gt;
@@ -736,7 +572,7 @@ Molekule devices are controlled and connected using modern software design and a
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;A &amp;#8220;behind the scenes&amp;#8221; look at the challenges to bring one of Adobe&amp;#8217;s premier products to mobile devices and the role that C++ developments have played in overcoming&amp;nbsp;them.&lt;/p&gt;
+&lt;p&gt;A &amp;quot;behind the scenes&amp;quot; look at the challenges to bring one of Adobe&amp;#8217;s premier products to mobile devices and the role that C++ developments have played in overcoming&amp;nbsp;them.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
@@ -761,24 +597,7 @@ Molekule devices are controlled and connected using modern software design and a
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>February 20th, 2019: Looking under the Hood to Optimize C++ Code</title><link href="http://nwcpp.org/February-2019.html" rel="alternate"></link><published>2019-02-03T00:00:00-08:00</published><updated>2019-02-03T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-02-03:/February-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;February 20rd, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Looking under the Hood to Optimize C++&amp;nbsp;Code&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Many times when learning how to write software, engineers are taught data structures, algorithms …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>February 20th, 2019: Looking under the Hood to Optimize C++ Code</title><link href="http://nwcpp.org/February-2019.html" rel="alternate"></link><updated>2019-02-03T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2019-02-03:February-2019.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 20rd, 2019 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -820,13 +639,7 @@ Molekule devices are controlled and connected using modern software design and a
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>January 23th, 2019: Remedial C++ 11</title><link href="http://nwcpp.org/January-2019.html" rel="alternate"></link><published>2018-12-27T00:00:00-08:00</published><updated>2018-12-27T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-12-27:/January-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
-&lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
-&lt;p&gt;&lt;span class="caps"&gt;NOTES&lt;/span&gt;:
-&lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, &lt;span class="caps"&gt;NOT&lt;/span&gt; &lt;span class="caps"&gt;OUR&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;CADENCE&lt;/span&gt;!!!&lt;/p&gt;
-&lt;p&gt;We do not have a pizza sponsor for this meeting so please plan&amp;nbsp;accordingly.&lt;/p&gt;
-&lt;p&gt;If you are interested in helping out please also attend the &lt;span class="caps"&gt;NWCPP&lt;/span&gt; Annual Board Meeting
-at 6:&lt;span class="caps"&gt;15PM …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="special-announcements"&gt;
+</summary></entry><entry><title>January 23th, 2019: Remedial C++ 11</title><link href="http://nwcpp.org/January-2019.html" rel="alternate"></link><updated>2018-12-27T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-12-27:January-2019.html</id><summary type="html">&lt;div class="section" id="special-announcements"&gt;
 &lt;h2&gt;Special&amp;nbsp;Announcements&lt;/h2&gt;
 &lt;p&gt;&lt;span class="caps"&gt;NOTES&lt;/span&gt;:
 &lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;WEDNESDAY&lt;/span&gt;, &lt;span class="caps"&gt;NOT&lt;/span&gt; &lt;span class="caps"&gt;OUR&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;CADENCE&lt;/span&gt;!!!&lt;/p&gt;
@@ -855,7 +668,7 @@ at 6:&lt;span class="caps"&gt;15PM&lt;/span&gt; - Just before his&amp;nbsp;meeti
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;Like the man in black said: &amp;#8220;No one of consequence&amp;#8221;.  Pete has been programming professionally for 29 years at companies like Boeing, Microsoft, Amazon, and Google.  He&amp;#8217;s been using C++ for most of that time, and attending &lt;span class="caps"&gt;NWCPP&lt;/span&gt; off and on since the 90&amp;#8217;s.  He has been known to talk about himself in third&amp;nbsp;person.&lt;/p&gt;
+&lt;p&gt;Like the man in black said: &amp;quot;No one of consequence&amp;quot;.  Pete has been programming professionally for 29 years at companies like Boeing, Microsoft, Amazon, and Google.  He&amp;#8217;s been using C++ for most of that time, and attending &lt;span class="caps"&gt;NWCPP&lt;/span&gt; off and on since the 90&amp;#8217;s.  He has been known to talk about himself in third&amp;nbsp;person.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
@@ -877,26 +690,7 @@ at 6:&lt;span class="caps"&gt;15PM&lt;/span&gt; - Just before his&amp;nbsp;meeti
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>November 15th, 2018: C++ Today: The Beast is Back</title><link href="http://nwcpp.org/november-2018.html" rel="alternate"></link><published>2018-10-20T00:00:00-07:00</published><updated>2018-10-20T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-10-20:/november-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="section" id="note-this-meeting-is-at-a-special-time-on-a-thursday-not-our-normal-meeting-cadence"&gt;
-&lt;h2&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: &lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;AT&lt;/span&gt; A &lt;span class="caps"&gt;SPECIAL&lt;/span&gt; &lt;span class="caps"&gt;TIME&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; A &lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, &lt;span class="caps"&gt;NOT&lt;/span&gt; &lt;span class="caps"&gt;OUR&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;CADENCE&lt;/span&gt;!!!&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;November 15th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1087, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;C++ Today: The Beast is&amp;nbsp;Back&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract …&lt;/h2&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>November 15th, 2018: C++ Today: The Beast is Back</title><link href="http://nwcpp.org/november-2018.html" rel="alternate"></link><updated>2018-10-20T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-10-20:november-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;/div&gt;
 &lt;div class="section" id="note-this-meeting-is-at-a-special-time-on-a-thursday-not-our-normal-meeting-cadence"&gt;
@@ -917,7 +711,7 @@ at 6:&lt;span class="caps"&gt;15PM&lt;/span&gt; - Just before his&amp;nbsp;meeti
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This presentation will cover why engineers looking for performance choose C++. I will present a historical perspective of C++ focusing on what’s going on in the C++ community right now and where the language and its user base is heading. With a renewed interest in performance for both data centers and mobile devices, and the success of open source software libraries, C++ is back, and it is&amp;nbsp;hot!&lt;/p&gt;
-&lt;p&gt;This presentation will explain why C++ is most software engineers&amp;#8217; go-to language for performance. You will receive a rough historical sketch that puts C++ in perspective and covers its popularity ups and downs. This talk is based, in part, on the book &amp;#8220;C++ Today: The Beast is Back&amp;#8221; published by&amp;nbsp;O’Reilly.&lt;/p&gt;
+&lt;p&gt;This presentation will explain why C++ is most software engineers&amp;#8217; go-to language for performance. You will receive a rough historical sketch that puts C++ in perspective and covers its popularity ups and downs. This talk is based, in part, on the book &amp;quot;C++ Today: The Beast is Back&amp;quot; published by&amp;nbsp;O’Reilly.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;a class="reference external" href="https://resources.jetbrains.com/storage/products/cpp/books/Cplusplus_Today.pdf"&gt;https://resources.jetbrains.com/storage/products/cpp/books/Cplusplus_Today.pdf&lt;/a&gt;&lt;/blockquote&gt;
 &lt;/div&gt;
@@ -945,25 +739,7 @@ at 6:&lt;span class="caps"&gt;15PM&lt;/span&gt; - Just before his&amp;nbsp;meeti
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>October 17th, 2018: Avoiding Code Smells</title><link href="http://nwcpp.org/october-2018.html" rel="alternate"></link><published>2018-10-02T00:00:00-07:00</published><updated>2018-10-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-10-02:/october-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;October 17th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Avoiding Code&amp;nbsp;Smells&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;I&amp;#8217;ve been writing code for over 40 years. One thing that comes with
-experience is one develops a …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>October 17th, 2018: Avoiding Code Smells</title><link href="http://nwcpp.org/october-2018.html" rel="alternate"></link><updated>2018-10-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-10-02:october-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 17th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1021,13 +797,7 @@ we get a lot closer to&amp;nbsp;it.&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2018.html" rel="alternate"></link><published>2018-08-19T00:00:00-07:00</published><updated>2018-08-19T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-08-19:/sep-2018.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
-&lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
-&lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
-&lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="featured-events-at-cppcon"&gt;
-&lt;h2&gt;Featured …&lt;/h2&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="upcoming-meetings"&gt;
+</summary></entry><entry><title>Meetings in September</title><link href="http://nwcpp.org/sep-2018.html" rel="alternate"></link><updated>2018-08-19T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-08-19:sep-2018.html</id><summary type="html">&lt;div class="section" id="upcoming-meetings"&gt;
 &lt;h2&gt;Upcoming&amp;nbsp;Meetings&lt;/h2&gt;
 &lt;p&gt;Our &lt;span class="caps"&gt;NWCPP&lt;/span&gt; meeting for September will be coordinated with CppCon at the Meydenbauer Center in Bellevue. CppCon is open to everyone, with or without registration for the evening sessions and &lt;span class="caps"&gt;ALL&lt;/span&gt; sessions on&amp;nbsp;Friday.&lt;/p&gt;
 &lt;p&gt;Please see the CppCon web site at &lt;a class="reference external" href="Http://cppcon.org"&gt;Http://cppcon.org&lt;/a&gt; for current&amp;nbsp;details.&lt;/p&gt;
@@ -1074,15 +844,7 @@ by Boris Kolpackov, Titus Winter, Robert Schumacher and Manuel Klimek
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>June 20th, 2018: Graduated, now what?</title><link href="http://nwcpp.org/june-2018.html" rel="alternate"></link><published>2018-05-27T00:00:00-07:00</published><updated>2018-05-27T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-05-27:/june-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
-&lt;h2&gt;Announcements&lt;/h2&gt;
-&lt;p&gt;We are still looking for 1 more volunteer to help run the club as a couple of the current volunteers are stepping down at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;June 20th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083 …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="announcements"&gt;
+</summary></entry><entry><title>June 20th, 2018: Graduated, now what?</title><link href="http://nwcpp.org/june-2018.html" rel="alternate"></link><updated>2018-05-27T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-05-27:june-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
 &lt;h2&gt;Announcements&lt;/h2&gt;
 &lt;p&gt;We are still looking for 1 more volunteer to help run the club as a couple of the current volunteers are stepping down at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
 &lt;/div&gt;
@@ -1130,15 +892,7 @@ by Boris Kolpackov, Titus Winter, Robert Schumacher and Manuel Klimek
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>May 16th, 2018: Interpolation, Integration, and Coordinate Transformations</title><link href="http://nwcpp.org/may-2018.html" rel="alternate"></link><published>2018-05-03T00:00:00-07:00</published><updated>2018-05-03T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-05-03:/may-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
-&lt;h2&gt;Announcements&lt;/h2&gt;
-&lt;p&gt;We are still looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;May 16th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083 …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="announcements"&gt;
+</summary></entry><entry><title>May 16th, 2018: Interpolation, Integration, and Coordinate Transformations</title><link href="http://nwcpp.org/may-2018.html" rel="alternate"></link><updated>2018-05-03T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-05-03:may-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
 &lt;h2&gt;Announcements&lt;/h2&gt;
 &lt;p&gt;We are still looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
 &lt;/div&gt;
@@ -1160,14 +914,14 @@ by Boris Kolpackov, Titus Winter, Robert Schumacher and Manuel Klimek
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;In October 2017 I spoke to &lt;span class="caps"&gt;NWCPP&lt;/span&gt; about &amp;#8220;Coordinate Transformations in Three Dimensions.&amp;#8221; Due to a big storm and unavailability of the intended meeting room, very few people were there. Also my preparation was incomplete. So I agreed to try&amp;nbsp;again.&lt;/p&gt;
+&lt;p&gt;In October 2017 I spoke to &lt;span class="caps"&gt;NWCPP&lt;/span&gt; about &amp;quot;Coordinate Transformations in Three Dimensions.&amp;quot; Due to a big storm and unavailability of the intended meeting room, very few people were there. Also my preparation was incomplete. So I agreed to try&amp;nbsp;again.&lt;/p&gt;
 &lt;p&gt;This time, I will start from an even more fundamental computational problem: Data come into the computer as a finite set of discrete numbers, even when the underlying phenomena are continuous. How should one estimate continuous phenomena based on discrete data? That&amp;#8217;s interpolation. The answer depends on several&amp;nbsp;factors:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;What are the independent variables, or domain? Examples include time (1 dimension), position (3), orientation (3), or mix of foods&amp;nbsp;(many).&lt;/li&gt;
 &lt;li&gt;What are the dependent variables, or range? Examples include pressure (1), position (3), orientation (3), or disease probabilities (many). Dependent variables for one process (e.g. orientation vs. time in a motion model) can be independent variables for another (e.g. sensitivity vs orientation in a sensor&amp;nbsp;model).&lt;/li&gt;
 &lt;li&gt;How will the continuous model be used? Does the application require a different set of discrete independent values that lie between the given ones? (Example: simulated sound samples as received from a moving platform.) Or do you need to integrate some function of the dependent variables over the independent ones? (Example: sensor response to sound coming from all&amp;nbsp;directions.)&lt;/li&gt;
-&lt;li&gt;How many discrete input values do we need to compute each output value? That&amp;#8217;s the &amp;#8220;order&amp;#8221; (plus 1). I will demonstrate some consequences for getting this&amp;nbsp;wrong.&lt;/li&gt;
+&lt;li&gt;How many discrete input values do we need to compute each output value? That&amp;#8217;s the &amp;quot;order&amp;quot; (plus 1). I will demonstrate some consequences for getting this&amp;nbsp;wrong.&lt;/li&gt;
 &lt;li&gt;Can it help to transform the range and/or the domain? For example, if Y(X) resembles a power law (Y equals X raised to some power), then a graph of log(Y) versus log(X) is close to a straight line, for which linear interpolation (order=1) would suffice, even for a sparse sample&amp;nbsp;set.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
@@ -1202,16 +956,7 @@ University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>April 18th, 2018: Microsoft MakeCode: from C++ to TypeScript and Blockly (and Back)</title><link href="http://nwcpp.org/april-2018.html" rel="alternate"></link><published>2018-03-24T00:00:00-07:00</published><updated>2018-03-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-24:/april-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
-&lt;h2&gt;Announcements&lt;/h2&gt;
-&lt;p&gt;We are still looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down
-at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;April 18th, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1915 …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="announcements"&gt;
+</summary></entry><entry><title>April 18th, 2018: Microsoft MakeCode: from C++ to TypeScript and Blockly (and Back)</title><link href="http://nwcpp.org/april-2018.html" rel="alternate"></link><updated>2018-03-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-24:april-2018.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
 &lt;h2&gt;Announcements&lt;/h2&gt;
 &lt;p&gt;We are still looking for 2 more volunteers to help run the club as a couple of the current volunteers are stepping down
 at the end of this year. If you are interested also please contact&amp;nbsp;Lloyd.&lt;/p&gt;
@@ -1263,25 +1008,7 @@ at the end of this year. If you are interested also please contact&amp;nbsp;Lloy
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>March 21st, 2018: Algorithms Rule</title><link href="http://nwcpp.org/march-2018.html" rel="alternate"></link><published>2018-03-01T00:00:00-08:00</published><updated>2018-03-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-01:/march-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;March 21st, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1083, Building 30,
-&lt;a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&amp;#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942"&gt;Map to building 30&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt; &lt;strong&gt;Note, this is our *new* normal meeting room!&lt;/strong&gt; &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;*****&lt;/span&gt;&lt;/tt&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="title"&gt;
-&lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Algorithms&amp;nbsp;Rule&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;This talk will be a local repeat of the same presentation that …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>March 21st, 2018: Algorithms Rule</title><link href="http://nwcpp.org/march-2018.html" rel="alternate"></link><updated>2018-03-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2018-03-01:march-2018.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 21st, 2018 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1327,19 +1054,7 @@ at the end of this year. If you are interested also please contact&amp;nbsp;Lloy
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>June 21 2017: Understanding Compiler Optimization</title><link href="http://nwcpp.org/june-2017.html" rel="alternate"></link><published>2017-05-31T00:00:00-07:00</published><updated>2017-05-31T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-05-31:/june-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;June 21, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;C++ is used in applications where resources are constrained and performance is critical. However, its power in this domain comes from the ability to build large, complex …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>June 21 2017: Understanding Compiler Optimization</title><link href="http://nwcpp.org/june-2017.html" rel="alternate"></link><updated>2017-05-31T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-05-31:june-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;June 21, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1352,7 +1067,7 @@ at the end of this year. If you are interested also please contact&amp;nbsp;Lloy
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;C++ is used in applications where resources are constrained and performance is critical. However, its power in this domain comes from the ability to build large, complex systems in C++. These systems leverage numerous C++ features in order to build and utilize abstractions that make reasoning about these complex systems possible. Abstractions are the very essence of how we scale software to solve ever larger and more complex&amp;nbsp;problems.&lt;/p&gt;
-&lt;p&gt;But the common C++ idea of &amp;#8220;zero cost&amp;#8221; abstractions is, in some senses, a myth. The real achievement of C++ is allowing you, the programmer, to control where and how the cost of your abstractions will be paid. It does this by leveraging remarkably advanced optimizing compilers and carefully written libraries and techniques, all working together to control the cost. In order to be effective writing software that leverages this control, it is essential that the programmer understand the core fundamentals of how the compiler optimizations will behave. Without this, it is too easy to unknowingly limit it or create challenges that it cannot&amp;nbsp;overcome.&lt;/p&gt;
+&lt;p&gt;But the common C++ idea of &amp;quot;zero cost&amp;quot; abstractions is, in some senses, a myth. The real achievement of C++ is allowing you, the programmer, to control where and how the cost of your abstractions will be paid. It does this by leveraging remarkably advanced optimizing compilers and carefully written libraries and techniques, all working together to control the cost. In order to be effective writing software that leverages this control, it is essential that the programmer understand the core fundamentals of how the compiler optimizations will behave. Without this, it is too easy to unknowingly limit it or create challenges that it cannot&amp;nbsp;overcome.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
@@ -1377,9 +1092,7 @@ at the end of this year. If you are interested also please contact&amp;nbsp;Lloy
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>May 17th 2017: Concepts of the Upcoming Ranges TS</title><link href="http://nwcpp.org/may-2017.html" rel="alternate"></link><published>2017-04-21T00:00:00-07:00</published><updated>2017-04-21T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-04-21:/may-2017.html</id><summary type="html">&lt;div class="section" id="job-fair"&gt;
-&lt;h2&gt;Job&amp;nbsp;Fair&lt;/h2&gt;
-&lt;p&gt;Continuing with our job fair activities Mainz Bradley Group will be available at 6:00 &lt;span class="caps"&gt;PM&lt;/span&gt; to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering tips on how to improve your …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="job-fair"&gt;
+</summary></entry><entry><title>May 17th 2017: Concepts of the Upcoming Ranges TS</title><link href="http://nwcpp.org/may-2017.html" rel="alternate"></link><updated>2017-04-21T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-04-21:may-2017.html</id><summary type="html">&lt;div class="section" id="job-fair"&gt;
 &lt;h2&gt;Job&amp;nbsp;Fair&lt;/h2&gt;
 &lt;p&gt;Continuing with our job fair activities Mainz Bradley Group will be available at 6:00 &lt;span class="caps"&gt;PM&lt;/span&gt; to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering tips on how to improve your resume. Come have some dinner with us and bring your resume along for a once&amp;nbsp;over!&lt;/p&gt;
 &lt;/div&gt;
@@ -1423,9 +1136,7 @@ at the end of this year. If you are interested also please contact&amp;nbsp;Lloy
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>April 19th 2017: The Curse of Knowledge: Humane Library Design with D</title><link href="http://nwcpp.org/april-2017.html" rel="alternate"></link><published>2017-04-01T00:00:00-07:00</published><updated>2017-04-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-04-01:/april-2017.html</id><summary type="html">&lt;div class="section" id="job-fair"&gt;
-&lt;h2&gt;Job&amp;nbsp;Fair&lt;/h2&gt;
-&lt;p&gt;Continuing with our job fair activities Aim Consulting will be available at 6:00 &lt;span class="caps"&gt;PM&lt;/span&gt; to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering interview advice. How to prepare for an …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="job-fair"&gt;
+</summary></entry><entry><title>April 19th 2017: The Curse of Knowledge: Humane Library Design with D</title><link href="http://nwcpp.org/april-2017.html" rel="alternate"></link><updated>2017-04-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-04-01:april-2017.html</id><summary type="html">&lt;div class="section" id="job-fair"&gt;
 &lt;h2&gt;Job&amp;nbsp;Fair&lt;/h2&gt;
 &lt;p&gt;Continuing with our job fair activities Aim Consulting will be available at 6:00 &lt;span class="caps"&gt;PM&lt;/span&gt; to talk to anyone looking for a job in more detail then we have done in the past. In particular this month Aim will be offering interview advice. How to prepare for an interview, how to handle the technical interview and what to do when you are not sure in an interview. Come have some dinner with us and bring your interview&amp;nbsp;questions!&lt;/p&gt;
 &lt;/div&gt;
@@ -1468,9 +1179,7 @@ Our engagement model is designed with flexibility in mind for long-term partners
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>March 15th 2017: C++ Code Productivity with Visual Studio 2017</title><link href="http://nwcpp.org/march-2017.html" rel="alternate"></link><published>2017-02-27T00:00:00-08:00</published><updated>2017-02-27T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-02-27:/march-2017.html</id><summary type="html">&lt;div class="section" id="job-fair"&gt;
-&lt;h2&gt;Job&amp;nbsp;Fair&lt;/h2&gt;
-&lt;p&gt;Folks we are going to try something a bit different this month. AeroTek will be available at 6:00 &lt;span class="caps"&gt;PM&lt;/span&gt; to talk to anyone looking for a job in more detail then we have done in the past. If you are looking for a job please bring a …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="job-fair"&gt;
+</summary></entry><entry><title>March 15th 2017: C++ Code Productivity with Visual Studio 2017</title><link href="http://nwcpp.org/march-2017.html" rel="alternate"></link><updated>2017-02-27T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-02-27:march-2017.html</id><summary type="html">&lt;div class="section" id="job-fair"&gt;
 &lt;h2&gt;Job&amp;nbsp;Fair&lt;/h2&gt;
 &lt;p&gt;Folks we are going to try something a bit different this month. AeroTek will be available at 6:00 &lt;span class="caps"&gt;PM&lt;/span&gt; to talk to anyone looking for a job in more detail then we have done in the past. If you are looking for a job please bring a resume and show up early to get some 1:1 time with the&amp;nbsp;recruiters!!!&lt;/p&gt;
 &lt;/div&gt;
@@ -1514,7 +1223,7 @@ We also staff for placements as Mechanical, Electrical, Manufacturing, Process, 
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>February 15th 2017: C++ Move constructors again now that we can use them</title><link href="http://nwcpp.org/february-2017.html" rel="alternate"></link><published>2017-02-01T00:00:00-08:00</published><updated>2017-02-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-02-01:/february-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>February 15th 2017: C++ Move constructors again now that we can use them</title><link href="http://nwcpp.org/february-2017.html" rel="alternate"></link><updated>2017-02-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2017-02-01:february-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: We are in Building 37, room 1717 this month. This is &lt;span class="caps"&gt;NOT&lt;/span&gt; our normal meeting&amp;nbsp;room!!!&lt;/p&gt;
 &lt;div class="line-block"&gt;
@@ -1527,20 +1236,7 @@ We also staff for placements as Mechanical, Electrical, Manufacturing, Process, 
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Back in 2008 or so we got …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: We are in Building 37, room 1717 this month. This is &lt;span class="caps"&gt;NOT&lt;/span&gt; our normal meeting&amp;nbsp;room!!!&lt;/p&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;February 15th, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Room 1717, &lt;a class="reference external" href="https://www.bing.com/maps?v=2&amp;amp;cp=47.6385125270791~-122.126272380441&amp;amp;lvl=16&amp;amp;dir=0&amp;amp;sty=r&amp;amp;rtp=~pos.47.6385125270791_-122.126272380441_near%2016071+NE+36th+Way%2C+Redmond%2C+WA+98052___a_&amp;amp;mode=D&amp;amp;rtop=0~0~0~&amp;amp;encType=1&amp;amp;q=16071+NE+36th+Way%2C+Redmond%2C+WA+98052"&gt;Building 37 Room 1717&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;16071 &lt;span class="caps"&gt;NE&lt;/span&gt; 36th Way,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Back in 2008 or so we got our first introduction to move constructors that were coming with the C++0X standard.  However, our compilers didn&amp;#8217;t support it yet.  Then later when our compilers did support it, we weren&amp;#8217;t allowed to use the &amp;#8220;new-fangled&amp;#8221; features yet.  Now that C++11 is in mainstream, let&amp;#8217;s take another look at move constructors.  Why would you use them, when would you use them, how would you use them, and how do they actually work under the hood?  What is this &amp;#8216;&amp;amp;&amp;amp;&amp;#8217; thing which does not mean logical&amp;nbsp;and?&lt;/p&gt;
+&lt;p&gt;Back in 2008 or so we got our first introduction to move constructors that were coming with the C++0X standard.  However, our compilers didn&amp;#8217;t support it yet.  Then later when our compilers did support it, we weren&amp;#8217;t allowed to use the &amp;quot;new-fangled&amp;quot; features yet.  Now that C++11 is in mainstream, let&amp;#8217;s take another look at move constructors.  Why would you use them, when would you use them, how would you use them, and how do they actually work under the hood?  What is this &amp;#8216;&amp;amp;&amp;amp;&amp;#8217; thing which does not mean logical&amp;nbsp;and?&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
@@ -1567,20 +1263,7 @@ We&amp;#8217;re here to help our customers address challenges with their conting
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>January 18th 2017: Debugging Intermittent Issues</title><link href="http://nwcpp.org/january-2017.html" rel="alternate"></link><published>2016-12-29T00:00:00-08:00</published><updated>2016-12-29T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-12-29:/january-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: We are in Building 34, room 1001 this month. This is &lt;span class="caps"&gt;NOT&lt;/span&gt; our normal meeting&amp;nbsp;room!!!&lt;/p&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;January 18th, 2017 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Palouse Room, &lt;a class="reference external" href="http://nwcpp.org/images/MicrosoftMainCampusMap.jpg"&gt;Building 34 Room 1001&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Debugging intermittent issues present a unique set of …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>January 18th 2017: Debugging Intermittent Issues</title><link href="http://nwcpp.org/january-2017.html" rel="alternate"></link><updated>2016-12-29T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-12-29:january-2017.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: We are in Building 34, room 1001 this month. This is &lt;span class="caps"&gt;NOT&lt;/span&gt; our normal meeting&amp;nbsp;room!!!&lt;/p&gt;
 &lt;div class="line-block"&gt;
@@ -1622,21 +1305,7 @@ We&amp;#8217;re here to help our customers address challenges with their conting
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>November 16th 2016: Memory Safety and the D Programming Language</title><link href="http://nwcpp.org/November-2016.html" rel="alternate"></link><published>2016-11-22T00:00:00-08:00</published><updated>2016-11-22T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-11-22:/November-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;November 16th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;While memory safe code can be written in any language, it
-has become increasingly obvious that languages need to be
-able to mechanically check memory safety. Errors …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>November 16th 2016: Memory Safety and the D Programming Language</title><link href="http://nwcpp.org/November-2016.html" rel="alternate"></link><updated>2016-11-22T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-11-22:November-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 16th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1685,19 +1354,7 @@ discover that Walter is also the creator of the wargame Empire, which is still p
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>October 19th 2016: Productive Parallel Programming At Scale</title><link href="http://nwcpp.org/October-2016.html" rel="alternate"></link><published>2016-09-24T00:00:00-07:00</published><updated>2016-09-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-09-24:/October-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;October 19th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Chapel is a portable, open-source language for parallel programming on laptops, clusters, clouds, and supercomputers.  Chapel strives to be as programmable as Python, as fast as Fortran …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>October 19th 2016: Productive Parallel Programming At Scale</title><link href="http://nwcpp.org/October-2016.html" rel="alternate"></link><updated>2016-09-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-09-24:October-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 19th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1737,19 +1394,7 @@ discover that Walter is also the creator of the wargame Empire, which is still p
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>June 15th 2016: The LIQUiD Simulator</title><link href="http://nwcpp.org/June-2016.html" rel="alternate"></link><published>2016-05-20T00:00:00-07:00</published><updated>2016-05-20T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-05-20:/June-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;June 15th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;LIQUiD provides a modular software architecture for the simulation of quantum algorithms. It provides a high level interface and is independent of a specific quantum architecture. Recently …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>June 15th 2016: The LIQUiD Simulator</title><link href="http://nwcpp.org/June-2016.html" rel="alternate"></link><updated>2016-05-20T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-05-20:June-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;June 15th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1788,19 +1433,7 @@ discover that Walter is also the creator of the wargame Empire, which is still p
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>May 18th 2016: C++ Modules - Spring Update</title><link href="http://nwcpp.org/May-2016.html" rel="alternate"></link><published>2016-05-01T00:00:00-07:00</published><updated>2016-05-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-05-01:/May-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;May 18th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;“Modules” are a frequently requested and long-awaited feature by C++ programmers.  The basic idea is a direct language support for (a) expressing the boundaries and dependencies of …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>May 18th 2016: C++ Modules - Spring Update</title><link href="http://nwcpp.org/May-2016.html" rel="alternate"></link><updated>2016-05-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-05-01:May-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 18th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1839,19 +1472,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>April 20th 2016: Untangling Threads</title><link href="http://nwcpp.org/April-2016.html" rel="alternate"></link><published>2016-04-01T00:00:00-07:00</published><updated>2016-04-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-04-01:/April-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;April 20th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;With the direction in developing hardware with more processing power, caching of data and power efficiency, it is necessary to review the complete ecosphere of processing threads …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>April 20th 2016: Untangling Threads</title><link href="http://nwcpp.org/April-2016.html" rel="alternate"></link><updated>2016-04-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-04-01:April-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;April 20th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1890,19 +1511,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>February 17th 2016: C++ 2D Graphics Standardization</title><link href="http://nwcpp.org/february-2016.html" rel="alternate"></link><published>2016-01-30T00:00:00-08:00</published><updated>2016-01-30T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-01-30:/february-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;February 17th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Since many modern day languages support 2D graphics, C++ Standards Committee wanted to incorporate into the main language standard. Even though the standardization of the 2D display …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>February 17th 2016: C++ 2D Graphics Standardization</title><link href="http://nwcpp.org/february-2016.html" rel="alternate"></link><updated>2016-01-30T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2016-01-30:february-2016.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 17th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1941,19 +1550,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>November 18th 2015: STL Algorithms</title><link href="http://nwcpp.org/november-2015.html" rel="alternate"></link><published>2015-11-01T00:00:00-07:00</published><updated>2015-11-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-11-01:/november-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;November 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;This is a presentation on &lt;span class="caps"&gt;STL&lt;/span&gt; algorithms, their mechanics, and some interesting tricks. The talk is a piece of his upcoming book on algorithms, and is preceded …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>November 18th 2015: STL Algorithms</title><link href="http://nwcpp.org/november-2015.html" rel="alternate"></link><updated>2015-11-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-11-01:november-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;November 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -1969,7 +1566,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Michael VanLoon is a Principal Software Engineer at F5 Networks. He has more than 30 years experience writing software across a variety of industries. He&amp;#8217;s currently working on a book based on his talk from CPPCon 2015, &amp;#8220;Algorithms in&amp;nbsp;Action&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;Michael VanLoon is a Principal Software Engineer at F5 Networks. He has more than 30 years experience writing software across a variety of industries. He&amp;#8217;s currently working on a book based on his talk from CPPCon 2015, &amp;quot;Algorithms in&amp;nbsp;Action&amp;quot;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -1991,19 +1588,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>October 21th 2015: Qt in the Embedded World - How to create a device using Qt</title><link href="http://nwcpp.org/october-2015.html" rel="alternate"></link><published>2015-10-07T00:00:00-07:00</published><updated>2015-10-07T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-10-07:/october-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;October 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;This presentation will discuss the tools are necessary to develop embedded software with Qt and what differences there are between each of the supported embedded platforms. The …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>October 21th 2015: Qt in the Embedded World - How to create a device using Qt</title><link href="http://nwcpp.org/october-2015.html" rel="alternate"></link><updated>2015-10-07T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-10-07:october-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;October 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -2020,7 +1605,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Matthew Zanardi – Matt is the Northwest Account Manager for The Qt Company. He was born and raised in the Bay Area and Graduated from Michigan State University. If you want to inquire about anything Qt please reach out to him. Email: &lt;a class="reference external" href="mailto:matthew.zanardi&amp;#64;theqtcompany.com"&gt;matthew.zanardi&amp;#64;theqtcompany.com&lt;/a&gt;&amp;nbsp;(408)499-8319.&lt;/p&gt;
-&lt;p&gt;Shrikant Dhumal works as senior Consulting Engineer for &amp;#8220;The Qt Company&amp;#8221;. Shrikant has a Masters in holds Computer Science and has a real passion for the industry. He has been associated with Qt since 2001 (version Qt 3.0.x) and is one top consultants. He has worked on porting Qt to different embedded platforms which involves integrating/implementing Qt Graphics&amp;nbsp;plugins.&lt;/p&gt;
+&lt;p&gt;Shrikant Dhumal works as senior Consulting Engineer for &amp;quot;The Qt Company&amp;quot;. Shrikant has a Masters in holds Computer Science and has a real passion for the industry. He has been associated with Qt since 2001 (version Qt 3.0.x) and is one top consultants. He has worked on porting Qt to different embedded platforms which involves integrating/implementing Qt Graphics&amp;nbsp;plugins.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -2043,19 +1628,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>September 16th 2015: The BBC micro:bit and C++</title><link href="http://nwcpp.org/september-2015.html" rel="alternate"></link><published>2015-08-14T00:00:00-07:00</published><updated>2015-08-14T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-08-14:/september-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;September 16th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit is a small wearable and programmable mbed-based device that visibly features a 5x5 &lt;span class="caps"&gt;LED&lt;/span&gt; display, accelerometer, compass, buttons, I/O pins, Micro &lt;span class="caps"&gt;USB …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>September 16th 2015: The BBC micro:bit and C++</title><link href="http://nwcpp.org/september-2015.html" rel="alternate"></link><updated>2015-08-14T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-08-14:september-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;September 16th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -2071,7 +1644,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;/div&gt;
 &lt;div class="section" id="bio"&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Thomas Ball (Tom) is a Principal Researcher and Research Manager at Microsoft Research. Tom graduated with a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from Cornell University in 1987 and a &lt;span class="caps"&gt;M.S.&lt;/span&gt; and Ph.D. from the University of Wisconsin-Madison in 1993. From 1993-1999, he was a member of the technical staff at Bell Laboratories, where he made contributions in program visualization and program profiling. In 1999, Tom moved to Microsoft Research, where he started the &lt;span class="caps"&gt;SLAM&lt;/span&gt; software model checking project with Sriram Rajamani, which led to the creation of the Static Driver Verifier (&lt;span class="caps"&gt;SDV&lt;/span&gt;) tool for finding defects in device driver code. Tom and Sriram received the 2011 &lt;span class="caps"&gt;CAV&lt;/span&gt; Award &amp;#8220;for their contributions to software model checking, specifically the development of the &lt;span class="caps"&gt;SLAM&lt;/span&gt;/&lt;span class="caps"&gt;SDV&lt;/span&gt; software model checker that successfully demonstrated computer-aided verification techniques on real programs.&amp;#8221; Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt; Fellow for &amp;#8220;contributions to software analysis and defect detection&amp;#8221;. Since becoming a manager at Microsoft, he has nurtured research areas such as automated theorem proving, program testing/verification, empirical software engineering. His current focus is programming education via the TouchDevelop and &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit&amp;nbsp;projects&lt;/p&gt;
+&lt;p&gt;Thomas Ball (Tom) is a Principal Researcher and Research Manager at Microsoft Research. Tom graduated with a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from Cornell University in 1987 and a &lt;span class="caps"&gt;M.S.&lt;/span&gt; and Ph.D. from the University of Wisconsin-Madison in 1993. From 1993-1999, he was a member of the technical staff at Bell Laboratories, where he made contributions in program visualization and program profiling. In 1999, Tom moved to Microsoft Research, where he started the &lt;span class="caps"&gt;SLAM&lt;/span&gt; software model checking project with Sriram Rajamani, which led to the creation of the Static Driver Verifier (&lt;span class="caps"&gt;SDV&lt;/span&gt;) tool for finding defects in device driver code. Tom and Sriram received the 2011 &lt;span class="caps"&gt;CAV&lt;/span&gt; Award &amp;quot;for their contributions to software model checking, specifically the development of the &lt;span class="caps"&gt;SLAM&lt;/span&gt;/&lt;span class="caps"&gt;SDV&lt;/span&gt; software model checker that successfully demonstrated computer-aided verification techniques on real programs.&amp;quot; Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt; Fellow for &amp;quot;contributions to software analysis and defect detection&amp;quot;. Since becoming a manager at Microsoft, he has nurtured research areas such as automated theorem proving, program testing/verification, empirical software engineering. His current focus is programming education via the TouchDevelop and &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit&amp;nbsp;projects&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
@@ -2094,19 +1667,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>June 17th 2015: Porting Emacs via Native Client</title><link href="http://nwcpp.org/june-2015.html" rel="alternate"></link><published>2015-05-25T00:00:00-07:00</published><updated>2015-05-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-05-25:/june-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;June 17th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Townsend Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Bldg 41, Room 1511&lt;/a&gt;, &lt;span class="caps"&gt;NOTE&lt;/span&gt;: &lt;span class="caps"&gt;THIS&lt;/span&gt; &lt;span class="caps"&gt;IS&lt;/span&gt; &lt;span class="caps"&gt;NOT&lt;/span&gt; &lt;span class="caps"&gt;OUR&lt;/span&gt; &lt;span class="caps"&gt;NORMAL&lt;/span&gt; &lt;span class="caps"&gt;MEETING&lt;/span&gt; &lt;span class="caps"&gt;ROOM&lt;/span&gt;!!!!&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;As the preferred text editor for a multitude of software developers, Emacs has been ported to a …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>June 17th 2015: Porting Emacs via Native Client</title><link href="http://nwcpp.org/june-2015.html" rel="alternate"></link><updated>2015-05-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-05-25:june-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;June 17th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -2148,19 +1709,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>May 20th 2015: STL Concepts and Ranges</title><link href="http://nwcpp.org/may-2015.html" rel="alternate"></link><published>2015-04-23T00:00:00-07:00</published><updated>2015-04-23T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-04-23:/may-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;May 20th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;With concepts and ranges coming, big changes are in store for the Standard Library and for the style of idiomatic C++. The effort to redefine the Standard …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>May 20th 2015: STL Concepts and Ranges</title><link href="http://nwcpp.org/may-2015.html" rel="alternate"></link><updated>2015-04-23T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-04-23:may-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 20th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -2200,20 +1749,7 @@ Contact: Rachel Atchison, Account Manager  Phone: 425 372&amp;nbsp;1243&lt;/p&gt
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</content></entry><entry><title>Feburary 18, 2015—The STM32 Microcontroller</title><link href="http://nwcpp.org/february-2015.html" rel="alternate"></link><published>2015-02-02T00:00:00-08:00</published><updated>2015-02-02T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-02-02:/february-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;February 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The talk will cover tools and techniques related to the &lt;span class="caps"&gt;ST&lt;/span&gt; Microelectronics &lt;span class="caps"&gt;STM32&lt;/span&gt; microcontrollers.
-Agenda: &lt;span class="caps"&gt;ST&lt;/span&gt; Overview, &lt;span class="caps"&gt;ST&lt;/span&gt; Nucleo Ecosystem Overview, &lt;span class="caps"&gt;ARM&lt;/span&gt; mbed Ecosystem Overview (tentative), &lt;span class="caps"&gt;STM32 …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>Feburary 18, 2015—The STM32 Microcontroller</title><link href="http://nwcpp.org/february-2015.html" rel="alternate"></link><updated>2015-02-02T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-02-02:february-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;February 18st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -2240,21 +1776,7 @@ Ken has been with STMicro for 2 years. He has been in sales and marking in the &
 &lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ekwyr5pW2xE"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2015/STMicro_Presentation.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>January 21, 2015—Interfacing D To Legacy C++ Code—Walter Bright</title><link href="http://nwcpp.org/january-2015.html" rel="alternate"></link><published>2015-01-24T00:00:00-08:00</published><updated>2015-01-24T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-01-24:/january-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
-&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;January 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
-&lt;div class="line"&gt;Steptoe Room, &lt;a class="reference external" href="http://nwcpp.org/steptoe-meeting-room.html"&gt;Cafeteria 40&lt;/a&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Microsoft Campus,&lt;/div&gt;
-&lt;div class="line"&gt;156th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;,&lt;/div&gt;
-&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052.&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="section" id="abstract"&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;C++ programmers have developed a vast investment of existing code.
-Use of this code from other languages is normally impractical.
-Walter shows how this code can be …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+</summary></entry><entry><title>January 21, 2015—Interfacing D To Legacy C++ Code—Walter Bright</title><link href="http://nwcpp.org/january-2015.html" rel="alternate"></link><updated>2015-01-24T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2015-01-24:january-2015.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 21st, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -2313,10 +1835,7 @@ Phone: 425-298-1392      | Mobile: 763-227-0247  | Fax: 973-292-2838 |
 &lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=IkwaV6k6BmM"&gt;Video&lt;/a&gt; |
 &lt;a class="reference external" href="/talks/2015/DInterfacing.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</content></entry><entry><title>CppCon, September 7–12, Bellevue, WA</title><link href="http://nwcpp.org/cppcon-2014.html" rel="alternate"></link><published>2014-08-08T00:00:00-07:00</published><updated>2014-08-08T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2014-08-08:/cppcon-2014.html</id><summary type="html">&lt;p&gt;CppCon is a local C++ Conference (Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;) happening on September 7–12, 2014.
-Full details on the conference can be found at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The conference will also be hosting several &lt;span class="caps"&gt;FREE&lt;/span&gt; sessions.
-From 8:00 &lt;span class="caps"&gt;AM&lt;/span&gt; to 8:45 &lt;span class="caps"&gt;AM&lt;/span&gt; there will be several rooms holding various …&lt;/p&gt;</summary><content type="html">&lt;p&gt;CppCon is a local C++ Conference (Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;) happening on September 7–12, 2014.
+</summary></entry><entry><title>CppCon, September 7–12, Bellevue, WA</title><link href="http://nwcpp.org/cppcon-2014.html" rel="alternate"></link><updated>2014-08-08T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2014-08-08:cppcon-2014.html</id><summary type="html">&lt;p&gt;CppCon is a local C++ Conference (Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;) happening on September 7–12, 2014.
 Full details on the conference can be found at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The conference will also be hosting several &lt;span class="caps"&gt;FREE&lt;/span&gt; sessions.
 From 8:00 &lt;span class="caps"&gt;AM&lt;/span&gt; to 8:45 &lt;span class="caps"&gt;AM&lt;/span&gt; there will be several rooms holding various sessions
@@ -2332,17 +1851,7 @@ please get in touch with Brett Searles at
 to let him know that you are&amp;nbsp;interested!!&lt;/p&gt;
 &lt;p&gt;Again, full details on the conference are available at &lt;a class="reference external" href="http://cppcon.org/"&gt;http://cppcon.org/&lt;/a&gt;;
 please feel free to attend in which ever capacity suits&amp;nbsp;you!!!&lt;/p&gt;
-</content></entry><entry><title>Donate towards better video recordings</title><link href="http://nwcpp.org/camera-donations.html" rel="alternate"></link><published>2012-12-10T00:00:00-08:00</published><updated>2012-12-10T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2012-12-10:/camera-donations.html</id><summary type="html">&lt;style&gt;
-.left-float  {float: left}
-.right-float {float: right; padding-left: 5em; }
-&lt;/style&gt;&lt;div class="figure"&gt;
-&lt;img alt="Donation Thermometer" class="right-float" src="http://nwcpp.org/images/thermometer.jpg" /&gt;
-&lt;/div&gt;
-&lt;p&gt;The bulk of the feedback we have received over the last year
-on the videotaping of our meetings
-has been that the sound quality is very poor.
-To address this issue, the club would like to purchase a new video camera
-that …&lt;/p&gt;</summary><content type="html">&lt;style&gt;
+</summary></entry><entry><title>Donate towards better video recordings</title><link href="http://nwcpp.org/camera-donations.html" rel="alternate"></link><updated>2012-12-10T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2012-12-10:camera-donations.html</id><summary type="html">&lt;style&gt;
 .left-float  {float: left}
 .right-float {float: right; padding-left: 5em; }
 &lt;/style&gt;&lt;div class="figure"&gt;
@@ -2387,4 +1896,4 @@ are tax-deductible to the extent permitted by law.
 Our tax identification number is &lt;strong&gt;91-1718733&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Thank you very much for your continued support of the Northwest C++ Users&amp;#8217; Group
 and we look forward to bringing you another year of interesting and engaging&amp;nbsp;speakers!&lt;/p&gt;
-</content></entry></feed>
+</summary></entry></feed>
