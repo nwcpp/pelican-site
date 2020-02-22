@@ -52,8 +52,6 @@ This creates an environment in which a given functionality only needs to
 be implemented once and then gained across multiple data types. In the
 actual talk details will then be given on the TypeRT implementation.
 Process by which existing classes can be ported will be&amp;nbsp;explained.&lt;/p&gt;
-&lt;p&gt;Experiences of a Technical Director and Gameplay programmer by Samuel Schimmel:
-Discussing of my experiences both as the technical director and gameplay programmer of a &lt;span class="caps"&gt;UE4&lt;/span&gt; C++ project, and as the &lt;span class="caps"&gt;UE4&lt;/span&gt; C++ gameplay programming &lt;span class="caps"&gt;TA&lt;/span&gt;. The slides for my workshop, footage of the game, and commentary on various gameplay features I&amp;#8217;ve implemented using &lt;span class="caps"&gt;UE4&lt;/span&gt; C++, can be found here: &lt;a class="reference external" href="https://www.samuelschimmel.com/unreal/"&gt;https://www.samuelschimmel.com/unreal/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Transforming and Reducing Workloads: C++17 Parallel Algorithms for Rapid Prototyping by Louis Tan:
 C++17 introduced parallel execution policies for algorithms, and a versatile new std::transform_reduce algorithm for taking advantage of the feature. These both allow programmers to spend less time on the implementation details of dispatching parallel workloads, and more time on parallel design through rapid prototyping and iteration. In this talk, we will explore the use case of parallelizing a physics engine for performance, and how std::transform_reduce was used as a catch-all solution to accomplish&amp;nbsp;this.&lt;/p&gt;
 &lt;/div&gt;
@@ -75,19 +73,19 @@ writing binding libraries using C++&amp;nbsp;templates.&lt;/p&gt;
 I am a Senior at DigiPen institute of
 technology and currently work as an Associate Software Engineer at
 Monolith&amp;nbsp;Productions.&lt;/p&gt;
-&lt;p&gt;Samuel Schimmel:
-I was the technical director and gameplay programmer of the student game Perdition, which was selected to represent DigiPen at &lt;span class="caps"&gt;PAX&lt;/span&gt; West 2019, and is now available on Steam. Perdition was made in Unreal Engine 4, which allows developers to write gameplay code in C++ or using a proprietary visual scripting language called Blueprint. Despite the popularity and accessibility of Blueprint, I chose to write 100% of Perdition&amp;#8217;s gameplay code in C++ for performance and complexity management reasons. I&amp;#8217;m now the junior project class&amp;#8217; &lt;span class="caps"&gt;UE4&lt;/span&gt; C++ gameplay programming &lt;span class="caps"&gt;TA&lt;/span&gt;, and present an annual workshop on &lt;span class="caps"&gt;UE4&lt;/span&gt; C++ gameplay programming.
-My resume can be found here: &lt;a class="reference external" href="https://www.samuelschimmel.com/"&gt;https://www.samuelschimmel.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Louis Tan:
 Louis is an avid tinkerer and recent graduate who got his start in C++ developing game mods. He believes in the value of a diverse problem-solving toolkit and has gathered experience in multiple areas not limited to game development, including graphics, physics, reverse engineering and &lt;span class="caps"&gt;AI&lt;/span&gt;. He has also been known to engage in template metaprogramming for amusement, sometimes just to make certain people on the internet very, very&amp;nbsp;angry.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;Thanks to Daniel Hanson of the &lt;span class="caps"&gt;UW&lt;/span&gt; Department of Applied Mathematics - Please see his slide deck&amp;nbsp;below.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=rL09-tOvbT8"&gt;Video&lt;/a&gt;
+&lt;a class="reference external" href="/talks/2020/QuantDevAt_UW_AMATH.pdf"&gt;&lt;span class="caps"&gt;UW&lt;/span&gt; Quant Development Slides&lt;/a&gt;
+&lt;a class="reference external" href="/talks/2020/LuaBinding.pptx"&gt;Lua Binding Slides&lt;/a&gt;
+&lt;a class="reference external" href="/talks/2020/TransformingWorkloads.pptx"&gt;Transforming Workloads&amp;nbsp;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="digital-media-links"&gt;
 &lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
