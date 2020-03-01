@@ -1,4 +1,4 @@
-March 18th, 2020: C++ In Higher Education
+March 18th, 2020: Teaching C++ in the Applied Sciences
 #######################################################
 
 :date: 2020-03-1
