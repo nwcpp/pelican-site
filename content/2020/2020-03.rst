@@ -23,7 +23,7 @@ Time and Location
 
 Title
 ~~~~~
-C++ In Higher Education
+Teaching C++ in the Applied Sciences
 
 Abstract
 ~~~~~~~~~
