@@ -5,6 +5,14 @@ March 18th, 2020: Teaching C++ in the Applied Sciences
 :slug: March-2020
 :author: Lloyd Moore
 
+CANCELED
+~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE CANCELLING THE 
+| MARCH NWCPP MEETING. STAY TUNED AND WE'LL GET THIS RESCHEDULED. IF YOU 
+| ARE REALLY NEEDING A C++ PRESENTATION, PLEASE REMEMBER THAT THERE ARE
+| PLENTY ON LINE FROM THE CppCon AND CppNow!! EVERYONE PLEASE STAY SAFE
+| AND HEALTHY!!
+
 NEW MEETING LOCATION!!!
 ~~~~~~~~~~~~~~~~~~~~~~~
 | The March NWCPP meeting will be held in our new meeting location
