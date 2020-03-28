@@ -1,0 +1,59 @@
+April 15th, 2020: Teaching C++ in the Applied Sciences
+#######################################################
+
+:date: 2020-04-1
+:slug: April-2020
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| APRIL NWCPP MEETING ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING. THIS IS THE FIRST TIME WE ARE DOING A 
+| MEETING THIS WAY SO MAYBE BE A BIT EARLY TO HELP WORK OUT ANY KINKS!
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE. WE'LL HAVE
+| TO SEE HOW THE SYSTEM PERFORMS IF EVERYONE STREAMS VIDEO, THIS WOULD BE
+| NICE TO HAVE IF POSSIBLE BUT PLEASE BE PREPARED TO TURN YOUR VIDEO OFF
+| IF IT TURNS OUT TO BE CONSUMING TOO MUCH BANDWIDTH.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| April 15th, 2020 at 7:00 PM
+| On Line Using Microsoft Teams 
+| `Join Microsoft Teams Meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGFiMWRlZjAtZGQ1Zi00MjU1LWIwMjEtMzZjZTE2MTFhZDI3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 835 975 189#
+
+Title
+~~~~~
+Teaching C++ in the Applied Sciences
+
+Abstract
+~~~~~~~~~
+Coming Soon!
+
+Speaker Bio
+~~~~~~~~~~~~
+Daniel Hanson spent over 25 years in quantitative development in finance, primarily with C++ implementation of option pricing and portfolio risk models, and library development. He now holds a full-time lecturer position in the Department of Applied Mathematics at the University of Washington, teaching quantitative development courses in the Computational Finance & Risk Management (CFRM) MSc program. This includes intermediate and advanced classes in computational C++, and advising students in Google Summer of Code projects involving mathematical models implementation with C++ and R.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+CyberData Corporation was founded by Lloyd Moore in 1996. CyberData specializes in providing custom software and hardware solutions for robotics, machine vision, embedded systems and industrial automation applications. Our mission is to create high quality, innovative technology for the global marketplace.
+
+CyberData also conducts internal research into the areas of robotics, machine vision and artificial intelligence. Specific technologies are then either licensed, sold as products or released as open source, depending on the specific nature and goals of the project. Technological developments are also provided directly to our clients through our consulting services.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
