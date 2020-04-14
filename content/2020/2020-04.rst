@@ -51,7 +51,7 @@ CyberData also conducts internal research into the areas of robotics, machine vi
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2020/ThoughtsOnTeachingCpp_2020_04_15.pdf>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
