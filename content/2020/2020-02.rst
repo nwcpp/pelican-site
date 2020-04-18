@@ -96,6 +96,7 @@ Resources
 `UW Quant Development Slides </talks/2020/QuantDevAt_UW_AMATH.pdf>`_
 `Lua Binding Slides </talks/2020/LuaBinding.pptx>`_
 `Transforming Workloads Slides </talks/2020/TransformingWorkloads.pptx>`_
+`TypeRT Slides </talks/2020/TypeRuntime.pptx>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
