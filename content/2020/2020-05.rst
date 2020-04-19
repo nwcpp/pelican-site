@@ -1,0 +1,62 @@
+May 20th, 2020: Binary Object Serialization using Template Argument Deduction
+#############################################################################
+
+:date: 2020-04-19
+:slug: May-2020
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| MAY NWCPP MEETING ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE. WE'LL HAVE
+| TO SEE HOW THE SYSTEM PERFORMS IF EVERYONE STREAMS VIDEO, THIS WOULD BE
+| NICE TO HAVE IF POSSIBLE BUT PLEASE BE PREPARED TO TURN YOUR VIDEO OFF
+| IF IT TURNS OUT TO BE CONSUMING TOO MUCH BANDWIDTH.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| May 20th, 2020 at 7:00 PM
+| On Line Using Microsoft Teams 
+| `Join Microsoft Teams Meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I5NzhkNWQtYzM3Yi00NTA1LTgxMjItOWYzMjU3ZGVlZDU1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 917 017 259#
+
+Title
+~~~~~
+Binary Object Serialization using Template Argument Deduction (and pseudo-Reflection)
+
+Abstract
+~~~~~~~~~
+There are many mechanisms for a program to persist data.  Most are slow, bulky, and inflexible, that typically store flat data, in huge unsecure text files and are not able to save complex data structures.
+
+I will present a minimally intrusive technique for serializing data, in a binary format, that is lean and flexible (schema free).  When storing, it can deduce the data types.  When loading it will dynamically create complex data structures.  This is done through Template Argument Deduction and a technique represtivie of reflection.  Reflection is unavailable as language feature being that it has deferred until C++23 or C++26.  This is compliant with C++14 or later, platform agnostic and marco free.
+
+In addition to archiving data to files, it has an extensible interface for bidirectional communication between processes and/or remote computers, via sockets.   Techniques will be demonstrated to minimize storage footprint and secure archived data.  
+
+Speaker Bio
+~~~~~~~~~~~~
+Chris Ryan,  Classic C & Modern C++ Junkie Extraordinaire,  A self-actualized geek.
+I was classically educated in Hardware and Software Engineering.  After college, I mostly used 'C', until the mid-early 90's when C++ became my primarily language.  I have worked with many companies in engineering, science, medical, robotics and business domains, as an FTE and a contractor, from doing firmware & embedded projects to extremely complex massive systems.  I frequently work on number crunching engines and low-level communication protocols.  I have done everything from graphical/pixel pushing/user interfaces to drivers to database systems.  I have worked on CppCon as a volunteer staff member.  I manage multiple technical groups on LinkedIn, mostly around C, C++ and embedded.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
