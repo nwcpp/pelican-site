@@ -49,7 +49,9 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Code <https://github.com/ChrisRyan98008/NwCpp-May2020>`_
+`Slides </talks/2020/BinaryObjectSerialization.pdf>`_
+`Video <https://youtu.be/sL5DvtsriTY>`_
 
 
 Digital Media Links
