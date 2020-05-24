@@ -8,7 +8,7 @@ June 17th, 2020: Remedial C++ 14
 NEW MEETING LOCATION - ON LINE!!!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 | DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
-| MAY NWCPP MEETING ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| NWCPP MEETINGS ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
 | BELOW TO JOIN THE MEETING.
 |
 | DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE. WE'LL HAVE
@@ -37,7 +37,7 @@ Here's a link in case you want to watch the `Remedial C++ 11 <https://www.youtub
 
 Speaker Bio
 ~~~~~~~~~~~~
-Like the man in black said: "No one of consequence". Pete has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google. He’s been using C++ for most of that time, and attending NWCPP off and on since the 90’s. He has been known to talk about himself in third person.
+Like the man in black said: "No one of consequence". Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google. He’s been using C++ for most of that time, and attending NWCPP off and on since the 90’s. He has been known to talk about himself in third person.
 
 
 A Word From Our Sponsor
