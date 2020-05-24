@@ -1,0 +1,59 @@
+June 17th, 2020: Remedial C++ 14
+#############################################################################
+
+:date: 2020-05-24
+:slug: June-2020
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| MAY NWCPP MEETING ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE. WE'LL HAVE
+| TO SEE HOW THE SYSTEM PERFORMS IF EVERYONE STREAMS VIDEO, THIS WOULD BE
+| NICE TO HAVE IF POSSIBLE BUT PLEASE BE PREPARED TO TURN YOUR VIDEO OFF
+| IF IT TURNS OUT TO BE CONSUMING TOO MUCH BANDWIDTH.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| June 17th, 2020 at 7:00 PM
+| On Line Using Microsoft Teams 
+| `Join Microsoft Teams Meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I5NzhkNWQtYzM3Yi00NTA1LTgxMjItOWYzMjU3ZGVlZDU1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 917 017 259#
+
+Title
+~~~~~
+Remedial C++ 14
+
+Abstract
+~~~~~~~~~
+This is the sequel to the Remedial C++ 11 talk.  Come to see what new features we got with C++14 that were not available before.
+
+Here's a link in case you want to watch the `Remedial C++ 11 <https://www.youtube.com/watch?v=i1zNN_U6tEQ&feature=youtu.be>`_ talk beforehand.  
+
+Speaker Bio
+~~~~~~~~~~~~
+Like the man in black said: "No one of consequence". Pete has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google. He’s been using C++ for most of that time, and attending NWCPP off and on since the 90’s. He has been known to talk about himself in third person.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
