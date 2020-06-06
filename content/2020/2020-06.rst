@@ -46,8 +46,7 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
-
+`Slides </talks/2020/RemedialCpp14.pdf>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
