@@ -1,4 +1,4 @@
-July 17th, 2020: Culture of Code Reviews
+July 15th, 2020: Culture of Code Reviews
 #############################################################################
 
 :date: 2020-06-27
@@ -44,7 +44,9 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-
+Resources
+~~~~~~~~~
+`Slides </talks/2020/CultureOfCodeReviews.pptx>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
