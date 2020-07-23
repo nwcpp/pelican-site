@@ -44,9 +44,8 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Resources
-~~~~~~~~~
 `Slides </talks/2020/CultureOfCodeReviews.pptx>`_
+`Video <https://youtu.be/pe3LbfTMX2w>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
