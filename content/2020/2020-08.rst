@@ -27,15 +27,19 @@ Time and Location
 
 Title
 ~~~~~
-C++ Package Management
+Take charge of your C++ dependencies with vcpkg
 
 Abstract
 ~~~~~~~~~
-Coming Soon!!
+Dependency management is a pain point for many C++ developers. Many teams are beginning to adopt existing package management solutions, but there's still a large part of our industry managing dependencies manually. In this talk, you will learn how you can adopt vcpkg to make your development process easier, safer, and more reproducible.
+
+This year, vcpkg is expanding significantly by supporting a declarative manifest file, making it easier to manage private libraries, enabling installations of specific library versions, and enabling binary caching workflows to quickly provision CI runs or developer machines.
+
+Whether you're a beginner learning about C++ package management for the first time, or someone familiar with vcpkg who wants to learn about the latest improvements, this talk will give an overview of how to get started and manage libraries for real world projects. Vcpkg's long term goal is to satisfy workflows for all C++ developers, whether you are a professional developer working with millions of lines of code, or a student trying to get through some classes
 
 Speaker Bio
 ~~~~~~~~~~~~
-Coming Soon!!
+Augustin Popa is a Program Manager on the C++ team at Microsoft, planning and designing developer experiences in the Visual Studio IDE. Some of his past projects include ClangFormat, Google Test, and Boost.Test support. More recently, he is working on vcpkg, the cross-platform C++ library manager.
 
 
 A Word From Our Sponsor
