@@ -7,7 +7,7 @@ March 20th, 2019: Bringing Photoshop to the iPad
 
 Special Announcements
 ~~~~~~~~~~~~~~~~~~~~~
-NOTES: 
+NOTES:
 THIS MEETING IS AT A SPECIAL TIME ON A WEDNESDAY, 7:30 PM - ONE HALF HOUR LATER THAN NORMAL!
 
 Time and Location
@@ -37,6 +37,7 @@ Coming Soon!
 
 Resources
 ~~~~~~~~~
+`Slides </talks/2019/photoshop-on-ipad.pdf>`_
 `Video <https://www.youtube.com/watch?v=oQUtu_vD91g>`_
 
 
