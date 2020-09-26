@@ -1,0 +1,65 @@
+October 21th, 2020: Embedded Development Panel
+#############################################################################
+
+:date: 2020-09-26
+:slug: Oct-2020
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| NWCPP MEETINGS ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE. WE'LL HAVE
+| TO SEE HOW THE SYSTEM PERFORMS IF EVERYONE STREAMS VIDEO, THIS WOULD BE
+| NICE TO HAVE IF POSSIBLE BUT PLEASE BE PREPARED TO TURN YOUR VIDEO OFF
+| IF IT TURNS OUT TO BE CONSUMING TOO MUCH BANDWIDTH.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| Oct 21th, 2020 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Join Microsoft Teams Meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I5NzhkNWQtYzM3Yi00NTA1LTgxMjItOWYzMjU3ZGVlZDU1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 917 017 259#
+
+Title
+~~~~~
+Embedded Development Panel
+
+Abstract
+~~~~~~~~~
+Embedded development presents multiple challenges to the developer in terms of constrained hardware harsh operating environments, remote debugging, cross compilation and others that are not found in other types of software development.
+
+This panel will give you an opportunity to share best practices and ask questions on how to work in an embedded world.
+
+Speaker Bios
+~~~~~~~~~~~~
+Andrew N. Sloss
+Fellow of the British Computer Society, Part Time Lecturer at the University of Washington Electrical Engineering Department (15-years) and Senior Principal Research Engineer at Arm Holdings (24-years). Andrew has had a long career in the Embedded field spanning both commercial and higher education. His main interest and focus has been on the design of low level software on Embedded & Real-Time Systems. Co-authored one of the original books on the Arm processor. More recently he has turned his attention to analyzing future Disruptive Technologies, including the application of Evolutionary Algorithms on highly constrained devices and the hardware-software interface. Andrew has received numerous awards for both education and commercial achievements.
+
+Brett Searles
+Currently working in the AR/VR field for mobile applications. Loves to work in embedded and low level circuitry design. Very active in the C++ community with volunteering for NWCPP, CppCon and trying to get a hackathon started for college age students.
+
+Lloyd Moore
+Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields. Lloyd has worked in software industry for 30 years. His formal training in biological-based artificial intelligence, electronics, and psychology. Lloyd is also currently the president of the Northwest C++ User's Group and an organizer of the Seattle Robotics Society Robothon event. 
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
