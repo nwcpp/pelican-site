@@ -41,7 +41,7 @@ Andrew N. Sloss
 Fellow of the British Computer Society, Part Time Lecturer at the University of Washington Electrical Engineering Department (15-years) and Senior Principal Research Engineer at Arm Holdings (24-years). Andrew has had a long career in the Embedded field spanning both commercial and higher education. His main interest and focus has been on the design of low level software on Embedded & Real-Time Systems. Co-authored one of the original books on the Arm processor. More recently he has turned his attention to analyzing future Disruptive Technologies, including the application of Evolutionary Algorithms on highly constrained devices and the hardware-software interface. Andrew has received numerous awards for both education and commercial achievements.
 
 Brett Searles
-Has een working in the embedded field for over 20 years and is currently working at XKL on optical routers dealing with the OS and compiler tools for the PDP10 ISA. Also working in developing hardware and software for very HPC applications at Attobotics. Very active in the C++ community with volunteering for NWCPP and CppCon.
+Has been working in the embedded field for over 20 years and is currently working at XKL on optical routers dealing with the OS and compiler tools for the PDP10 ISA. Also working in developing hardware and software for very HPC applications at Attobotics. Very active in the C++ community with volunteering for NWCPP and CppCon.
 
 Lloyd Moore
 Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields. Lloyd has worked in software industry for 30 years. His formal training in biological-based artificial intelligence, electronics, and psychology. Lloyd is also currently the president of the Northwest C++ User's Group and an organizer of the Seattle Robotics Society Robothon event. 
@@ -53,7 +53,7 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Video <https://youtu.be/mOrPP-8YeC0>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
