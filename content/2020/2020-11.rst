@@ -1,0 +1,55 @@
+November 18th, 2020: 3D Graphics for Dummies
+#############################################################################
+
+:date: 2020-10-26
+:slug: Nov-2020
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| NWCPP MEETINGS ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE. WE'LL HAVE
+| TO SEE HOW THE SYSTEM PERFORMS IF EVERYONE STREAMS VIDEO, THIS WOULD BE
+| NICE TO HAVE IF POSSIBLE BUT PLEASE BE PREPARED TO TURN YOUR VIDEO OFF
+| IF IT TURNS OUT TO BE CONSUMING TOO MUCH BANDWIDTH.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| Nov 18st, 2020 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Join Microsoft Teams Meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I5NzhkNWQtYzM3Yi00NTA1LTgxMjItOWYzMjU3ZGVlZDU1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 917 017 259#
+
+Title
+~~~~~
+3D Graphics for Dummies
+
+Abstract
+~~~~~~~~~
+An introduction to Three Dimensional Graphics: Points, Vectors, Matrix Math, Rasterization and the methods used in the Graphics Pipeline and Rendering. Being a typical engineer, rather than just using an off-the-shelf library, I wrote a simple program to explore the blood and guts of the topic. It is much simpler than you would think.
+
+Speaker Bio
+~~~~~~~~~~~
+Chris Ryan was classically trained in both software and hardware engineering.  He is well experienced in Modern C++ & Classic 'C', on extremely large/complex problem spaces and on Embedded/Firmware devices (large & small). Chris has no interest in C#, Java, js or any web-ish tech.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
