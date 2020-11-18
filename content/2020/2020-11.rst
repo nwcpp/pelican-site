@@ -43,7 +43,7 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2020/3DGraphicsForDummies.pdf>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
