@@ -44,6 +44,7 @@ Sorry no sponsor this month.
 Resources
 ~~~~~~~~~
 `Slides </talks/2020/3DGraphicsForDummies.pdf>`_
+`Video <https://youtu.be/ZFMxajr0TKU>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
