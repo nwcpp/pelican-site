@@ -1,0 +1,56 @@
+January 20th, 2021: Integrating Reusable C++ Code in R Packages
+#############################################################################
+
+:date: 2020-12-24
+:slug: Jan-2021
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| NWCPP MEETINGS ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| January 20th, 2021 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhMDJlNGMtMGZmNi00MDJiLWIzZTYtNTQzMTViMDViYzY4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 457 317 069#
+
+Title
+~~~~~
+Integrating Reusable C++ Code in R Packages
+
+Abstract
+~~~~~~~~~
+One of the most time-consuming, tedious, and thankless tasks a quantitative developer frequently confronts is writing interfaces to C++ code from other languages such as Excel VBA, Python, and R. Fortunately, this process has been made far less painful when interfacing to a front-end in R, thanks to the Rcpp R package.
+
+The open source Rcpp package was first developed about ten years ago. It has since evolved significantly in terms of providing a platform for rapid development, plus convenient build and documentation tools, all integrated into the RStudio IDE.  Rcpp represents a major breakthrough in allowing a programmer to farm out computationally-intensive tasks to C++, return the results to R, and then use these results within other R functions, including R’s powerful data visualization tools. Although there is a fair amount of documentation available on using Rcpp, there does not seem to be much written on how to ensure a clean separation between the R interface and the C++ code.
+
+In this presentation, we will discuss how to set up an R package project in RStudio, develop C++ interfaces with Rcpp, and then call standard C++ code that remains reusable for other applications, all with minimal fuss.
+
+Speaker Bio
+~~~~~~~~~~~
+Daniel Hanson is a full-time lecturer in the Computational Finance & Risk Management program within the Department of Applied Mathematics at the University of Washington. His appointment followed over 25 years of experience in private sector quantitative development in finance and data science.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
