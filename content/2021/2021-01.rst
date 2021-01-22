@@ -44,7 +44,8 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2021/NWCPP_Rcpp_R_Packages.pdf>`_
+`Video <https://youtu.be/xNqhjeFSR1k>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
