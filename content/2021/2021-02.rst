@@ -1,0 +1,58 @@
+February 17th, 2021: Integrating Reusable C++ Code in R Packages
+#############################################################################
+
+:date: 2021-01-23
+:slug: Feb-2021
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| NWCPP MEETINGS ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| February 17th, 2021 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhMDJlNGMtMGZmNi00MDJiLWIzZTYtNTQzMTViMDViYzY4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 457 317 069#
+
+Title
+~~~~~
+Intrusive Flat Forward List for self-containing POD types
+
+Abstract
+~~~~~~~~~
+Variable length self-containing data structures are around us everywhere. Most often we use them when we [de]serialize data to/from the storage or networking. We use serialization libraries to flip data between a format used to persist data and a format we use to operate data in RAM. There is a category of data structures that have the same representation when they are persistent and when they are in memory. One of them can be described as an Intrusive Flat Forward List (IFFL). You probably came across it when enumerating content of a directory on a file system. Most projects have hand crafted non reusable algorithms that deal with this structure. They are one of common places of codding errors and sometimes security vulnerabilities and are hard to maintain.
+
+We will look at the header only MIT-licensed open-source library IFFL that provides a set of algorithms as well as owning and non-owning containers that solve these issues. All containers have familiar STL-like interface. Once you have that hammer at your disposal, many problems will look like a nail. You will start seeing how this structure can help more efficiently pass data across processes or organize data in shared memory or on disk.
+
+Speaker Bio
+~~~~~~~~~~~
+Vladimir Petter is a Principal Software Developer Lead at Microsoft working in High Availability and Storage group that is responsible for many features shipping in Windows Server. His team owns Microsoft implementation of SMB (a remote file system protocol) server and client.
+
+Over his 30-year career he had an opportunity to work in a variety of industries like Banking, Industrial Processes Automation, Building Automation and Security, Video on Demand etc. He has been working at Microsoft for the last 15 years. After joining Clustering team, he has discovered his true passion: building distributed highly available applications. He has been a contributor in many products owned by this group like Network Load Balancer, Failover Cluster, Cluster Shared Volume, SMB and S2D. It is an exciting area, full of unique algorithms. He had an opportunity to develop solutions across user mode and kernel mode and build in depth knowledge in many technologies from networking to storage.
+
+He is passionate about C/C++ and in his free time is working on small projects that help to compose products and solutions faster and with higher quality.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
