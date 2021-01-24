@@ -22,6 +22,10 @@ Time and Location
 | +1 323-849-4874   United States, Los Angeles (Toll)
 | Conference ID: 457 317 069#
 
+Opening Act
+~~~~~~~~~~~
+We'll have a short "opening act" for this meeting. Daniel Hanson will present the demo from the January meeting again.
+
 Title
 ~~~~~
 Intrusive Flat Forward List for self-containing POD types
