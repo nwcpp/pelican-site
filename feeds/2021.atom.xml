@@ -19,6 +19,10 @@
 &lt;div class="line"&gt;Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 457 317 069#&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;div class="section" id="opening-act"&gt;
+&lt;h2&gt;Opening&amp;nbsp;Act&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;ll have a short &amp;quot;opening act&amp;quot; for this meeting. Daniel Hanson will present the demo from the January meeting&amp;nbsp;again.&lt;/p&gt;
+&lt;/div&gt;
 &lt;div class="section" id="title"&gt;
 &lt;h2&gt;Title&lt;/h2&gt;
 &lt;p&gt;Intrusive Flat Forward List for self-containing &lt;span class="caps"&gt;POD&lt;/span&gt;&amp;nbsp;types&lt;/p&gt;
