@@ -98,10 +98,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="../Jan-2021.html">January 20th, 2021: Integrating Reusable C++ Code in R&nbsp;Packages</a></h1>
+                    <h1 class="entry-title"><a href="../Feb-2021.html">February 17th, 2021: Integrating Reusable C++ Code in R&nbsp;Packages</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2020-12-24T00:00:00-08:00">
-                Published: Thu 24 December 2020
+        <abbr class="published" title="2021-01-23T00:00:00-08:00">
+                Published: Sat 23 January 2021
         </abbr>
 
         <address class="vcard author">
@@ -122,7 +122,7 @@
 <div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line">January 20th, 2021 at 7:00 <span class="caps">PM</span></div>
+<div class="line">February 17th, 2021 at 7:00 <span class="caps">PM</span></div>
 <div class="line">On Line Using Microsoft Teams</div>
 <div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhMDJlNGMtMGZmNi00MDJiLWIzZTYtNTQzMTViMDViYzY4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d">Click here to join the meeting</a></div>
 <div class="line">+1 323-849-4874   United States, Los Angeles (Toll)</div>
@@ -131,17 +131,18 @@
 </div>
 <div class="section" id="title">
 <h2>Title</h2>
-<p>Integrating Reusable C++ Code in R&nbsp;Packages</p>
+<p>Intrusive Flat Forward List for self-containing <span class="caps">POD</span>&nbsp;types</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>One of the most time-consuming, tedious, and thankless tasks a quantitative developer frequently confronts is writing interfaces to C++ code from other languages such as Excel <span class="caps">VBA</span>, Python, and R. Fortunately, this process has been made far less painful when interfacing to a front-end in R, thanks to the Rcpp R&nbsp;package.</p>
-<p>The open source Rcpp package was first developed about ten years ago. It has since evolved significantly in terms of providing a platform for rapid development, plus convenient build and documentation tools, all integrated into the RStudio <span class="caps">IDE</span>.  Rcpp represents a major breakthrough in allowing a programmer to farm out computationally-intensive tasks to C++, return the results to R, and then use these results within other R functions, including R’s powerful data visualization tools. Although there is a fair amount of documentation available on using Rcpp, there does not seem to be much written on how to ensure a clean separation between the R interface and the C++&nbsp;code.</p>
-<p>In this presentation, we will discuss how to set up an R package project in RStudio, develop C++ interfaces with Rcpp, and then call standard C++ code that remains reusable for other applications, all with minimal&nbsp;fuss.</p>
+<p>Variable length self-containing data structures are around us everywhere. Most often we use them when we [de]serialize data to/from the storage or networking. We use serialization libraries to flip data between a format used to persist data and a format we use to operate data in <span class="caps">RAM</span>. There is a category of data structures that have the same representation when they are persistent and when they are in memory. One of them can be described as an Intrusive Flat Forward List (<span class="caps">IFFL</span>). You probably came across it when enumerating content of a directory on a file system. Most projects have hand crafted non reusable algorithms that deal with this structure. They are one of common places of codding errors and sometimes security vulnerabilities and are hard to&nbsp;maintain.</p>
+<p>We will look at the header only <span class="caps">MIT</span>-licensed open-source library <span class="caps">IFFL</span> that provides a set of algorithms as well as owning and non-owning containers that solve these issues. All containers have familiar <span class="caps">STL</span>-like interface. Once you have that hammer at your disposal, many problems will look like a nail. You will start seeing how this structure can help more efficiently pass data across processes or organize data in shared memory or on&nbsp;disk.</p>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
-<p>Daniel Hanson is a full-time lecturer in the Computational Finance <span class="amp">&amp;</span> Risk Management program within the Department of Applied Mathematics at the University of Washington. His appointment followed over 25 years of experience in private sector quantitative development in finance and data&nbsp;science.</p>
+<p>Vladimir Petter is a Principal Software Developer Lead at Microsoft working in High Availability and Storage group that is responsible for many features shipping in Windows Server. His team owns Microsoft implementation of <span class="caps">SMB</span> (a remote file system protocol) server and&nbsp;client.</p>
+<p>Over his 30-year career he had an opportunity to work in a variety of industries like Banking, Industrial Processes Automation, Building Automation and Security, Video on Demand etc. He has been working at Microsoft for the last 15 years. After joining Clustering team, he has discovered his true passion: building distributed highly available applications. He has been a contributor in many products owned by this group like Network Load Balancer, Failover Cluster, Cluster Shared Volume, <span class="caps">SMB</span> and <span class="caps">S2D</span>. It is an exciting area, full of unique algorithms. He had an opportunity to develop solutions across user mode and kernel mode and build in depth knowledge in many technologies from networking to&nbsp;storage.</p>
+<p>He is passionate about C/C++ and in his free time is working on small projects that help to compose products and solutions faster and with higher&nbsp;quality.</p>
 </div>
 <div class="section" id="a-word-from-our-sponsor">
 <h2>A Word From Our&nbsp;Sponsor</h2>
@@ -149,8 +150,7 @@
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="/talks/2021/NWCPP_Rcpp_R_Packages.pdf">Slides</a>
-<a class="reference external" href="https://youtu.be/xNqhjeFSR1k">Video</a></p>
+<p>Coming&nbsp;Soon!</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -168,6 +168,41 @@
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="../Jan-2021.html" rel="bookmark"
+                           title="Permalink to January 20th, 2021: Integrating Reusable C++ Code in R Packages">January 20th, 2021: Integrating Reusable C++ Code in R&nbsp;Packages</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2020-12-24T00:00:00-08:00">
+                Published: Thu 24 December 2020
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="../author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="../category/2021.html">2021</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="new-meeting-location-on-line">
+<h2><span class="caps">NEW</span> <span class="caps">MEETING</span> <span class="caps">LOCATION</span> - <span class="caps">ON</span> <span class="caps">LINE</span>!!!</h2>
+<div class="line-block">
+<div class="line"><span class="caps">DUE</span> <span class="caps">TO</span> <span class="caps">CONCERNS</span> <span class="caps">SURROUNDING</span> <span class="caps">THE</span> <span class="caps">COVID</span>-19 <span class="caps">OUTBREAK</span> <span class="caps">WE</span> <span class="caps">ARE</span> <span class="caps">HOLDING</span> <span class="caps">THE</span></div>
+<div class="line"><span class="caps">NWCPP</span> <span class="caps">MEETINGS</span> <span class="caps">ON</span> <span class="caps">LINE</span> <span class="caps">USING</span> <span class="caps">MICROSOFT</span> <span class="caps">TEAMS</span>. <span class="caps">PLEASE</span> <span class="caps">USE</span> <span class="caps">THE</span> <span class="caps">LINK</span></div>
+<div class="line"><span class="caps">BELOW</span> <span class="caps">TO</span> <span class="caps">JOIN</span> <span class="caps">THE</span> <span class="caps">MEETING</span>.</div>
+<div class="line"><br /></div>
+<div class="line"><span class="caps">DURING</span> <span class="caps">THE</span> <span class="caps">MEETING</span> <span class="caps">PLEASE</span> <span class="caps">REMEMBER</span> <span class="caps">TO</span> <span class="caps">MUTE</span> <span class="caps">YOUR</span> <span class="caps">MICROPHONE</span>.</div>
+</div>
+</div>
+<div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">January 20th, 2021 at 7 ...</div></div></div>
+                <a class="readmore" href="../Jan-2021.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -479,33 +514,6 @@
 <h2>Abstracts</h2>
 <p>This talk will feature a collection of senior research projects, presented by DigiPen&nbsp;students ...</p></div>
                 <a class="readmore" href="../Jan-2020.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="../Dec-2019.html" rel="bookmark"
-                           title="Permalink to December 2019: Happy Holidays">December 2019: Happy&nbsp;Holidays</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2019-12-01T00:00:00-08:00">
-                Published: Sun 01 December 2019
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="../author/lloyd-moore.html">Lloyd Moore</a>
-        </address>
-<p>In <a href="../category/2019.html">2019</a>. </p>
-
-</footer><!-- /.post-info -->                <div class="section" id="happy-holidays">
-<h2>Happy&nbsp;Holidays!!</h2>
-<p>Folks, Just a quick reminder that we don&#8217;t have a meeting in December. Happy Holidays and we&#8217;ll
-see you all in January&nbsp;2020!!</p>
-</div>
-
-                <a class="readmore" href="../Dec-2019.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
             </ol><!-- /#posts-list -->
