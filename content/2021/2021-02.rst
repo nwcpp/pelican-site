@@ -1,4 +1,4 @@
-February 17th, 2021: Integrating Reusable C++ Code in R Packages
+February 17th, 2021: Intrusive Flat Forward List
 #############################################################################
 
 :date: 2021-01-23
