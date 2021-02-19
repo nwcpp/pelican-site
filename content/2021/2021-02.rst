@@ -50,7 +50,17 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2021/IFFL.pptx>`_
+
+`Source Code <https://github.com/vladp72/iffl>`_
+
+`Video <https://youtu.be/5ollZ9Oz60w>`_
+
+Video Timing Notes:
+
+Preshow: R coding demo starts at time index: 7:52
+
+Main Event: Intrusive Flat Forward List starts at time index: 24:00
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
