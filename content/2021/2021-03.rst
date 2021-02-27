@@ -1,0 +1,52 @@
+March 17th, 2021: Empowering Everyone to Write Reliable and Safe C++
+#############################################################################
+
+:date: 2021-02-25
+:slug: Mar-2021
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| NWCPP MEETINGS ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| March 17th, 2021 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhMDJlNGMtMGZmNi00MDJiLWIzZTYtNTQzMTViMDViYzY4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 457 317 069#
+
+Title
+~~~~~
+Empowering Everyone to Write Reliable and Safe C++ Using Principles of Static Analysis
+
+Abstract
+~~~~~~~~~
+Did you know that 70% of serious security bugs are a result of memory safety issues? Although C++ is high performing programming language, customers and security researchers have increasingly asked for stronger safety and correctness guarantees in their programs. In fact, safety and correctness are no longer viewed as opt-in behavior. In this talk, I will explore how static analysis principles can be used to provide strong statically checked guarantees out of the box, without compromising on the trailblazing performance and memory efficiency of C++. I will demonstrate some of these techniques live on real world examples.
+
+Speaker Bio
+~~~~~~~~~~~
+Sunny Chatterjee leads a team responsible for developing the core C++ Static Analysis engines in Visual Studio productivity experience as well as the traditional security tooling scenarios used widely within Microsoft. He has many years of experience working on program analysis. His current area of focus is towards making C++ a safer systems programming language.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
