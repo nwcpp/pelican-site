@@ -42,7 +42,10 @@ Resources
 ~~~~~~~~~
 `Slides </talks/2021/SunnyStaticAnalysis.pptx>`_
 
+`Source Code </talks/2021/NWCpp_StaticAnalysis.zip>`_
+
 `Video <https://www.youtube.com/watch?v=RZ2s89kJQzE>`_
+
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
