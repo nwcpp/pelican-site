@@ -98,10 +98,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="../Mar-2021.html">March 17th, 2021: Empowering Everyone to Write Reliable and Safe&nbsp;C++</a></h1>
+                    <h1 class="entry-title"><a href="../Apr-2021.html">April 21th, 2021: Destroy All Memory&nbsp;Corruption</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2021-02-25T00:00:00-08:00">
-                Published: Thu 25 February 2021
+        <abbr class="published" title="2021-03-21T00:00:00-07:00">
+                Published: Sun 21 March 2021
         </abbr>
 
         <address class="vcard author">
@@ -122,7 +122,7 @@
 <div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line">March 17th, 2021 at 7:00 <span class="caps">PM</span></div>
+<div class="line">April 21th, 2021 at 7:00 <span class="caps">PM</span></div>
 <div class="line">On Line Using Microsoft Teams</div>
 <div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhMDJlNGMtMGZmNi00MDJiLWIzZTYtNTQzMTViMDViYzY4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d">Click here to join the meeting</a></div>
 <div class="line">+1 323-849-4874   United States, Los Angeles (Toll)</div>
@@ -131,15 +131,17 @@
 </div>
 <div class="section" id="title">
 <h2>Title</h2>
-<p>Empowering Everyone to Write Reliable and Safe C++ Using Principles of Static&nbsp;Analysis</p>
+<p>Destroy All Memory&nbsp;Corruption</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Did you know that 70% of serious security bugs are a result of memory safety issues? Although C++ is high performing programming language, customers and security researchers have increasingly asked for stronger safety and correctness guarantees in their programs. In fact, safety and correctness are no longer viewed as opt-in behavior. In this talk, I will explore how static analysis principles can be used to provide strong statically checked guarantees out of the box, without compromising on the trailblazing performance and memory efficiency of C++. I will demonstrate some of these techniques live on real world&nbsp;examples.</p>
+<p>Memory corruption is a pernicious and expensive problem. Too often scrubbing it out of code requires manual review, which becomes increasingly impractical as the size of code increases. Runtime checks are inadequate because they cannot prove that memory corruption cannot happen since only the test cases are checked. The idea is to be able to detect memory corruption at compile time as much as&nbsp;possible.</p>
+<p>D has had great success at greatly reducing many common forms of memory corruption, such as buffer overflows, use of uninitialized pointers, constructing invalid pointers, and dangling pointers into expired stack&nbsp;frames.</p>
+<p>The largest remaining category of such problems is tracking the lifetimes of memory objects and the references to them. The idea is to pair every memory allocation with exactly one deallocation and prevent references to a memory object from surviving past the lifetime of that object. This presentation describes the design of a memory ownership and borrowing system suitable for inclusion into the D language, addressing that&nbsp;category.</p>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
-<p>Sunny Chatterjee leads a team responsible for developing the core C++ Static Analysis engines in Visual Studio productivity experience as well as the traditional security tooling scenarios used widely within Microsoft. He has many years of experience working on program analysis. His current area of focus is towards making C++ a safer systems programming&nbsp;language.</p>
+<p>Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages. He&#8217;s an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines and runtime libraries. Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques. Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 30 years after its&nbsp;debut.</p>
 </div>
 <div class="section" id="a-word-from-our-sponsor">
 <h2>A Word From Our&nbsp;Sponsor</h2>
@@ -147,9 +149,7 @@
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="/talks/2021/SunnyStaticAnalysis.pptx">Slides</a></p>
-<p><a class="reference external" href="/talks/2021/NWCpp_StaticAnalysis.zip">Source&nbsp;Code</a></p>
-<p><a class="reference external" href="https://www.youtube.com/watch?v=RZ2s89kJQzE">Video</a></p>
+<p>Coming&nbsp;Soon!</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -167,6 +167,41 @@
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="../Mar-2021.html" rel="bookmark"
+                           title="Permalink to March 17th, 2021: Empowering Everyone to Write Reliable and Safe C++">March 17th, 2021: Empowering Everyone to Write Reliable and Safe&nbsp;C++</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2021-02-25T00:00:00-08:00">
+                Published: Thu 25 February 2021
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="../author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="../category/2021.html">2021</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="new-meeting-location-on-line">
+<h2><span class="caps">NEW</span> <span class="caps">MEETING</span> <span class="caps">LOCATION</span> - <span class="caps">ON</span> <span class="caps">LINE</span>!!!</h2>
+<div class="line-block">
+<div class="line"><span class="caps">DUE</span> <span class="caps">TO</span> <span class="caps">CONCERNS</span> <span class="caps">SURROUNDING</span> <span class="caps">THE</span> <span class="caps">COVID</span>-19 <span class="caps">OUTBREAK</span> <span class="caps">WE</span> <span class="caps">ARE</span> <span class="caps">HOLDING</span> <span class="caps">THE</span></div>
+<div class="line"><span class="caps">NWCPP</span> <span class="caps">MEETINGS</span> <span class="caps">ON</span> <span class="caps">LINE</span> <span class="caps">USING</span> <span class="caps">MICROSOFT</span> <span class="caps">TEAMS</span>. <span class="caps">PLEASE</span> <span class="caps">USE</span> <span class="caps">THE</span> <span class="caps">LINK</span></div>
+<div class="line"><span class="caps">BELOW</span> <span class="caps">TO</span> <span class="caps">JOIN</span> <span class="caps">THE</span> <span class="caps">MEETING</span>.</div>
+<div class="line"><br /></div>
+<div class="line"><span class="caps">DURING</span> <span class="caps">THE</span> <span class="caps">MEETING</span> <span class="caps">PLEASE</span> <span class="caps">REMEMBER</span> <span class="caps">TO</span> <span class="caps">MUTE</span> <span class="caps">YOUR</span> <span class="caps">MICROPHONE</span>.</div>
+</div>
+</div>
+<div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">March 17th, 2021 at 7 ...</div></div></div>
+                <a class="readmore" href="../Mar-2021.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -472,46 +507,6 @@
 <div class="line"><span class="caps">PLENTY</span> <span class="caps">ON</span> <span class="caps">LINE</span> <span class="caps">FROM</span> <span class="caps">THE</span> CppCon <span class="caps">AND</span> CppNow!! <span class="caps">EVERYONE</span> <span class="caps">PLEASE</span> <span class="caps">STAY</span> <span class="caps">SAFE</span></div>
 <div class="line"><span class="caps">AND ...</span></div></div></div>
                 <a class="readmore" href="../March-2020.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="../Feb-2020.html" rel="bookmark"
-                           title="Permalink to Feb 19th, 2020: DigiPen Senior Research Projects">Feb 19th, 2020: DigiPen Senior Research&nbsp;Projects</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2020-01-18T00:00:00-08:00">
-                Published: Sat 18 January 2020
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="../author/lloyd-moore.html">Lloyd Moore</a>
-        </address>
-<p>In <a href="../category/2020.html">2020</a>. </p>
-
-</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
-<h2>Time and&nbsp;Location</h2>
-<div class="line-block">
-<div class="line">Feb 19th, 2020 at 7:00 <span class="caps">PM</span></div>
-<div class="line">Room 1087, Building 30,
-<a class="reference external" href="https://www.google.com/maps/place/Microsoft+Building+30/&#64;47.645004,-122.1243829,17z/data=!3m1!4b1!4m5!3m4!1s0x54906d7a92bfda0f:0xc03a9c414544c91e!8m2!3d47.6450004!4d-122.1221942">Map to building 30</a>,</div>
-<div class="line">Microsoft Campus,</div>
-<div class="line">156th Ave <span class="caps">NE</span>,</div>
-<div class="line">Redmond, <span class="caps">WA</span> 98052.</div>
-</div>
-</div>
-<div class="section" id="title">
-<h2>Title</h2>
-<p>DigiPen Senior Research&nbsp;Projects</p>
-</div>
-<div class="section" id="abstracts">
-<h2>Abstracts</h2>
-<p>This talk will feature a collection of senior research projects, presented by DigiPen&nbsp;students:</p>
-<p>Templatized Lua Binding by ...</p></div>
-                <a class="readmore" href="../Feb-2020.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
             </ol><!-- /#posts-list -->
