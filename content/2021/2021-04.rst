@@ -1,0 +1,58 @@
+April 21th, 2021: Destroy All Memory Corruption
+#############################################################################
+
+:date: 2021-03-21
+:slug: Apr-2021
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| NWCPP MEETINGS ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| April 21th, 2021 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhMDJlNGMtMGZmNi00MDJiLWIzZTYtNTQzMTViMDViYzY4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 457 317 069#
+
+Title
+~~~~~
+Destroy All Memory Corruption
+
+Abstract
+~~~~~~~~~
+Memory corruption is a pernicious and expensive problem. Too often scrubbing it out of code requires manual review, which becomes increasingly impractical as the size of code increases. Runtime checks are inadequate because they cannot prove that memory corruption cannot happen since only the test cases are checked. The idea is to be able to detect memory corruption at compile time as much as possible.
+
+D has had great success at greatly reducing many common forms of memory corruption, such as buffer overflows, use of uninitialized pointers, constructing invalid pointers, and dangling pointers into expired stack frames.
+
+The largest remaining category of such problems is tracking the lifetimes of memory objects and the references to them. The idea is to pair every memory allocation with exactly one deallocation and prevent references to a memory object from surviving past the lifetime of that object. This presentation describes the design of a memory ownership and borrowing system suitable for inclusion into the D language, addressing that category.
+
+Speaker Bio
+~~~~~~~~~~~
+Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages. He's an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines and runtime libraries. Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques. Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 30 years after its debut.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+`Slides </talks/2021/DestroyAllMemoryCorruption.pdf>`_
+
+`Video <https://youtu.be/bf7csqqXmrA>`_
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+
