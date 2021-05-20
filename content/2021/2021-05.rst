@@ -40,7 +40,9 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2021/SuccessfulSoftwareProjects.pptx>`_
+
+`Video <https://youtu.be/aC9RkHvBbow>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
