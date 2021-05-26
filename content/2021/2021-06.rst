@@ -1,0 +1,53 @@
+June 16th, 2021: Modern Application Development for Any Domain
+#############################################################################
+
+:date: 2021-05-26
+:slug: June-2021
+:author: Lloyd Moore
+
+NEW MEETING LOCATION - ON LINE!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| DUE TO CONCERNS SURROUNDING THE COVID-19 OUTBREAK WE ARE HOLDING THE
+| NWCPP MEETINGS ON LINE USING MICROSOFT TEAMS. PLEASE USE THE LINK
+| BELOW TO JOIN THE MEETING.
+|
+| DURING THE MEETING PLEASE REMEMBER TO MUTE YOUR MICROPHONE.
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| June 16th, 2021 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODlhMDJlNGMtMGZmNi00MDJiLWIzZTYtNTQzMTViMDViYzY4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%221f061217-57cb-47e1-90bd-586015d9c2ff%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 457 317 069#
+
+Title
+~~~~~
+Modern Application Development for Any Domain
+
+Abstract
+~~~~~~~~~
+With the rise of the high-resolution, responsive mobile user interface has come rising user expectations of technology in every facet of life. From consumer devices to industrial control panels to scientific data analysis applications, the way the user feels when interacting with technology often determines the success or failure of a product. But shiny user experience only goes so far if the underlying application framework cannot meet the product requirements, or results in a high cost of development.
+
+In this session you will discover how the Qt application development framework can enable you to develop beautiful, high-performance applications that scale from microcontroller to desktop. Support all major platforms and operating systems with a single code base. Develop in C++, Python, and/or QML/JavaScript to make the best use of your expertise and integrate with any application domain.
+
+Speaker Bio
+~~~~~~~~~~~
+ Corey Pendleton is a Senior Solutions Engineer with The Qt Company collaborating with our customers through providing technical expertise and proof of concept using the Qt framework. As a software engineer for 8 years in consumer electronics with Garmin International, and 4 years in automation with Siemens E&A, his experience affords him the vision to creatively and pragmatically explore the use of the Qt framework in a variety of customer use-cases.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
