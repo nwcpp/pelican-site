@@ -42,7 +42,12 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+Resources
+~~~~~~~~~
+`Slides </talks/2021/NWCPP_Group_MeetQt.pdf>`_
+
+`Video <https://youtu.be/YUlpDsGAonY>`_
+
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
