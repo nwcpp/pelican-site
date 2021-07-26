@@ -40,7 +40,9 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2021/TDDInTheLargerContext_PMI.pdf>`_
+
+`Video <https://youtu.be/qJRt0KVONeA>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
