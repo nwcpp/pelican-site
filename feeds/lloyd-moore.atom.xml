@@ -25,11 +25,11 @@
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;A quick introduction to Python / C++ interoperability, with a focus on pybind11, a lightweight Python bindings library. For a concrete example, we’ll dive into the design and implementation of Python bindings for the Darwin Neuroevolution&amp;nbsp;Framework.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;By day, Leonard Mosescu is a compiler engineer, having worked on various parts of the Microsoft Visual C++ toolchain, then on the Android runtime and dev tools for Google, and currently working on the Nvidia &lt;span class="caps"&gt;CUDA&lt;/span&gt; toolchain. By night, he’s pursuing an old interest in &lt;span class="caps"&gt;AI&lt;/span&gt; and Evolutionary&amp;nbsp;Algorithms.&lt;/p&gt;
+&lt;p&gt;By day, Leonard Mosescu is working on Deep Learning compilers and frameworks at &lt;span class="caps"&gt;NVIDIA&lt;/span&gt;. By night, he’s pursuing an old interest in &lt;span class="caps"&gt;AI&lt;/span&gt; and Evolutionary&amp;nbsp;Algorithms.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
