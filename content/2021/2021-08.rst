@@ -28,11 +28,11 @@ Python Binds for C++
 
 Abstract
 ~~~~~~~~~
-Coming Soon!
+A quick introduction to Python / C++ interoperability, with a focus on pybind11, a lightweight Python bindings library. For a concrete example, we’ll dive into the design and implementation of Python bindings for the Darwin Neuroevolution Framework.
 
 Speaker Bio
 ~~~~~~~~~~~
-By day, Leonard Mosescu is a compiler engineer, having worked on various parts of the Microsoft Visual C++ toolchain, then on the Android runtime and dev tools for Google, and currently working on the Nvidia CUDA toolchain. By night, he’s pursuing an old interest in AI and Evolutionary Algorithms.
+By day, Leonard Mosescu is working on Deep Learning compilers and frameworks at NVIDIA. By night, he’s pursuing an old interest in AI and Evolutionary Algorithms. 
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
