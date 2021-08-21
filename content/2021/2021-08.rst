@@ -1,4 +1,4 @@
-Aug 18, 2021: Python Binds for C++
+Aug 18, 2021: Python Bindings for C++
 #############################################################################
 
 :date: 2021-08-01
@@ -24,7 +24,7 @@ Time and Location
 
 Title
 ~~~~~
-Python Binds for C++
+Python Bindings for C++
 
 Abstract
 ~~~~~~~~~
