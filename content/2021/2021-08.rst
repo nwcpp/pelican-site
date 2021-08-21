@@ -40,7 +40,11 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides <https://docs.google.com/presentation/d/11mCjNOOGIuqKdpsb6ITD76moXxchqgdX9eKYSbdo2XI/edit?usp=sharing>`_
+
+`Video <https://youtu.be/F7RKGiwwGF4>`_
+
+`Code <https://github.com/tlemo/nwcpp_pybind11>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
