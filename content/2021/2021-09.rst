@@ -40,7 +40,13 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides Peter Williamson; C++ Compile Time if <https://docs.google.com/presentation/d/1tXrmeZ2ONtKezC9r_uv6bf2WiOegN8UgoenBuj_ADtM/edit#slide=id.p>`_
+
+`Slides Lloyd Moore; Less Magical Numbers </talks/2021/LessMagicalNumbers.pptx>`_
+
+`Slides Chris Ryan; The Error That Shouldn't Be </talks/2021/ErrorThatShouldntBe.pdf>`_
+
+`Video <https://youtu.be/Mzfqpwzxxjc>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
