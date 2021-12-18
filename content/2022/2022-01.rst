@@ -1,0 +1,45 @@
+Jan 19, 2022: What's new with Chapel?  Applications, Aggregators, and Accelerators
+##################################################################################
+
+:date: 2021-12-18
+:slug: Jan-2022
+:author: Lloyd Moore
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| Jan 19, 2022 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 981 759 587#
+
+Title
+~~~~~
+What's new with Chapel?  Applications, Aggregators, and Accelerators
+
+Abstract
+~~~~~~~~~
+Chapel is a language supporting productive parallel programming on large-scale supercomputers.  Chapel strives for a Python-like experience in terms of code clarity, yet with the type-safety and flexibility you'd expect from a language like C++ combined with the performance and scalability that the HPC community expects from standard approaches for scalable computing, like MPI.
+
+In this talk, I'll start with a quick overview of Chapel for those who have either missed my prior NWCPP talks or need a refresher.  From there, I'll move on to recent highlights on the project, including: some significant and recent applications that have been written in Chapel; optimizations that aggregate communications to improve performance; and a nascent effort to target GPUs using native Chapel code.
+
+Speaker Bio
+~~~~~~~~~~~
+Brad Chamberlain is a Distinguished Technologist at Hewlett Packard Enterprise (formerly Cray Inc.) who has spent his career focused on user productivity for HPC systems, particularly through the design and development of the Chapel parallel programming language (https://chapel-lang.org).  He received his Ph.D in Computer Science & Engineering from the University of Washington in 2001 and remains associated with the department as an affiliate professor of the Paul G. Allen School.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
