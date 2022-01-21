@@ -34,7 +34,9 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming soon!
+`Slides </talks/2022/ChapelForNWCPP2022.pdf>`_
+
+`Video <https://youtu.be/jHjOyV-VFuQ>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
