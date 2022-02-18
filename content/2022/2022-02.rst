@@ -32,7 +32,12 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Code <https://github.com/QuantDevHacks/NWCPP_2022_02_16/tree/main>`_
+
+`Slides </talks/2022/Cpp20_2022_02_16_v5.pdf>`_
+
+`Video <https://youtu.be/qDsXn-rpLDY>`_
+
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
