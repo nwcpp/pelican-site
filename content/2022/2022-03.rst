@@ -1,0 +1,78 @@
+March 16, 2022: Building a Python/C++ Package
+##################################################################################
+
+:date: 2022-03-01
+:slug: March-2022
+:author: Lloyd Moore
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| March 16, 2022 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 981 759 587#
+
+Title
+~~~~~
+Building a Python/C++ Package:
+Vision, Transformation, Documentation, Scale, Portability, and Tools
+
+Abstract
+~~~~~~~~~
+This is a story about an ongoing, unfunded personal post-retirement project.
+
+Leonard Mosescu, in his talk last August ("Python Bindings for C++"),
+ably covered the core technology for persuading Python and C++ to play
+nicely together. I will address some of the same issues, but treat this
+project as a concrete case study, with messy issues beyond (and
+including) the binding tools (I'm using SWIG).
+
+My starting point is SST, a monolithic C++ computer program that
+generates simulated underwater sound. I built SST over a 40-year career,
+with episodic help from a sequence of team members with various skill
+sets. The front end is my own parser, interpreting an incomplete "data
+description" language of my own invention. The underlying C++ classes
+are mostly well designed, mostly documented using Doxygen, but they bear
+the marks of a long and twisted evolution, and some mistakes. SST is
+reasonably well documented, and in use by a small community of very
+sophisticated users. It is useful but kinda hard to use.
+
+My desired end point is a C++ library with a Python binding (a set of
+Python modules) designed to be integrated into multiple simulations
+focusing on specific applications of underwater sound. It should look
+familiar to my existing users, plus offer enough extra power and
+flexibility to wean them off of my language and onto Python, with tools
+to help on that journey. The project is far from finished -- at best
+it's a proof of concept.
+
+Why did I take on this project, what should the end product look like to
+my users, and how can I get from here to there? I hope to both enlighten
+and enlist my audience, to help them think about these issues and to
+help me make the right decisions to move the project forward.
+
+Speaker Bio
+~~~~~~~~~~~
+Robert Goddard
+Principal Physicist, Retired (but still active)
+University of Washington, Seattle
+
+Robert Goddard is a physicist and software developer. He retired (sort of) in 2017 after 37 years at the UW Applied Physics Laboratory, working mainly on computer modeling of underwater sound. He is still the architect and team leader for the Sonar Simulation Toolset (SST), which produces simulated underwater sound, suitable as input to sophisticated signal processing systems (including human ears and brains), based on user-specified descriptions of the undersea environment, the listening system, and the sound sources and reflectors placed in this simulated ocean. He has also developed systems for data acquisition and analysis, visualization, modeling of quantum mechanical scattering, and using data to infer model parameters
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!!
+
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
