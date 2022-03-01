@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><atom:link href="http://nwcpp.org/feeds/lloyd-moore.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 31 Jan 2022 00:00:00 -0800</lastBuildDate><item><title>Feb 16, 2022: How I Learned to Stop Worrying and Love C++ 20</title><link>http://nwcpp.org/Feb-2022.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><atom:link href="http://nwcpp.org/feeds/lloyd-moore.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 01 Mar 2022 00:00:00 -0800</lastBuildDate><item><title>March 16, 2022: Building a Python/C++ Package</title><link>http://nwcpp.org/March-2022.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874   United States, Los Angeles (Toll)&lt;/div&gt;
+&lt;div class="line"&gt;Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 981 759 587#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Building a Python/C++ Package:
+Vision, Transformation, Documentation, Scale, Portability, and&amp;nbsp;Tools&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This is a story about an ongoing, unfunded personal post-retirement&amp;nbsp;project.&lt;/p&gt;
+&lt;p&gt;Leonard Mosescu, in his talk last August (&amp;quot;Python Bindings for C++&amp;quot;),
+ably covered the core technology for persuading Python and C++ to play
+nicely together. I will address some of the same issues, but treat this
+project as a concrete case study, with messy issues beyond (and
+including) the binding tools (I&amp;#8217;m using &lt;span class="caps"&gt;SWIG&lt;/span&gt;).&lt;/p&gt;
+&lt;p&gt;My starting point is &lt;span class="caps"&gt;SST&lt;/span&gt;, a monolithic C++ computer program that
+generates simulated underwater sound. I built &lt;span class="caps"&gt;SST&lt;/span&gt; over a 40-year career,
+with episodic help from a sequence of team members with various skill
+sets. The front end is my own parser, interpreting an incomplete &amp;quot;data
+description&amp;quot; language of my own invention. The underlying C++ classes
+are mostly well designed, mostly documented using Doxygen, but they bear
+the marks of a long and twisted evolution, and some mistakes. &lt;span class="caps"&gt;SST&lt;/span&gt; is
+reasonably well documented, and in use by a small community of very
+sophisticated users. It is useful but kinda hard to&amp;nbsp;use.&lt;/p&gt;
+&lt;p&gt;My desired end point is a C++ library with a Python binding (a set of
+Python modules) designed to be integrated into multiple simulations
+focusing on specific applications of underwater sound. It should look
+familiar to my existing users, plus offer enough extra power and
+flexibility to wean them off of my language and onto Python, with tools
+to help on that journey. The project is far from finished &amp;#8212; at best
+it&amp;#8217;s a proof of&amp;nbsp;concept.&lt;/p&gt;
+&lt;p&gt;Why did I take on this project, what should the end product look like to
+my users, and how can I get from here to there? I hope to both enlighten
+and enlist my audience, to help them think about these issues and to
+help me make the right decisions to move the project&amp;nbsp;forward.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Robert Goddard
+Principal Physicist, Retired (but still active)
+University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
+&lt;p&gt;Robert Goddard is a physicist and software developer. He retired (sort of) in 2017 after 37 years at the &lt;span class="caps"&gt;UW&lt;/span&gt; Applied Physics Laboratory, working mainly on computer modeling of underwater sound. He is still the architect and team leader for the Sonar Simulation Toolset (&lt;span class="caps"&gt;SST&lt;/span&gt;), which produces simulated underwater sound, suitable as input to sophisticated signal processing systems (including human ears and brains), based on user-specified descriptions of the undersea environment, the listening system, and the sound sources and reflectors placed in this simulated ocean. He has also developed systems for data acquisition and analysis, visualization, modeling of quantum mechanical scattering, and using data to infer model&amp;nbsp;parameters&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Sorry no sponsor this&amp;nbsp;month.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Tue, 01 Mar 2022 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2022-03-01:March-2022.html</guid></item><item><title>Feb 16, 2022: How I Learned to Stop Worrying and Love C++ 20</title><link>http://nwcpp.org/Feb-2022.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Feb 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
