@@ -66,7 +66,10 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!!
+`Slides </talks/2022/Py-Cpp-Package.pptx>`_
+
+`Video <https://youtu.be/EbRRyVOfpRc>`_
+
 
 
 Digital Media Links
