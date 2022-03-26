@@ -1,0 +1,52 @@
+April 20, 2022: Adding Modules to C in 10 Lines of Code
+##################################################################################
+
+:date: 2022-04-01
+:slug: April-2022
+:author: Lloyd Moore
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| April 20, 2022 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 981 759 587#
+
+Title
+~~~~~
+Adding Modules to C in 10 Lines of Code
+
+Abstract
+~~~~~~~~~
+I know what you're thinking. You don't believe me. After all, it took C++ only 20 years to design and implement modules. I must be nuts. They must be coming to take me away. [1] But hear me out. Even if you don't agree, it's an interesting story. And I know you want modules in your C work, as #include is an abomination in modern languages. #include is as primitive as a VHS copy of 2001: A Space Odyssey.
+This module method can work with your favorite C compiler, too!
+
+Oh, and wait till you see what importing modules from *other* languages
+does to C!
+
+[1] https://www.youtube.com/watch?v=tnPG1v61AEk
+
+Speaker Bio
+~~~~~~~~~~~
+Walter Bright
+Engineer, Digital Mars
+
+Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages. He's an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines and runtime libraries. Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques. Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 30 years after its debut.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
