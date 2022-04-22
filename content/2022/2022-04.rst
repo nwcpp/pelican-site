@@ -41,7 +41,9 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2022/modules_in_c.pdf>`_
+
+`Video <https://youtu.be/2ImfbGm0fls>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
