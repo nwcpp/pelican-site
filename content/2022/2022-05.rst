@@ -1,0 +1,45 @@
+May 18, 2022: A Slice of Rust
+##################################################################################
+
+:date: 2022-05-01
+:slug: May-2022
+:author: Lloyd Moore
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| May 18, 2022 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 981 759 587#
+
+Title
+~~~~~
+A Slice of Rust
+
+Abstract
+~~~~~~~~~
+Rust is a general purpose, safety oriented programming language. I’ve been using Rust professionally for roughly 2 years now and I would like to share some of the strengths and weaknesses that I have found during that time.
+
+While this won’t be a formal introduction to Rust, anyone with a software background will be able to follow along. In several places I will compare and contrast Rust with C & C++. The presentation will give you a good background as to when you should consider Rust for a project as well as highlight several of the pitfalls I have run into when working with Rust.
+
+Speaker Bio
+~~~~~~~~~~~
+Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields. Lloyd has worked in software industry for 35 years. His formal training is in biological-based artificial intelligence, electronics, and psychology. Lloyd is also currently the president of the Northwest C++ User's Group and an organizer of the Seattle Robotics Society Robothon event.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
