@@ -1,0 +1,56 @@
+June 15, 2022: Overloading in C++: How Does It Really Work?
+##################################################################################
+
+:date: 2022-06-01
+:slug: June-2022
+:author: Lloyd Moore
+
+Announcements
+~~~~~~~~~~~~~
+Please note the meeting this month will be held in Zoom and not our regular Teams meeting!!!
+
+The Aug meeting will be member lighting rounds, if you want to do a 5-10 minute talk please just show up with your talk and we'll organize at the start of the meeting. This is a great opportunity to practice a talk if you also plan to present at CppCon!
+
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| June 15, 2022 at 7:00 PM
+| On Line Using Zoom
+| `Click here to join the meeting <https://us02web.zoom.us/j/85969588697?pwd=OWNSUjI0L3phSlF0MjZRTkNhUHVvQT09>`_
+| Meeting ID: 859 6958 8697
+| Meeting Passcode: 1982
+
+Title
+~~~~~
+Overloading in C++: How Does It Really Work?
+
+Abstract
+~~~~~~~~~
+Overloading has been part of C++ since its beginning, and is the subject of an entire chapter ("Clause") in the C++ Standard. This talk will provide an in-depth look at this oft-overlooked language feature.
+
+Beginning with basic definitions and plenty of examples, we will go on to discuss many of the finer points of overloading and overload resolution. We will culminate with an advanced example of overloading in a non-traditional context.
+
+
+Speaker Bio
+~~~~~~~~~~~
+With broad experience in industry, academia, consulting, and research, Dr. Walter E. Brown has been a computer programmer for almost 60 years, and a C++ programmer for more than 40 years.
+
+He joined the C++ standards effort in 2000, and has since written circa 175 proposal papers. Among numerous other contributions, he is responsible for introducing such now-standard C++ library features as cbegin/cend, common_type, gcd/lcm, void_t, and <cmath>’s mathematical special functions, as well as the headers <random> and <ratio>. He has also significantly impacted such C++ core language features as alias templates, contextual conversions, variable templates, static_assert, and operator<=> (the C++20 “spaceship operator”).
+
+When not playing with his grandchildren, Dr. Brown continues as an Emeritus participant in the C++ standards process and as a frequent speaker at C++ meetups and conferences worldwide.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
