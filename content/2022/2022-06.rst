@@ -49,7 +49,10 @@ Contact Us Here: https://online.digital-medium.co.uk/
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2022/Overloading.pdf>`_
+
+`Video <https://youtu.be/tlJolHu8u8E>`_
+
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
