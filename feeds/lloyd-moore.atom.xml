@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2022-06-01T00:00:00-07:00</updated><entry><title>June 15, 2022: Overloading in C++: How Does It Really Work?</title><link href="http://nwcpp.org/June-2022.html" rel="alternate"></link><updated>2022-06-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-06-01:June-2022.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2022-06-01T00:00:00-07:00</updated><entry><title>July 20, 2022: Open Discussion: Why So Many Languages?</title><link href="http://nwcpp.org/July-2022.html" rel="alternate"></link><updated>2022-06-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-06-01:July-2022.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+&lt;h2&gt;Announcements&lt;/h2&gt;
+&lt;p&gt;The Aug meeting will be member lighting rounds, if you want to do a 5-10 minute talk please just show up with your talk and we&amp;#8217;ll organize at the start of the meeting. This is a great opportunity to practice a talk if you also plan to present at&amp;nbsp;CppCon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;July 20, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874   United States, Los Angeles (Toll)&lt;/div&gt;
+&lt;div class="line"&gt;Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 981 759 587#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Open Discussion: Why So Many&amp;nbsp;Languages?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Hi Folks - we are going to try something new this month. In lieu of a speaker we are going to hold an open discussion on the topic of &amp;quot;Why So Many Languages?&amp;quot; This will be a &amp;quot;free form&amp;quot; discussion, some general questions to kick things off could be:
+1. Is there really a need for so many languages?
+2. Does the availability of so many languages help or hurt the development process?
+3. Does the availability of so many languages reduce or increase the cost of a project?
+4. With so many languages to work with can you ever really learn one in&amp;nbsp;depth?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;All of&amp;nbsp;you&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Sorry no sponsor this&amp;nbsp;month.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>June 15, 2022: Overloading in C++: How Does It Really Work?</title><link href="http://nwcpp.org/June-2022.html" rel="alternate"></link><updated>2022-06-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-06-01:June-2022.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
 &lt;h2&gt;Announcements&lt;/h2&gt;
 &lt;p&gt;Please note the meeting this month will be held in Zoom and not our regular Teams&amp;nbsp;meeting!!!&lt;/p&gt;
 &lt;p&gt;The Aug meeting will be member lighting rounds, if you want to do a 5-10 minute talk please just show up with your talk and we&amp;#8217;ll organize at the start of the meeting. This is a great opportunity to practice a talk if you also plan to present at&amp;nbsp;CppCon!&lt;/p&gt;
