@@ -1,0 +1,50 @@
+July 20, 2022: Open Discussion: Why So Many Languages?
+##################################################################################
+
+:date: 2022-06-01
+:slug: July-2022
+:author: Lloyd Moore
+
+Announcements
+~~~~~~~~~~~~~
+The Aug meeting will be member lighting rounds, if you want to do a 5-10 minute talk please just show up with your talk and we'll organize at the start of the meeting. This is a great opportunity to practice a talk if you also plan to present at CppCon!
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| July 20, 2022 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 981 759 587#
+
+Title
+~~~~~
+Open Discussion: Why So Many Languages?
+
+Abstract
+~~~~~~~~~
+Hi Folks - we are going to try something new this month. In lieu of a speaker we are going to hold an open discussion on the topic of "Why So Many Languages?" This will be a "free form" discussion, some general questions to kick things off could be:
+1. Is there really a need for so many languages?
+2. Does the availability of so many languages help or hurt the development process?
+3. Does the availability of so many languages reduce or increase the cost of a project?
+4. With so many languages to work with can you ever really learn one in depth?
+
+Speaker Bio
+~~~~~~~~~~~
+All of you
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
