@@ -1,4 +1,4 @@
-July 20, 2022: Building a C/C++ Infrared Piano
+July 20, 2022: CANCELED: Building a C/C++ Infrared Piano
 ##################################################################################
 
 :date: 2022-06-01
@@ -7,15 +7,15 @@ July 20, 2022: Building a C/C++ Infrared Piano
 
 Announcements
 ~~~~~~~~~~~~~
+We are seeing an issue with Teams where the meeting will not open via the browser link. At this point we are going to cancel the meeting and reschedule the speaker as we are not finding a quick solution to the issue. Sorry!!!
+
 The Aug meeting will be member lighting rounds, if you want to do a 5-10 minute talk please just show up with your talk and we'll organize at the start of the meeting. This is a great opportunity to practice a talk if you also plan to present at CppCon!
 
 Time and Location
 ~~~~~~~~~~~~~~~~~
 | July 20, 2022 at 7:00 PM
 | On Line Using Microsoft Teams
-| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d>`_
-| +1 323-849-4874   United States, Los Angeles (Toll)
-| Conference ID: 981 759 587#
+| Canceled: See announcement
 
 Title
 ~~~~~
