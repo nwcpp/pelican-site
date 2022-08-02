@@ -1,0 +1,44 @@
+Aug 17, 2022: ATTEMPT #2: Building a C/C++ Infrared Piano
+##################################################################################
+
+:date: 2022-08-02
+:slug: Aug-2022
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| Aug 17, 2022 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d>`_
+| +1 323-849-4874   United States, Los Angeles (Toll)
+| Conference ID: 981 759 587#
+
+Title
+~~~~~
+Building a C/C++ Infrared Piano
+
+Abstract
+~~~~~~~~~
+TinkerForge provides a variety of sensors and devices: an air quality sensor, analog joystick, linear potentiometer, speaker, LCD screen, infrared distance sensor, and many more. We’ve used some of these devices to create an infrared piano. Two IR sensors detect where you place your hand over two sets of keys. The speaker beeps at a frequency matching the note for that key. The LCD prints the distance detected by each IR sensor. And the linear potentiometer controls volume. The software that runs the piano uses TinkerForge’s C/C++ API bindings. These are easy to retrieve from ConanCenter using the Conan C/C++ package manager. This session examines the various sensors, devices, and codes used to create the piano. You’ll go behind the scenes of the piano’s development, and its iterations, and see how you can start creating similar projects.
+
+Speaker Bio
+~~~~~~~~~~~
+Nick Ristuccia
+JFrog, Conan Developer Advocate | Game Designer
+Nick started in the videogames industry, developing titles for console and mobile. Disappointed by the oppressive corporate feel of traditional technical training, Nick's passion is to create more engaging and powerful learning experiences through game-based learning and other playful techniques. As a Curriculum Developer at Oracle, he focused on Java programming and certification. As a Developer Advocate at JFrog, his focus is on C++, Conan, and other JFrog technologies.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
