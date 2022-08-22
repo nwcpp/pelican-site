@@ -33,7 +33,9 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides <https://jfrog.co/NWCppUG>`_
+
+`Video <https://youtu.be/cJ9V6ePpihY>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
