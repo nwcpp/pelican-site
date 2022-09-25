@@ -1,0 +1,42 @@
+Oct 19, 2022: Remedial C++ 17
+##################################################################################
+
+:date: 2022-09-25
+:slug: Oct-2022
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| Oct 19, 2022 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjRhNTQ3NTQtYjU2OC00YmY5LTlkMmYtZDQ3N2U1MmQ5ZGM3%40thread.v2/0?context=%7b%22Tid%22%3a%22fd66e145-f04c-469d-a568-c58090f00b63%22%2c%22Oid%22%3a%2281b13566-99fa-4534-a06e-662365d4f0d9%22%7d>`_
+| Meeting ID: 256 260 761 683
+| Passcode: sUuRtv
+
+Title
+~~~~~
+Remedial C++ 17
+
+Abstract
+~~~~~~~~~
+There's often a gap of several years between when a new language standard is approved and when we can get permission to use it in our projects.  Now that the C++17 standard has been out for a few years and is starting to be allowed in code bases might be a good time to either brush up on the new features if you already learned them, or start learning them if not.  In this talk we'll cover the language changes introduced by C++ 17.  This will be a high level talk with examples, but won't deep dive into all the corner cases.  A future talk will cover changes to the C++ standard library which also came with C++17.
+
+Speaker Bio
+~~~~~~~~~~~
+Like the man in black said: "No one of consequence". Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google. He’s been using C++ for most of that time, and attending NWCPP off and on since the 90’s. He has been known to talk about himself in third person.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
