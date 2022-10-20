@@ -31,7 +31,8 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2022/RemedialCpp17Language.pdf>`_
+`Video <https://youtu.be/f09IzxxEf8s>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
