@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2022-09-25T00:00:00-07:00</updated><entry><title>Oct 19, 2022: Remedial C++ 17</title><link href="http://nwcpp.org/Oct-2022.html" rel="alternate"></link><updated>2022-09-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-09-25:Oct-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2022-10-29T00:00:00-07:00</updated><entry><title>Nov 16, 2022: Open Discussion: Why so many languages?</title><link href="http://nwcpp.org/Nov-2022.html" rel="alternate"></link><updated>2022-10-29T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-10-29:Nov-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Nov 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3a__Wz9Jgw-mLgNyP6-DvSPuYdBCN8TvSfeZL6C_QS9Z01%40thread.tacv2/1664646712879?context=%7b%22Tid%22%3a%22fd66e145-f04c-469d-a568-c58090f00b63%22%2c%22Oid%22%3a%2281b13566-99fa-4534-a06e-662365d4f0d9%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Meeting &lt;span class="caps"&gt;ID&lt;/span&gt;: 234 309 334 946&lt;/div&gt;
+&lt;div class="line"&gt;Passcode: qZgYD2&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Open Discussion: Why so many&amp;nbsp;languages?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This month we are going to try something a bit differet. The meeting will be an open discussion on why
+we have so many programming languages. The Tiobe Language Index (&lt;a class="reference external" href="https://www.tiobe.com/tiobe-index/"&gt;https://www.tiobe.com/tiobe-index/&lt;/a&gt;) currently
+shows the top 100 programming languages, and this clearly isn&amp;#8217;t a comprehensive list. In recent years the
+number of languages has also started increasing again with a newer generation of languages such as: Go,
+Kotlin, and&amp;nbsp;Carbon.&lt;/p&gt;
+&lt;p&gt;What are the benefits and costs of so many languages? Do we really need new languages or should we extend the
+existing languages (which is also happening)? What do you tell a new developer coming into the field? As a
+seasoned developer when should you look at learning a new&amp;nbsp;language?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Sorry no sponsor this&amp;nbsp;month.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Oct 19, 2022: Remedial C++ 17</title><link href="http://nwcpp.org/Oct-2022.html" rel="alternate"></link><updated>2022-09-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-09-25:Oct-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Oct 19, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
