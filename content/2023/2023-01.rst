@@ -1,0 +1,47 @@
+Jan 18, 2023: Negative Behaviors in TDD
+##################################################################################
+
+:date: 2022-12-17
+:slug: Jan-2023
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| Jan 18, 2023 at 7:00 PM
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3a__Wz9Jgw-mLgNyP6-DvSPuYdBCN8TvSfeZL6C_QS9Z01%40thread.tacv2/1671297830501?context=%7b%22Tid%22%3a%22fd66e145-f04c-469d-a568-c58090f00b63%22%2c%22Oid%22%3a%2281b13566-99fa-4534-a06e-662365d4f0d9%22%7d>`_
+| Meeting ID: 229 164 636 463
+| Passcode: GfJHZz
+
+Title
+~~~~~
+Negative Behaviors in TDD
+
+Abstract
+~~~~~~~~~
+Test-Driven Development (TDD) is a process in which test are written up-front.  Typically these tests reflect the requirements and expectations of the stakeholders to the project, driving the creation of useful, valuable behavior.
+
+Sometimes, however, the requirement given is about something the system should not do, and must not do for a reason that is critical to the business we seek to serve.
+
+The question this presentation will address is this:
+How can you write a test about a behavior that the system must not do?  We will use both unit tests and acceptance tests to investigate this question.
+
+Speaker Bio
+~~~~~~~~~~~
+Scott is a 40+ year veteran in computer technology, with a background in development, analysis, and design. He has also designed, delivered, and managed training programs, both in traditional classrooms and via distance learning. Scott teaches courses and consults on Agile Analysis and Design Patterns, Advanced Software Design, and Test-Driven Development. He is a frequent speaker at developer conferences such as JavaOne and SDWest. He is the author of “Emergent Design”, which won a Jolt Productivity Award,  as well as “The TDD Companion” and “The Design Patterns Companion”.  He currently works for PMI.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Sorry no sponsor this month.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
