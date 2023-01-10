@@ -28,7 +28,7 @@ How can you write a test about a behavior that the system must not do?  We will 
 
 Speaker Bio
 ~~~~~~~~~~~
-Scott is a 40+ year veteran in computer technology, with a background in development, analysis, and design. He has also designed, delivered, and managed training programs, both in traditional classrooms and via distance learning. Scott teaches courses and consults on Agile Analysis and Design Patterns, Advanced Software Design, and Test-Driven Development. He is a frequent speaker at developer conferences such as JavaOne and SDWest. He is the author of “Emergent Design”, which won a Jolt Productivity Award,  as well as “The TDD Companion” and “The Design Patterns Companion”.  He currently works for PMI.
+Scott Bain is a 40+ year veteran in computer technology, with a background in development, analysis, and design. He has also designed, delivered, and managed training programs, both in traditional classrooms and via distance learning. Scott teaches courses and consults on Agile Analysis and Design Patterns, Advanced Software Design, and Test-Driven Development. He is a frequent speaker at developer conferences such as JavaOne and SDWest. He is the author of “Emergent Design”, which won a Jolt Productivity Award,  as well as “The TDD Companion” and “The Design Patterns Companion”.  He currently works for PMI.
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
