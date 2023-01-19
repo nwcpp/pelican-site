@@ -36,7 +36,9 @@ Sorry no sponsor this month.
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2023/SpecifyingTheNegaiveInIDD.pdf>`_
+
+`Video <https://youtu.be/K4g_fXKle4M>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
