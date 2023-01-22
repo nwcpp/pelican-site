@@ -51,15 +51,10 @@ JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.pr
 
 # sponsors
 SPONSOR_LINKS = ((u'Cyber Data', 'CyberDataLogo.jpg', 'http://www.cyberdata-robotics.com/'),
-                 (u'Microsoft', 'MSLogo.png', 'https://aka.ms/cpp'))
+                 (u'Microsoft', 'MSLogo.png', 'https://aka.ms/cpp'),
+                 (u'JFrog', 'Jfrog_Green_RGB.png', 'https://jfrog.com/'))
 
-ANNOUNCEMENT_LINKS = ((u'Zensa', u'Job Details: <br\> \
-Job Title: Firmware Engineer 3 <br\>\
-Location : Redmond, WA <br\>\
-Contract Duration: 12-18 months <br\> \
-<br\>\
-Description <br\> \
-As an embedded firmware engineer you will be responsible for creating and maintaining firmware running on embedded consumer electronics. You will have responsibilities spanning all aspects of product bring-up and test:  write, debug, and integrate new device drivers, protocols, and other firmware code across embedded product line. Interacting with Hardware, OS, Test, Operations and various other cross-functional teams. Review board schematics and data sheets.  Utilize oscilloscopes, logic analyzers, and other test equipment to troubleshoot hardware/software issues.  Enable test strategies for new components in upcoming products.  Support product development builds locally and remotely.', ' Vishal@zensa.co', u'Vishal Misri'),
+ANNOUNCEMENT_LINKS = ((u'There are no announcements at this time.', u'', '', u''),
 						)
 					
 					
