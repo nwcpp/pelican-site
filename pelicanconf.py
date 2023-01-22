@@ -52,7 +52,8 @@ JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.pr
 # sponsors
 SPONSOR_LINKS = ((u'Cyber Data', 'CyberDataLogo.jpg', 'http://www.cyberdata-robotics.com/'),
                  (u'Microsoft', 'MSLogo.png', 'https://aka.ms/cpp'),
-                 (u'JFrog', 'Jfrog_Green_RGB.png', 'https://jfrog.com/'))
+                 (u'JFrog', 'Jfrog_Green_RGB.png', 'https://jfrog.com/'),
+                 (u'Conan', 'Conan.png', 'https://conan.io/'))
 
 ANNOUNCEMENT_LINKS = ((u'There are no announcements at this time.', u'', '', u''),
 						)
