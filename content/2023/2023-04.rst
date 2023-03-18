@@ -1,0 +1,92 @@
+April 19, 2023: Remedial C++ 17 Library features
+##################################################################################
+
+:date: 2023-04-01
+:slug: April-2023
+:author: Lloyd Moore
+
+Time and Location - We are going HYBRID!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| April 19, 2023 at 7:00 PM
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1034 (14) Alder Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY3MDU4NzYtZWVkMi00ZjQ4LTliMTMtNGNhOTQ1NmMwYTc3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22739ffc25-8fae-48b9-9505-1f3baa8f0eb7%22%7d>`_
+| Meeting ID: 221 084 547 694
+| Passcode: zRSbFd
+|
+| Call in (audio only)
+| +1 323-849-4874,,731463717#<tel:+13238494874,,731463717#> United States, Los Angeles
+| Phone Conference ID: 731 463 717#
+
+Title
+~~~~~
+Remedial C++ 17 Library features
+
+Abstract
+~~~~~~~~~
+When C++ 17 came out 6 years ago, many of us weren't allowed to use it because our compilers didn't support it.  Now that most compilers have good C++ 17 support, let's do an overview of the features introduced into the C++ standard library with C++ 17.
+
+Speaker Bio
+~~~~~~~~~~~
+Like the man in black said: "No one of consequence". Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google. He’s been using C++ for most of that time, and attending NWCPP off and on since the 90’s. He has been known to talk about himself in third person.
+
+"Door Prize"
+~~~~~~~~~~~~
+CppNorth has donated one Complementary Conference General Admission to the conference being held on
+July 17 to 19, 2023 in Toronto, Canada.
+
+CppNorth Web Site: https://cppnorth.ca/
+
+We will hold a drawing during the meeting to give this pass away.
+
+Here are the rules for the drawing:
+
+1. The admission is for the conference ONLY. Items normally purchased seperately (hotel, dinners, transpiration, t-shirts, pre-conf workshops, ...) are NOT included.
+
+2. Conference add-ons can and must be purchased separately.
+
+3. The person using the complimentary registration MUST stay at the conference hotel (3-night minimum).
+
+4. The complementary registration IS transferable.  The winner can give (but not sell) it to somebody else.
+
+5. You must be onsite or actively online with the NWCPP April 2023 meeting to win. If you are online you will still be able to pick an number and enter the drawing which will be held live during the meeting. The drawing itself will be via a computer generated random number.
+
+6. Members of the NWCPP Board and CppNorth are NOT eligible to participate in the drawing (sorry folks, but that's a conflict of interest case!).
+
+7. By participating in the drawing and/or accepting the conference pass you agree to the following terms and conditions:
+
+- The pass is transferable but cannot be sold or exchanged for cash.
+
+- You agree to assume all risk and danger of personal injury, property damage, and other hazzards of participating in the drawing, traveling to and/or attending the conference.
+
+- You agree to indemnify and hold harmless NWCPP, CppNorth, any affiliates, respective officers, directors, employees, agents, and volunteers from and against any and all claims, damages, liabilities, costs, expenses arising from or related to participation in the drawing, your attendence at the conference, or utilization of the pass in any way.
+
+- The pass holder will be subject to and abide by all terms and conditions of CppNorth.
+
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank JFrog and Conan for sponsoring the our Meetup account!
+
+Please thank Micosoft for sponsoring our meeting room and Teams account!
+
+Please thank CppNorth for sponsoring our door prize!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
