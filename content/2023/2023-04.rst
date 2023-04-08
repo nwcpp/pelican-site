@@ -75,7 +75,7 @@ A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
 Please thank JFrog and Conan for sponsoring the our Meetup account!
 
-Please thank Micosoft for sponsoring our meeting room and Teams account!
+Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Please thank CppNorth for sponsoring our door prize!
 
