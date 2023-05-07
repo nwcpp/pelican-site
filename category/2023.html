@@ -138,7 +138,9 @@
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Coming&nbsp;Soon!!</p>
+<p>std::mdspan, proposed for release in C++23 (P0009),  can impose a non-owning multidimensional array structure on a reference to a container, such as an <span class="caps">STL</span> vector. Using the example of a vector containing the data, and a referring mdspan representing a matrix, the number of rows and columns are set at construction of the mdspan.  An mdspan can also take the form of higher dimensional arrays, but it is specifically useful for the two-dimensional case often found in financial and other applied science&nbsp;applications.</p>
+<p>But what about the case where the data is not known a priori, and needs to be generated within a multidimensional array?  A particular example is the binomial lattice pricing model for equity options, where underlying prices and option payoffs are generated going forward and backward in time, respectively.  The owning analog of mdspan, namely mdarray, proposed for C++26 (P1684) &#8212; not far off within the next three years &#8212;  provides the lattice structure for us, which can save a considerable amount of time and work, as well as separate the lattice from the&nbsp;mathematics.</p>
+<p>In this presentation, we will cover a quick introduction to mdspan, and contrast it with mdarray.  A solution to the implementation of a binomial lattice option pricing model using mdarray will then be shown, with examples of both European and American options, although it is the latter case where lattice models are particularly useful.  Convergence issues will also be discussed, and it will also be noted how mdarray can be extended for trinomial lattices common in interest rate derivative pricing, and higher dimensional cases where options on more than one underlying asset are&nbsp;involved.</p>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
