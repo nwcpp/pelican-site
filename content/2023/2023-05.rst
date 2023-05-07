@@ -1,0 +1,62 @@
+May 17, 2023: Using mdarray to Price Equity Options
+##################################################################################
+
+:date: 2023-04-30
+:slug: May-2023
+:author: Lloyd Moore
+
+Time and Location - We are going HYBRID!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| May 17, 2023 at 7:00 PM
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1034 (14) Alder Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY3MDU4NzYtZWVkMi00ZjQ4LTliMTMtNGNhOTQ1NmMwYTc3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22739ffc25-8fae-48b9-9505-1f3baa8f0eb7%22%7d>`_
+| Meeting ID: 221 084 547 694
+| Passcode: zRSbFd
+|
+| Call in (audio only)
+| +1 323-849-4874,,731463717#<tel:+13238494874,,731463717#> United States, Los Angeles
+| Phone Conference ID: 731 463 717#
+
+Title
+~~~~~
+Using mdarray to Price Equity Options
+
+Abstract
+~~~~~~~~~
+std::mdspan, proposed for release in C++23 (P0009),  can impose a non-owning multidimensional array structure on a reference to a container, such as an STL vector. Using the example of a vector containing the data, and a referring mdspan representing a matrix, the number of rows and columns are set at construction of the mdspan.  An mdspan can also take the form of higher dimensional arrays, but it is specifically useful for the two-dimensional case often found in financial and other applied science applications.
+
+But what about the case where the data is not known a priori, and needs to be generated within a multidimensional array?  A particular example is the binomial lattice pricing model for equity options, where underlying prices and option payoffs are generated going forward and backward in time, respectively.  The owning analog of mdspan, namely mdarray, proposed for C++26 (P1684) -- not far off within the next three years --  provides the lattice structure for us, which can save a considerable amount of time and work, as well as separate the lattice from the mathematics.
+
+In this presentation, we will cover a quick introduction to mdspan, and contrast it with mdarray.  A solution to the implementation of a binomial lattice option pricing model using mdarray will then be shown, with examples of both European and American options, although it is the latter case where lattice models are particularly useful.  Convergence issues will also be discussed, and it will also be noted how mdarray can be extended for trinomial lattices common in interest rate derivative pricing, and higher dimensional cases where options on more than one underlying asset are involved.
+
+Speaker Bio
+~~~~~~~~~~~
+Daniel Hanson is a former full-time lecturer in the Computational Finance & Risk Management program within the Department of Applied Mathematics at the University of Washington. His appointment followed over 25 years of experience in private sector quantitative development in finance and data science.
+
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank JFrog and Conan for sponsoring the our Meetup account!
+
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+* Follow us on `Meetup <https://www.linkedin.com/company/nwcpp>`_
+
