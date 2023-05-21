@@ -49,7 +49,9 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2023/NWCPP_2023_05_MDArray_Final.pdf>`_
+Video Coming Soon!
+
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
