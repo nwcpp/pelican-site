@@ -47,7 +47,7 @@ Resources
 ~~~~~~~~~
 `Slides </talks/2023/UsingAssembly1.pptx>`_
 
- Video: Coming Soon!
+`Video <https://youtu.be/zS8W7QAQf70>`_
 
 
 
