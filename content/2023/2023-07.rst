@@ -44,7 +44,13 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides <https://ccrma.stanford.edu/~jatin/slides/NWCPP_July23>`_
+
+`Video Part 1 <https://youtu.be/E24XTpEC3jI>`_
+
+`Video Part 2 <https://youtu.be/mtR6TYvcWwQ>`_
+
+`Chowdhury DSP Website <https://chowdsp.com/>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
