@@ -1,4 +1,4 @@
-August 18, 2023: The Diamond Problem Solved!
+August 16, 2023: The Diamond Problem Solved!
 ############################################################################
 
 :date: 2023-07-27
@@ -7,7 +7,7 @@ August 18, 2023: The Diamond Problem Solved!
 
 Time and Location - We're HYBRID!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-| August 18, 2023 at 7:00 PM
+| August 16, 2023 at 7:00 PM
 |
 | In Person:
 | Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
