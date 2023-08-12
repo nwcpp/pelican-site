@@ -6,7 +6,7 @@ import http.server
 import socketserver
 
 # Local path configuration (can be absolute or relative to fabfile)
-DEPLOY_PATH = 'output'
+deploy_path = 'output'
 
 # Remote server configuration
 production = '$ssh_user@$ssh_host:$ssh_port'
@@ -21,9 +21,9 @@ PORT = 9000
 @task
 def clean(context):
     """Remove generated files"""
-    if os.path.isdir(DEPLOY_PATH):
-        shutil.rmtree(DEPLOY_PATH)
-        os.makedirs(DEPLOY_PATH)
+    if os.path.isdir(deploy_path):
+        shutil.rmtree(deploy_path)
+        os.makedirs(deploy_path)
 @task
 def build(context):
     """Build local version of site"""
@@ -32,13 +32,13 @@ def build(context):
 @task
 def rebuild(context):
     """`clean` then `build`"""
-    clean()
-    build()
+    clean(context)
+    build(context)
 
 @task
 def serve(context):
     """Serve site at http://localhost:8000/"""
-    os.chdir(DEPLOY_PATH)
+    os.chdir(deploy_path)
 
     class AddressReuseTCPServer(socketserver.TCPServer):
         allow_reuse_address = True
@@ -51,13 +51,12 @@ def serve(context):
 @task
 def reserve(context):
     """`build`, then `serve`"""
-    build()
-    serve()
+    build(context)
+    serve(context)
 
 @task
-def gh_pages(context):
+def ghpages(context):
     """Publish to GitHub Pages"""
-    rebuild()
-    context.run("ghp-import -b {github_pages_branch} {deploy_path}"
-          .format(github_pages_branch, DEPLOY_PATH))
-    context.run("git push origin {github_pages_branch}".format(github_pages_branch))
+    rebuild(context)
+    context.run("ghp-import -b {0} {1}".format(github_pages_branch, deploy_path))
+    context.run("git push origin {0}".format(github_pages_branch))
