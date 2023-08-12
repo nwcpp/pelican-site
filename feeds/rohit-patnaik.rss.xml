@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Northwest C++ Users’ Group</title><link>http://nwcpp.org/</link><description></description><atom:link href="http://nwcpp.org/feeds/rohit-patnaik.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 09 Sep 2016 00:00:00 -0700</lastBuildDate><item><title>September 2016: CppCon</title><link>http://nwcpp.org/Sep-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+<rss version="2.0"><channel><title>Northwest C++ Users’ Group - Rohit Patnaik</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Fri, 09 Sep 2016 00:00:00 -0700</lastBuildDate><item><title>September 2016: CppCon</title><link>http://nwcpp.org/Sep-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;p&gt;&lt;span class="caps"&gt;TBD&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -9,15 +9,7 @@
 &lt;ul class="simple"&gt;
 &lt;li&gt;Monday 09/19/2016 - Lunch Panel: How to work with universities to get more C++ courses and improve C++&amp;nbsp;education&lt;/li&gt;
 &lt;li&gt;Monday 09/19/2016 - Evening: Grill The Committee/The Future of&amp;nbsp;C++&lt;/li&gt;
-&lt;li&gt;Wednesday 09/21/2016 8:30pm: Writing Secure&amp;nbsp;C++&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="conference-resources"&gt;
-&lt;h2&gt;Conference&amp;nbsp;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/user/CppCon"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="https://github.com/CppCon/CppCon2016"&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Fri, 09 Sep 2016 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2016-09-09:Sep-2016.html</guid></item><item><title>March 16th 2016: Linux and IoT for VC Users</title><link>http://nwcpp.org/march-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;li&gt;Wednesday …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Fri, 09 Sep 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-09-09:/Sep-2016.html</guid><category>2016</category></item><item><title>March 16th 2016: Linux and IoT for VC Users</title><link>http://nwcpp.org/march-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 16th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -30,41 +22,7 @@
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Marc Goodner will talk about debugging remotely on Linux, debugging &lt;span class="caps"&gt;MCU&lt;/span&gt; targets and connecting to the Azure IoT hub, all from within Visual&amp;nbsp;Studio.&lt;/p&gt;
-&lt;p&gt;Links to further&amp;nbsp;details:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://blogs.msdn.com/b/vcblog/archive/2015/11/18/announcing-the-vs-gdb-debugger-extension.aspx"&gt;http://blogs.msdn.com/b/vcblog/archive/2015/11/18/announcing-the-vs-gdb-debugger-extension.aspx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="http://azure.microsoft.com/en-us/blog/visual-studio-connected-service-for-azure-iot-hub/"&gt;http://azure.microsoft.com/en-us/blog/visual-studio-connected-service-for-azure-iot-hub/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="bio"&gt;
-&lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Marc Goodner is a program manager on the C++ team at Microsoft, focused on IoT. In his spare time, he helps run the local chapter of the Maker Garage, and works on projects related to 3-d printing and audio&amp;nbsp;synthesis.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=7ji2ATPVGBA&amp;amp;feature=em-upload_owner"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="https://blogs.msdn.microsoft.com/vcblog/2015/11/18/announcing-the-vs-gdb-debugger-extension/"&gt;&lt;span class="caps"&gt;GDB&lt;/span&gt; Debugger Extension&lt;/a&gt; |
-&lt;a class="reference external" href="https://azure.microsoft.com/en-us/blog/visual-studio-connected-service-for-azure-iot-hub/"&gt;Azure IoT&amp;nbsp;Hub&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-word-from-our-sponsor"&gt;
-&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Protingent is an employee owned (&lt;span class="caps"&gt;ESOP&lt;/span&gt;) technical staffing firm specializing in providing &lt;span class="caps"&gt;IT&lt;/span&gt; and engineering professionals for all areas of product design, development and test. We place high-caliber engineers with many of the leading technology companies in the &lt;span class="caps"&gt;U.S.&lt;/span&gt; We were founded in 2001 by an engineer and have always been dedicated to providing the right engineers that possess a high level of skill and knowledge regarding the technologies required to drive our clients’ success.
-The intrinsic value of any enterprise comes down to the quality of its people. Our clients understand that cutting-edge products aren’t designed and developed in a void. It takes exceptional people and consistent communication and collaboration. These beliefs are at the core of Protingent and have been instrumental in our ability to build a team of exceptional people.
-Corporate strategy is important, but the truth is that culture beats strategy every time. At Protingent, we are committed to finding the best and brightest and supporting them to a degree that promotes a dynamic of shared purpose. Being an employee-owned company has further cemented an engaged and collaborative environment. We work every day on maintaining and strengthening our culture and the relationships we have with each other, our clients and candidates.
-The results have been profound. In other words, what kind of story does the data tell? We have been one of the fastest-growing companies in the United States for a number of years, have incredibly low internal turnover and are a top-tier vendor to numerous technology companies. Protingent has been recognized multiple years as a Best in Staffing Company by Inavero, an independent survey&amp;nbsp;firm.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Tue, 01 Mar 2016 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2016-03-01:march-2016.html</guid></item><item><title>January 20th 2016: C++ Coroutines: A Negative Overhead Abstraction</title><link>http://nwcpp.org/january-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;p&gt;Links to further …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Tue, 01 Mar 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2016-03-01:/march-2016.html</guid><category>2016</category></item><item><title>January 20th 2016: C++ Coroutines: A Negative Overhead Abstraction</title><link>http://nwcpp.org/january-2016.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;January 20th, 2016 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -76,33 +34,7 @@ The results have been profound. In other words, what kind of story does the data
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;C++ coroutines are one of the few major features that may land in C++17. We will look at the current standardization status, available experimental implementations and develop a small coroutine adapter over raw C networking APIs that will beat hand-crafted  state machine in&amp;nbsp;performance.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="bio"&gt;
-&lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Gor Nishanov is from Microsoft&amp;#8217;s C++&amp;nbsp;team.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/attribution_link?a=5kfOVp9AEJk&amp;amp;u=/watch%3Fv%3D43xAD6DiF4Y%26feature%3Dem-upload_owner"&gt;Video&lt;/a&gt; |
-&lt;a class="reference external" href="/talks/2016/CppCoroutines.pptx"&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-word-from-our-sponsor"&gt;
-&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Design Laboratory is a consulting company based in Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt; and has completed consulting projects since its founding in 1995 for companies in the Pacific Northwest and around the world. Today, Design Laboratory is managed by entrepreneurial veterans of software, finance and top-tier consulting. We offer cross-industry experience, deep expertise in strategy, operational issues, product and program management, plus world-class subject matter expertise in privacy issues and &lt;span class="caps"&gt;CRM&lt;/span&gt; implementation. Every Design Laboratory client, from global enterprise to growing start-up, receives customized attention, solutions and services that demonstrate our hallmarks.. &lt;span class="caps"&gt;DLI&lt;/span&gt; offers unique solutions providing end-to-end services for compliance management, content development, training design, marketing, video production, and project management. Providing accessibility support at Microsoft has been a service since 2011. We are a preferred vendor at Microsoft in project management and learning, and our contributions to compliance at Microsoft have helped to keep us on the preferred vendor list. We work closely with Trustworthy Computing (TwC) and the Legal &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Corporate Affairs Regulatory Affairs team to ensure that we are up to date on the most recent Microsoft compliance requirements and processes, and that we are the go to company for providing compliance vendor&amp;nbsp;services.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Fri, 18 Dec 2015 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2015-12-18:january-2016.html</guid></item><item><title>April 15th 2015: Pushing the Boundaries of C++ Code Generation</title><link>http://nwcpp.org/april-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;p&gt;C++ coroutines are one of the few major features that may land in C++17. We will look at the current standardization status, available experimental implementations and …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Fri, 18 Dec 2015 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-12-18:/january-2016.html</guid><category>2016</category></item><item><title>April 15th 2015: Pushing the Boundaries of C++ Code Generation</title><link>http://nwcpp.org/april-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;April 15th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -114,32 +46,7 @@ The results have been profound. In other words, what kind of story does the data
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;It is not uncommon to see projects using C++ Code Generation to build initial .h and .cpp files out of &lt;span class="caps"&gt;UML&lt;/span&gt; models, or serialization/marshalling code for data types. However there are further potential applications in aspect orientation, performance tracking, and various types of testing. In a world where developers are expected to become more and more agile, it is more important than ever to hunt down things that are automatable and this talk can give you some&amp;nbsp;ideas.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="bio"&gt;
-&lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Bilgem Cakir is a Senior &lt;span class="caps"&gt;SDE&lt;/span&gt; in Amazon. After 4 years in embedded software for consumer electronics and 2 years of game development in Europe, Bilgem moved over to &lt;span class="caps"&gt;U.S.&lt;/span&gt; and joined the Microsoft DirectX team. Six years and two versions of &lt;span class="caps"&gt;D2D&lt;/span&gt; later, his passion for the field of computer graphics sent him over to Amazon Digital products group. He spent the last 3 years, working on the Dynamic Perspective feature of the Fire Phone. Bilgem is also a well-known coder in the European demoscene. In addition to computer graphics his interests include, game engines, C++ patterns, code generation and software&amp;nbsp;testing.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-word-from-our-sponsor"&gt;
-&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;Since 1991, Collabera has been a leading provider of &lt;span class="caps"&gt;IT&lt;/span&gt; staffing solutions. With over 9,000 professionals working across 3 continents Collabera is one of the top 10 &lt;span class="caps"&gt;U.S.&lt;/span&gt; &lt;span class="caps"&gt;IT&lt;/span&gt; Staffing firms. Recognized from Staffing Industry Analysts as &amp;quot;Best Staffing Firms to Work For&amp;quot; 3 years in a row, we have the history, processes and most of all jobs that make Collabera a strong option when considering your next career&amp;nbsp;move.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://www.youtube.com/attribution_link?a=9Md9LWoQupw&amp;amp;u=/watch%3Fv%3DYM4xOjPeFWI%26feature%3Dem-upload_owner"&gt;Video&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="digital-media-links"&gt;
-&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce1"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
-&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
-&lt;li&gt;Join our &lt;a class="reference external" href="http://www.facebook.com/group.php?gid=344125680930"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow our &lt;a class="reference external" href="https://plus.google.com/104974891006782790528/"&gt;Google+&lt;/a&gt;&amp;nbsp;page&lt;/li&gt;
-&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate><guid>tag:nwcpp.org,2015-04-01:april-2015.html</guid></item><item><title>March 18th 2015: The Go Programming Language</title><link>http://nwcpp.org/march-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
+&lt;p&gt;It is not uncommon to see projects using C++ Code Generation to build initial .h and .cpp files out of &lt;span class="caps"&gt;UML&lt;/span&gt; models, or serialization/marshalling code for …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-04-01:/april-2015.html</guid><category>2015</category></item><item><title>March 18th 2015: The Go Programming Language</title><link>http://nwcpp.org/march-2015.html</link><description>&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 18th, 2015 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -153,24 +60,4 @@ The results have been profound. In other words, what kind of story does the data
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Go for C++ devs
 The talks covers the basics of Go: its origin, philosophy, and main features.
-It has a focus on how C++ aspects map (or not) onto Go, giving special detail to object orientation, inheritance vs
-composition, and interfaces.
-Last but not least, concurrency is a first class citizen in Go, so an overview and demonstration will conclude the&amp;nbsp;talk.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="bio"&gt;
-&lt;h2&gt;Bio&lt;/h2&gt;
-&lt;p&gt;Francesc Campoy Flores is a Developer Advocate for Go and the Cloud at Google. He joined the Go team in 2012 and since then he has written some considerable didactic resources and traveled the world attending conferences, organizing live courses, and meeting fellow gophers. He joined Google in 2011 as a backend software engineer working mostly in C++ and Python, but it was with Go that he rediscovered how fun programming can&amp;nbsp;be.&lt;/p&gt;
-&lt;p&gt;You can find him on twitter as&amp;nbsp;&amp;#64;francesc.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="resources"&gt;
-&lt;h2&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=y2bLGIw4o7k"&gt;Video&lt;/a&gt;
-&lt;a class="reference external" href="http://talks.golang.org/2015/go4cpp.slide#1"&gt;Slides&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="a-word-from-our-sponsor"&gt;
-&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
-&lt;p&gt;We&amp;#8217;re thrilled to be a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; sponsor! Xtreme Consulting is locally owned and headquartered in Kirkland, &lt;span class="caps"&gt;WA&lt;/span&gt;. We provide a wide-range of business and &lt;span class="caps"&gt;IT&lt;/span&gt; consulting solutions, managed services, and staff augmentation. We actively recruit for fun, smart, and career-driven &lt;span class="caps"&gt;IT&lt;/span&gt; professionals who bring an enthusiasm for personal growth and accelerating success for our clients. Xtreme&amp;#8217;s consultants are provided the opportunity to work with and for some of the best technology companies in the industry. We work hard to create a passionate, supportive environment where employees can reach their career development goals, enjoy exceptional benefits, and have fun all at the same&amp;nbsp;time.&lt;/p&gt;
-&lt;p&gt;Xtreme focuses on solutions and services including analysis, design, architecture, development, testing, implementation, maintenance and support of a variety of software technologies with specific emphasis on portal development, technical content creation, virtual machine environments and client and server deployment. Visitxtremeconsulting.com for more information. You can view and apply to our open positions at &lt;a class="reference external" href="http://www.xtremeconsulting.com/careers"&gt;http://www.xtremeconsulting.com/careers&lt;/a&gt;.
-Xtreme Contact: &lt;a class="reference external" href="mailto:info&amp;#64;xtremeconsulting.com"&gt;info&amp;#64;xtremeconsulting.com&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 -0800</pubDate><guid>tag:nwcpp.org,2015-02-28:march-2015.html</guid></item></channel></rss>
+It has a focus on how C++ aspects map (or …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rohit Patnaik</dc:creator><pubDate>Sat, 28 Feb 2015 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:nwcpp.org,2015-02-28:/march-2015.html</guid><category>2015</category></item></channel></rss>

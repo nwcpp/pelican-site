@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2022.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2022-10-29T00:00:00-07:00</updated><entry><title>Nov 16, 2022: Open Discussion: Why so many languages?</title><link href="http://nwcpp.org/Nov-2022.html" rel="alternate"></link><updated>2022-10-29T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-10-29:Nov-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2022</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2022.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2022-10-29T00:00:00-07:00</updated><entry><title>Nov 16, 2022: Open Discussion: Why so many languages?</title><link href="http://nwcpp.org/Nov-2022.html" rel="alternate"></link><published>2022-10-29T00:00:00-07:00</published><updated>2022-10-29T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-10-29:/Nov-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Nov 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3a__Wz9Jgw-mLgNyP6-DvSPuYdBCN8TvSfeZL6C_QS9Z01%40thread.tacv2/1664646712879?context=%7b%22Tid%22%3a%22fd66e145-f04c-469d-a568-c58090f00b63%22%2c%22Oid%22%3a%2281b13566-99fa-4534-a06e-662365d4f0d9%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Meeting &lt;span class="caps"&gt;ID&lt;/span&gt;: 234 309 334 946&lt;/div&gt;
+&lt;div class="line"&gt;Passcode: qZgYD2&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Open Discussion: Why so many&amp;nbsp;languages?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This month we are going to try something a bit differet. The meeting …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Nov 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -42,7 +58,23 @@ seasoned developer when should you look at learning a new&amp;nbsp;language?&lt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Oct 19, 2022: Remedial C++ 17</title><link href="http://nwcpp.org/Oct-2022.html" rel="alternate"></link><updated>2022-09-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-09-25:Oct-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</content><category term="2022"></category></entry><entry><title>Oct 19, 2022: Remedial C++ 17</title><link href="http://nwcpp.org/Oct-2022.html" rel="alternate"></link><published>2022-09-25T00:00:00-07:00</published><updated>2022-09-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-09-25:/Oct-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Oct 19, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3a__Wz9Jgw-mLgNyP6-DvSPuYdBCN8TvSfeZL6C_QS9Z01%40thread.tacv2/1664646712879?context=%7b%22Tid%22%3a%22fd66e145-f04c-469d-a568-c58090f00b63%22%2c%22Oid%22%3a%2281b13566-99fa-4534-a06e-662365d4f0d9%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Meeting &lt;span class="caps"&gt;ID&lt;/span&gt;: 234 309 334 946&lt;/div&gt;
+&lt;div class="line"&gt;Passcode: qZgYD2&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Remedial C++&amp;nbsp;17&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;There&amp;#8217;s often a gap of several years between when a new language standard is approved …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Oct 19, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -62,7 +94,7 @@ seasoned developer when should you look at learning a new&amp;nbsp;language?&lt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;Like the man in black said: &amp;quot;No one of consequence&amp;quot;. Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google. He’s been using C++ for most of that time, and attending &lt;span class="caps"&gt;NWCPP&lt;/span&gt; off and on since the 90’s. He has been known to talk about himself in third&amp;nbsp;person.&lt;/p&gt;
+&lt;p&gt;Like the man in black said: &amp;#8220;No one of consequence&amp;#8221;. Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google. He’s been using C++ for most of that time, and attending &lt;span class="caps"&gt;NWCPP&lt;/span&gt; off and on since the 90’s. He has been known to talk about himself in third&amp;nbsp;person.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
@@ -83,7 +115,23 @@ seasoned developer when should you look at learning a new&amp;nbsp;language?&lt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Aug 17, 2022: ATTEMPT #2: Building a C/C++ Infrared Piano</title><link href="http://nwcpp.org/Aug-2022.html" rel="alternate"></link><updated>2022-08-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-08-02:Aug-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</content><category term="2022"></category></entry><entry><title>Aug 17, 2022: ATTEMPT #2: Building a C/C++ Infrared Piano</title><link href="http://nwcpp.org/Aug-2022.html" rel="alternate"></link><published>2022-08-02T00:00:00-07:00</published><updated>2022-08-02T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-08-02:/Aug-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Aug 17, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjRhNTQ3NTQtYjU2OC00YmY5LTlkMmYtZDQ3N2U1MmQ5ZGM3%40thread.v2/0?context=%7b%22Tid%22%3a%22fd66e145-f04c-469d-a568-c58090f00b63%22%2c%22Oid%22%3a%2281b13566-99fa-4534-a06e-662365d4f0d9%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Meeting &lt;span class="caps"&gt;ID&lt;/span&gt;: 256 260 761 683&lt;/div&gt;
+&lt;div class="line"&gt;Passcode: sUuRtv&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Building a C/C++ Infrared&amp;nbsp;Piano&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;TinkerForge provides a variety of sensors and devices: an air quality sensor, analog …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Aug 17, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -126,7 +174,10 @@ Nick started in the videogames industry, developing titles for console and mobil
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>July 20, 2022: CANCELED: Building a C/C++ Infrared Piano</title><link href="http://nwcpp.org/July-2022.html" rel="alternate"></link><updated>2022-06-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-06-01:July-2022.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+</content><category term="2022"></category></entry><entry><title>July 20, 2022: CANCELED: Building a C/C++ Infrared Piano</title><link href="http://nwcpp.org/July-2022.html" rel="alternate"></link><published>2022-06-01T00:00:00-07:00</published><updated>2022-06-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-06-01:/July-2022.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+&lt;h2&gt;Announcements&lt;/h2&gt;
+&lt;p&gt;We are seeing an issue with Teams where the meeting will not open via the browser link. At this point we are going to cancel the meeting and reschedule the speaker as we are not finding a quick solution to the issue.&amp;nbsp;Sorry!!!&lt;/p&gt;
+&lt;p&gt;The Aug meeting will be member …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="announcements"&gt;
 &lt;h2&gt;Announcements&lt;/h2&gt;
 &lt;p&gt;We are seeing an issue with Teams where the meeting will not open via the browser link. At this point we are going to cancel the meeting and reschedule the speaker as we are not finding a quick solution to the issue.&amp;nbsp;Sorry!!!&lt;/p&gt;
 &lt;p&gt;The Aug meeting will be member lighting rounds, if you want to do a 5-10 minute talk please just show up with your talk and we&amp;#8217;ll organize at the start of the meeting. This is a great opportunity to practice a talk if you also plan to present at&amp;nbsp;CppCon!&lt;/p&gt;
@@ -171,7 +222,10 @@ Nick started in the videogames industry, developing titles for console and mobil
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>June 15, 2022: Overloading in C++: How Does It Really Work?</title><link href="http://nwcpp.org/June-2022.html" rel="alternate"></link><updated>2022-06-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-06-01:June-2022.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+</content><category term="2022"></category></entry><entry><title>June 15, 2022: Overloading in C++: How Does It Really Work?</title><link href="http://nwcpp.org/June-2022.html" rel="alternate"></link><published>2022-06-01T00:00:00-07:00</published><updated>2022-06-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-06-01:/June-2022.html</id><summary type="html">&lt;div class="section" id="announcements"&gt;
+&lt;h2&gt;Announcements&lt;/h2&gt;
+&lt;p&gt;Please note the meeting this month will be held in Zoom and not our regular Teams&amp;nbsp;meeting!!!&lt;/p&gt;
+&lt;p&gt;The Aug meeting will be member lighting rounds, if you want to do a 5-10 minute talk please just show up with your talk and we&amp;#8217;ll organize at the start of …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="announcements"&gt;
 &lt;h2&gt;Announcements&lt;/h2&gt;
 &lt;p&gt;Please note the meeting this month will be held in Zoom and not our regular Teams&amp;nbsp;meeting!!!&lt;/p&gt;
 &lt;p&gt;The Aug meeting will be member lighting rounds, if you want to do a 5-10 minute talk please just show up with your talk and we&amp;#8217;ll organize at the start of the meeting. This is a great opportunity to practice a talk if you also plan to present at&amp;nbsp;CppCon!&lt;/p&gt;
@@ -192,7 +246,7 @@ Nick started in the videogames industry, developing titles for console and mobil
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Overloading has been part of C++ since its beginning, and is the subject of an entire chapter (&amp;quot;Clause&amp;quot;) in the C++ Standard. This talk will provide an in-depth look at this oft-overlooked language&amp;nbsp;feature.&lt;/p&gt;
+&lt;p&gt;Overloading has been part of C++ since its beginning, and is the subject of an entire chapter (&amp;#8220;Clause&amp;#8221;) in the C++ Standard. This talk will provide an in-depth look at this oft-overlooked language&amp;nbsp;feature.&lt;/p&gt;
 &lt;p&gt;Beginning with basic definitions and plenty of examples, we will go on to discuss many of the finer points of overloading and overload resolution. We will culminate with an advanced example of overloading in a non-traditional&amp;nbsp;context.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
@@ -222,7 +276,23 @@ Nick started in the videogames industry, developing titles for console and mobil
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>May 18, 2022: A Slice of Rust</title><link href="http://nwcpp.org/May-2022.html" rel="alternate"></link><updated>2022-05-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-05-01:May-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</content><category term="2022"></category></entry><entry><title>May 18, 2022: A Slice of Rust</title><link href="http://nwcpp.org/May-2022.html" rel="alternate"></link><published>2022-05-01T00:00:00-07:00</published><updated>2022-05-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-05-01:/May-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;May 18, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874   United States, Los Angeles (Toll)&lt;/div&gt;
+&lt;div class="line"&gt;Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 981 759 587#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;A Slice of&amp;nbsp;Rust&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Rust is a general purpose, safety oriented programming language. I’ve …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;May 18, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -264,7 +334,23 @@ Nick started in the videogames industry, developing titles for console and mobil
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 20, 2022: Adding Modules to C in 10 Lines of Code</title><link href="http://nwcpp.org/April-2022.html" rel="alternate"></link><updated>2022-04-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-04-01:April-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</content><category term="2022"></category></entry><entry><title>April 20, 2022: Adding Modules to C in 10 Lines of Code</title><link href="http://nwcpp.org/April-2022.html" rel="alternate"></link><published>2022-04-01T00:00:00-07:00</published><updated>2022-04-01T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-04-01:/April-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;April 20, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874   United States, Los Angeles (Toll)&lt;/div&gt;
+&lt;div class="line"&gt;Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 981 759 587#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Adding Modules to C in 10 Lines of&amp;nbsp;Code&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;I know what you&amp;#8217;re thinking …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;April 20, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -311,7 +397,24 @@ Engineer, Digital&amp;nbsp;Mars&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 16, 2022: Building a Python/C++ Package</title><link href="http://nwcpp.org/March-2022.html" rel="alternate"></link><updated>2022-03-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-03-01:March-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</content><category term="2022"></category></entry><entry><title>March 16, 2022: Building a Python/C++ Package</title><link href="http://nwcpp.org/March-2022.html" rel="alternate"></link><published>2022-03-01T00:00:00-08:00</published><updated>2022-03-01T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-03-01:/March-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;March 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874   United States, Los Angeles (Toll)&lt;/div&gt;
+&lt;div class="line"&gt;Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 981 759 587#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Building a Python/C++ Package:
+Vision, Transformation, Documentation, Scale, Portability, and&amp;nbsp;Tools&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This is a …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;March 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -329,7 +432,7 @@ Vision, Transformation, Documentation, Scale, Portability, and&amp;nbsp;Tools&lt
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This is a story about an ongoing, unfunded personal post-retirement&amp;nbsp;project.&lt;/p&gt;
-&lt;p&gt;Leonard Mosescu, in his talk last August (&amp;quot;Python Bindings for C++&amp;quot;),
+&lt;p&gt;Leonard Mosescu, in his talk last August (&amp;#8220;Python Bindings for C++&amp;#8221;),
 ably covered the core technology for persuading Python and C++ to play
 nicely together. I will address some of the same issues, but treat this
 project as a concrete case study, with messy issues beyond (and
@@ -337,8 +440,8 @@ including) the binding tools (I&amp;#8217;m using &lt;span class="caps"&gt;SWIG&
 &lt;p&gt;My starting point is &lt;span class="caps"&gt;SST&lt;/span&gt;, a monolithic C++ computer program that
 generates simulated underwater sound. I built &lt;span class="caps"&gt;SST&lt;/span&gt; over a 40-year career,
 with episodic help from a sequence of team members with various skill
-sets. The front end is my own parser, interpreting an incomplete &amp;quot;data
-description&amp;quot; language of my own invention. The underlying C++ classes
+sets. The front end is my own parser, interpreting an incomplete &amp;#8220;data
+description&amp;#8221; language of my own invention. The underlying C++ classes
 are mostly well designed, mostly documented using Doxygen, but they bear
 the marks of a long and twisted evolution, and some mistakes. &lt;span class="caps"&gt;SST&lt;/span&gt; is
 reasonably well documented, and in use by a small community of very
@@ -381,7 +484,23 @@ University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Feb 16, 2022: How I Learned to Stop Worrying and Love C++ 20</title><link href="http://nwcpp.org/Feb-2022.html" rel="alternate"></link><updated>2022-01-31T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-01-31:Feb-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</content><category term="2022"></category></entry><entry><title>Feb 16, 2022: How I Learned to Stop Worrying and Love C++ 20</title><link href="http://nwcpp.org/Feb-2022.html" rel="alternate"></link><published>2022-01-31T00:00:00-08:00</published><updated>2022-01-31T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2022-01-31:/Feb-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Feb 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874   United States, Los Angeles (Toll)&lt;/div&gt;
+&lt;div class="line"&gt;Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 981 759 587#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;How I Learned to Stop Worrying and Love C++&amp;nbsp;20&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Over the last few months …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Feb 16, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -423,7 +542,23 @@ University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>Jan 19, 2022: What’s new with Chapel? Applications, Aggregators, and Accelerators</title><link href="http://nwcpp.org/Jan-2022.html" rel="alternate"></link><updated>2021-12-18T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2021-12-18:Jan-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+</content><category term="2022"></category></entry><entry><title>Jan 19, 2022: What’s new with Chapel? Applications, Aggregators, and Accelerators</title><link href="http://nwcpp.org/Jan-2022.html" rel="alternate"></link><published>2021-12-18T00:00:00-08:00</published><updated>2021-12-18T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2021-12-18:/Jan-2022.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Jan 19, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzAyZjk4NmYtNDk0Zi00ZTExLThlYTAtMmU0MjdiODNiZDZi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22e7ef3a08-2edc-4be1-86ca-6b4e47553507%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874   United States, Los Angeles (Toll)&lt;/div&gt;
+&lt;div class="line"&gt;Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 981 759 587#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;What&amp;#8217;s new with Chapel?  Applications, Aggregators, and&amp;nbsp;Accelerators&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Chapel is a language supporting productive …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Jan 19, 2022 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -465,4 +600,4 @@ University of Washington,&amp;nbsp;Seattle&lt;/p&gt;
 &lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry></feed>
+</content><category term="2022"></category></entry></feed>

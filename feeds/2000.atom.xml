@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2000.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2000-12-31T00:00:00-08:00</updated><entry><title>2000</title><link href="http://nwcpp.org/2000-summary.html" rel="alternate"></link><updated>2000-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2000-12-31:2000-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2000.html"&gt;January 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2000</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2000.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2000-12-31T00:00:00-08:00</updated><entry><title>2000</title><link href="http://nwcpp.org/2000-summary.html" rel="alternate"></link><published>2000-12-31T00:00:00-08:00</published><updated>2000-12-31T00:00:00-08:00</updated><author><name>George Reilly</name></author><id>tag:nwcpp.org,2000-12-31:/2000-summary.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2000.html"&gt;January 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2000.html"&gt;February 15th, 2000 — Datatypes++, A C++ Class Library for Windows — Tom&amp;nbsp;Dowdell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2000.html"&gt;March 8th, 2000 — Real-World Class Design — Mark&amp;nbsp;Wiseman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2000.html"&gt;April 12th, 2000 — Testing Object-Oriented Software — Steve&amp;nbsp;Tockey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/may-2000.html"&gt;May 10th, 2000 — C++ Exceptions — Bobby&amp;nbsp;Schmidt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/june-2000.html"&gt;June 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/july-2000.html"&gt;July 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/august-2000.html"&gt;August 9th, 2000 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/january-2000.html"&gt;January 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/february-2000.html"&gt;February 15th, 2000 — Datatypes++, A C++ Class Library for Windows — Tom&amp;nbsp;Dowdell&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/march-2000.html"&gt;March 8th, 2000 — Real-World Class Design — Mark&amp;nbsp;Wiseman&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/april-2000.html"&gt;April 12th, 2000 — Testing Object-Oriented Software — Steve&amp;nbsp;Tockey&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +18,20 @@
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/october-2000.html"&gt;October 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/november-2000.html"&gt;November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn&amp;nbsp;Lovell&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://nwcpp.org/december-2000.html"&gt;December 2000: No&amp;nbsp;Meeting&lt;/a&gt;&lt;/p&gt;
-</summary></entry><entry><title>December 2000: No Meeting</title><link href="http://nwcpp.org/december-2000.html" rel="alternate"></link><updated>2000-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-12-01:december-2000.html</id><summary type="html"></summary></entry><entry><title>November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn Lovell</title><link href="http://nwcpp.org/november-2000.html" rel="alternate"></link><updated>2000-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-11-01:november-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content><category term="2000"></category></entry><entry><title>December 2000: No Meeting</title><link href="http://nwcpp.org/december-2000.html" rel="alternate"></link><published>2000-12-01T00:00:00-08:00</published><updated>2000-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-12-01:/december-2000.html</id><content type="html"></content><category term="2000"></category></entry><entry><title>November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn Lovell</title><link href="http://nwcpp.org/november-2000.html" rel="alternate"></link><published>2000-11-01T00:00:00-08:00</published><updated>2000-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-11-01:/november-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Visual Studio 7 is due to be launched early next year, and is
+Microsoft&amp;#8217;s first real deliverable in their .&lt;span class="caps"&gt;NET&lt;/span&gt; initiative. Martyn
+Lovell of Microsoft will give a preview of Visual Studio 7,
+concentrating on C# and &lt;span class="caps"&gt;ASP …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -26,7 +46,20 @@ Microsoft&amp;#8217;s first real deliverable in their .&lt;span class="caps"&gt;
 Lovell of Microsoft will give a preview of Visual Studio 7,
 concentrating on C# and &lt;span class="caps"&gt;ASP&lt;/span&gt;+.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>October 2000: No Meeting</title><link href="http://nwcpp.org/october-2000.html" rel="alternate"></link><updated>2000-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-10-01:october-2000.html</id><summary type="html"></summary></entry><entry><title>September 13th, 2000 — Change the Way You Write Exception-Safe Code, Forever — Andrei Alexandrescu</title><link href="http://nwcpp.org/september-2000.html" rel="alternate"></link><updated>2000-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-09-01:september-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content><category term="2000"></category></entry><entry><title>October 2000: No Meeting</title><link href="http://nwcpp.org/october-2000.html" rel="alternate"></link><published>2000-10-01T00:00:00-07:00</published><updated>2000-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-10-01:/october-2000.html</id><content type="html"></content><category term="2000"></category></entry><entry><title>September 13th, 2000 — Change the Way You Write Exception-Safe Code, Forever — Andrei Alexandrescu</title><link href="http://nwcpp.org/september-2000.html" rel="alternate"></link><published>2000-09-01T00:00:00-07:00</published><updated>2000-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-09-01:/september-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk presents the subtle issues associated with writing correct
+code in the presence of exceptions. Writing exception-safe code is a
+must for preserving the sanity of any application. This task is daunting
+because exceptions introduce hidden control flows …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -56,7 +89,23 @@ programmers do it the hard way and that ScopeGuard is&amp;nbsp;cutting-edge.”&
 is a former columnist of the C++ Report magazine, and a columnist of
 C/C++ Users Journal. You can reach him at &lt;a class="reference external" href="mailto:andrei&amp;#64;metalanguage.com"&gt;andrei&amp;#64;metalanguage.com&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>August 9th, 2000 — Building a High Performance Server Product on Win NT/2000 Using C/C++ — Chris Hickman &amp; Joe Mullally</title><link href="http://nwcpp.org/august-2000.html" rel="alternate"></link><updated>2000-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-08-01:august-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content><category term="2000"></category></entry><entry><title>August 9th, 2000 — Building a High Performance Server Product on Win NT/2000 Using C/C++ — Chris Hickman &amp; Joe Mullally</title><link href="http://nwcpp.org/august-2000.html" rel="alternate"></link><published>2000-08-01T00:00:00-07:00</published><updated>2000-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-08-01:/august-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Joe will start by talking about building a high performance server
+product on Win &lt;span class="caps"&gt;NT&lt;/span&gt;/2000 using C/C++.&amp;nbsp;Specifically:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;I/O Completion&amp;nbsp;Ports&lt;/li&gt;
+&lt;li&gt;Object and Context&amp;nbsp;Pooling&lt;/li&gt;
+&lt;li&gt;Protocol and Error&amp;nbsp;Mapping&lt;/li&gt;
+&lt;li&gt;When and How to use Spinlock vs …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -103,7 +152,7 @@ Microsoft Passport, Microsoft&amp;#8217;s e-commerce and Web authentication
 service. Prior to Microsoft, Joe worked as a Senior Software Engineer at
 &lt;span class="caps"&gt;AVT&lt;/span&gt;&amp;nbsp;Corporation.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>July 2000: No Meeting</title><link href="http://nwcpp.org/july-2000.html" rel="alternate"></link><updated>2000-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-07-01:july-2000.html</id><summary type="html"></summary></entry><entry><title>June 2000: No Meeting</title><link href="http://nwcpp.org/june-2000.html" rel="alternate"></link><updated>2000-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-06-01:june-2000.html</id><summary type="html"></summary></entry><entry><title>May 10th, 2000 — C++ Exceptions — Bobby Schmidt</title><link href="http://nwcpp.org/may-2000.html" rel="alternate"></link><updated>2000-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-05-01:may-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content><category term="2000"></category></entry><entry><title>July 2000: No Meeting</title><link href="http://nwcpp.org/july-2000.html" rel="alternate"></link><published>2000-07-01T00:00:00-07:00</published><updated>2000-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-07-01:/july-2000.html</id><content type="html"></content><category term="2000"></category></entry><entry><title>June 2000: No Meeting</title><link href="http://nwcpp.org/june-2000.html" rel="alternate"></link><published>2000-06-01T00:00:00-07:00</published><updated>2000-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-06-01:/june-2000.html</id><content type="html"></content><category term="2000"></category></entry><entry><title>May 10th, 2000 — C++ Exceptions — Bobby Schmidt</title><link href="http://nwcpp.org/may-2000.html" rel="alternate"></link><published>2000-05-01T00:00:00-07:00</published><updated>2000-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-05-01:/may-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -115,7 +164,21 @@ service. Prior to Microsoft, Joe worked as a Senior Software Engineer at
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Overview of C++ exceptions, their rationale, and their usage. Followed
 with discussion of standard library support, exception safety
-considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;quot;gotchas&amp;quot;
+considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;#8220;gotchas&amp;#8221;
+and wisdom sprinkled throughout :^) Talk assumes you understand the
+rudiments of C …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Overview of C++ exceptions, their rationale, and their usage. Followed
+with discussion of standard library support, exception safety
+considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;#8220;gotchas&amp;#8221;
 and wisdom sprinkled throughout :^) Talk assumes you understand the
 rudiments of C++ exception&amp;nbsp;handling.&lt;/p&gt;
 &lt;/div&gt;
@@ -123,13 +186,30 @@ rudiments of C++ exception&amp;nbsp;handling.&lt;/p&gt;
 &lt;h2&gt;Bio&lt;/h2&gt;
 &lt;p&gt;Bobby Schmidt is a writer, teacher, and programmer. For the past five
 years, he&amp;#8217;s been Contributing Editor and monthly columnist for the
-&amp;quot;C/C++ Users Journal.&amp;quot; He also writes the twice-monthly &amp;quot;Deep C++&amp;quot;
-column for &amp;quot;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Online Voices&amp;quot; magazine. Bobby has taught short
+&amp;#8220;C/C++ Users Journal.&amp;#8221; He also writes the twice-monthly &amp;#8220;Deep C++&amp;#8221;
+column for &amp;#8220;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Online Voices&amp;#8221; magazine. Bobby has taught short
 sessions and all-day tutorials at both the Software Development and
 Embedded Systems conferences. In previous incarnations, he was an
 astronomer, private investigator, radio &lt;span class="caps"&gt;DJ&lt;/span&gt;, and wild-animal&amp;nbsp;curator.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>April 12th, 2000 — Testing Object-Oriented Software — Steve Tockey</title><link href="http://nwcpp.org/april-2000.html" rel="alternate"></link><updated>2000-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-04-01:april-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content><category term="2000"></category></entry><entry><title>April 12th, 2000 — Testing Object-Oriented Software — Steve Tockey</title><link href="http://nwcpp.org/april-2000.html" rel="alternate"></link><published>2000-04-01T00:00:00-08:00</published><updated>2000-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-04-01:/april-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This presentation is an overview of software testing techniques with
+special emphasis on the application of those techniques to
+object-oriented&amp;nbsp;software.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Steve Tockey is Vice President of Consulting at Construx Software in
+Bellevue. Steve has been employed in …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -153,7 +233,20 @@ Lawrence Livermore National Laboratory, The Boeing Company, and Rockwell
 Collins, Inc. He has a Masters in Software Engineering from Seattle
 University and a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from &lt;span class="caps"&gt;U.C.&lt;/span&gt;&amp;nbsp;Berkeley.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>March 8th, 2000 — Real-World Class Design — Mark Wiseman</title><link href="http://nwcpp.org/march-2000.html" rel="alternate"></link><updated>2000-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-03-01:march-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content><category term="2000"></category></entry><entry><title>March 8th, 2000 — Real-World Class Design — Mark Wiseman</title><link href="http://nwcpp.org/march-2000.html" rel="alternate"></link><published>2000-03-01T00:00:00-08:00</published><updated>2000-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-03-01:/march-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;There is a lot you may need to consider when designing a C++ class
+including ease of use, reusability, extensibility, and portability,
+etc.. All of these considerations may suffer because of the real-world
+pressures of time and money. Mark …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -178,7 +271,20 @@ Windows software for business management. Mark is also president of the
 Northwest C++ User&amp;#8217;s Group. You can e-mail him at
 &lt;a class="reference external" href="mailto:mwiseman&amp;#64;cosolutions.com"&gt;mwiseman&amp;#64;cosolutions.com&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>February 15th, 2000 — Datatypes++, A C++ Class Library for Windows — Tom Dowdell</title><link href="http://nwcpp.org/february-2000.html" rel="alternate"></link><updated>2000-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-02-01:february-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+</content><category term="2000"></category></entry><entry><title>February 15th, 2000 — Datatypes++, A C++ Class Library for Windows — Tom Dowdell</title><link href="http://nwcpp.org/february-2000.html" rel="alternate"></link><published>2000-02-01T00:00:00-08:00</published><updated>2000-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-02-01:/february-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Tom, a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; member, will introduce his company, Intuitive Edge Corp.,
+and Datatypes++, Intuitive Edge&amp;#8217;s first product. Datatypes++ is a C++
+class library for Windows that extends C++&amp;#8217;s datatypes to text, exact
+numeric, date, time, binary, bitset …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
@@ -217,4 +323,4 @@ Server database&amp;nbsp;group&lt;/li&gt;
 library,&amp;nbsp;Datatypes++&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary></entry><entry><title>January 2000: No Meeting</title><link href="http://nwcpp.org/january-2000.html" rel="alternate"></link><updated>2000-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-01-01:january-2000.html</id><summary type="html"></summary></entry></feed>
+</content><category term="2000"></category></entry><entry><title>January 2000: No Meeting</title><link href="http://nwcpp.org/january-2000.html" rel="alternate"></link><published>2000-01-01T00:00:00-08:00</published><updated>2000-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-01-01:/january-2000.html</id><content type="html"></content><category term="2000"></category></entry></feed>
