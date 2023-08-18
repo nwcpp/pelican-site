@@ -60,7 +60,9 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2023/DDIFI.talk.pdf>`_
+
+`Video <https://youtu.be/UITd8kNza3M>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
