@@ -1,0 +1,61 @@
+Wednesday, September 20, 2023: MDSPAN: A Deep Dive Spanning C++, Kokkos & SYCL
+##############################################################################
+
+:date: 2023-08-30
+:slug: September-2023
+:author: Lloyd Moore
+
+Time and Location - We're HYBRID!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| Wednesday, September 20, 2023 at 7:00 PM
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1034 (14) Alder Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY3MDU4NzYtZWVkMi00ZjQ4LTliMTMtNGNhOTQ1NmMwYTc3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22739ffc25-8fae-48b9-9505-1f3baa8f0eb7%22%7d>`_
+| Meeting ID: 221 084 547 694
+| Passcode: zRSbFd
+|
+| Call in (audio only)
+| +1 323-849-4874,,731463717#<tel:+13238494874,,731463717#> United States, Los Angeles
+| Phone Conference ID: 731 463 717#
+
+Title
+~~~~~
+MDSPAN: A Deep Dive Spanning C++, Kokkos & SYCL
+
+Abstract
+~~~~~~~~~
+This talk is a deep dive into the history behind MDSPAN (it’s roots being in Kokkos::View), the C++ standardization effort behind it (current status, various tradeoffs made over time, and language changes to help support it) and how SYCL is looking to leverage it in the future. MDSPAN is a non-owning multidimensional array reference, currently slated to be one of the flagship libraries added to C++23. View/reference vocabulary types first entered C++17 with string_view (a non-owning string reference), followed by span (a non-owning single dimension contiguous memory reference) and the ranges library. MDSPAN is the natural progression of this, and one that is critical to distributed (eg. CPU/GPU programming) and high-performance computing.
+
+MDSPAN got its roots from Kokkos::View, One key difference between Kokkos::View & MDSPAN: Kokkos::View may be owning (reference-counted reference semantics) or non-owning. The former is also being standardized for C++26 as MDARRAY, although with value and not reference-counted semantics. Separately, in 2014 Microsoft proposed a similar type, array_view, be added to the standard. After a year and a half and seven revisions, it was ultimately abandoned in favor of what is now MDSPAN because it did not provide a zero-overhead abstraction.
+
+The MDSPAN proposal itself has taken seven years and has been through 19+ revisions, with input from many different companies as well as the C++ Committee. What changed over the years and why did it change? In parallel, two key language changes were made which ultimately improved the interface: deprecating the comma operator inside square brackets, and the addition of the multidimensional subscript operator. This allows the natural syntax of a[I, j, k] instead of inferior alternatives like a(i, j, k), a[I][j][k] or even a[Index(i), j, k].
+
+Speaker Bio
+~~~~~~~~~~~
+Nevin “:-)” Liber is a Computer Scientist in the ALCF (Argonne Leadership Computing Facility) division of Argonne National Laboratory, where he works on Kokkos. He also represents Argonne on the SYCL and C++ Committees, the latter as INCITS C++ Vice Chair, WG21 Admin Chair and WG21 Vice Chair of LEWGI/SG18. Back when he started out working at Bell Labs over three decades ago, a friend of his called and asked “What do you know about C++? You folks invented it!” That was enough to get a relatively shy junior engineer to go find the local expert so he could go play with it, and the rest is history! He has worked in C++ across various industries and platforms (big data, low-latency, operating systems, embedded, telephony and now exascale computing, just to name a few). He has also been a C++ Committee member since 2010 and hosted both the C++ and C standards meetings in Chicago.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank JFrog and Conan for sponsoring the our Meetup account!
+
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
+* Follow us on `Meetup <https://www.linkedin.com/company/nwcpp>`_
+
