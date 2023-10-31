@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Northwest C++ Users’ Group - Lloyd Moore</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Wed, 30 Aug 2023 00:00:00 -0700</lastBuildDate><item><title>Wednesday, September 20, 2023: MDSPAN: A Deep Dive Spanning C++, Kokkos &amp; SYCL</title><link>http://nwcpp.org/September-2023.html</link><description>&lt;div class="section" id="time-and-location-we-re-hybrid"&gt;
+<rss version="2.0"><channel><title>Northwest C++ Users’ Group - Lloyd Moore</title><link>http://nwcpp.org/</link><description></description><lastBuildDate>Tue, 31 Oct 2023 00:00:00 -0700</lastBuildDate><item><title>November 16, 2023: Remedial C++ 17 Library features - Part 2!</title><link>http://nwcpp.org/November-2023.html</link><description>&lt;div class="section" id="time-and-location-now-on-thursday"&gt;
+&lt;h2&gt;Time and Location - &lt;span class="caps"&gt;NOW&lt;/span&gt; &lt;span class="caps"&gt;ON&lt;/span&gt; &lt;span class="caps"&gt;THURSDAY&lt;/span&gt;!!!!&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, November 16, 2023 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Redmond Reactor | 3709 157th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;div class="line"&gt;Conf Room 20/1034 (14) Alder Reactor&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&amp;#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c"&gt;Map&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY3MDU4NzYtZWVkMi00ZjQ4LTliMTMtNGNhOTQ1NmMwYTc3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22739ffc25-8fae-48b9-9505-1f3baa8f0eb7%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Meeting &lt;span class="caps"&gt;ID&lt;/span&gt;: 221 084 …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lloyd Moore</dc:creator><pubDate>Tue, 31 Oct 2023 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:nwcpp.org,2023-10-31:/November-2023.html</guid><category>2023</category></item><item><title>Wednesday, September 20, 2023: MDSPAN: A Deep Dive Spanning C++, Kokkos &amp; SYCL</title><link>http://nwcpp.org/September-2023.html</link><description>&lt;div class="section" id="time-and-location-we-re-hybrid"&gt;
 &lt;h2&gt;Time and Location - We&amp;#8217;re &lt;span class="caps"&gt;HYBRID&lt;/span&gt;!&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Wednesday, September 20, 2023 at 7:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;

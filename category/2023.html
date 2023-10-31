@@ -100,10 +100,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="../September-2023.html">Wednesday, September 20, 2023: <span class="caps">MDSPAN</span>: A Deep Dive Spanning C++, Kokkos <span class="amp">&amp;</span> <span class="caps">SYCL</span></a></h1>
+                    <h1 class="entry-title"><a href="../November-2023.html">November 16, 2023: Remedial C++ 17 Library features - Part&nbsp;2!</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2023-08-30T00:00:00-07:00">
-                Published: Wed 30 August 2023
+        <abbr class="published" title="2023-10-31T00:00:00-07:00">
+                Published: Tue 31 October 2023
         </abbr>
 
         <address class="vcard author">
@@ -111,10 +111,10 @@
         </address>
 <p>In <a href="../category/2023.html">2023</a>. </p>
 
-</footer><!-- /.post-info --><div class="section" id="time-and-location-we-re-hybrid">
-<h2>Time and Location - We&#8217;re <span class="caps">HYBRID</span>!</h2>
+</footer><!-- /.post-info --><div class="section" id="time-and-location-now-on-thursday">
+<h2>Time and Location - <span class="caps">NOW</span> <span class="caps">ON</span> <span class="caps">THURSDAY</span>!!!!</h2>
 <div class="line-block">
-<div class="line">Wednesday, September 20, 2023 at 7:00 <span class="caps">PM</span></div>
+<div class="line"><span class="caps">THURSDAY</span>, November 16, 2023 at 7:00 <span class="caps">PM</span></div>
 <div class="line"><br /></div>
 <div class="line">In Person:</div>
 <div class="line">Microsoft Redmond Reactor | 3709 157th Ave <span class="caps">NE</span>, Redmond, <span class="caps">WA</span> 98052</div>
@@ -134,27 +134,26 @@
 </div>
 <div class="section" id="title">
 <h2>Title</h2>
-<p><span class="caps">MDSPAN</span>: A Deep Dive Spanning C++, Kokkos <span class="amp">&amp;</span> <span class="caps">SYCL</span></p>
+<p>Remedial C++ 17 Library features - Part&nbsp;2!</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>This talk is a deep dive into the history behind <span class="caps">MDSPAN</span> (it’s roots being in Kokkos::View), the C++ standardization effort behind it (current status, various tradeoffs made over time, and language changes to help support it) and how <span class="caps">SYCL</span> is looking to leverage it in the future. <span class="caps">MDSPAN</span> is a non-owning multidimensional array reference, currently slated to be one of the flagship libraries added to C++23. View/reference vocabulary types first entered C++17 with string_view (a non-owning string reference), followed by span (a non-owning single dimension contiguous memory reference) and the ranges library. <span class="caps">MDSPAN</span> is the natural progression of this, and one that is critical to distributed (eg. <span class="caps">CPU</span>/<span class="caps">GPU</span> programming) and high-performance&nbsp;computing.</p>
-<p><span class="caps">MDSPAN</span> got its roots from Kokkos::View, One key difference between Kokkos::View <span class="amp">&amp;</span> <span class="caps">MDSPAN</span>: Kokkos::View may be owning (reference-counted reference semantics) or non-owning. The former is also being standardized for C++26 as <span class="caps">MDARRAY</span>, although with value and not reference-counted semantics. Separately, in 2014 Microsoft proposed a similar type, array_view, be added to the standard. After a year and a half and seven revisions, it was ultimately abandoned in favor of what is now <span class="caps">MDSPAN</span> because it did not provide a zero-overhead&nbsp;abstraction.</p>
-<p>The <span class="caps">MDSPAN</span> proposal itself has taken seven years and has been through 19+ revisions, with input from many different companies as well as the C++ Committee. What changed over the years and why did it change? In parallel, two key language changes were made which ultimately improved the interface: deprecating the comma operator inside square brackets, and the addition of the multidimensional subscript operator. This allows the natural syntax of a[I, j, k] instead of inferior alternatives like a(i, j, k), a[I][j][k] or even a[Index(i), j,&nbsp;k].</p>
+<p>When C++ 17 came out 6 years ago, many of us weren&#8217;t allowed to use it because our compilers didn&#8217;t support it.  Now that most compilers have good C++ 17 support, let&#8217;s do an overview of the features introduced into the C++ standard library with C++&nbsp;17.</p>
+<p>This talk is a continuation of the April 19th talk, and will pick up where that one left off! The slides and video from Part 1 are listed below in the &#8220;Resources&#8221; section if you want a recap from earlier this&nbsp;year!</p>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
-<p>Nevin “:-)” Liber is a Computer Scientist in the <span class="caps">ALCF</span> (Argonne Leadership Computing Facility) division of Argonne National Laboratory, where he works on Kokkos. He also represents Argonne on the <span class="caps">SYCL</span> and C++ Committees, the latter as <span class="caps">INCITS</span> C++ Vice Chair, <span class="caps">WG21</span> Admin Chair and <span class="caps">WG21</span> Vice Chair of <span class="caps">LEWGI</span>/<span class="caps">SG18</span>. Back when he started out working at Bell Labs over three decades ago, a friend of his called and asked “What do you know about C++? You folks invented it!” That was enough to get a relatively shy junior engineer to go find the local expert so he could go play with it, and the rest is history! He has worked in C++ across various industries and platforms (big data, low-latency, operating systems, embedded, telephony and now exascale computing, just to name a few). He has also been a C++ Committee member since 2010 and hosted both the C++ and C standards meetings in&nbsp;Chicago.</p>
+<p>Like the man in black said: &#8220;No one of consequence&#8221;. Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google. He’s been using C++ for most of that time, and attending <span class="caps">NWCPP</span> off and on since the 90’s. He has been known to talk about himself in third&nbsp;person.</p>
 </div>
 <div class="section" id="a-word-from-our-sponsor">
 <h2>A Word From Our&nbsp;Sponsor</h2>
 <p>Please thank JFrog and Conan for sponsoring the our Meetup&nbsp;account!</p>
 <p>Please thank Microsoft for sponsoring our meeting room and Teams&nbsp;account!</p>
 </div>
-<div class="section" id="resources">
-<h2>Resources</h2>
-<p><a class="reference external" href="/talks/2023/MDSPAN.pdf">Slides</a></p>
-<p><a class="reference external" href="https://www.youtube.com/watch?v=2EdRLDTYqPM">Video</a></p>
+<div class="section" id="resources-part-1">
+<h2>Resources - Part&nbsp;1</h2>
+<p><a class="reference external" href="https://docs.google.com/presentation/d/1rw43yd1t1LCQLnAPYZKeiRNvwrbVy9pNVmG2P8L7J9o">Slides</a></p>
+<p><a class="reference external" href="https://youtu.be/U6Eef79GRF4">Video</a></p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -164,7 +163,6 @@
 <li>Follow <a class="reference external" href="http://twitter.com/nwcpp">&#64;nwcpp</a> on&nbsp;Twitter</li>
 <li>Join our <a class="reference external" href="https://www.facebook.com/groups/344125680930/">Facebook&nbsp;Group</a></li>
 <li>Tune in to our <a class="reference external" href="http://www.youtube.com/user/NWCPP">YouTube</a> and <a class="reference external" href="https://vimeo.com/nwcpp">Vimeo</a>&nbsp;channels</li>
-<li>Follow us on <a class="reference external" href="https://www.linkedin.com/company/nwcpp">Meetup</a></li>
 </ul>
 </div>
                 </article>
@@ -173,6 +171,41 @@
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="../September-2023.html" rel="bookmark"
+                           title="Permalink to Wednesday, September 20, 2023: MDSPAN: A Deep Dive Spanning C++, Kokkos & SYCL">Wednesday, September 20, 2023: <span class="caps">MDSPAN</span>: A Deep Dive Spanning C++, Kokkos <span class="amp">&amp;</span> <span class="caps">SYCL</span></a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2023-08-30T00:00:00-07:00">
+                Published: Wed 30 August 2023
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="../author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="../category/2023.html">2023</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location-we-re-hybrid">
+<h2>Time and Location - We&#8217;re <span class="caps">HYBRID</span>!</h2>
+<div class="line-block">
+<div class="line">Wednesday, September 20, 2023 at 7:00 <span class="caps">PM</span></div>
+<div class="line"><br /></div>
+<div class="line">In Person:</div>
+<div class="line">Microsoft Redmond Reactor | 3709 157th Ave <span class="caps">NE</span>, Redmond, <span class="caps">WA</span> 98052</div>
+<div class="line">Conf Room 20/1034 (14) Alder Reactor</div>
+<div class="line"><a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c">Map</a></div>
+<div class="line"><br /></div>
+<div class="line">Remote:</div>
+<div class="line">On Line Using Microsoft Teams</div>
+<div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGY3MDU4NzYtZWVkMi00ZjQ4LTliMTMtNGNhOTQ1NmMwYTc3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22739ffc25-8fae-48b9-9505-1f3baa8f0eb7%22%7d">Click here to join the meeting</a></div>
+<div class="line">Meeting <span class="caps">ID</span>: 221 084 …</div></div></div>
+                <a class="readmore" href="../September-2023.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
