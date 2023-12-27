@@ -1,0 +1,59 @@
+January 18, 2024: What Have We Lost?
+##################################################################################
+
+:date: 2023-12-27
+:slug: January-2024
+:author: Lloyd Moore
+
+Time and Location - NOW ON THURSDAY!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| THURSDAY, January 18, 2024 at 7:00 PM
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1034 (14) Alder Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjlkYzQ0MTgtZWIyNS00YjFiLWI5OTAtNmViZTUxNjViZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 257 132 179 73
+| Passcode: HdkcQu
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 272 079 232#
+
+Title
+~~~~~
+What Have We Lost?
+
+Abstract
+~~~~~~~~~
+In the last 40+ years that I have been developing software there has been a massive increase in computing capability, both in terms of performance and the speed and ease of which new software can be created.
+
+If we look back , the level of benefit to the user  hasn’t kept pace with either of the above metrics. 40+ years ago I would have used a word processor to write this abstract (albeit without some of the fancy formatting) on a computer that had a single 8 bit processor and ran at Mhz speeds (ie: Commodore 64). On my modern computer with 16x 64 bit processors each running at Ghz speed writing this abstract is much the same experience. (For the moment we’ll ignore that MABYE in the not too distant future I won’t be doing this at all as a ChatGPT descent will do it for me – which of course would justify the cost of my current computer!)
+
+Let’s take a moment to look back at how things were done in the past, particularly at techniques which I do not find in common practice, to see how we can do better. This is not to say that 40+ years of progress should be thrown out the window, this is to say some 40+ year old techniques still have value today and should not be forgotten.
+
+Speaker Bio
+~~~~~~~~~~~
+Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields. Lloyd has worked in software industry for 35 years. His formal training is in biological-based artificial intelligence, electronics, and psychology. Lloyd is also currently the president of the Northwest C++ User's Group and an organizer of the Seattle Robotics Society Robothon events.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank JFrog and Conan for sponsoring the our Meetup account!
+
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
