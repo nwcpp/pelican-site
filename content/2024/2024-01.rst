@@ -48,7 +48,9 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2024/WhatHaveWeLost.pptx>`_
+
+`Video <https://youtu.be/9vs6SSukgyg>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
