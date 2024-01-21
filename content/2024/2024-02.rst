@@ -1,0 +1,65 @@
+February 15, 2024: Comprehensible Programming
+##################################################################################
+
+:date: 2024-01-22
+:slug: February-2024
+:author: Lloyd Moore
+
+Time and Location - NOW ON THURSDAY!!!!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+| THURSDAY, February 15, 2024 at 7:00 PM
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1143 (12) Maple Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjlkYzQ0MTgtZWIyNS00YjFiLWI5OTAtNmViZTUxNjViZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 257 132 179 73
+| Passcode: HdkcQu
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 272 079 232#
+
+Title
+~~~~~
+Comprehensible Programming
+
+Abstract
+~~~~~~~~~
+Have you ever looked at code you wrote 5 years ago, and wondered what you were thinking? Just think of code you authored even further back!
+You've heard about secure code, safe code, clean code, modern code, optimized code, clever code, user friendly code, structured code,
+effective code, etc. Everybody thinks they write easy to comprehend code (including me), but your future self will likely
+have the last word on that. Here I'll be talking about writing easy to understand code.
+It's based on decades of experience writing code that is hard to understand. It'll show how D makes it easy to write easy to understand
+code. It won't cost anything, either. And who knows - maybe your future self will sigh contentedly with "I wrote that!"
+
+The highest praise you can get for your code is someone else looking at it saying "that's so simple, anyone could have done it!"
+(But you and I know better)
+
+Speaker Bio
+~~~~~~~~~~~
+Walter Bright
+Engineer, Digital Mars
+
+Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages. He's an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines and runtime libraries. Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques. Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 30 years after its debut.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
