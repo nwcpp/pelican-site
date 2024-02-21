@@ -54,7 +54,9 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2024/understandable.pdf>`_
+
+`Video <https://youtu.be/_Y3sK19Uhgg>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
