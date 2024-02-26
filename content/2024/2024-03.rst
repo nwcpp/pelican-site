@@ -1,0 +1,68 @@
+March 21, 2024: Linear Algebra and the Eigen Library
+##################################################################################
+
+:date: 2024-02-26
+:slug: March-2024
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, March 21, 2024 at 7:00 PM
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1143 (12) Maple Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTUwNTliMjItNTcyYS00ZjRiLWJiZjAtNDBiZWJiYTdmMzA1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 267 223 257 656
+| Passcode: ZvkWHu
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 785 621 648#
+
+Title
+~~~~~
+Linear Algebra and the Eigen Library
+
+Abstract
+~~~~~~~~~
+Linear algebra is an essential part of scientific programming, particularly in domains such as quantitative finance, data science, physics, and medical research. 
+As C++ did not have all the convenient built-in multidimensional array capabilities that came with Fortran platforms, scientific programmers making the transition to C++ back in the 1990’s
+often found themselves in an inconvenient situation with limited options.  These included building up this functionality mostly from scratch, wrestling with interfaces to numerical Fortran
+libraries such as BLAS and LAPACK, or somehow convincing management to invest in a third-party commercial C++ linear algebra library.
+
+The situation has improved substantially over the years with the release and availability of several well-regarded open-source linear algebra libraries for C++. 
+One in particular that has become popular, first released in 2006, is the Eigen library.  It has been adopted for use within both the TensorFlow machine learning library and the Stan Math Library,
+as well as in financial applications.  Linear algebra has also become a point of emphasis in C++ Standard Library enhancements, with the release of std::mdspan (P0009) in C++23, and the
+BLAS (Basic Linear Algebra Subroutines) interface (P1673) that has been accepted for C++26.
+
+In this talk, we will examine the setup and basics of the Eigen library, followed by a discussion of some of its more advanced features, such as matrix decompositions frequently used in
+quantitative work, as well as its compatibility with STL algorithms. It will conclude with an overview of how it might be used within the context of the C++26 BLAS proposal, via an interface
+with mdspan now in C++23.
+
+Speaker Bio
+~~~~~~~~~~~
+Daniel Hanson is a former full-time lecturer in the Computational Finance & Risk Management program within the Department of Applied Mathematics at the University of Washington.
+His appointment followed over 25 years of experience in private sector quantitative development in finance and data science. 
+He currently serves as the Student Program Coordinator for CppCon.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
