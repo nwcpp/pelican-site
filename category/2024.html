@@ -101,10 +101,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="../February-2024.html">February 15, 2024: Comprehensible&nbsp;Programming</a></h1>
+                    <h1 class="entry-title"><a href="../March-2024.html">March 21, 2024: Linear Algebra and the Eigen&nbsp;Library</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2024-01-22T00:00:00-08:00">
-                Published: Mon 22 January 2024
+        <abbr class="published" title="2024-02-26T00:00:00-08:00">
+                Published: Mon 26 February 2024
         </abbr>
 
         <address class="vcard author">
@@ -112,10 +112,10 @@
         </address>
 <p>In <a href="../category/2024.html">2024</a>. </p>
 
-</footer><!-- /.post-info --><div class="section" id="time-and-location-now-on-thursday">
-<h2>Time and Location - <span class="caps">NOW</span> <span class="caps">ON</span> <span class="caps">THURSDAY</span>!!!!</h2>
+</footer><!-- /.post-info --><div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line"><span class="caps">THURSDAY</span>, February 15, 2024 at 7:00 <span class="caps">PM</span></div>
+<div class="line"><span class="caps">THURSDAY</span>, March 21, 2024 at 7:00 <span class="caps">PM</span></div>
 <div class="line"><br /></div>
 <div class="line">In Person:</div>
 <div class="line">Microsoft Redmond Reactor | 3709 157th Ave <span class="caps">NE</span>, Redmond, <span class="caps">WA</span> 98052</div>
@@ -124,35 +124,38 @@
 <div class="line"><br /></div>
 <div class="line">Remote:</div>
 <div class="line">On Line Using Microsoft Teams</div>
-<div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjlkYzQ0MTgtZWIyNS00YjFiLWI5OTAtNmViZTUxNjViZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d">Click here to join the meeting</a></div>
-<div class="line">Meeting <span class="caps">ID</span>: 257 132 179 73</div>
-<div class="line">Passcode: HdkcQu</div>
+<div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTUwNTliMjItNTcyYS00ZjRiLWJiZjAtNDBiZWJiYTdmMzA1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d">Click here to join the meeting</a></div>
+<div class="line">Meeting <span class="caps">ID</span>: 267 223 257 656</div>
+<div class="line">Passcode: ZvkWHu</div>
 <div class="line"><br /></div>
 <div class="line">Call in (audio only)</div>
 <div class="line">+1 323-849-4874</div>
-<div class="line">Phone Conference <span class="caps">ID</span>: 272 079 232#</div>
+<div class="line">Phone Conference <span class="caps">ID</span>: 785 621 648#</div>
 </div>
 </div>
 <div class="section" id="title">
 <h2>Title</h2>
-<p>Comprehensible&nbsp;Programming</p>
+<p>Linear Algebra and the Eigen&nbsp;Library</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Have you ever looked at code you wrote 5 years ago, and wondered what you were thinking? Just think of code you authored even further back!
-You&#8217;ve heard about secure code, safe code, clean code, modern code, optimized code, clever code, user friendly code, structured code,
-effective code, etc. Everybody thinks they write easy to comprehend code (including me), but your future self will likely
-have the last word on that. Here I&#8217;ll be talking about writing easy to understand code.
-It&#8217;s based on decades of experience writing code that is hard to understand. It&#8217;ll show how D makes it easy to write easy to understand
-code. It won&#8217;t cost anything, either. And who knows - maybe your future self will sigh contentedly with &#8220;I wrote&nbsp;that!&#8221;</p>
-<p>The highest praise you can get for your code is someone else looking at it saying &#8220;that&#8217;s so simple, anyone could have done it!&#8221;
-(But you and I know&nbsp;better)</p>
+<p>Linear algebra is an essential part of scientific programming, particularly in domains such as quantitative finance, data science, physics, and medical research.
+As C++ did not have all the convenient built-in multidimensional array capabilities that came with Fortran platforms, scientific programmers making the transition to C++ back in the 1990’s
+often found themselves in an inconvenient situation with limited options.  These included building up this functionality mostly from scratch, wrestling with interfaces to numerical Fortran
+libraries such as <span class="caps">BLAS</span> and <span class="caps">LAPACK</span>, or somehow convincing management to invest in a third-party commercial C++ linear algebra&nbsp;library.</p>
+<p>The situation has improved substantially over the years with the release and availability of several well-regarded open-source linear algebra libraries for C++.
+One in particular that has become popular, first released in 2006, is the Eigen library.  It has been adopted for use within both the TensorFlow machine learning library and the Stan Math Library,
+as well as in financial applications.  Linear algebra has also become a point of emphasis in C++ Standard Library enhancements, with the release of std::mdspan (P0009) in C++23, and the
+<span class="caps">BLAS</span> (Basic Linear Algebra Subroutines) interface (P1673) that has been accepted for&nbsp;C++26.</p>
+<p>In this talk, we will examine the setup and basics of the Eigen library, followed by a discussion of some of its more advanced features, such as matrix decompositions frequently used in
+quantitative work, as well as its compatibility with <span class="caps">STL</span> algorithms. It will conclude with an overview of how it might be used within the context of the C++26 <span class="caps">BLAS</span> proposal, via an interface
+with mdspan now in&nbsp;C++23.</p>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
-<p>Walter Bright
-Engineer, Digital&nbsp;Mars</p>
-<p>Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages. He&#8217;s an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines and runtime libraries. Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques. Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 30 years after its&nbsp;debut.</p>
+<p>Daniel Hanson is a former full-time lecturer in the Computational Finance <span class="amp">&amp;</span> Risk Management program within the Department of Applied Mathematics at the University of Washington.
+His appointment followed over 25 years of experience in private sector quantitative development in finance and data science.
+He currently serves as the Student Program Coordinator for&nbsp;CppCon.</p>
 </div>
 <div class="section" id="a-word-from-our-sponsor">
 <h2>A Word From Our&nbsp;Sponsor</h2>
@@ -160,8 +163,7 @@ Engineer, Digital&nbsp;Mars</p>
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="/talks/2024/understandable.pdf">Slides</a></p>
-<p><a class="reference external" href="https://youtu.be/_Y3sK19Uhgg">Video</a></p>
+<p>Coming&nbsp;Soon!</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -179,6 +181,41 @@ Engineer, Digital&nbsp;Mars</p>
                     <h1>Other articles</h1>
                     <hr />
                     <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="../February-2024.html" rel="bookmark"
+                           title="Permalink to February 15, 2024: Comprehensible Programming">February 15, 2024: Comprehensible&nbsp;Programming</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2024-01-22T00:00:00-08:00">
+                Published: Mon 22 January 2024
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="../author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="../category/2024.html">2024</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location-now-on-thursday">
+<h2>Time and Location - <span class="caps">NOW</span> <span class="caps">ON</span> <span class="caps">THURSDAY</span>!!!!</h2>
+<div class="line-block">
+<div class="line"><span class="caps">THURSDAY</span>, February 15, 2024 at 7:00 <span class="caps">PM</span></div>
+<div class="line"><br /></div>
+<div class="line">In Person:</div>
+<div class="line">Microsoft Redmond Reactor | 3709 157th Ave <span class="caps">NE</span>, Redmond, <span class="caps">WA</span> 98052</div>
+<div class="line">Conf Room 20/1143 (12) Maple Reactor</div>
+<div class="line"><a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c">Map</a></div>
+<div class="line"><br /></div>
+<div class="line">Remote:</div>
+<div class="line">On Line Using Microsoft Teams</div>
+<div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjlkYzQ0MTgtZWIyNS00YjFiLWI5OTAtNmViZTUxNjViZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d">Click here to join the meeting</a></div>
+<div class="line">Meeting <span class="caps">ID</span>: 257 132 …</div></div></div>
+                <a class="readmore" href="../February-2024.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
