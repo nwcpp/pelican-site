@@ -57,7 +57,9 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2024/NWCPP_2024_03_LinearAlgebraV3.pdf>`_
+
+`Video <https://youtu.be/kVeWxXSAMwg>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
