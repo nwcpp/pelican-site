@@ -1,0 +1,61 @@
+April 11, 2024: Modern C++ package management with Conan 2
+##################################################################################
+
+:date: 2024-03-26
+:slug: April-2024
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, April 11, 2024 at 6:30 PM - One week and 30 minutes earlier!!!
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1143 (12) Maple Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjkzZjBjMzktNDZiZC00MmQ3LWFkNzEtZTk1ODAxZjM2NjYx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID:  291 326 024 349
+| Passcode: Fo9RNt
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 533 838 0#
+
+Title
+~~~~~
+Modern C++ package management with Conan 2: From fully transparent CMake integration via providers to the latest research in Common Package Specification (CPS) 
+
+Abstract
+~~~~~~~~~
+
+Conan 2.0 was released over a year ago with a large number of new features and improvements. Since its release, the team has continued to add improvements based on user feedback,
+releasing many more new features than in the previous years combined. 
+
+This talk will introduce and demonstrate many exciting and new features like how CMake presets and dependency providers can give a fully transparent integration, the new interactive
+dependency graph visualization, using dependencies from a git repo and new compliance tools. It will also present ongoing work and current efforts in the Common Package Specification (CPS) initiative.
+
+Speaker Bio
+~~~~~~~~~~~
+Diego Rodriguez-Losada‘s passions are robotics and SW engineering and development. He has developed many years in C and C++ in the Industrial, Robotics and AI fields.
+Diego was also a University (tenure track) professor and robotics researcher for 8 years, till 2012, when he quit academia to try to build a C/C++ dependency manager and co-founded a startup.
+Since then he mostly develops in Python. Diego is a conan.io C/C++ package manager co-creator and project lead, now working at JFrog as Conan Lead Architect and C/C++ Advocate. 
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
