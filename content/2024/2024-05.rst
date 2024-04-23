@@ -1,0 +1,59 @@
+May 16, 2024: Local Reasoning in C++
+##################################################################################
+
+:date: 2024-04-23
+:slug: May-2024
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, May 16, 2024 at 6:30 PM - 30 minutes earlier!!!
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1143 (12) Maple Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTMzNDIzM2QtYmQ1OS00ODVjLTlhYWEtMjc2NmY1NDNmMDhk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 218 364 237 982
+| Passcode: 7NAufd
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 697 568 740#
+
+Title
+~~~~~
+Local Reasoning in C++
+
+Abstract
+~~~~~~~~~
+
+Local reasoning is the ability to look at a defined unit of code, a function, or a class, understand it, and verify its correctness without understanding all
+the contexts within which it is used. This talk covers local reasoning principles and explores conventions and rules to support local reasoning and develop better interfaces and code.
+
+Speaker Bio
+~~~~~~~~~~~
+Sean Parent is a senior principal scientist and software architect managing Adobe’s Software Technology Lab. Sean joined Adobe in 1993, working on Photoshop, and is one of the creators
+of Photoshop Web, Photoshop Mobile, Lightroom Mobile, and Lightroom Web. In 2009, Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993,
+Sean worked at Apple, where he was part of the system software team that developed the technologies that allowed Apple’s successful transition to PowerPC.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+
+Coming Soon
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
