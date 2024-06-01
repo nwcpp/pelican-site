@@ -1,0 +1,65 @@
+June 20, 2024: CUDA Without a PhD
+##################################################################################
+
+:date: 2024-06-01
+:slug: June-2024
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, June 20, 2024 at 6:30 PM
+|
+| Please be aware of and adhere to the `Microsoft Reactor Code of Conduct <https://developer.microsoft.com/en-us/reactor/codeofconduct>`_
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1143 (12) Maple Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTllMDg2MjAtNjBmZi00YmMxLWE0YmUtMTE1MjMzNDZjODg3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 259 377 183 16
+| Passcode: 7BPigvY
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 349 783 660#
+
+Title
+~~~~~
+CUDA Without a PhD
+
+Abstract
+~~~~~~~~~
+
+NVIDIA CUDA is a tool kit for development of GPU accelerated applications. For specific types of applications and computational patterns the GPU allows you to deploy
+thousands of cores for processing in a very cost effective manner. 
+
+While getting the full benefit of GPU acceleration can take a considerable amount of knowledge and effort, considerable speedups can be achieved with minimal program changes.
+
+This talk provides an overview of what CUDA is, where it can be effective, and then does a deep dive to convert a simple, sequential data processing loop running as a single
+thread on the CPU into a massively parallel operation running on the GPU.
+
+Speaker Bio
+~~~~~~~~~~~
+Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 35 years. His formal training is in biological-based artificial intelligence, electronics, and psychology. Lloyd is also currently
+the president of the Northwest C++ User's Group and an organizer of the Seattle Robotics Society Robothon events.
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
