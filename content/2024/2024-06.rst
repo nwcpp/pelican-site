@@ -54,7 +54,11 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2024/CudaWOPhd.pdf>`_
+
+`Video <https://youtu.be/mLpMYP4C5Uk>`_
+
+`Code </talks/2024/SimpleCuda.zip>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
