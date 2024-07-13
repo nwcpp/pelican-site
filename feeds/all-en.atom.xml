@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2024-07-04T00:00:00-07:00</updated><entry><title>July 17, 2024: More CUDA!</title><link href="http://nwcpp.org/July-2024.html" rel="alternate"></link><published>2024-07-04T00:00:00-07:00</published><updated>2024-07-04T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2024-07-04:/July-2024.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2024-07-04T00:00:00-07:00</updated><entry><title>July 17, 2024: CUDA Tooling &amp; Basic Optimizations</title><link href="http://nwcpp.org/July-2024.html" rel="alternate"></link><published>2024-07-04T00:00:00-07:00</published><updated>2024-07-04T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2024-07-04:/July-2024.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, July 18, 2024 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -37,15 +37,17 @@
 &lt;/div&gt;
 &lt;div class="section" id="title"&gt;
 &lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;More &lt;span class="caps"&gt;CUDA&lt;/span&gt;! (Will be&amp;nbsp;updated)&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CUDA&lt;/span&gt; Tooling &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Basic&amp;nbsp;Optimizations&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;This talk will build upon the &lt;span class="caps"&gt;CUDA&lt;/span&gt; talk from last month. More details are coming&amp;nbsp;soon!&lt;/p&gt;
+&lt;p&gt;We’re going to pick up where last month’s “&lt;span class="caps"&gt;CUDA&lt;/span&gt; Without a PhD” left off (watch the recording in case you missed it, since we’re going to build on top of Lloyd’s excellent introduction to &lt;span class="caps"&gt;CUDA&lt;/span&gt;).
+This time, we’ll take a deeper look into &lt;span class="caps"&gt;NVIDIA&lt;/span&gt;’s &lt;span class="caps"&gt;CUDA&lt;/span&gt; toolchain, including the compiler, debugger, profiler(s), sanitizers and more. Using these tools, we’ll introduce a few basic ideas around
+optimizing &lt;span class="caps"&gt;CUDA&lt;/span&gt;&amp;nbsp;applications.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;By day, Leonard Mosescu is working on Deep Learning compilers and frameworks at &lt;span class="caps"&gt;NVIDIA&lt;/span&gt;. By night, he’s pursuing an old interest in &lt;span class="caps"&gt;AI&lt;/span&gt; and Evolutionary&amp;nbsp;Algorithms.&lt;/p&gt;
+&lt;p&gt;By day, Leonard Mosescu is exploring next-generation compilation technologies and programming models at &lt;span class="caps"&gt;NVIDIA&lt;/span&gt;. By night, he’s pursuing an old interest in &lt;span class="caps"&gt;AI&lt;/span&gt; and Evolutionary&amp;nbsp;Algorithms.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="a-word-from-our-sponsor"&gt;
 &lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
