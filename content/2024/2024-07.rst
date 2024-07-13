@@ -1,4 +1,4 @@
-July 17, 2024: More CUDA!
+July 17, 2024: CUDA Tooling & Basic Optimizations
 ##################################################################################
 
 :date: 2024-07-04
@@ -28,16 +28,17 @@ Time and Location
 
 Title
 ~~~~~
-More CUDA! (Will be updated)
+CUDA Tooling & Basic Optimizations
 
 Abstract
 ~~~~~~~~~
-
-This talk will build upon the CUDA talk from last month. More details are coming soon!
+We’re going to pick up where last month’s “CUDA Without a PhD” left off (watch the recording in case you missed it, since we’re going to build on top of Lloyd’s excellent introduction to CUDA).
+This time, we’ll take a deeper look into NVIDIA’s CUDA toolchain, including the compiler, debugger, profiler(s), sanitizers and more. Using these tools, we’ll introduce a few basic ideas around
+optimizing CUDA applications.
 
 Speaker Bio
 ~~~~~~~~~~~
-By day, Leonard Mosescu is working on Deep Learning compilers and frameworks at NVIDIA. By night, he’s pursuing an old interest in AI and Evolutionary Algorithms. 
+By day, Leonard Mosescu is exploring next-generation compilation technologies and programming models at NVIDIA. By night, he’s pursuing an old interest in AI and Evolutionary Algorithms.
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
