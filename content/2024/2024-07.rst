@@ -1,4 +1,4 @@
-July 17, 2024: CUDA Tooling & Basic Optimizations
+July 18, 2024: CUDA Tooling & Basic Optimizations
 ##################################################################################
 
 :date: 2024-07-04
