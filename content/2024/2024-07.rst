@@ -48,7 +48,12 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides <https://docs.google.com/presentation/d/1hmPJ-AWM6xTOSWEAvGQpzx3Z0A2Hm7wtUoCTtjZk5_Y/edit?usp=sharing>`_
+
+`Video <https://youtu.be/9E9eqO864Aw>`_
+
+`Code <https://github.com/tlemo/cuda_nbody>`_
+
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
