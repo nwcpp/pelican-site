@@ -1,0 +1,55 @@
+Sept 19, 2024: Lightning Talks!!!!
+#############################################################################
+
+:date: 2024-08-24
+:slug: Sept-2024
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, Sept 19, 2024 at 6:30 PM
+|
+| Please be aware of and adhere to the `Microsoft Reactor Code of Conduct <https://developer.microsoft.com/en-us/reactor/codeofconduct>`_
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1143 (12) Maple Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDkzZTQ2MTUtMTdmYS00YmU3LWFiOTItMzUyMzM1Mjg3OGU4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 242 537 537 235
+| Passcode: XcNhw3
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 733 966 777#
+
+Title
+~~~~~
+Lightning Talks!!!
+
+Abstract
+~~~~~~~~~
+This month will be an open forum for a series of lightning talks. Each talk should be 5-10 minutes in length. If you would like to give a talk, simply show up to the meeting! At the start of the meeting we'll collect a list of talks and then dive in! This is intended to be an opportunity for folks to present on subjects that may not be large enough for an hour long presentation. Additionally if you are planning to give a lightning talk at CppCon next month please feel free to use this as a practice session!
+
+Speaker Bio
+~~~~~~~~~~~
+Not known at this time!
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
