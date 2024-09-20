@@ -49,7 +49,11 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides - Coding with AI Help </talks/2024/CodingWithAIHelp.pdf>`_
+
+`Slides - My First Rust Project </talks/2024/MyFirstRustProject.pdf>`_
+
+`Video <https://youtu.be/StSKQNU9ZaQ>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
