@@ -1,5 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Lloyd Moore</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2024-08-24T00:00:00-07:00</updated><entry><title>Sept 19, 2024: Lightning Talks!!!!</title><link href="http://nwcpp.org/Sept-2024.html" rel="alternate"></link><published>2024-08-24T00:00:00-07:00</published><updated>2024-08-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2024-08-24:/Sept-2024.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Lloyd Moore</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2024-09-22T00:00:00-07:00</updated><entry><title>Oct 17, 2024: Productive Programming with the JAI Programming Language</title><link href="http://nwcpp.org/Oct-2024.html" rel="alternate"></link><published>2024-09-22T00:00:00-07:00</published><updated>2024-09-22T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2024-09-22:/Oct-2024.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Oct 17, 2024 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Please be aware of and adhere to the &lt;a class="reference external" href="https://developer.microsoft.com/en-us/reactor/codeofconduct"&gt;Microsoft Reactor Code of Conduct&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Redmond Reactor | 3709 157th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;div class="line"&gt;Conf Room 20/1143 (12) Maple Reactor&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&amp;#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c"&gt;Map&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Oct 17, 2024 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Please be aware of and adhere to the &lt;a class="reference external" href="https://developer.microsoft.com/en-us/reactor/codeofconduct"&gt;Microsoft Reactor Code of Conduct&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Redmond Reactor | 3709 157th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;div class="line"&gt;Conf Room 20/1143 (12) Maple Reactor&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&amp;#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c"&gt;Map&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmVjYjlhZjYtOTdjYS00OGIwLTkwMmUtMWE1YjliMWU2MjNi%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Meeting &lt;span class="caps"&gt;ID&lt;/span&gt;: 226 052 931 290&lt;/div&gt;
+&lt;div class="line"&gt;Passcode: Ki9MaY&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Call in (audio only)&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874&lt;/div&gt;
+&lt;div class="line"&gt;Phone Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 857 754 217#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Productive Programming with the &lt;span class="caps"&gt;JAI&lt;/span&gt; Programming&amp;nbsp;Language&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;JAI&lt;/span&gt; is a work-in-progress programming language, originally
+designed as a replacement for C++ for use in game development. This
+talk will discuss &lt;span class="caps"&gt;JAI&lt;/span&gt;&amp;#8217;s advantages for increasing programmer
+productivity, particularly in creative programming applications.
+Particular focus will be given to &lt;span class="caps"&gt;JAI&lt;/span&gt;&amp;#8217;s powerful compile-time
+metaprogramming features, as well as comparisons with other low-level
+programming languages including C++ and&amp;nbsp;Rust.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Jatin Chowdhury is an audio signal processing engineer and software developer, with a focus in music technology. He has previously
+studied at the Center for Computer Research in Music and Acoustics (&lt;span class="caps"&gt;CCRMA&lt;/span&gt;), and worked as an Audio Test Engineer for Tesla Motors.
+He currently lives in Seattle, &lt;span class="caps"&gt;WA&lt;/span&gt;, and runs Chowdhury &lt;span class="caps"&gt;DSP&lt;/span&gt;, a boutique audio software&amp;nbsp;company.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="post-meeting-social"&gt;
+&lt;h2&gt;Post Meeting&amp;nbsp;Social&lt;/h2&gt;
+&lt;p&gt;Following the official meeting folks are welcome to wander over to the &lt;a class="reference external" href="https://www.google.com/maps/place/Red+Robin+Gourmet+Burgers+and+Brews/&amp;#64;47.6310774,-122.1450308,17z/data=!4m14!1m7!3m6!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!2sRed+Robin+Gourmet+Burgers+and+Brews!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn!3m5!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn?entry=ttu&amp;amp;g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D"&gt;Cofee Haus&lt;/a&gt; at the Overlake Red Robin (148th Ave and 24th) to continue chatting until they close the&amp;nbsp;doors!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Please thank Microsoft for sponsoring our meeting room and Teams&amp;nbsp;account!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="2024"></category></entry><entry><title>Sept 19, 2024: Lightning Talks!!!!</title><link href="http://nwcpp.org/Sept-2024.html" rel="alternate"></link><published>2024-08-24T00:00:00-07:00</published><updated>2024-08-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2024-08-24:/Sept-2024.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Sept 19, 2024 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
