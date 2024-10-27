@@ -1,0 +1,63 @@
+Nov 21, 2024: Coding with AI
+#############################################################################
+
+:date: 2024-10-27
+:slug: Nov-2024
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, Nov 21, 2024 at 6:30 PM
+|
+| Please be aware of and adhere to the `Microsoft Reactor Code of Conduct <https://developer.microsoft.com/en-us/reactor/codeofconduct>`_
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1143 (12) Cedar Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBiZDFhMTAtZjY0MS00ZmI4LTk1ZjctYjdlZGYzMTA4OTJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 219 217 050 624
+| Passcode: Ndf6iF
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 104 099 731#
+
+Title
+~~~~~
+Coding with AI
+
+Abstract
+~~~~~~~~~
+LLMs are getting better at being able to help you with coding tasks.  This talk will explore some stories about how well LLMs work (and when they don't), have some live demos
+of LLMs in the editor to help coding, both local and online, and briefly cover how to get started with your editor (VS Code, XCode, or Emacs).
+
+Speaker Bio
+~~~~~~~~~~~
+Like the man in black said: "No one of consequence". Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google.
+He’s been using C++ for most of that time, and attending NWCPP off and on since the 90’s. He has been known to talk about himself in third person.
+
+
+Post Meeting Social
+~~~~~~~~~~~~~~~~~~~
+Following the official meeting folks are welcome to wander over to the `Cofee Haus <https://www.google.com/maps/place/Red+Robin+Gourmet+Burgers+and+Brews/@47.6310774,-122.1450308,17z/data=!4m14!1m7!3m6!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!2sRed+Robin+Gourmet+Burgers+and+Brews!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn!3m5!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D>`_ at the Overlake Red Robin (148th Ave and 24th) to continue chatting until they close the doors!
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
