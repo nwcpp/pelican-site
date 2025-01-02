@@ -2,7 +2,7 @@ Jan 16, 2025: The Black Art of Code Generation
 #############################################################################
 
 :date: 2025-01-02
-:slug: Jan-20245
+:slug: Jan-2025
 :author: Lloyd Moore
 
 Time and Location
