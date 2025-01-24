@@ -1,5 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Lloyd Moore</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2025-01-02T00:00:00-08:00</updated><entry><title>Jan 16, 2025: The Black Art of Code Generation</title><link href="http://nwcpp.org/Jan-2025.html" rel="alternate"></link><published>2025-01-02T00:00:00-08:00</published><updated>2025-01-02T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-01-02:/Jan-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Lloyd Moore</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2025-01-24T00:00:00-08:00</updated><entry><title>Feb 20, 2025: MicroCode: Portable Programming for the BBC micro:bit</title><link href="http://nwcpp.org/Feb-2025.html" rel="alternate"></link><published>2025-01-24T00:00:00-08:00</published><updated>2025-01-24T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-01-24:/Feb-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Feb 20, 2025 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Please be aware of and adhere to the &lt;a class="reference external" href="https://developer.microsoft.com/en-us/reactor/codeofconduct"&gt;Microsoft Reactor Code of Conduct&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Redmond Reactor | 3709 157th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;div class="line"&gt;Conf Room 20/1009 (16) Cedar Reactor&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&amp;#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c"&gt;Map&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Feb 20, 2025 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Please be aware of and adhere to the &lt;a class="reference external" href="https://developer.microsoft.com/en-us/reactor/codeofconduct"&gt;Microsoft Reactor Code of Conduct&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Redmond Reactor | 3709 157th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;div class="line"&gt;Conf Room 20/1009 (16) Cedar Reactor&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&amp;#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c"&gt;Map&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2NiYjI2NzYtNDlkZC00YWMyLWI3N2ItZDc3M2I5YWU2ZjM3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Meeting &lt;span class="caps"&gt;ID&lt;/span&gt;: 256 223 803 869&lt;/div&gt;
+&lt;div class="line"&gt;Passcode: KA6Re7NA&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Call in (audio only)&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874&lt;/div&gt;
+&lt;div class="line"&gt;Phone Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 454 579 14#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;MicroCode: Portable Programming for the &lt;span class="caps"&gt;BBC&lt;/span&gt;&amp;nbsp;micro:bit&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Physical computing has emerged as an effective approach to introducing computing and coding to students.
+One of the most popular enabling tools is the &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit (10 million of which have been distributed to date), well-known for its positive impact on
+teaching programming and driving engagement in the classroom. We extend these benefits by developing a new approach to coding with micro:bit:&amp;nbsp;MicroCode.&lt;/p&gt;
+&lt;p&gt;Unlike other experiences, MicroCode couples the micro:bit with a low-cost handheld accessory to enable live and portable programming via an on-device
+visual programming language; no separate host computer is needed. We present the design of MicroCode and will have hardware and software available for
+attendees to try themselves. You can find out more about MicroCode at&amp;nbsp;https://aka.ms/microcode&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Thomas (Tom) is a Partner Researcher at Microsoft Research. He is a co-founder of the influential &lt;span class="caps"&gt;SLAM&lt;/span&gt; software model-checking project and creation of the
+Static Driver Verifier tool for finding defects in Windows device drivers. Tom is a 2011 &lt;span class="caps"&gt;ACM&lt;/span&gt; Fellow for ‘contributions to software analysis and defect detection’.
+As a manager, he nurtured research areas such as automated theorem proving, program testing/verification and empirical software engineering, and their application
+to industrial scale software engineering problems. Since 2015, he worked to bring the &lt;span class="caps"&gt;BBC&lt;/span&gt; micro:bit to market (more than 10 million worldwide to date) and establish
+the Microsoft MakeCode platform for supporting &lt;span class="caps"&gt;CS&lt;/span&gt; education&amp;nbsp;efforts.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="post-meeting-social"&gt;
+&lt;h2&gt;Post Meeting&amp;nbsp;Social&lt;/h2&gt;
+&lt;p&gt;Following the official meeting folks are welcome to wander over to the &lt;a class="reference external" href="https://www.google.com/maps/place/Red+Robin+Gourmet+Burgers+and+Brews/&amp;#64;47.6310774,-122.1450308,17z/data=!4m14!1m7!3m6!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!2sRed+Robin+Gourmet+Burgers+and+Brews!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn!3m5!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn?entry=ttu&amp;amp;g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D"&gt;Cofee Haus&lt;/a&gt; at the Overlake Red Robin (148th Ave and 24th) to continue chatting until they close the&amp;nbsp;doors!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Please thank Microsoft for sponsoring our meeting room and Teams&amp;nbsp;account!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="2025"></category></entry><entry><title>Jan 16, 2025: The Black Art of Code Generation</title><link href="http://nwcpp.org/Jan-2025.html" rel="alternate"></link><published>2025-01-02T00:00:00-08:00</published><updated>2025-01-02T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-01-02:/Jan-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Jan 16, 2024 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
