@@ -1,0 +1,71 @@
+Feb 20, 2025: MicroCode: Portable Programming for the BBC micro:bit
+#############################################################################
+
+:date: 2025-01-24
+:slug: Feb-2025
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, Feb 20, 2025 at 6:30 PM to 8:00 PM
+|
+| Please be aware of and adhere to the `Microsoft Reactor Code of Conduct <https://developer.microsoft.com/en-us/reactor/codeofconduct>`_
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1009 (16) Cedar Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2NiYjI2NzYtNDlkZC00YWMyLWI3N2ItZDc3M2I5YWU2ZjM3%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 256 223 803 869
+| Passcode: KA6Re7NA
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 454 579 14#
+
+Title
+~~~~~
+MicroCode: Portable Programming for the BBC micro:bit
+
+Abstract
+~~~~~~~~~
+Physical computing has emerged as an effective approach to introducing computing and coding to students.
+One of the most popular enabling tools is the BBC micro:bit (10 million of which have been distributed to date), well-known for its positive impact on
+teaching programming and driving engagement in the classroom. We extend these benefits by developing a new approach to coding with micro:bit: MicroCode.
+
+Unlike other experiences, MicroCode couples the micro:bit with a low-cost handheld accessory to enable live and portable programming via an on-device
+visual programming language; no separate host computer is needed. We present the design of MicroCode and will have hardware and software available for
+attendees to try themselves. You can find out more about MicroCode at https://aka.ms/microcode
+
+Speaker Bio
+~~~~~~~~~~~
+Thomas (Tom) is a Partner Researcher at Microsoft Research. He is a co-founder of the influential SLAM software model-checking project and creation of the
+Static Driver Verifier tool for finding defects in Windows device drivers. Tom is a 2011 ACM Fellow for ‘contributions to software analysis and defect detection’.
+As a manager, he nurtured research areas such as automated theorem proving, program testing/verification and empirical software engineering, and their application
+to industrial scale software engineering problems. Since 2015, he worked to bring the BBC micro:bit to market (more than 10 million worldwide to date) and establish
+the Microsoft MakeCode platform for supporting CS education efforts.
+
+Post Meeting Social
+~~~~~~~~~~~~~~~~~~~
+Following the official meeting folks are welcome to wander over to the `Cofee Haus <https://www.google.com/maps/place/Red+Robin+Gourmet+Burgers+and+Brews/@47.6310774,-122.1450308,17z/data=!4m14!1m7!3m6!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!2sRed+Robin+Gourmet+Burgers+and+Brews!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn!3m5!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D>`_ at the Overlake Red Robin (148th Ave and 24th) to continue chatting until they close the doors!
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
