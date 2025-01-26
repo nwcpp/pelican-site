@@ -42,7 +42,7 @@ attendees to try themselves. You can find out more about MicroCode at https://ak
 
 Speaker Bio
 ~~~~~~~~~~~
-Thomas (Tom) is a Partner Researcher at Microsoft Research. He is a co-founder of the influential SLAM software model-checking project and creation of the
+Thomas (Tom) Ball is a Partner Researcher at Microsoft Research. He is a co-founder of the influential SLAM software model-checking project and creation of the
 Static Driver Verifier tool for finding defects in Windows device drivers. Tom is a 2011 ACM Fellow for ‘contributions to software analysis and defect detection’.
 As a manager, he nurtured research areas such as automated theorem proving, program testing/verification and empirical software engineering, and their application
 to industrial scale software engineering problems. Since 2015, he worked to bring the BBC micro:bit to market (more than 10 million worldwide to date) and establish
