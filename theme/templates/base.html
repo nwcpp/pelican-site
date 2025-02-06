@@ -42,99 +42,92 @@
 
         <div class="content-wrapper">
 
-            <!-- social sidebar -->
-            <div id="social" class="sidebar">
-                {% if SOCIAL or FEED_ALL_ATOM or FEED_ALL_RSS %}
-                <h2>social</h2>
-                <ul>
-                    {% if FEED_ALL_ATOM %}
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a></li>
-                    {% endif %}
-                    {% if FEED_ALL_RSS %}
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
-                    {% endif %}
-
-                    {% for name, link in SOCIAL %}
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="{{ link }}">{{ name }}</a></li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
-                {% if LINKS %}
-                <div class="blogroll">
-                    <h2 style="padding-top:20px;">blogroll</h2>
-                    <ul>
-                        {% for name, link in LINKS %}
-                        <li><a href="{{ link }}">{{ name }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </div><!-- /.blogroll -->
-                {% endif %}
-            </div><!-- /social sidebar-->
-
-            <!-- Center section with main content and announcement sticky -->
+            <!-- Center section with all content.  Vertical flex box  -->
             <div class="main-content">
-                {% block content %}
-                {% endblock %}
-            </div>
 
-            <!-- The sponsor sidebar -->
-            <div id="sponsor" class="sidebar">
-                <h2>Conferences</h2>
-                {% if CONFERENCE_LINKS %}
-                <ul>
-                    {% for name, url in CONFERENCE_LINKS %}
-                    <li><a href="{{ url }}">{{ name }}</a></li>
-                    {% endfor %}
-                </ul>
-                {% else %}
-                <p>No upcoming conferences</p>
-                {% endif %}
-                <h2>Jobs</h2>
-                {% if JOB_LINKS %}
-                {% for name, srce, url in JOB_LINKS %}
-                <div><a href="{{ url }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/{{ srce }}" height="24" width="24" alt="{{name}}" /></a></div>
-                {% endfor %}
-                {% else %}
-                <p>No current open positions</p>
-                {% endif %}
-                <h2>Sponsors</h2>
-                {% if SPONSOR_LINKS %}
-                    {% for name, srce, url in SPONSOR_LINKS %}
-                    <div><a href="{{ url }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/{{ srce }}" height="24" width="24" alt="{{name}}" /></a></div>
-                    {% endfor %}
-                {% else %}
-                {% endif %}
-                <div class="sponsor-logo">
-                  <a href="http://shop.oreilly.com">
-                    <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/oreilly_discount.gif" />
-                  </a>
-                </div>
-                <address id="about" class="vcard body" style="width:100%;">
-                  Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                  which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-            </div> <!-- /sponsor sidebar -->
-
-        </div><!-- content wrapper -->
-
-        <div class="announcement-wrapper">
-            <div class="announce">
+              <!-- Announcements -->
+              <div class="announce">
                 <h3>Announcements</h3>
                 {% if ANNOUNCEMENT_LINKS %}
                 {% for company, jd, mto, name in ANNOUNCEMENT_LINKS %}
-                    <div>{{ company }}<br/>{{ jd}} <br/><br/>
-                    <div style="width:10%">contact</div>
-                    <div style="width:80%"><a href="mailto:{{ mto }}">{{ name }}</a></div>
-                    </div>
+                <div>{{ company }}<br/>{{ jd}} <br/><br/>
+                </div>
                 {% endfor %}
                 {% else %}
-                <p>No Announcements!</p>
+                <p>To be on our mailing list, join the <a href="https://groups.google.com/g/NwcppAnnounce">Google Group</a> at this link</p>
                 {% endif %}
+              </div>
+
+              <!-- TODO: Can we move this between the current article and other articles? -->
+              <div class="links_section">
+                <!-- Sponsor section -->
+                <div id="sponsor" class="sidebar">
+                  <h2>Sponsors</h2>
+                  {% if SPONSOR_LINKS %}
+                  {% for name, srce, url in SPONSOR_LINKS %}
+                  <div><a href="{{ url }}"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/{{ srce }}" height="24" width="24" alt="{{name}}" /></a></div>
+                  {% endfor %}
+                  {% else %}
+                  {% endif %}
+                  <div class="sponsor-logo">
+                    <a href="http://shop.oreilly.com">
+                      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/oreilly_discount.gif" />
+                    </a>
+                  </div>
+                </div> <!-- /sponsor section -->
+
+                <!-- Conferences section -->
+                <div id="conferences" class="sidebar">
+                  <h2>Conferences</h2>
+                  {% if CONFERENCE_LINKS %}
+                  <ul>
+                    {% for name, url in CONFERENCE_LINKS %}
+                    <li><a href="{{ url }}">{{ name }}</a></li>
+                    {% endfor %}
+                  </ul>
+                  {% else %}
+                  <p>No upcoming conferences</p>
+                  {% endif %}
+                </div> <!-- /conferences section -->
+
+                <!-- social section -->
+                <div id="social" class="sidebar">
+                  {% if SOCIAL %}
+                  <h2>Social</h2>
+                  <ul>
+                    {% for name, link in SOCIAL %}
+                    <li><a href="{{ link }}">{{ name }}</a></li>
+                    {% endfor %}
+                  </ul>
+                  {% endif %}
+                </div><!-- /social section-->
+
+                <!-- blogroll section -->
+                <div id="blogroll" class="sidebar">
+                  {% if LINKS %}
+                  <div class="blogroll">
+                    <h2>Blogroll</h2>
+                    <ul>
+                      {% for name, link in LINKS %}
+                      <li><a href="{{ link }}">{{ name }}</a></li>
+                      {% endfor %}
+                    </ul>
+                  </div><!-- /.blogroll -->
+                  {% endif %}
+                </div><!-- /blogroll section-->
+
+              </div> <!-- /links -->
+
+              <!-- Our main content -->
+              {% block content %}
+
+              <!-- older articles? Trailing page nav? -->
+              {% endblock %}
             </div>
-        </div>
+
+        </div><!-- content wrapper -->
+
+
 {% include 'analytics.html' %}
 {% include 'piwik.html' %}
 {% include 'disqus_script.html' %}
