@@ -57,8 +57,13 @@
                 <p>To be on our mailing list, join the <a href="https://groups.google.com/g/NwcppAnnounce">Google Group</a> at this link</p>
                 {% endif %}
               </div>
+              <br/>
 
-              <!-- TODO: Can we move this between the current article and other articles? -->
+              <!-- Our most recent article (only) -->
+              {% block content_first %}
+              {% endblock %}
+              <br/>
+
               <div class="links_section">
                 <!-- Sponsor section -->
                 <div id="sponsor" class="sidebar">
@@ -69,11 +74,6 @@
                   {% endfor %}
                   {% else %}
                   {% endif %}
-                  <div class="sponsor-logo">
-                    <a href="http://shop.oreilly.com">
-                      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/icons/oreilly_discount.gif" />
-                    </a>
-                  </div>
                 </div> <!-- /sponsor section -->
 
                 <!-- Conferences section -->
@@ -117,11 +117,12 @@
                 </div><!-- /blogroll section-->
 
               </div> <!-- /links -->
+              <br/>
 
-              <!-- Our main content -->
-              {% block content %}
+              <!-- Our main content - everything after the first article -->
+              {% block content_rest %}
 
-              <!-- older articles? Trailing page nav? -->
+              <!-- TODO: Trailing page nav? -->
               {% endblock %}
             </div>
 

@@ -1,6 +1,9 @@
 {% extends "base.html" %}
 {% block content_title %}{% endblock %}
-{% block content %}
+
+{# Syntax: See https://docs.getpelican.com/en/latest/themes.html #}
+
+{% block content_first %}
 {% if articles %}
     {% for article in articles_page.object_list %}
 
@@ -15,14 +18,21 @@
                     {% include 'pagination.html' %}
                 {% endif %}
             </aside><!-- /#featured -->
-            {% if loop.length > 1 %}
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-            {% endif %}
-        {# other items #}
-        {% else %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+{% endblock content_first %}
+
+{% block content_rest %}
+{% if articles %}
+    <section id="content" class="body">
+      <h1>Other articles</h1>
+      <hr />
+      <ol id="posts-list" class="hfeed">
+
+    {% for article in articles_page.object_list %}
+        {# Items after the first #}
+        {% if not loop.first or articles_page.has_previous() %}
             {% if loop.first and articles_page.has_previous %}
                 <section id="content" class="body">
                     <ol id="posts-list" class="hfeed" start="{{ articles_paginator.per_page -1 }}">
@@ -58,4 +68,4 @@
     {% endfor %}
 </section>
 {% endif %}
-{% endblock content %}
+{% endblock content_rest %}
