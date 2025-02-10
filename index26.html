@@ -52,56 +52,106 @@
 
         <div class="content-wrapper">
 
-            <!-- social sidebar -->
-            <div id="social" class="sidebar">
-                <h2>social</h2>
-                <ul>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
-
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://groups.google.com/group/NwcppAnnounce">Announcements</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://groups.google.com/group/nwcpp-volunteers">Volunteers List</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="https://twitter.com/nwcpp">Twitter</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="https://www.facebook.com/groups/344125680930/">Facebook</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://www.youtube.com/user/NWCPP">YouTube</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://vimeo.com/nwcpp">Vimeo</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://www.linkedin.com/groups?gid=2770106">LinkedIn</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="https://speakerdeck.com/nwcpp">Speaker Deck</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://www.slideshare.net/nwcpp">SlideShare</a></li>
-                </ul>
-                <div class="blogroll">
-                    <h2 style="padding-top:20px;">blogroll</h2>
-                    <ul>
-                        <li><a href="http://isocpp.org/">Standard C++ Foundation</a></li>
-                        <li><a href="http://herbsutter.com/">Sutter’s Mill</a></li>
-                        <li><a href="http://blogs.msdn.com/b/vcblog/">Visual C++ Team Blog</a></li>
-                        <li><a href="http://bartoszmilewski.com/">Bartosz Milewski</a></li>
-                        <li><a href="http://www.drdobbs.com/author/Walter-Bright">Walter Bright</a></li>
-                        <li><a href="http://www.cplusplus-soup.com/">C++ Soup!</a></li>
-                        <li><a href="http://www.drdobbs.com/cpp">Dr. Dobb’s C++</a></li>
-                        <li><a href="http://cpp-next.com/">C++Next</a></li>
-                        <li><a href="http://scottmeyers.blogspot.com/">Scott Meyers</a></li>
-                        <li><a href="http://blog.think-async.com/">Thinking Asynchronously in C++</a></li>
-                        <li><a href="http://www.justsoftwaresolutions.co.uk/cplusplus/">Anthony Williams</a></li>
-                        <li><a href="http://www.informit.com/authors/bio.aspx?a=e19aded6-574c-4c46-8511-101f9f0ed8f8">Danny Kalev</a></li>
-                    </ul>
-                </div><!-- /.blogroll -->
-            </div><!-- /social sidebar-->
-
-            <!-- Center section with main content and announcement sticky -->
+            <!-- Center section with all content.  Vertical flex box  -->
             <div class="main-content">
+
+              <!-- Announcements -->
+              <div class="announce">
+                <h3>Announcements</h3>
+                <p>To be on our mailing list, join the <a href="https://groups.google.com/g/NwcppAnnounce">Google Group</a> at this link</p>
+              </div>
+              <br/>
+
+              <!-- Our most recent article (only) -->
+
+
+
+
+
+
+              <br/>
+
+              <div class="links_section">
+                <!-- Sponsor section -->
+                <div id="sponsor" class="sidebar">
+                  <h2>Sponsors</h2>
+                  <div><a href="http://www.cyberdata-robotics.com/"><img src="./theme/images/icons/CyberDataLogo.jpg" height="24" width="24" alt="Cyber Data" /></a></div>
+                  <div><a href="https://aka.ms/cpp"><img src="./theme/images/icons/MSLogo.png" height="24" width="24" alt="Microsoft" /></a></div>
+                </div> <!-- /sponsor section -->
+
+                <!-- Conferences section -->
+                <div id="conferences" class="sidebar">
+                  <h2>Conferences</h2>
+                  <ul>
+                    <li><a href="http://cppcon.org">CPPCon Homepage</a></li>
+                    <li><a href="http://cppcon.org/registration/">CPPCon Registration</a></li>
+                    <li><a href="https://isocpp.org/wiki/faq/conferences-worldwide/">Other C++ conferences</a></li>
+                  </ul>
+                </div> <!-- /conferences section -->
+
+                <!-- social section -->
+                <div id="social" class="sidebar">
+                  <h2>Social</h2>
+                  <ul>
+                    <li><a href="http://groups.google.com/group/NwcppAnnounce">Announcements</a></li>
+                    <li><a href="http://groups.google.com/group/nwcpp-volunteers">Volunteers List</a></li>
+                    <li><a href="https://twitter.com/nwcpp">X(Twitter)</a></li>
+                    <li><a href="https://www.facebook.com/groups/344125680930/">Facebook</a></li>
+                    <li><a href="http://www.youtube.com/user/NWCPP">YouTube</a></li>
+                    <li><a href="http://vimeo.com/nwcpp">Vimeo</a></li>
+                    <li><a href="http://www.linkedin.com/groups?gid=2770106">LinkedIn</a></li>
+                  </ul>
+                </div><!-- /social section-->
+
+                <!-- blogroll section -->
+                <div id="blogroll" class="sidebar">
+                  <div class="blogroll">
+                    <h2>Blogroll</h2>
+                    <ul>
+                      <li><a href="http://isocpp.org/">Standard C++ Foundation</a></li>
+                      <li><a href="http://herbsutter.com/">Sutter’s Mill</a></li>
+                      <li><a href="http://blogs.msdn.com/b/vcblog/">Visual C++ Team Blog</a></li>
+                      <li><a href="http://bartoszmilewski.com/">Bartosz Milewski</a></li>
+                      <li><a href="http://www.drdobbs.com/author/Walter-Bright">Walter Bright</a></li>
+                      <li><a href="http://www.drdobbs.com/cpp">Dr. Dobb’s C++</a></li>
+                      <li><a href="http://scottmeyers.blogspot.com/">Scott Meyers</a></li>
+                      <li><a href="http://blog.think-async.com/">Thinking Asynchronously in C++</a></li>
+                    </ul>
+                  </div><!-- /.blogroll -->
+                </div><!-- /blogroll section-->
+
+              </div> <!-- /links -->
+              <br/>
+
+              <!-- Our main content - everything after the first article -->
+    <section id="content" class="body">
+      <h1>Other articles</h1>
+      <hr />
+      <ol id="posts-list" class="hfeed">
 
                 <section id="content" class="body">
                     <ol id="posts-list" class="hfeed" start="11">
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="./june-2000.html" rel="bookmark"
+                           title="Permalink to June 2000: No Meeting">June 2000: No&nbsp;Meeting</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2000-06-01T00:00:00-07:00">
+                Published: Thu 01 June 2000
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/nwcpp.html">nwcpp</a>
+        </address>
+<p>In <a href="./category/2000.html">2000</a>. </p>
+
+</footer><!-- /.post-info -->                
+                <a class="readmore" href="./june-2000.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
             <li><article class="hentry">
                 <header>
                     <h1><a href="./may-2000.html" rel="bookmark"
@@ -137,7 +187,6 @@ rudiments of C …</p></div>
                 <a class="readmore" href="./may-2000.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./april-2000.html" rel="bookmark"
@@ -176,7 +225,6 @@ Bellevue. Steve has been employed in …</p></div>
                 <a class="readmore" href="./april-2000.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./march-2000.html" rel="bookmark"
@@ -211,7 +259,6 @@ pressures of time and money. Mark …</p></div>
                 <a class="readmore" href="./march-2000.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./february-2000.html" rel="bookmark"
@@ -246,7 +293,6 @@ numeric, date, time, binary, bitset …</p></div>
                 <a class="readmore" href="./february-2000.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./january-2000.html" rel="bookmark"
@@ -269,51 +315,18 @@ numeric, date, time, binary, bitset …</p></div>
                 </div><!-- /.entry-content -->
             </article></li>
             </ol><!-- /#posts-list -->
-<p class="paginator">
-        <a href="./index.html">&#8647;</a>
-        <a href="./index25.html">&laquo;</a>
-    Page 26 / 26
-</p>
+  <nav>
+    <ul>
+        <li><a href="./index.html">&Lang;</a></li>
+        <li><a href="./index25.html">&lang;</a></li>
+      <li>Page 26 / 26</li>
+    </ul>
+  </nav>
             </section><!-- /#content -->
             </div>
 
-            <!-- The sponsor sidebar -->
-            <div id="sponsor" class="sidebar">
-                <h2>Conferences</h2>
-                <ul>
-                    <li><a href="http://cppcon.org">CPPCon Homepage</a></li>
-                    <li><a href="http://cppcon.org/registration/">CPPCon Registration</a></li>
-                    <li><a href="https://isocpp.org/wiki/faq/conferences-worldwide/">Other C++ conferences</a></li>
-                </ul>
-                <h2>Jobs</h2>
-                <div><a href="http://jobs.protingent.com/"><img src="./theme/images/icons/protingent_masthead_logo_new.png" height="24" width="24" alt="Protingent" /></a></div>
-                <div><a href="https://jobs.volt.com"><img src="./theme/images/icons/Volt.jpg" height="24" width="24" alt="Volt" /></a></div>
-                <div><a href="https://www.tripleco.com/find-tech-jobs/"><img src="./theme/images/icons/TripleCrown.jpg" height="24" width="24" alt="Triple Crown" /></a></div>
-                <div><a href="https://j-galt.com/"><img src="./theme/images/icons/JohnGalt.jpg" height="24" width="24" alt="John Galt" /></a></div>
-                <h2>Sponsors</h2>
-                    <div><a href="http://www.cyberdata-robotics.com/"><img src="./theme/images/icons/CyberDataLogo.jpg" height="24" width="24" alt="Cyber Data" /></a></div>
-                    <div><a href="https://aka.ms/cpp"><img src="./theme/images/icons/MSLogo.png" height="24" width="24" alt="Microsoft" /></a></div>
-                <div class="sponsor-logo">
-                  <a href="http://shop.oreilly.com">
-                    <img src="./theme/images/icons/oreilly_discount.gif" />
-                  </a>
-                </div>
-                <address id="about" class="vcard body" style="width:100%;">
-                  Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                  which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-            </div> <!-- /sponsor sidebar -->
-
         </div><!-- content wrapper -->
 
-        <div class="announcement-wrapper">
-            <div class="announce">
-                <h3>Announcements</h3>
-                    <div>There are no announcements at this time.<br/> <br/><br/>
-                    <div style="width:10%">contact</div>
-                    <div style="width:80%"><a href="mailto:"></a></div>
-                    </div>
-            </div>
-        </div>
+
 </body>
 </html>

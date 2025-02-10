@@ -52,56 +52,159 @@
 
         <div class="content-wrapper">
 
-            <!-- social sidebar -->
-            <div id="social" class="sidebar">
-                <h2>social</h2>
-                <ul>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://nwcpp.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
-
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://groups.google.com/group/NwcppAnnounce">Announcements</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://groups.google.com/group/nwcpp-volunteers">Volunteers List</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="https://twitter.com/nwcpp">Twitter</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="https://www.facebook.com/groups/344125680930/">Facebook</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://www.youtube.com/user/NWCPP">YouTube</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://vimeo.com/nwcpp">Vimeo</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://www.linkedin.com/groups?gid=2770106">LinkedIn</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="https://speakerdeck.com/nwcpp">Speaker Deck</a></li>
-                    <li><a style="background-repeat:no-repeat;padding-left:25px;line-height:25px;"
-                           href="http://www.slideshare.net/nwcpp">SlideShare</a></li>
-                </ul>
-                <div class="blogroll">
-                    <h2 style="padding-top:20px;">blogroll</h2>
-                    <ul>
-                        <li><a href="http://isocpp.org/">Standard C++ Foundation</a></li>
-                        <li><a href="http://herbsutter.com/">Sutter’s Mill</a></li>
-                        <li><a href="http://blogs.msdn.com/b/vcblog/">Visual C++ Team Blog</a></li>
-                        <li><a href="http://bartoszmilewski.com/">Bartosz Milewski</a></li>
-                        <li><a href="http://www.drdobbs.com/author/Walter-Bright">Walter Bright</a></li>
-                        <li><a href="http://www.cplusplus-soup.com/">C++ Soup!</a></li>
-                        <li><a href="http://www.drdobbs.com/cpp">Dr. Dobb’s C++</a></li>
-                        <li><a href="http://cpp-next.com/">C++Next</a></li>
-                        <li><a href="http://scottmeyers.blogspot.com/">Scott Meyers</a></li>
-                        <li><a href="http://blog.think-async.com/">Thinking Asynchronously in C++</a></li>
-                        <li><a href="http://www.justsoftwaresolutions.co.uk/cplusplus/">Anthony Williams</a></li>
-                        <li><a href="http://www.informit.com/authors/bio.aspx?a=e19aded6-574c-4c46-8511-101f9f0ed8f8">Danny Kalev</a></li>
-                    </ul>
-                </div><!-- /.blogroll -->
-            </div><!-- /social sidebar-->
-
-            <!-- Center section with main content and announcement sticky -->
+            <!-- Center section with all content.  Vertical flex box  -->
             <div class="main-content">
+
+              <!-- Announcements -->
+              <div class="announce">
+                <h3>Announcements</h3>
+                <p>To be on our mailing list, join the <a href="https://groups.google.com/g/NwcppAnnounce">Google Group</a> at this link</p>
+              </div>
+              <br/>
+
+              <!-- Our most recent article (only) -->
+
+
+
+
+
+
+
+
+
+
+
+
+              <br/>
+
+              <div class="links_section">
+                <!-- Sponsor section -->
+                <div id="sponsor" class="sidebar">
+                  <h2>Sponsors</h2>
+                  <div><a href="http://www.cyberdata-robotics.com/"><img src="./theme/images/icons/CyberDataLogo.jpg" height="24" width="24" alt="Cyber Data" /></a></div>
+                  <div><a href="https://aka.ms/cpp"><img src="./theme/images/icons/MSLogo.png" height="24" width="24" alt="Microsoft" /></a></div>
+                </div> <!-- /sponsor section -->
+
+                <!-- Conferences section -->
+                <div id="conferences" class="sidebar">
+                  <h2>Conferences</h2>
+                  <ul>
+                    <li><a href="http://cppcon.org">CPPCon Homepage</a></li>
+                    <li><a href="http://cppcon.org/registration/">CPPCon Registration</a></li>
+                    <li><a href="https://isocpp.org/wiki/faq/conferences-worldwide/">Other C++ conferences</a></li>
+                  </ul>
+                </div> <!-- /conferences section -->
+
+                <!-- social section -->
+                <div id="social" class="sidebar">
+                  <h2>Social</h2>
+                  <ul>
+                    <li><a href="http://groups.google.com/group/NwcppAnnounce">Announcements</a></li>
+                    <li><a href="http://groups.google.com/group/nwcpp-volunteers">Volunteers List</a></li>
+                    <li><a href="https://twitter.com/nwcpp">X(Twitter)</a></li>
+                    <li><a href="https://www.facebook.com/groups/344125680930/">Facebook</a></li>
+                    <li><a href="http://www.youtube.com/user/NWCPP">YouTube</a></li>
+                    <li><a href="http://vimeo.com/nwcpp">Vimeo</a></li>
+                    <li><a href="http://www.linkedin.com/groups?gid=2770106">LinkedIn</a></li>
+                  </ul>
+                </div><!-- /social section-->
+
+                <!-- blogroll section -->
+                <div id="blogroll" class="sidebar">
+                  <div class="blogroll">
+                    <h2>Blogroll</h2>
+                    <ul>
+                      <li><a href="http://isocpp.org/">Standard C++ Foundation</a></li>
+                      <li><a href="http://herbsutter.com/">Sutter’s Mill</a></li>
+                      <li><a href="http://blogs.msdn.com/b/vcblog/">Visual C++ Team Blog</a></li>
+                      <li><a href="http://bartoszmilewski.com/">Bartosz Milewski</a></li>
+                      <li><a href="http://www.drdobbs.com/author/Walter-Bright">Walter Bright</a></li>
+                      <li><a href="http://www.drdobbs.com/cpp">Dr. Dobb’s C++</a></li>
+                      <li><a href="http://scottmeyers.blogspot.com/">Scott Meyers</a></li>
+                      <li><a href="http://blog.think-async.com/">Thinking Asynchronously in C++</a></li>
+                    </ul>
+                  </div><!-- /.blogroll -->
+                </div><!-- /blogroll section-->
+
+              </div> <!-- /links -->
+              <br/>
+
+              <!-- Our main content - everything after the first article -->
+    <section id="content" class="body">
+      <h1>Other articles</h1>
+      <hr />
+      <ol id="posts-list" class="hfeed">
 
                 <section id="content" class="body">
                     <ol id="posts-list" class="hfeed" start="11">
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="./Sept-2021.html" rel="bookmark"
+                           title="Permalink to Sept 15, 2021: Lightning Talks!!!!">Sept 15, 2021: Lightning&nbsp;Talks!!!!</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2021-08-22T00:00:00-07:00">
+                Published: Sun 22 August 2021
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="./category/2021.html">2021</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="new-meeting-location-on-line">
+<h2><span class="caps">NEW</span> <span class="caps">MEETING</span> <span class="caps">LOCATION</span> - <span class="caps">ON</span> <span class="caps">LINE</span>!!!</h2>
+<div class="line-block">
+<div class="line"><span class="caps">DUE</span> <span class="caps">TO</span> <span class="caps">CONCERNS</span> <span class="caps">SURROUNDING</span> <span class="caps">THE</span> <span class="caps">COVID</span>-19 <span class="caps">OUTBREAK</span> <span class="caps">WE</span> <span class="caps">ARE</span> <span class="caps">HOLDING</span> <span class="caps">THE</span></div>
+<div class="line"><span class="caps">NWCPP</span> <span class="caps">MEETINGS</span> <span class="caps">ON</span> <span class="caps">LINE</span> <span class="caps">USING</span> <span class="caps">MICROSOFT</span> <span class="caps">TEAMS</span>. <span class="caps">PLEASE</span> <span class="caps">USE</span> <span class="caps">THE</span> <span class="caps">LINK</span></div>
+<div class="line"><span class="caps">BELOW</span> <span class="caps">TO</span> <span class="caps">JOIN</span> <span class="caps">THE</span> <span class="caps">MEETING</span>.</div>
+<div class="line"><br /></div>
+<div class="line"><span class="caps">DURING</span> <span class="caps">THE</span> <span class="caps">MEETING</span> <span class="caps">PLEASE</span> <span class="caps">REMEMBER</span> <span class="caps">TO</span> <span class="caps">MUTE</span> <span class="caps">YOUR</span> <span class="caps">MICROPHONE</span>.</div>
+</div>
+</div>
+<div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">Sept 15, 2021 at 7 …</div></div></div>
+                <a class="readmore" href="./Sept-2021.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="./Aug-2021.html" rel="bookmark"
+                           title="Permalink to Aug 18, 2021: Python Bindings for C++">Aug 18, 2021: Python Bindings for&nbsp;C++</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2021-08-01T00:00:00-07:00">
+                Published: Sun 01 August 2021
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="./category/2021.html">2021</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="new-meeting-location-on-line">
+<h2><span class="caps">NEW</span> <span class="caps">MEETING</span> <span class="caps">LOCATION</span> - <span class="caps">ON</span> <span class="caps">LINE</span>!!!</h2>
+<div class="line-block">
+<div class="line"><span class="caps">DUE</span> <span class="caps">TO</span> <span class="caps">CONCERNS</span> <span class="caps">SURROUNDING</span> <span class="caps">THE</span> <span class="caps">COVID</span>-19 <span class="caps">OUTBREAK</span> <span class="caps">WE</span> <span class="caps">ARE</span> <span class="caps">HOLDING</span> <span class="caps">THE</span></div>
+<div class="line"><span class="caps">NWCPP</span> <span class="caps">MEETINGS</span> <span class="caps">ON</span> <span class="caps">LINE</span> <span class="caps">USING</span> <span class="caps">MICROSOFT</span> <span class="caps">TEAMS</span>. <span class="caps">PLEASE</span> <span class="caps">USE</span> <span class="caps">THE</span> <span class="caps">LINK</span></div>
+<div class="line"><span class="caps">BELOW</span> <span class="caps">TO</span> <span class="caps">JOIN</span> <span class="caps">THE</span> <span class="caps">MEETING</span>.</div>
+<div class="line"><br /></div>
+<div class="line"><span class="caps">DURING</span> <span class="caps">THE</span> <span class="caps">MEETING</span> <span class="caps">PLEASE</span> <span class="caps">REMEMBER</span> <span class="caps">TO</span> <span class="caps">MUTE</span> <span class="caps">YOUR</span> <span class="caps">MICROPHONE</span>.</div>
+</div>
+</div>
+<div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line">Aug 18, 2021 at 7 …</div></div></div>
+                <a class="readmore" href="./Aug-2021.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
             <li><article class="hentry">
                 <header>
                     <h1><a href="./July-2021.html" rel="bookmark"
@@ -136,7 +239,6 @@
                 <a class="readmore" href="./July-2021.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./June-2021.html" rel="bookmark"
@@ -171,7 +273,6 @@
                 <a class="readmore" href="./June-2021.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./May-2021.html" rel="bookmark"
@@ -206,7 +307,6 @@
                 <a class="readmore" href="./May-2021.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Apr-2021.html" rel="bookmark"
@@ -241,7 +341,6 @@
                 <a class="readmore" href="./Apr-2021.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Mar-2021.html" rel="bookmark"
@@ -276,7 +375,6 @@
                 <a class="readmore" href="./Mar-2021.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Feb-2021.html" rel="bookmark"
@@ -311,7 +409,6 @@
                 <a class="readmore" href="./Feb-2021.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Jan-2021.html" rel="bookmark"
@@ -346,7 +443,6 @@
                 <a class="readmore" href="./Jan-2021.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Nov-2020.html" rel="bookmark"
@@ -376,7 +472,6 @@
                 <a class="readmore" href="./Nov-2020.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Oct-2020.html" rel="bookmark"
@@ -406,7 +501,6 @@
                 <a class="readmore" href="./Oct-2020.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Aug-2020.html" rel="bookmark"
@@ -436,114 +530,21 @@
                 <a class="readmore" href="./Aug-2020.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="./July-2020.html" rel="bookmark"
-                           title="Permalink to July 15th, 2020: Culture of Code Reviews">July 15th, 2020: Culture of Code&nbsp;Reviews</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2020-06-27T00:00:00-07:00">
-                Published: Sat 27 June 2020
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
-        </address>
-<p>In <a href="./category/2020.html">2020</a>. </p>
-
-</footer><!-- /.post-info -->                <div class="section" id="new-meeting-location-on-line">
-<h2><span class="caps">NEW</span> <span class="caps">MEETING</span> <span class="caps">LOCATION</span> - <span class="caps">ON</span> <span class="caps">LINE</span>!!!</h2>
-<div class="line-block">
-<div class="line"><span class="caps">DUE</span> <span class="caps">TO</span> <span class="caps">CONCERNS</span> <span class="caps">SURROUNDING</span> <span class="caps">THE</span> <span class="caps">COVID</span>-19 <span class="caps">OUTBREAK</span> <span class="caps">WE</span> <span class="caps">ARE</span> <span class="caps">HOLDING</span> <span class="caps">THE</span></div>
-<div class="line"><span class="caps">NWCPP</span> <span class="caps">MEETINGS</span> <span class="caps">ON</span> <span class="caps">LINE</span> <span class="caps">USING</span> <span class="caps">MICROSOFT</span> <span class="caps">TEAMS</span>. <span class="caps">PLEASE</span> <span class="caps">USE</span> <span class="caps">THE</span> <span class="caps">LINK</span></div>
-<div class="line"><span class="caps">BELOW</span> <span class="caps">TO</span> <span class="caps">JOIN</span> <span class="caps">THE</span> <span class="caps">MEETING</span>.</div>
-<div class="line"><br /></div>
-<div class="line"><span class="caps">DURING</span> <span class="caps">THE</span> <span class="caps">MEETING</span> <span class="caps">PLEASE</span> <span class="caps">REMEMBER</span> <span class="caps">TO</span> <span class="caps">MUTE</span> <span class="caps">YOUR</span> <span class="caps">MICROPHONE</span>. <span class="caps">WE</span>&#8217;<span class="caps">LL</span> <span class="caps">HAVE</span></div>
-<div class="line"><span class="caps">TO</span> <span class="caps">SEE</span> <span class="caps">HOW</span> <span class="caps">THE</span> <span class="caps">SYSTEM …</span></div></div></div>
-                <a class="readmore" href="./July-2020.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="./June-2020.html" rel="bookmark"
-                           title="Permalink to June 17th, 2020: Remedial C++ 14">June 17th, 2020: Remedial C++&nbsp;14</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2020-05-24T00:00:00-07:00">
-                Published: Sun 24 May 2020
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
-        </address>
-<p>In <a href="./category/2020.html">2020</a>. </p>
-
-</footer><!-- /.post-info -->                <div class="section" id="new-meeting-location-on-line">
-<h2><span class="caps">NEW</span> <span class="caps">MEETING</span> <span class="caps">LOCATION</span> - <span class="caps">ON</span> <span class="caps">LINE</span>!!!</h2>
-<div class="line-block">
-<div class="line"><span class="caps">DUE</span> <span class="caps">TO</span> <span class="caps">CONCERNS</span> <span class="caps">SURROUNDING</span> <span class="caps">THE</span> <span class="caps">COVID</span>-19 <span class="caps">OUTBREAK</span> <span class="caps">WE</span> <span class="caps">ARE</span> <span class="caps">HOLDING</span> <span class="caps">THE</span></div>
-<div class="line"><span class="caps">NWCPP</span> <span class="caps">MEETINGS</span> <span class="caps">ON</span> <span class="caps">LINE</span> <span class="caps">USING</span> <span class="caps">MICROSOFT</span> <span class="caps">TEAMS</span>. <span class="caps">PLEASE</span> <span class="caps">USE</span> <span class="caps">THE</span> <span class="caps">LINK</span></div>
-<div class="line"><span class="caps">BELOW</span> <span class="caps">TO</span> <span class="caps">JOIN</span> <span class="caps">THE</span> <span class="caps">MEETING</span>.</div>
-<div class="line"><br /></div>
-<div class="line"><span class="caps">DURING</span> <span class="caps">THE</span> <span class="caps">MEETING</span> <span class="caps">PLEASE</span> <span class="caps">REMEMBER</span> <span class="caps">TO</span> <span class="caps">MUTE</span> <span class="caps">YOUR</span> <span class="caps">MICROPHONE</span>. <span class="caps">WE</span>&#8217;<span class="caps">LL</span> <span class="caps">HAVE</span></div>
-<div class="line"><span class="caps">TO</span> <span class="caps">SEE</span> <span class="caps">HOW</span> <span class="caps">THE</span> <span class="caps">SYSTEM …</span></div></div></div>
-                <a class="readmore" href="./June-2020.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
             </ol><!-- /#posts-list -->
-<p class="paginator">
-        <a href="./index.html">&#8647;</a>
-        <a href="./index3.html">&laquo;</a>
-    Page 4 / 26
-        <a href="./index5.html">&raquo;</a>
-        <a href="./index26.html">&#8649;</a>
-</p>
+  <nav>
+    <ul>
+        <li><a href="./index.html">&Lang;</a></li>
+        <li><a href="./index3.html">&lang;</a></li>
+      <li>Page 4 / 26</li>
+        <li><a href="./index5.html">&rang;</a></li>
+        <li><a href="./index26.html">&Rang;</a></li>
+    </ul>
+  </nav>
             </section><!-- /#content -->
             </div>
 
-            <!-- The sponsor sidebar -->
-            <div id="sponsor" class="sidebar">
-                <h2>Conferences</h2>
-                <ul>
-                    <li><a href="http://cppcon.org">CPPCon Homepage</a></li>
-                    <li><a href="http://cppcon.org/registration/">CPPCon Registration</a></li>
-                    <li><a href="https://isocpp.org/wiki/faq/conferences-worldwide/">Other C++ conferences</a></li>
-                </ul>
-                <h2>Jobs</h2>
-                <div><a href="http://jobs.protingent.com/"><img src="./theme/images/icons/protingent_masthead_logo_new.png" height="24" width="24" alt="Protingent" /></a></div>
-                <div><a href="https://jobs.volt.com"><img src="./theme/images/icons/Volt.jpg" height="24" width="24" alt="Volt" /></a></div>
-                <div><a href="https://www.tripleco.com/find-tech-jobs/"><img src="./theme/images/icons/TripleCrown.jpg" height="24" width="24" alt="Triple Crown" /></a></div>
-                <div><a href="https://j-galt.com/"><img src="./theme/images/icons/JohnGalt.jpg" height="24" width="24" alt="John Galt" /></a></div>
-                <h2>Sponsors</h2>
-                    <div><a href="http://www.cyberdata-robotics.com/"><img src="./theme/images/icons/CyberDataLogo.jpg" height="24" width="24" alt="Cyber Data" /></a></div>
-                    <div><a href="https://aka.ms/cpp"><img src="./theme/images/icons/MSLogo.png" height="24" width="24" alt="Microsoft" /></a></div>
-                <div class="sponsor-logo">
-                  <a href="http://shop.oreilly.com">
-                    <img src="./theme/images/icons/oreilly_discount.gif" />
-                  </a>
-                </div>
-                <address id="about" class="vcard body" style="width:100%;">
-                  Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
-                  which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-            </div> <!-- /sponsor sidebar -->
-
         </div><!-- content wrapper -->
 
-        <div class="announcement-wrapper">
-            <div class="announce">
-                <h3>Announcements</h3>
-                    <div>There are no announcements at this time.<br/> <br/><br/>
-                    <div style="width:10%">contact</div>
-                    <div style="width:80%"><a href="mailto:"></a></div>
-                    </div>
-            </div>
-        </div>
+
 </body>
 </html>
