@@ -1,7 +1,7 @@
 Feb 20, 2025: MicroCode: Portable Programming for the BBC micro:bit
 #############################################################################
 
-:date: 2025-01-24
+:date: 2025-02-10
 :slug: Feb-2025
 :author: Lloyd Moore
 
@@ -50,7 +50,7 @@ the Microsoft MakeCode platform for supporting CS education efforts.
 
 Post Meeting Social
 ~~~~~~~~~~~~~~~~~~~
-Following the official meeting folks are welcome to wander over to the `Cofee Haus <https://www.google.com/maps/place/Red+Robin+Gourmet+Burgers+and+Brews/@47.6310774,-122.1450308,17z/data=!4m14!1m7!3m6!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!2sRed+Robin+Gourmet+Burgers+and+Brews!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn!3m5!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D>`_ at the Overlake Red Robin (148th Ave and 24th) to continue chatting until they close the doors!
+Following the official meeting folks are welcome to wander over to the `Coffee Haus <https://www.google.com/maps/place/Red+Robin+Gourmet+Burgers+and+Brews/@47.6310774,-122.1450308,17z/data=!4m14!1m7!3m6!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!2sRed+Robin+Gourmet+Burgers+and+Brews!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn!3m5!1s0x54906d086b9bed03:0x4e2e9bc909cdf8d!8m2!3d47.6310774!4d-122.1424505!16s%2Fg%2F1tfdd4xn?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D>`_ at the Overlake Red Robin (148th Ave and 24th) to continue chatting until they close the doors!
 
 A Word From Our Sponsor
 ~~~~~~~~~~~~~~~~~~~~~~~
