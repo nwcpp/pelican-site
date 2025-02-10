@@ -1,9 +1,9 @@
 Welcome to the Northwest C++ Users' Group
 #########################################
 
-:date: 2013-01-01
+:date: 2025-02-10
 :slug: about
-:author: George Reilly
+:author: Peter Williamson
 
 The Northwest C++ Users' Group (NWCPP) is a group of professional developers and hobbyists
 living and working in the Pacific Northwest
@@ -23,8 +23,7 @@ Meetings
 Our meetings are held at the
 `main Microsoft campus </images/MicrosoftMainCampusMap.jpg>`_,
 One Microsoft Way, Redmond, WA 98052,
-in the Reactor Room, `Building 20 <https://www.google.com/maps/place/Microsoft+Reactor+Redmond/@47.6437269,-122.1338103,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d0048713c8d:0xf54a3d953253f8c9!8m2!3d47.6437233!4d-122.13123!16s%2Fg%2F11wthn72ps?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D/>`_,
-.
+in the Reactor Room, `Building 20 <https://www.google.com/maps/place/Microsoft+Reactor+Redmond/@47.6437269,-122.1338103,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d0048713c8d:0xf54a3d953253f8c9!8m2!3d47.6437233!4d-122.13123!16s%2Fg%2F11wthn72ps?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D/>`.
 Usually, we meet at 7pm on the *third Thursday* of the month.
 
 Disclaimer: NWCPP is not associated with Microsoft—\
@@ -52,10 +51,8 @@ and
 Social Media
 ^^^^^^^^^^^^
 
-* Sign up for our
-  `Announcements <http://groups.google.com/group/NwcppAnnounce>`_ mailing list.
-  If you want to be more heavily involved,
-  please sign up for our `Volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list.
+* Sign up for our `Announcements <http://groups.google.com/group/NwcppAnnounce>`_ mailing list by joining the google group at the link.
+  If you want to be more heavily involved, please sign up for our `Volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list.
 * Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter.
 * Join our `Facebook group <http://www.facebook.com/group.php?gid=344125680930>`_.
 * Follow our `YouTube channel <http://www.youtube.com/user/NWCPP>`_.
