@@ -4,10 +4,10 @@ NWCPP Website Source
 `Pelican <http://blog.getpelican.com/>`_-based website for the
 `Northwest C++ Users' Group <http://nwcpp.org/>`_.
 Read `2013 Website Refresh <http://nwcpp.org/2013-website-refresh.html>`_
-for more background.
+for more background, or the google doc
+'NWCPP Site Setup <https://docs.google.com/document/d/1Q3WGbZSpFQVFz0aJi7qH9SiVxiOal5brs48xRlHl5ac>'
 
-Running Pelican requires that you've installed Python 2.7.
-(You're welcome to try Python 3.4, but it's untested.)
+Running Pelican requires that you've installed Python 3.
 See `The Hitchhiker’s Guide to Python! <http://docs.python-guide.org/en/latest/>`_
 for guidelines on installing `Python <https://www.python.org/>`_,
 `pip <http://www.pip-installer.org/>`_, and
@@ -24,11 +24,8 @@ Clone the Repo
 Create a Virtual Environment
 ----------------------------
 
-* Note: for Windows, be sure to install the *32-bit* Python 2.7,
-  even if you are running Win64,
-  or you will have difficulty with `PyCrypto <http://pycrypto.org>`_.
-* Install the prerequisites of Python 2.7
-  *pip*, *virtualenv*, *Setuptools*, and *easy_install*, per
+* Install the prerequisites of Python3
+  *pip*, *virtualenv* and *Setuptools* per
   `Installing Python on Mac OS X
   <http://docs.python-guide.org/en/latest/starting/install/osx/>`_,
   `Installing Python on Linux
@@ -58,15 +55,8 @@ Create a Virtual Environment
 Windows Setup
 -------------
 
-* The `Fabric <http://www.fabfile.org/>`_ tool
-  requires `PyCrypto <http://pycrypto.org>`_,
-  which is tricky to install if you don't have the MSVC 2008 compiler on your system.
-
-    - Download the PyCrypto installer for *32-bit Python 2.7* from
-      `VoidSpace <http://www.voidspace.org.uk/python/modules.shtml#pycrypto>`_.
-    - Install PyCrypto: ``easy_install pycrypto-2.6.win32-py2.7.exe``
-
-* As of 2015-01-04, you will need custom builds of
+* (This may be out of date - try building on windows first before following these instructions)
+  As of 2015-01-04, you will need custom builds of
   `Pelican <http://blog.getpelican.com/>`_ and
   `ghp-import <https://github.com/davisp/ghp-import/>`_.
 
@@ -93,7 +83,7 @@ Running Locally
 ---------------
 
 * Edit pages in your favorite editor. Hint: use a recent post as a starting point.
-* Build pages and serve them on http://localhost:8000/:
+* Build pages and serve them on http://localhost:9000/:
   ``fab reserve``
 * Commit pages to Git and push to GitHub: ``git push origin master``
 * Publish website to `GitHub Pages <https://pages.github.com/>`_: ``fab gh_pages``.

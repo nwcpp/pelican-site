@@ -5,21 +5,27 @@
 |  Logo Title (Northwest C++ User's Group)                                 |
 |--------------------------------------------------------------------------|
 |                          Navbar (centered)                               |
-|                          (hidden misc item)                              |
 |--------------------------------------------------------------------------|
 |    <br/> to make sure we don't put content on same line as misc          |
 |--------------------------------------------------------------------------|
-|   Flexbox - left to right                                            |-| |
-| |------------------------------ content-wrapper -------------------| | | |
-| | |---------| |-------------------------------------| |----------| | | | |
-| | | Left    | |  featured article                   | | Right    | | | | |
-| | | Sidebar | |-------------------------------------| | Sidebar  | | | | |
-| | |         | |                                     | |          | | | | |
-| | | social  | | older articles                      | | Conf     | | | | |
-| | |         | |                                     | |          | | | | |
-| | | blogroll| |                                     | | sponsors | | | | |
-| | |---------| |-------------------------------------| |----------| | | | |
-| |------------------------------------------------------------------| |-| |
+|   Vertical Flexbox - top to bottom                                       |
+| |------------------------------ content-wrapper -----------------------| |
+| | |------------------------------------------------------------------| | |
+| | |  announcements                                                   | | |
+| | |------------------------------------------------------------------| | |
+| | |  most recent article                                             | | |
+| | |---------------------------- links-section -----------------------| | |
+| | |  Horizontal Flexbox (left-to-right)                              | | |
+| | |  |----------| |-------------| |--------| |----------|            | | |
+| | |  | sponsors | | conferences | | social | | blogroll |            | | |
+| | |  |----------| |-------------| |--------| |----------|            | | |
+| | |------------------------------------------------------------------| | |
+| | |                                                                  | | |
+| | |  older articles                                                  | | |
+| | |                                                                  | | |
+| | |                                                                  | | |
+| | |------------------------------------------------------------------| | |
+| |--------------------------------------------------------------------| | |
 |--------------------------------------------------------------------------|
 | |----------------------------------------------------------------------| |
 | |   Announcement (sticky to bottom)                                    | |
@@ -29,7 +35,7 @@
 
 /* Main Nav Banner */
 #banner nav {
-    height: 80px;
+    height: 120px;
 }
 #banner nav a:link, #banner nav a:visited {
     padding: 5px 1.1em;
@@ -45,7 +51,16 @@
 /* Contains sidebars and main content and announcement */
 .content-wrapper {
     display: flex;
+    flex-direction: column;
     margin: 0 0;
+}
+
+/* Put all the link sections in a flexbox */
+.links_section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 /* Attributes common to both left and right sidebars */
@@ -54,7 +69,7 @@
     flex: 1 1 15%;
     border-radius: 10px;
     background: #fff;
-    margin: 0em 2em 2em 2em;
+    margin: 2em 2em 2em 2em;
     padding: 5px;
 }
 
@@ -97,8 +112,6 @@
 /* We can put paid sponsor job announcements in .announce */
 .announce {
     padding: 10px;
-    height: 150px;
-    width: 100%;
     left: 0;
     bottom: 0;
     overflow-y:auto;
@@ -110,20 +123,6 @@
     /* margin-top: 0px; */
 }
 
-/* Turn off the announcement if we have either a short or narrow screen */
-@media only screen and (max-width: 800px) {
-    .announcement-wrapper {
-        display: none;
-    }
-    #social {
-        display: none;
-    }
-}
-@media only screen and (max-height: 800px) {
-    .announcement-wrapper {
-        display: none;
-    }
-}
 
 /* Overrides for the social sidebar
 #social {
@@ -136,14 +135,15 @@
 /* Overrides for the sponsor sidebar
 #sponsor {
 }
-*/
 
+/* Overrides for social links
 .social_links {
-    background-repeat: no-repeat;
-    padding-left: 25px;
+
 }
 
+/* Overrides for the blogroll
 .blogroll {
-    padding-top: 20px;
 }
+
+*/
 
