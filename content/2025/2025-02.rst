@@ -59,7 +59,17 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides </talks/2025/MicroCodeOverview2025Feb.pptx>`_
+
+`Video <https://youtu.be/GAf3dg6RrDg>`_
+
+`Microbit Educational Foundation <https://microbit.org>`_
+
+`Microsoft MakeCode <https://www.makecode.com>`_
+
+`MicroCode <https://aka.ms/microcode>`_
+
+`Jacdac <https://aka.ms/jacdac>`_
 
 
 Digital Media Links
