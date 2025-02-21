@@ -3466,4 +3466,1064 @@ published by Addison-Wesley in 2001.
 He is also the &lt;span class="caps"&gt;CEO&lt;/span&gt; of Reliable Software &lt;span class="caps"&gt;LLC&lt;/span&gt;
 (see his company website &lt;a class="reference external" href="http://www.relisoft.com"&gt;www.relisoft.com&lt;/a&gt;).&lt;/p&gt;
 &lt;/div&gt;
-</content><category term="2003"></category></entry></feed>
+</content><category term="2003"></category></entry><entry><title>February 12th, 2003 — Mojo — Andrei Alexandrescu</title><link href="http://nwcpp.org/february-2003.html" rel="alternate"></link><published>2003-02-01T00:00:00-08:00</published><updated>2003-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-02-01:/february-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Attend this talk to learn about Mojo, the new framework, library, and
+coding guideline that enables you to pass and return values without
+fearing that copying temporaries is going to ruin runtime performance or
+your code review. Mojo guarantees …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Attend this talk to learn about Mojo, the new framework, library, and
+coding guideline that enables you to pass and return values without
+fearing that copying temporaries is going to ruin runtime performance or
+your code review. Mojo guarantees that, if you follow a number of simple
+rules when designing your classes, you will totally eliminate
+unnecessary&amp;nbsp;copying.&lt;/p&gt;
+&lt;p&gt;Learn about Mojo from its own creator for 90 fun and instructive
+minutes. Mojo uses a cornucopia of interesting tricks and techniques
+that are likely to make your day whether you use C++ (you&amp;#8217;ll be happy
+you can apply them) or other languages (you&amp;#8217;ll be happy you can&amp;#8217;t apply&amp;nbsp;them).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andrei Alexandrescu is working on a graduate degree at the University of
+Washington. He is the author of the acclaimed book Modern C++ Design.
+Andrei is also a columnist for C/C++ Users Journal, a C++ former
+columnist for the C++ Report, a speaker at numerous conferences, and one
+of the featured instructors of The C++ Seminar
+(&lt;a class="reference external" href="http://www.gotw.ca/cpp_seminar"&gt;www.gotw.ca/cpp_seminar&lt;/a&gt;).
+His website is &lt;a class="reference external" href="http://www.moderncppdesign.com"&gt;www.moderncppdesign.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2003"></category></entry><entry><title>January 8th, 2003 — Unit Testing — Asim Jalis</title><link href="http://nwcpp.org/january-2003.html" rel="alternate"></link><published>2003-01-01T00:00:00-08:00</published><updated>2003-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2003-01-01:/january-2003.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The talk will focus on C/C++ unit testing and test-driven development
+using the CuTest library. CuTest is simple, portable, and follows the
+JUnit look and feel in its output and &lt;span class="caps"&gt;API&lt;/span&gt;. The topics covered will&amp;nbsp;include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction to …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The talk will focus on C/C++ unit testing and test-driven development
+using the CuTest library. CuTest is simple, portable, and follows the
+JUnit look and feel in its output and &lt;span class="caps"&gt;API&lt;/span&gt;. The topics covered will&amp;nbsp;include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction to Test Driven Development (&lt;span class="caps"&gt;TDD&lt;/span&gt;)&lt;/li&gt;
+&lt;li&gt;Demo of using &lt;span class="caps"&gt;TDD&lt;/span&gt; to write C/C++&amp;nbsp;code&lt;/li&gt;
+&lt;li&gt;Comparison of CuTest with other C/C++ unit testing&amp;nbsp;frameworks&lt;/li&gt;
+&lt;li&gt;Some testing ideas and&amp;nbsp;techniques&lt;/li&gt;
+&lt;li&gt;How to test exhaustively using&amp;nbsp;tables&lt;/li&gt;
+&lt;li&gt;How to leverage traditional assert()&amp;#8217;s with unit&amp;nbsp;tests&lt;/li&gt;
+&lt;li&gt;How to unit test system calls and &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;nbsp;code&lt;/li&gt;
+&lt;li&gt;Open discussion on testing ideas and&amp;nbsp;problems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Asim Jalis is a software engineer at Hewlett-Packard Company. He is
+currently working on web services management software, which is
+primarily in C# and also uses C/C++, Java and Perl.&amp;nbsp;&amp;nbsp; He is deeply
+interested in test driven development and ways of making this easier and
+more effective. He is the author of CuTest, a unit testing framework for C,
+and Test::Extreme, a unit testing framework for&amp;nbsp;Perl.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2003"></category></entry><entry><title>December 2002: No Meeting</title><link href="http://nwcpp.org/december-2002.html" rel="alternate"></link><published>2002-12-01T00:00:00-08:00</published><updated>2002-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-12-01:/december-2002.html</id><content type="html"></content><category term="2002"></category></entry><entry><title>November 13th, 2002 — C++ Techniques for Tomorrow That Can be Implemented Today (aka Boosting your Code) — David Brownell</title><link href="http://nwcpp.org/november-2002.html" rel="alternate"></link><published>2002-11-01T00:00:00-08:00</published><updated>2002-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-11-01:/november-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This presentation will illustrate techniques to ensure code correctness
+at compile time, extend the &lt;span class="caps"&gt;STL&lt;/span&gt;, and enhance C++ using the freely
+available and portable boost libraries,
+&lt;a class="reference external" href="http://www.boost.org"&gt;www.boost.org&lt;/a&gt;. Beginning with brief overviews
+of the boost organization and the …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This presentation will illustrate techniques to ensure code correctness
+at compile time, extend the &lt;span class="caps"&gt;STL&lt;/span&gt;, and enhance C++ using the freely
+available and portable boost libraries,
+&lt;a class="reference external" href="http://www.boost.org"&gt;www.boost.org&lt;/a&gt;. Beginning with brief overviews
+of the boost organization and the boost libraries, we will then explore
+ten specific boost libraries, covering the why’s, what’s, and how’s
+behind the concepts that enable all three of the techniques listed&amp;nbsp;above.&lt;/p&gt;
+&lt;p&gt;This presentation assumes familiarity with C++&amp;nbsp;templates.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;David Brownell has been using C++ in a professional environment for the
+past 5 years. Graduating with a &lt;span class="caps"&gt;BSCS&lt;/span&gt; from Seattle University in 1998,
+David has worked on faxing applications, automated scripting utilities,
+secure communications technologies, generic programming techniques, and
+peer-to-peer applications. David currently works as a Software Engineer
+at Aegis Design in Seattle,&amp;nbsp;Washington.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2002/BoostPresentation.zip"&gt;Click here&lt;/a&gt;
+to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2002"></category></entry><entry><title>October 9th, 2002 — C++ Features to Beware of Today, and to Anticipate in C++ 0x — Herb Sutter</title><link href="http://nwcpp.org/october-2002.html" rel="alternate"></link><published>2002-10-01T00:00:00-07:00</published><updated>2002-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-10-01:/october-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;From exception specifications to export, from typedef templates to
+typeof to delegating constructors, this talk analyzes current C++
+features that you should use with care if at all, and important new
+C++0x language features coming soon to a …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;From exception specifications to export, from typedef templates to
+typeof to delegating constructors, this talk analyzes current C++
+features that you should use with care if at all, and important new
+C++0x language features coming soon to a compiler near you. It shows why
+the features are useful, where they have areas or effects that can be
+dangerous or result in unintended effects, what kinds of coding idioms
+and techniques they make possible, when you can expect them to be stable
+in shipping compilers, who the people and companies behind them are, and
+how you can use them safely and&amp;nbsp;effectively.&lt;/p&gt;
+&lt;p&gt;Talk first given at &lt;a class="reference external" href="http://www.thecppseminar.com"&gt;The C++&amp;nbsp;Seminar&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Herb Sutter is conveyor and secretary, respectively, of the &lt;a class="reference external" href="http://std.dkuug.dk/jtc1/sc22/wg21/"&gt;&lt;span class="caps"&gt;ISO&lt;/span&gt; and
+&lt;span class="caps"&gt;ANSI&lt;/span&gt; C++ standards committees&lt;/a&gt;,
+contributing editor and columnist for &lt;a class="reference external" href="http://www.cuj.com"&gt;C/C++ Users Journal
+(&lt;span class="caps"&gt;CUJ&lt;/span&gt;)&lt;/a&gt;, C++ community liaison for Microsoft, and
+former editor-in-chief of C++ Report. He is also the author of more than
+150 &lt;a class="reference external" href="http://www.gotw.ca/publications/index.htm"&gt;technical articles&lt;/a&gt;
+and of the widely acclaimed books Exceptional C++, More Exceptional C++,
+and the forthcoming titles C++ Coding Standards (with Andrei
+Alexandrescu) and Exceptional C++&amp;nbsp;Style.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2002"></category></entry><entry><title>September 18th, 2002 — Understanding templates as a form of weak typing — Bruce Eckel</title><link href="http://nwcpp.org/september-2002.html" rel="alternate"></link><published>2002-09-01T00:00:00-07:00</published><updated>2002-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-09-01:/september-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;As I learned the Python programming language (see
+&lt;a class="reference external" href="http://www.python.org"&gt;www.Python.org&lt;/a&gt;), I began to understand the
+concept of weak/latent typing (which the Smalltalk programmers are so
+fond of). At first, this seems like a very heretical and dangerous …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;As I learned the Python programming language (see
+&lt;a class="reference external" href="http://www.python.org"&gt;www.Python.org&lt;/a&gt;), I began to understand the
+concept of weak/latent typing (which the Smalltalk programmers are so
+fond of). At first, this seems like a very heretical and dangerous
+approach, but with time I not only began to see how powerful it is, but
+also to understand C++ templates in terms of weak typing. I found this
+gave me a much deeper understanding of the value and use of templates.
+In this talk, I will introduce the Python language and the concept of
+weak typing, and I will show C++ templates in the same light. You should
+come away with a deeper grasp of templates and where they can be put to&amp;nbsp;use.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bruce Eckel (&lt;a class="reference external" href="http://www.bruceeckel.com"&gt;www.BruceEckel.com&lt;/a&gt;) is the
+author of Thinking in Java (Prentice-Hall, 1998, 2nd Edition, 2000), the
+Hands-On Java Seminar &lt;span class="caps"&gt;CD&lt;/span&gt; &lt;span class="caps"&gt;ROM&lt;/span&gt; (available on the Web site), Thinking in
+C++ (&lt;span class="caps"&gt;PH&lt;/span&gt; 1995; 2nd edition 2000), C++ Inside &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Out (Osborne/McGraw-Hill
+1993), among others. He&amp;#8217;s given hundreds of presentations throughout the
+world, published over 150 articles in numerous magazines, was a founding
+member of the &lt;span class="caps"&gt;ANSI&lt;/span&gt;/&lt;span class="caps"&gt;ISO&lt;/span&gt; C++ committee and speaks regularly at
+conferences. He provides public and private seminars &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; design consulting
+in C++ and&amp;nbsp;Java.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2002"></category></entry><entry><title>August 2002: No Meeting</title><link href="http://nwcpp.org/august-2002.html" rel="alternate"></link><published>2002-08-01T00:00:00-07:00</published><updated>2002-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-08-01:/august-2002.html</id><content type="html"></content><category term="2002"></category></entry><entry><title>July 2002: No Meeting</title><link href="http://nwcpp.org/july-2002.html" rel="alternate"></link><published>2002-07-01T00:00:00-07:00</published><updated>2002-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-07-01:/july-2002.html</id><content type="html"></content><category term="2002"></category></entry><entry><title>June 2002: No Meeting</title><link href="http://nwcpp.org/june-2002.html" rel="alternate"></link><published>2002-06-01T00:00:00-07:00</published><updated>2002-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-06-01:/june-2002.html</id><content type="html"></content><category term="2002"></category></entry><entry><title>May 8th, 2002 — Embedded C++ : An Overview — Robert Blumberg</title><link href="http://nwcpp.org/may-2002.html" rel="alternate"></link><published>2002-05-01T00:00:00-07:00</published><updated>2002-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-05-01:/may-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk sets out many of the parameters that are recurrent when
+programming small- to moderately-sized embedded systems in C++. It then
+delves into C++ techniques to work within the resource-limited,
+cost-sensitive, required-robustness confines of embedded systems. These
+techniques …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk sets out many of the parameters that are recurrent when
+programming small- to moderately-sized embedded systems in C++. It then
+delves into C++ techniques to work within the resource-limited,
+cost-sensitive, required-robustness confines of embedded systems. These
+techniques are also useful when building &lt;span class="caps"&gt;PC&lt;/span&gt;&amp;nbsp;applications.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Robert Blumberg has over 35 years of programming experience, having
+started by programming on &lt;span class="caps"&gt;IBM&lt;/span&gt; 7090 mainframes. As an executive, he has
+been the director of Engineering at Bitstream and a &lt;span class="caps"&gt;VP&lt;/span&gt; of a speech
+recognition company among other posts. However, he really enjoys
+throwing C++ code, which he has been doing as a freelance programmer for
+the last fifteen years or so, mostly for embedded systems and drivers.
+Among other projects, he designed and coded the kernel, drivers and
+coin-movement software for Coinstar’s big green coin-counting machines
+often found in super&amp;nbsp;markets.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2002"></category></entry><entry><title>April 10th, 2002 — Honey, I Shrunk the Threads: Compile-time checked multithreaded transactions in C++ — Andrei Alexandrescu</title><link href="http://nwcpp.org/april-2002.html" rel="alternate"></link><published>2002-04-01T00:00:00-08:00</published><updated>2002-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-04-01:/april-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk presents a couple of new, safe idioms that bring order in your
+C++ multithreaded programs. We will cover three idioms for single-object
+transactions and two idioms for multi-object transactions, with
+examples. Warning: This talk is rated R …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk presents a couple of new, safe idioms that bring order in your
+C++ multithreaded programs. We will cover three idioms for single-object
+transactions and two idioms for multi-object transactions, with
+examples. Warning: This talk is rated R for (C++) language abuse,
+violence (of debate), and subliminal&amp;nbsp;content.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andrei is a world-class expert in software development using C++. In the
+C++ community, he is best known for his book, Modern C++ Design (Addison
+Wesley, 2001). Also, Andrei is a former columnist for the C++ Report, a
+columnist for C/C++ Users Journal, and a sought-after speaker at
+conferences&amp;nbsp;worldwide.&lt;/p&gt;
+&lt;p&gt;After working in large-scale projects ranging from financial software on
+Wall Street to networking software to user interfaces, Andrei is
+pursuing a Ph.D. in Computer Science at University of&amp;nbsp;Washington.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2002"></category></entry><entry><title>March 13th, 2002 — Schism++: How Microsoft Proposes to Bridge the Gap Between ANSI C++ and the ‘Managed C++’ of .NET — Matthew Griscom</title><link href="http://nwcpp.org/march-2002.html" rel="alternate"></link><published>2002-03-01T00:00:00-08:00</published><updated>2002-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-03-01:/march-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microsoft Visual Studio 7 .&lt;span class="caps"&gt;NET&lt;/span&gt; has shipped with improved support for
+&lt;span class="caps"&gt;ANSI&lt;/span&gt; C++. The whole .&lt;span class="caps"&gt;NET&lt;/span&gt; aspect of this tool, discussed extensively in
+this and other forums, is radically new and at first blush is
+incompatible with &lt;span class="caps"&gt;ANSI&lt;/span&gt; C …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microsoft Visual Studio 7 .&lt;span class="caps"&gt;NET&lt;/span&gt; has shipped with improved support for
+&lt;span class="caps"&gt;ANSI&lt;/span&gt; C++. The whole .&lt;span class="caps"&gt;NET&lt;/span&gt; aspect of this tool, discussed extensively in
+this and other forums, is radically new and at first blush is
+incompatible with &lt;span class="caps"&gt;ANSI&lt;/span&gt; C++, native code &lt;span class="caps"&gt;COM&lt;/span&gt; objects, etc. This talk will
+address some of the aspects of how Microsoft proposes to bridge the gap
+between existing source code, &lt;span class="caps"&gt;COM&lt;/span&gt; objects, etc. and executables using
+the new suite of .&lt;span class="caps"&gt;NET&lt;/span&gt; technologies, in particular using the ‘Managed
+C++’&amp;nbsp;syntax.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Matthew Griscom has coded medical communications protocols, database
+integrity tools, a multi-user database engine, &lt;span class="caps"&gt;XSL&lt;/span&gt;-driven web pages, you
+name it, for both Unix and Windows. Now, if only one of the cosmonauts
+on the Space Station would push the button to use the connectivity
+software he designed and wrote, that would be sincerely cool… Matt’s
+been dot-bombed and is looking for C++ and .&lt;span class="caps"&gt;NET&lt;/span&gt; work in greater&amp;nbsp;Seattle.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2002/Meeting_2002-03.zip"&gt;Click here&lt;/a&gt;
+to download the slides and source code from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2002"></category></entry><entry><title>February 13th, 2002 — Visual C++ .NET — Christian Harlass</title><link href="http://nwcpp.org/february-2002.html" rel="alternate"></link><published>2002-02-01T00:00:00-08:00</published><updated>2002-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-02-01:/february-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microsoft Visual Studio .&lt;span class="caps"&gt;NET&lt;/span&gt; will ship in the coming weeks (at least
+they say so) and everybody is talking about C#, &lt;span class="caps"&gt;VB&lt;/span&gt;, &lt;span class="caps"&gt;ASP&lt;/span&gt;, and &lt;span class="caps"&gt;ADO&lt;/span&gt;. What
+about C++? How does it fit with new technologies? We will explore a …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Microsoft Visual Studio .&lt;span class="caps"&gt;NET&lt;/span&gt; will ship in the coming weeks (at least
+they say so) and everybody is talking about C#, &lt;span class="caps"&gt;VB&lt;/span&gt;, &lt;span class="caps"&gt;ASP&lt;/span&gt;, and &lt;span class="caps"&gt;ADO&lt;/span&gt;. What
+about C++? How does it fit with new technologies? We will explore a
+closer look at the new features of the compiler, the C Run-Time, and
+three other libraries, namely &lt;span class="caps"&gt;STL&lt;/span&gt;, &lt;span class="caps"&gt;MFC&lt;/span&gt; and &lt;span class="caps"&gt;ATL&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Christian has come a long way from &lt;span class="caps"&gt;DOS&lt;/span&gt; to Unix and now to &lt;span class="caps"&gt;MS&lt;/span&gt; Windows (as
+well as from Germany to Seattle!). Currently he works for Saxonia
+Systems, a software consulting company based out of Dresden, Germany.
+Besides his duties heading up Saxonia&amp;#8217;s &lt;span class="caps"&gt;U.S.&lt;/span&gt; consulting division in C++
+programming, he is constantly keeping an eye on the market for new and
+useful programming&amp;nbsp;tools.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="/talks/2002/VC7Demo.zip"&gt;Click here&lt;/a&gt; to download the source code from the&amp;nbsp;presentation&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2002"></category></entry><entry><title>January 9th, 2002 — Inter-Process Communications Using Shared Memory — Bartosz Milewski</title><link href="http://nwcpp.org/january-2002.html" rel="alternate"></link><published>2002-01-01T00:00:00-08:00</published><updated>2002-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2002-01-01:/january-2002.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;You are stranded on a desert island. All you have is a piece of shared
+memory and a waitable timer. You are supposed to implement robust
+inter-process communications in C++. Bartosz will explain the concept of
+shared memory in …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;You are stranded on a desert island. All you have is a piece of shared
+memory and a waitable timer. You are supposed to implement robust
+inter-process communications in C++. Bartosz will explain the concept of
+shared memory in Win32 and its use in establishing a protocol for data
+exchange between processes. It&amp;#8217;s better than &lt;span class="caps"&gt;DDE&lt;/span&gt; and simpler than &lt;span class="caps"&gt;COM&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bartosz is the author of C++ In Action, Industrial Strength Programming
+Techniques, published by Addison-Wesley in 2001. During his years at
+Microsoft he worked on several projects involving various aspects of
+operating systems. He ported the Mach &lt;span class="caps"&gt;OS&lt;/span&gt; virtual memory system to the
+x86 platform, took part in the development of the &lt;span class="caps"&gt;HPFS&lt;/span&gt; and &lt;span class="caps"&gt;OFS&lt;/span&gt; file
+systems, was the architect and development lead of the Windows 2000
+content index. He is now the president of Reliable Software, a
+distributed software&amp;nbsp;company.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2002"></category></entry><entry><title>December 12th, 2001 — A C++ Programmer’s Introduction to C# — Mike Moskowitz</title><link href="http://nwcpp.org/december-2001.html" rel="alternate"></link><published>2001-12-01T00:00:00-08:00</published><updated>2001-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-12-01:/december-2001.html</id><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>November 14th, 2001 — JNI: How to use Java and C++ together — Christian Harlass</title><link href="http://nwcpp.org/november-2001.html" rel="alternate"></link><published>2001-11-01T00:00:00-08:00</published><updated>2001-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-11-01:/november-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Christian Harlass works with Saxonia Systems, an international
+consulting company based in Germany. He works as a software developer
+and project manager in a Unix, Mac and Windows environment. The idea for
+this presentation comes from his project experiences …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Christian Harlass works with Saxonia Systems, an international
+consulting company based in Germany. He works as a software developer
+and project manager in a Unix, Mac and Windows environment. The idea for
+this presentation comes from his project experiences with creating a
+portable application with a Java &lt;span class="caps"&gt;GUI&lt;/span&gt; and a C++&amp;nbsp;core.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>October 8th, 2001 — Inside the .NET Framework — Paul Johns, aka MSDN’s “Dr. GUI”</title><link href="http://nwcpp.org/october-2001.html" rel="alternate"></link><published>2001-10-01T00:00:00-07:00</published><updated>2001-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-10-01:/october-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Educational Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;1035 116th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Room A&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;re very fortunate to have &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;, the always entertaining,
+often irreverent, generally accurate source of knowledge of all things
+.&lt;span class="caps"&gt;NET&lt;/span&gt;, come to speak to us in October. If you haven&amp;#8217;t …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Educational Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;1035 116th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Room A&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;re very fortunate to have &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;, the always entertaining,
+often irreverent, generally accurate source of knowledge of all things
+.&lt;span class="caps"&gt;NET&lt;/span&gt;, come to speak to us in October. If you haven&amp;#8217;t started working
+with .&lt;span class="caps"&gt;NET&lt;/span&gt;, this will be a great introduction to the .&lt;span class="caps"&gt;NET&lt;/span&gt; framework,
+techniques and tools. If you have been working with .&lt;span class="caps"&gt;NET&lt;/span&gt;, you can ask
+your questions (and perhaps get answers to them) without having to wait
+for Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;&amp;#8217;s next&amp;nbsp;column.&lt;/p&gt;
+&lt;p&gt;Paul has written Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt; for over five years now. In addition to the
+bi-monthly question and answer column in the &lt;span class="caps"&gt;MSDN&lt;/span&gt; Developer News
+newspaper, Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt; has a weekly online question and answer column and a
+more-or-less monthly .&lt;span class="caps"&gt;NET&lt;/span&gt; column called Dr. &lt;span class="caps"&gt;GUI&lt;/span&gt;.&lt;span class="caps"&gt;NET&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;For a preview of this meeting&amp;#8217;s content, see the online&amp;nbsp;presentation.&lt;/p&gt;
+&lt;p&gt;This is a joint meeting of the Northwest C++ User&amp;#8217;s Group and The &lt;span class="caps"&gt;WSA&lt;/span&gt;
+DevSIG (Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt;) &amp;#8212; formerly known as WinSIG (Window&amp;#8217;s
+Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt;).&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>September 2001: No Meeting</title><link href="http://nwcpp.org/september-2001.html" rel="alternate"></link><published>2001-09-01T00:00:00-07:00</published><updated>2001-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-09-01:/september-2001.html</id><content type="html"></content><category term="2001"></category></entry><entry><title>August 2001: No Meeting</title><link href="http://nwcpp.org/august-2001.html" rel="alternate"></link><published>2001-08-01T00:00:00-07:00</published><updated>2001-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-08-01:/august-2001.html</id><content type="html"></content><category term="2001"></category></entry><entry><title>July 2001: No Meeting</title><link href="http://nwcpp.org/july-2001.html" rel="alternate"></link><published>2001-07-01T00:00:00-07:00</published><updated>2001-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-07-01:/july-2001.html</id><content type="html"></content><category term="2001"></category></entry><entry><title>June 13th, 2001 — Less is More—or How to Get More Bang for Your Code — Andrei Alexandrescu</title><link href="http://nwcpp.org/june-2001.html" rel="alternate"></link><published>2001-06-01T00:00:00-07:00</published><updated>2001-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-06-01:/june-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;If you are tired of writing code, this talk is for you. The scam of the
+century - how to get more behavior with less code - will unveil under
+your incredulous eyes. Like in those pyramid schemes, a linear
+code-writing …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;If you are tired of writing code, this talk is for you. The scam of the
+century - how to get more behavior with less code - will unveil under
+your incredulous eyes. Like in those pyramid schemes, a linear
+code-writing investment will bring you quick exponential returns. But
+this time it&amp;#8217;s for real. We&amp;#8217;ll experience that with a real-world
+example: 12 (t-w-e-l-v-e) industry-strength implementations of the
+popular standard string, std::basic_string, in a very compact
+presentation. Better yet, you can add your pet implementation,
+optimization, or feature with ease. Even better, the code compiles with
+the compiler produced by a software company near you. Which, you have to
+admit, makes the whole thing as real-world as it gets. Disclaimer:
+Motion sickness bags not provided. Attendance is at your own&amp;nbsp;risk.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andrei Alexandrescu is a Development Manager at RealNetworks Inc., based
+in Seattle, &lt;span class="caps"&gt;WA&lt;/span&gt;, and author of the acclaimed book Modern C++ Design. He
+may be contacted at &lt;a class="reference external" href="mailto:andrei&amp;#64;metalanguage.com"&gt;andrei&amp;#64;metalanguage.com&lt;/a&gt;. Andrei is also a columnist
+for C/C++ Users Journal and one of the featured instructors of
+&lt;a class="reference external" href="http://www.gotw.ca/cpp_seminar"&gt;The C++ Seminar&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>May 7th, 2001 — Effective STL Sneak Preview — Scott Meyers</title><link href="http://nwcpp.org/may-2001.html" rel="alternate"></link><published>2001-05-01T00:00:00-07:00</published><updated>2001-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-05-01:/may-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;121 107th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We are very fortunate to have Scott Meyers come to speak with us this
+month. Scott of course is the author of &amp;#8220;Effective C++&amp;#8221; and &amp;#8220;More
+Effective C++&amp;#8221;, generally acclaimed as two of the most important books
+ever written …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;121 107th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We are very fortunate to have Scott Meyers come to speak with us this
+month. Scott of course is the author of &amp;#8220;Effective C++&amp;#8221; and &amp;#8220;More
+Effective C++&amp;#8221;, generally acclaimed as two of the most important books
+ever written about C++. Every C++ developer should be familiar with
+these books. Scott is a highly sought-after speaker and we are grateful
+that he has come to speak to&amp;nbsp;us.&lt;/p&gt;
+&lt;p&gt;Our meeting will be a world-premiere of Scott&amp;#8217;s material on &lt;span class="caps"&gt;STL&lt;/span&gt; (the
+standard template&amp;nbsp;library)!&lt;/p&gt;
+&lt;p&gt;Scott&amp;#8217;s description of his talk, presented verbatim:
+&amp;#8220;For the past 18 months, Scott Meyers has been exploring the &lt;span class="caps"&gt;STL&lt;/span&gt;, and
+on April 30 he sends to his publisher the results of his efforts, the
+new book, Effective &lt;span class="caps"&gt;STL&lt;/span&gt;: 50 Specific Ways to Improve Your Use of the
+Standard Template Library. In this talk, Scott presents two or three
+Items from this new book, items that focus on material not usually
+covered in descriptions of the &lt;span class="caps"&gt;STL&lt;/span&gt;. He also hands out flyers for the new
+book and urges everyone to buy their usual minimum of three copies: one
+for the office, one for home, and one for each of your cars (for when
+you&amp;#8217;re stuck in&amp;nbsp;traffic).&amp;#8221;&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>April 11th, 2001 — CPP-Unit Testing Framework — Troy Frever</title><link href="http://nwcpp.org/april-2001.html" rel="alternate"></link><published>2001-04-01T00:00:00-08:00</published><updated>2001-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-04-01:/april-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A unit testing framework simplifies the creation of a test suite for a
+software project. It encourages the programmer to write the tests along
+with the code and to run the suite often for verification of code
+changes. Troy …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A unit testing framework simplifies the creation of a test suite for a
+software project. It encourages the programmer to write the tests along
+with the code and to run the suite often for verification of code
+changes. Troy Frever will review a C++ framework and report on how it
+has been used at Cisco Systems/Active&amp;nbsp;Voice.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CPP&lt;/span&gt;-Unit is available from the following&amp;nbsp;sites:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.xprogramming.com/software.htm"&gt;http://www.xprogramming.com/software.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://sourceforge.net/projects/cppunit/"&gt;http://sourceforge.net/projects/cppunit/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unit testing is a key component of the Extreme Programming Methodology
+covered by the following&amp;nbsp;sites:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.xprogramming.com/"&gt;http://www.xprogramming.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.extremeprogramming.org/"&gt;http://www.extremeprogramming.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://groups.yahoo.com/group/extremeprogramming-seattle"&gt;http://groups.yahoo.com/group/extremeprogramming-seattle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recommended book: Martin Fowler&amp;#8217;s &amp;#8220;Refactoring: Improving the Design of
+Existing&amp;nbsp;Code&amp;#8221;.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>March 14th, 2001 — XML and C++ — Mike Moskowitz</title><link href="http://nwcpp.org/march-2001.html" rel="alternate"></link><published>2001-03-01T00:00:00-08:00</published><updated>2001-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-03-01:/march-2001.html</id><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Note: If you attended the &lt;span class="caps"&gt;WSA&lt;/span&gt; Developer&amp;#8217;s Seminar on &lt;span class="caps"&gt;XML&lt;/span&gt;, you know that
+Mike gave a great presentation on &lt;span class="caps"&gt;XML&lt;/span&gt;. But, he didn&amp;#8217;t talk about&amp;nbsp;C++.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>February 15th, 2001 — Volatile - Multithreaded Programmer’s Best Friend — Andrei Alexandrescu</title><link href="http://nwcpp.org/february-2001.html" rel="alternate"></link><published>2001-02-01T00:00:00-08:00</published><updated>2001-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-02-01:/february-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Wouldn&amp;#8217;t it be great if you could have the compiler help you navigate
+the murky waters of multithreaded programming? This talk delves into the
+under explored issue of volatile-correctness. The exciting discovery is
+- if you follow a couple …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Wouldn&amp;#8217;t it be great if you could have the compiler help you navigate
+the murky waters of multithreaded programming? This talk delves into the
+under explored issue of volatile-correctness. The exciting discovery is
+- if you follow a couple of simple rules in conjunction with the
+volatile keyword, you can transform all race conditions into
+compile-time&amp;nbsp;errors.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andrei Alexandrescu is a Development Manager with RealNetworks, Inc. He
+is a former columnist of the C++ Report magazine, and a columnist of
+C/C++ Users Journal. You can reach him at
+&lt;a class="reference external" href="mailto:andrei&amp;#64;metalanguage.com"&gt;andrei&amp;#64;metalanguage.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>January 8th–9th, 2001 — Microsoft’s .NET Initiative — Jeffrey Richter</title><link href="http://nwcpp.org/january-2001.html" rel="alternate"></link><published>2001-01-01T00:00:00-08:00</published><updated>2001-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2001-01-01:/january-2001.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;121 107th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: The Overlake Hospital Conference Center is off Old Main Street and
+107th in Bellevue, not at the hospital itself. Take Main Street and turn
+North onto 107th, conference center will be on your&amp;nbsp;left.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This is a …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Overlake Hospital Conference Center&lt;/div&gt;
+&lt;div class="line"&gt;121 107th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="caps"&gt;NOTE&lt;/span&gt;: The Overlake Hospital Conference Center is off Old Main Street and
+107th in Bellevue, not at the hospital itself. Take Main Street and turn
+North onto 107th, conference center will be on your&amp;nbsp;left.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This is a very special, 2-day meeting that we are co-hosting with the
+Windows Developer&amp;#8217;s &lt;span class="caps"&gt;SIG&lt;/span&gt; of the Washington Software Alliance. Please try
+to attend both&amp;nbsp;days.&lt;/p&gt;
+&lt;p&gt;We are very fortunate to have this free presentation from Jeffrey, who
+is in great demand as a .&lt;span class="caps"&gt;NET&lt;/span&gt; and Windows development expert. If you
+attend only one meeting this year, make it this&amp;nbsp;one.&lt;/p&gt;
+&lt;p&gt;Microsoft .&lt;span class="caps"&gt;NET&lt;/span&gt; is a radical new computing platform that promises to
+change software development as we know it. Programmers who embrace .&lt;span class="caps"&gt;NET&lt;/span&gt;
+will no longer write to the Windows &lt;span class="caps"&gt;API&lt;/span&gt; or rely upon tried-and-true
+tools such as &lt;span class="caps"&gt;MFC&lt;/span&gt; and &lt;span class="caps"&gt;ATL&lt;/span&gt;. Instead, they&amp;#8217;ll target a framework called
+the .&lt;span class="caps"&gt;NET&lt;/span&gt; Base Class Library (&lt;span class="caps"&gt;BCL&lt;/span&gt;), and a significant percentage of them
+will use a new language, C#, to craft their wares. .&lt;span class="caps"&gt;NET&lt;/span&gt; compilers won&amp;#8217;t
+produce native machine code as today&amp;#8217;s compilers do; instead, they&amp;#8217;ll
+generate a pseudo-machine code called Intermediate Language (&lt;span class="caps"&gt;IL&lt;/span&gt;) that&amp;#8217;s
+executed by the .&lt;span class="caps"&gt;NET&lt;/span&gt; run-time. This new programming paradigm will
+simplify the Windows programming model and make Web applications easier
+to write than ever before. And it will enable a new generation of
+software that runs on every conceivable type of computing device, from
+the most powerful Web server to the lowliest hand-held &lt;span class="caps"&gt;PC&lt;/span&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Jeffrey Richter is the author of Microsoft Press&amp;#8217; &amp;#8220;Programming
+Applications for Microsoft Windows&amp;#8221; and M &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; T&amp;#8217;s &amp;#8220;Windows 95: A
+Developer&amp;#8217;s Guide,&amp;#8221; two of the bibles of Windows development. His newest
+book, &amp;#8220;Programming Server-Side Applications for Windows 2000,&amp;#8221; was
+published by Microsoft Press in&amp;nbsp;2000.&lt;/p&gt;
+&lt;p&gt;Jeffrey is also a frequent contributor to Microsoft&amp;#8217;s &lt;span class="caps"&gt;MSDN&lt;/span&gt; Magazine
+(formerly called &lt;span class="caps"&gt;MSJ&lt;/span&gt;) and other trade publications, and is &lt;span class="caps"&gt;MSDN&lt;/span&gt;&amp;#8217;s Win32
+columnist. More info on Jeffrey at
+&lt;a class="reference external" href="http://www.jeffreyrichter.com"&gt;http://www.jeffreyrichter.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Jeffrey Richter, Jeff Prosise and John Robbins have recently combined
+forces to created Wintellect, which will no doubt become the preeminent
+training and consulting organization of its kind. Jeffrey&amp;#8217;s presentation
+to us comes from material he&amp;#8217;s developed for Wintellect courses. More
+information at &lt;a class="reference external" href="http://www.wintellect.com"&gt;http://www.wintellect.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2001"></category></entry><entry><title>December 2000: No Meeting</title><link href="http://nwcpp.org/december-2000.html" rel="alternate"></link><published>2000-12-01T00:00:00-08:00</published><updated>2000-12-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-12-01:/december-2000.html</id><content type="html"></content><category term="2000"></category></entry><entry><title>November 13th, 2000 — Microsoft Visual Studio 7 Preview — Martyn Lovell</title><link href="http://nwcpp.org/november-2000.html" rel="alternate"></link><published>2000-11-01T00:00:00-08:00</published><updated>2000-11-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-11-01:/november-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Visual Studio 7 is due to be launched early next year, and is
+Microsoft&amp;#8217;s first real deliverable in their .&lt;span class="caps"&gt;NET&lt;/span&gt; initiative. Martyn
+Lovell of Microsoft will give a preview of Visual Studio 7,
+concentrating on C# and &lt;span class="caps"&gt;ASP …&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Visual Studio 7 is due to be launched early next year, and is
+Microsoft&amp;#8217;s first real deliverable in their .&lt;span class="caps"&gt;NET&lt;/span&gt; initiative. Martyn
+Lovell of Microsoft will give a preview of Visual Studio 7,
+concentrating on C# and &lt;span class="caps"&gt;ASP&lt;/span&gt;+.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2000"></category></entry><entry><title>October 2000: No Meeting</title><link href="http://nwcpp.org/october-2000.html" rel="alternate"></link><published>2000-10-01T00:00:00-07:00</published><updated>2000-10-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-10-01:/october-2000.html</id><content type="html"></content><category term="2000"></category></entry><entry><title>September 13th, 2000 — Change the Way You Write Exception-Safe Code, Forever — Andrei Alexandrescu</title><link href="http://nwcpp.org/september-2000.html" rel="alternate"></link><published>2000-09-01T00:00:00-07:00</published><updated>2000-09-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-09-01:/september-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk presents the subtle issues associated with writing correct
+code in the presence of exceptions. Writing exception-safe code is a
+must for preserving the sanity of any application. This task is daunting
+because exceptions introduce hidden control flows …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This talk presents the subtle issues associated with writing correct
+code in the presence of exceptions. Writing exception-safe code is a
+must for preserving the sanity of any application. This task is daunting
+because exceptions introduce hidden control flows and require a modified
+way of thinking. Several approaches to exception safety are discussed on
+a concrete example, with their advantages and drawbacks. In the end an
+useful helper class template ScopeGuard is introduced, that enables you
+to write exception-safe code that&amp;#8217;s terse, easy to understand, and easy
+to&amp;nbsp;maintain.&lt;/p&gt;
+&lt;p&gt;“I presented this to someone who hadn&amp;#8217;t worked with exceptions, and in
+the end he said: ‘Cool. Exceptions are not hard, supporting them is
+trivial. Do they all do it this way?’ He was surprised to hear that most
+programmers do it the hard way and that ScopeGuard is&amp;nbsp;cutting-edge.”&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Andrei Alexandrescu is a Development Manager with RealNetworks, Inc. He
+is a former columnist of the C++ Report magazine, and a columnist of
+C/C++ Users Journal. You can reach him at &lt;a class="reference external" href="mailto:andrei&amp;#64;metalanguage.com"&gt;andrei&amp;#64;metalanguage.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2000"></category></entry><entry><title>August 9th, 2000 — Building a High Performance Server Product on Win NT/2000 Using C/C++ — Chris Hickman &amp; Joe Mullally</title><link href="http://nwcpp.org/august-2000.html" rel="alternate"></link><published>2000-08-01T00:00:00-07:00</published><updated>2000-08-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-08-01:/august-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Joe will start by talking about building a high performance server
+product on Win &lt;span class="caps"&gt;NT&lt;/span&gt;/2000 using C/C++.&amp;nbsp;Specifically:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;I/O Completion&amp;nbsp;Ports&lt;/li&gt;
+&lt;li&gt;Object and Context&amp;nbsp;Pooling&lt;/li&gt;
+&lt;li&gt;Protocol and Error&amp;nbsp;Mapping&lt;/li&gt;
+&lt;li&gt;When and How to use Spinlock vs …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Joe will start by talking about building a high performance server
+product on Win &lt;span class="caps"&gt;NT&lt;/span&gt;/2000 using C/C++.&amp;nbsp;Specifically:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;I/O Completion&amp;nbsp;Ports&lt;/li&gt;
+&lt;li&gt;Object and Context&amp;nbsp;Pooling&lt;/li&gt;
+&lt;li&gt;Protocol and Error&amp;nbsp;Mapping&lt;/li&gt;
+&lt;li&gt;When and How to use Spinlock vs&amp;nbsp;Interlocks&lt;/li&gt;
+&lt;li&gt;Efficient&amp;nbsp;Loops&lt;/li&gt;
+&lt;li&gt;Aligning&amp;nbsp;Structs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Chris will then finish with a talk about Viathan Corporation and a
+software demo. Jeff and Chris will then take some time to answer&amp;nbsp;questions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Chris Hickman, &lt;span class="caps"&gt;CTO&lt;/span&gt; and co-founder of Viathan Corporation, oversees the
+technical direction of the company, including new product advances and
+the development and test processes. Prior to founding Viathan, Chris
+worked for Microsoft&amp;#8217;s Interactive Media Group where he developed core
+Internet technologies for the Microsoft Network. As a lead server
+developer, he was responsible for design, architecture and
+implementation of a storage system for Web-scale applications. He helped
+ship two versions of the Microsoft Network and filed for four patents
+relating to storage technologies. Prior to Microsoft, Chris spent
+several years at Motorola as a software engineer. He was a technical
+lead on a software project that developed a suite of Web applications
+still used by engineers to facilitate communication and&amp;nbsp;collaboration.&lt;/p&gt;
+&lt;p&gt;Joe Mullally, Software Development Manager, Viathan Corporation,
+is responsible for managing the development process at Viathan including
+the design, development, and development resource allocation for
+Viathan&amp;#8217;s distributed data architecture. Prior to joining Viathan, Joe
+worked at Microsoft&amp;#8217;s Internet group developing large scale Internet
+data services. Most recently, Joe shipped the first releases of
+Microsoft Passport, Microsoft&amp;#8217;s e-commerce and Web authentication
+service. Prior to Microsoft, Joe worked as a Senior Software Engineer at
+&lt;span class="caps"&gt;AVT&lt;/span&gt;&amp;nbsp;Corporation.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2000"></category></entry><entry><title>July 2000: No Meeting</title><link href="http://nwcpp.org/july-2000.html" rel="alternate"></link><published>2000-07-01T00:00:00-07:00</published><updated>2000-07-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-07-01:/july-2000.html</id><content type="html"></content><category term="2000"></category></entry><entry><title>June 2000: No Meeting</title><link href="http://nwcpp.org/june-2000.html" rel="alternate"></link><published>2000-06-01T00:00:00-07:00</published><updated>2000-06-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-06-01:/june-2000.html</id><content type="html"></content><category term="2000"></category></entry><entry><title>May 10th, 2000 — C++ Exceptions — Bobby Schmidt</title><link href="http://nwcpp.org/may-2000.html" rel="alternate"></link><published>2000-05-01T00:00:00-07:00</published><updated>2000-05-01T00:00:00-07:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-05-01:/may-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Overview of C++ exceptions, their rationale, and their usage. Followed
+with discussion of standard library support, exception safety
+considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;#8220;gotchas&amp;#8221;
+and wisdom sprinkled throughout :^) Talk assumes you understand the
+rudiments of C …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Overview of C++ exceptions, their rationale, and their usage. Followed
+with discussion of standard library support, exception safety
+considerations, and comparison with Microsoft&amp;#8217;s &lt;span class="caps"&gt;SEH&lt;/span&gt;. Exception &amp;#8220;gotchas&amp;#8221;
+and wisdom sprinkled throughout :^) Talk assumes you understand the
+rudiments of C++ exception&amp;nbsp;handling.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Bobby Schmidt is a writer, teacher, and programmer. For the past five
+years, he&amp;#8217;s been Contributing Editor and monthly columnist for the
+&amp;#8220;C/C++ Users Journal.&amp;#8221; He also writes the twice-monthly &amp;#8220;Deep C++&amp;#8221;
+column for &amp;#8220;&lt;span class="caps"&gt;MSDN&lt;/span&gt; Online Voices&amp;#8221; magazine. Bobby has taught short
+sessions and all-day tutorials at both the Software Development and
+Embedded Systems conferences. In previous incarnations, he was an
+astronomer, private investigator, radio &lt;span class="caps"&gt;DJ&lt;/span&gt;, and wild-animal&amp;nbsp;curator.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2000"></category></entry><entry><title>April 12th, 2000 — Testing Object-Oriented Software — Steve Tockey</title><link href="http://nwcpp.org/april-2000.html" rel="alternate"></link><published>2000-04-01T00:00:00-08:00</published><updated>2000-04-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-04-01:/april-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This presentation is an overview of software testing techniques with
+special emphasis on the application of those techniques to
+object-oriented&amp;nbsp;software.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Steve Tockey is Vice President of Consulting at Construx Software in
+Bellevue. Steve has been employed in …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This presentation is an overview of software testing techniques with
+special emphasis on the application of those techniques to
+object-oriented&amp;nbsp;software.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Steve Tockey is Vice President of Consulting at Construx Software in
+Bellevue. Steve has been employed in the software industry since 1977,
+and has worked as a programmer, analyst, designer, researcher,
+consultant, and adjunct professor. His career has included stints at
+Lawrence Livermore National Laboratory, The Boeing Company, and Rockwell
+Collins, Inc. He has a Masters in Software Engineering from Seattle
+University and a &lt;span class="caps"&gt;B.A.&lt;/span&gt; in Computer Science from &lt;span class="caps"&gt;U.C.&lt;/span&gt;&amp;nbsp;Berkeley.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2000"></category></entry><entry><title>March 8th, 2000 — Real-World Class Design — Mark Wiseman</title><link href="http://nwcpp.org/march-2000.html" rel="alternate"></link><published>2000-03-01T00:00:00-08:00</published><updated>2000-03-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-03-01:/march-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;There is a lot you may need to consider when designing a C++ class
+including ease of use, reusability, extensibility, and portability,
+etc.. All of these considerations may suffer because of the real-world
+pressures of time and money. Mark …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue Northeast&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, Washington 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;There is a lot you may need to consider when designing a C++ class
+including ease of use, reusability, extensibility, and portability,
+etc.. All of these considerations may suffer because of the real-world
+pressures of time and money. Mark will talk about C++ class design using
+two classes from recent projects, a password generation class and a
+class for searching disks for specific&amp;nbsp;files.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Mark Wiseman is president of &lt;a class="reference external" href="http://www.cosolutions.com"&gt;Corner Office Solutions,
+Inc.&lt;/a&gt; A company that develops custom
+Windows software for business management. Mark is also president of the
+Northwest C++ User&amp;#8217;s Group. You can e-mail him at
+&lt;a class="reference external" href="mailto:mwiseman&amp;#64;cosolutions.com"&gt;mwiseman&amp;#64;cosolutions.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="2000"></category></entry><entry><title>February 15th, 2000 — Datatypes++, A C++ Class Library for Windows — Tom Dowdell</title><link href="http://nwcpp.org/february-2000.html" rel="alternate"></link><published>2000-02-01T00:00:00-08:00</published><updated>2000-02-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-02-01:/february-2000.html</id><summary type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Tom, a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; member, will introduce his company, Intuitive Edge Corp.,
+and Datatypes++, Intuitive Edge&amp;#8217;s first product. Datatypes++ is a C++
+class library for Windows that extends C++&amp;#8217;s datatypes to text, exact
+numeric, date, time, binary, bitset …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.avaya.com"&gt;Avaya Corporation&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;6464 185th Avenue &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Tom, a &lt;span class="caps"&gt;NWCPP&lt;/span&gt; member, will introduce his company, Intuitive Edge Corp.,
+and Datatypes++, Intuitive Edge&amp;#8217;s first product. Datatypes++ is a C++
+class library for Windows that extends C++&amp;#8217;s datatypes to text, exact
+numeric, date, time, binary, bitset and others. Tom will start by
+covering the process of starting a software company and the evolution of
+the company&amp;#8217;s accomplishments and goals. The primary body of the talk
+will focus on dreaming up an idea for a software product and bringing it
+to market. Tom encourages members to download the beta 1 version of
+Datatypes++ from the Intuitive Edge Web site , www.IntuitiveEdge.com.
+This way, he can field specific questions about the product and the
+design decisions he has made about the&amp;nbsp;product.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bio"&gt;
+&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;p&gt;About Tom&amp;nbsp;Dowdell:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Programming since 1982, professionally since 1986, C since 1987, C++
+since&amp;nbsp;1991&lt;/li&gt;
+&lt;li&gt;Graduated from Nicholls State University in Louisiana in 1987 with
+Computer Science &lt;span class="caps"&gt;B.S.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Developed a free-form database product for PCs in Pascal, Torrent!,
+(independent of full time job) which achieved limited&amp;nbsp;success&lt;/li&gt;
+&lt;li&gt;Hired by Microsoft in 1990 as a Software Design Engineer in the &lt;span class="caps"&gt;SQL&lt;/span&gt;
+Server database&amp;nbsp;group&lt;/li&gt;
+&lt;li&gt;Left Microsoft in 1996 to start a software company, Intuitive&amp;nbsp;Edge&lt;/li&gt;
+&lt;li&gt;After 2 years R&amp;amp;D, focused specifically on designing a C++ class
+library,&amp;nbsp;Datatypes++&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="2000"></category></entry><entry><title>January 2000: No Meeting</title><link href="http://nwcpp.org/january-2000.html" rel="alternate"></link><published>2000-01-01T00:00:00-08:00</published><updated>2000-01-01T00:00:00-08:00</updated><author><name>nwcpp</name></author><id>tag:nwcpp.org,2000-01-01:/january-2000.html</id><content type="html"></content><category term="2000"></category></entry></feed>
