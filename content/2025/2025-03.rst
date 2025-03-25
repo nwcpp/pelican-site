@@ -56,7 +56,9 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides </talks/2025/ChosingTheRightLanguage.pptx>`_
+
+`Video <https://youtu.be/_uUfQcql0WM>`_
 
 
 Digital Media Links
