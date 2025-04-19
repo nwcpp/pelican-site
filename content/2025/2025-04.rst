@@ -59,7 +59,13 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides </talks/2025/NWCPP_2025_04_SpaceshipOperator_Final.pdf>`_
+
+`Video <https://youtu.be/3vRcoZT5RK4>`_
+
+Note: There were a couple "technical issues" during this meeting so you'll want to jump ahead by about 10 minutes at the start of the video.
+
+Code Sample: Coming Soon!
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
