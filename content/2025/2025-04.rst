@@ -65,7 +65,7 @@ Resources
 
 Note: There were a couple "technical issues" during this meeting so you'll want to jump ahead by about 10 minutes at the start of the video.
 
-Code Sample: Coming Soon!
+`Code Sample </talks/2025/SpaceshipOperator.zip>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
