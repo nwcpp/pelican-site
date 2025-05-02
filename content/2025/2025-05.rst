@@ -40,7 +40,8 @@ This session will be demo-driven, showcasing these features and improvements thr
 
 Speaker Bio
 ~~~~~~~~~~~
-Mryam Girmay of Microsoft will be presenting. Additional detail coming soon!
+Mryam Girmay of Microsoft will be presenting. Mryam Girmay is a Product Manager focused on boosting productivity for C++ developers in Visual Studio.
+She is dedicated to improving developers' experience in the IDE. Outside of work, Mryam enjoys playing volleyball and reading for fun.
 
 Post Meeting Social
 ~~~~~~~~~~~~~~~~~~~
