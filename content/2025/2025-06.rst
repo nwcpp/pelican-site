@@ -54,7 +54,11 @@ Please thank Microsoft for sponsoring our meeting room and Teams account!
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides </talks/2025/FreeStaticAnalysis.pptx>`_
+
+Video: Coming Soon!
+
+`Code Sample </talks/2025/SimpleCudaFSA.zip>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
