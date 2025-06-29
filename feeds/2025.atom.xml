@@ -1,5 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2025</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2025.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2025-05-29T00:00:00-07:00</updated><entry><title>June 19, 2025: Free Static Analysis Tools</title><link href="http://nwcpp.org/June-2025.html" rel="alternate"></link><published>2025-05-29T00:00:00-07:00</published><updated>2025-05-29T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-05-29:/June-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - 2025</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/2025.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2025-06-29T00:00:00-07:00</updated><entry><title>July 17, 2025: Computer Programming Language Panel</title><link href="http://nwcpp.org/July-2025.html" rel="alternate"></link><published>2025-06-29T00:00:00-07:00</published><updated>2025-06-29T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-06-29:/July-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, July 17, 2025 at 6:00 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt; Special Time!!!&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Please be aware of and adhere to the &lt;a class="reference external" href="https://developer.microsoft.com/en-us/reactor/codeofconduct"&gt;Microsoft Reactor Code of Conduct&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Redmond Reactor | 3709 157th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;div class="line"&gt;Conf Room 20/1143 (12) Maple Reactor&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&amp;#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c"&gt;Map …&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, July 17, 2025 at 6:00 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt; Special Time!!!&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Please be aware of and adhere to the &lt;a class="reference external" href="https://developer.microsoft.com/en-us/reactor/codeofconduct"&gt;Microsoft Reactor Code of Conduct&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Microsoft Redmond Reactor | 3709 157th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, Redmond, &lt;span class="caps"&gt;WA&lt;/span&gt; 98052&lt;/div&gt;
+&lt;div class="line"&gt;Conf Room 20/1143 (12) Maple Reactor&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/&amp;#64;47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c"&gt;Map&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDExMzAyMjMtZmJmYi00NWZkLWJjYmYtZWZmZTkzYWU4OTgx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Meeting &lt;span class="caps"&gt;ID&lt;/span&gt;: 267 234 842 849 0&lt;/div&gt;
+&lt;div class="line"&gt;Passcode: &lt;span class="caps"&gt;6A3KN3Z4&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Call in (audio only)&lt;/div&gt;
+&lt;div class="line"&gt;+1 323-849-4874&lt;/div&gt;
+&lt;div class="line"&gt;Phone Conference &lt;span class="caps"&gt;ID&lt;/span&gt;: 167 721 56#&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Computer Programming Language&amp;nbsp;Panel&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Special Event: This month we will be hosting a joint meetup with the Rust User Group to discuss a breadth of programming languages with a panel of experts.
+In this talk we will compare and contrast: D, C++, Rust, Swift, Cpp2, C# and&amp;nbsp;Mojo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="panelist-bios"&gt;
+&lt;h2&gt;Panelist&amp;nbsp;Bios&lt;/h2&gt;
+&lt;p&gt;Brad Gibson: My name is Brad Gibson, &lt;span class="caps"&gt;U007D&lt;/span&gt; (pronounced &amp;#8220;Curly&amp;#8221;) in technical forums.
+I started programming in the early 1980&amp;#8217;s.  My first computer was a Commodore 64.  Its limited built-in &lt;span class="caps"&gt;BASIC&lt;/span&gt; language quickly encouraged me to learn assembly language on the &lt;span class="caps"&gt;MOS&lt;/span&gt; 6510 (6502) at a blistering 1MHz.
+My next computer was the Amiga&amp;#8212;running a 16/32 &lt;span class="caps"&gt;MC68000&lt;/span&gt; at 7.16MHz, I felt like there was nothing it couldn&amp;#8217;t do. Soon thereafter, in the early 90&amp;#8217;s, I started business doing 3D animation, client/server database systems and more.  Almost all my work was in C and shortly thereafter, in C++.
+Fast-forward a little over 20 years to late 2014 when I discovered a new, little-known systems programming language called Rust.  It took me some time to become proficient in it, but for high-performance, complex, concurrent and/or low-level work, it introduced new paradigms (e.g. typestate, &lt;cite&gt;Result&lt;/cite&gt; and &lt;cite&gt;Option&lt;/cite&gt; monads, mutability &lt;span class="caps"&gt;XOR&lt;/span&gt; sharing, newtypes and more).
+To me, these concepts were both mind-blowing and game-changing.  I&amp;#8217;ve not yet come across anything more effective at building efficient, correct code in this mix of domains.
+I&amp;#8217;m currently the Chief Technology Officer and Chief Information Security Officer at a state-regulated Trust Bank&amp;nbsp;startup.&lt;/p&gt;
+&lt;p&gt;Walter Bright: Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
+He’s an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines, and runtime libraries.
+Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques.
+Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 40 years after its&amp;nbsp;debut.&lt;/p&gt;
+&lt;p&gt;Donna Smith: Donna has been a programmer, software engineer for approx. 25 years. She has &lt;span class="caps"&gt;BS&lt;/span&gt; degrees in both &lt;span class="caps"&gt;CS&lt;/span&gt; and &lt;span class="caps"&gt;EE&lt;/span&gt; from Seattle University. She has worked as a software engineer for notable corporations
+such as Intel and Physio-ControlMedtronic.
+She has run her own Technology Services online business since 2019 - YourTechandMore utilizing engineering skills and design but not really as a programmer.
+But she indulges her computer programming and embedded systems love in Hobby Robotics and is an active member and part of the planning committee for the Seattle Robotics&amp;nbsp;Society.&lt;/p&gt;
+&lt;p&gt;Peter Williamson: Like the man in black said: &amp;#8220;No one of consequence&amp;#8221;. Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google.
+He’s been using C++ for most of that time, and attending &lt;span class="caps"&gt;NWCPP&lt;/span&gt; off and on since the 90’s. He has been known to talk about himself in third&amp;nbsp;person.&lt;/p&gt;
+&lt;p&gt;Theodore Neward: Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;p&gt;Lloyd Moore: Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 40 years. His formal training is in biological-based artificial intelligence, electronics, and psychology.
+Lloyd is also currently the president of the Northwest C++ User&amp;#8217;s Group and an organizer of the Seattle Robotics Society Robothon&amp;nbsp;event.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-word-from-our-sponsor"&gt;
+&lt;h2&gt;A Word From Our&amp;nbsp;Sponsor&lt;/h2&gt;
+&lt;p&gt;Please thank Microsoft for sponsoring our meeting room and Teams&amp;nbsp;account!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="2025"></category></entry><entry><title>June 19, 2025: Free Static Analysis Tools</title><link href="http://nwcpp.org/June-2025.html" rel="alternate"></link><published>2025-05-29T00:00:00-07:00</published><updated>2025-05-29T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-05-29:/June-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, June 19, 2025 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
