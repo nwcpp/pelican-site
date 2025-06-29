@@ -1,0 +1,81 @@
+July 17, 2025: Computer Programming Language Panel
+##################################################
+
+:date: 2025-06-29
+:slug: July-2025
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, July 17, 2025 at 6:00 PM to 8:00 PM Special Time!!!
+|
+| Please be aware of and adhere to the `Microsoft Reactor Code of Conduct <https://developer.microsoft.com/en-us/reactor/codeofconduct>`_
+|
+| In Person:
+| Microsoft Redmond Reactor | 3709 157th Ave NE, Redmond, WA 98052
+| Conf Room 20/1143 (12) Maple Reactor
+| `Map <https://www.google.com/maps/place/3709+157th+Ave+NE,+Redmond,+WA+98052/@47.6436781,-122.1332843,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d71fad78e11:0x41c6b1be983cf409!8m2!3d47.6436745!4d-122.1310903!16s%2Fg%2F11cs8wbt2c>`_
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDExMzAyMjMtZmJmYi00NWZkLWJjYmYtZWZmZTkzYWU4OTgx%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22f7b2732f-da39-4d7a-b999-3d1a63f1d718%22%7d>`_
+| Meeting ID: 267 234 842 849 0
+| Passcode: 6A3KN3Z4
+|
+| Call in (audio only)
+| +1 323-849-4874
+| Phone Conference ID: 167 721 56#
+
+Title
+~~~~~
+Computer Programming Language Panel
+
+Abstract
+~~~~~~~~~
+Special Event: This month we will be hosting a joint meetup with the Rust User Group to discuss a breadth of programming languages with a panel of experts.
+In this talk we will compare and contrast: D, C++, Rust, Swift, Cpp2, C# and Mojo.
+
+Panelist Bios
+~~~~~~~~~~~~~
+Brad Gibson: My name is Brad Gibson, U007D (pronounced "Curly") in technical forums.
+I started programming in the early 1980's.  My first computer was a Commodore 64.  Its limited built-in BASIC language quickly encouraged me to learn assembly language on the MOS 6510 (6502) at a blistering 1MHz.
+My next computer was the Amiga--running a 16/32 MC68000 at 7.16MHz, I felt like there was nothing it couldn't do. Soon thereafter, in the early 90's, I started business doing 3D animation, client/server database systems and more.  Almost all my work was in C and shortly thereafter, in C++.
+Fast-forward a little over 20 years to late 2014 when I discovered a new, little-known systems programming language called Rust.  It took me some time to become proficient in it, but for high-performance, complex, concurrent and/or low-level work, it introduced new paradigms (e.g. typestate, `Result` and `Option` monads, mutability XOR sharing, newtypes and more).
+To me, these concepts were both mind-blowing and game-changing.  I've not yet come across anything more effective at building efficient, correct code in this mix of domains.
+I'm currently the Chief Technology Officer and Chief Information Security Officer at a state-regulated Trust Bank startup.
+
+Walter Bright: Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
+He’s an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines, and runtime libraries.
+Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques.
+Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 40 years after its debut.
+
+Donna Smith: Donna has been a programmer, software engineer for approx. 25 years. She has BS degrees in both CS and EE from Seattle University. She has worked as a software engineer for notable corporations
+such as Intel and Physio-Control\Medtronic.
+She has run her own Technology Services online business since 2019 - YourTechandMore utilizing engineering skills and design but not really as a programmer.
+But she indulges her computer programming and embedded systems love in Hobby Robotics and is an active member and part of the planning committee for the Seattle Robotics Society.
+
+Peter Williamson: Like the man in black said: "No one of consequence". Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google.
+He’s been using C++ for most of that time, and attending NWCPP off and on since the 90’s. He has been known to talk about himself in third person.
+
+Theodore Neward: Coming Soon!
+
+Lloyd Moore: Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 40 years. His formal training is in biological-based artificial intelligence, electronics, and psychology.
+Lloyd is also currently the president of the Northwest C++ User's Group and an organizer of the Seattle Robotics Society Robothon event. 
+
+A Word From Our Sponsor
+~~~~~~~~~~~~~~~~~~~~~~~
+Please thank Microsoft for sponsoring our meeting room and Teams account!
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
