@@ -57,7 +57,14 @@ But she indulges her computer programming and embedded systems love in Hobby Rob
 Peter Williamson: Like the man in black said: "No one of consequence". Peter Williamson has been programming professionally for 30 years at companies like Boeing, Microsoft, Amazon, and Google.
 He’s been using C++ for most of that time, and attending NWCPP off and on since the 90’s. He has been known to talk about himself in third person.
 
-Theodore Neward: Coming Soon!
+Theodore Neward: Ted Neward currently labors on his own behalf, leveraging his speaking, writing, and coding experience to bring a technology-focused and -sharpened mindset to the mortgage industry.
+During his more code-focused years, he specialized in high-scale enterprise systems, working with clients ranging in size from Fortune 500 corporations to small 10-person shops. He is an authority in Java and
+.NET technologies, particularly in the areas of Java/.NET integration (both in-process and via integration tools like Web services), programming languages of all forms, back-end enterprise software systems,
+and virtual machine/execution engine plumbing. He is the author or co-author of several books, including Professional F# 2.0, Effective Enterprise Java, C# In a Nutshell, SSCLI Essentials,
+Server-Based Java Programming, and a contributor to several technology journals. All told, he has written well over a hundred articles in both print and online form. Ted has also been an "insider" of one
+form or another with a variety of the technology providers of the world: an IBM Champion of Cloud, a Microsoft F# MVP (having also been an Architect and C# MVP in prior years), an F# Insider, C# Insider,
+VB Insider, INETA speaker, DevelopMentor instructor, PluralSight course author, and a member of various Java JSRs. He lives in the Pacific Northwest with his wife, two sons, three cats, twelve laptops,
+seven tablets, nine phones and a rather large utility bill.
 
 Lloyd Moore: Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields.
 Lloyd has worked in software industry for 40 years. His formal training is in biological-based artificial intelligence, electronics, and psychology.
