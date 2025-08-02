@@ -9,10 +9,14 @@ Time and Location
 ~~~~~~~~~~~~~~~~~
 | THURSDAY, Aug 21, 2025 at 6:00 PM to 8:00 PM
 |
-| Note: We are no longer meeting at the Microsoft Reactor Room!! At the moment we have setup a Teams account to meet remotely and are working on a new in person meeting location! Stay tuned for location updates!
+| Note: We are now meeting at the Bellevue City Hall meeting room 1E-120!
 |
 | In Person:
-| Coming Soon!!
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking"
 |
 | Remote:
 | On Line Using Microsoft Teams
