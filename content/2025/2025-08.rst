@@ -38,7 +38,13 @@ Not known at this time!
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2025/CudaOnLinux.pptx>`_
+
+`Video <https://youtu.be/MsOQzL9VHVQ>`_ Folks - There are some issues with the sound in this video, we'll try a different config next time to see if that helps!
+
+`Code Sample </talks/2025/SimpleCudaLinux.zip>`_
+
+`CppCon Talks Playlist <https://www.youtube.com/watch?v=gBCIA0Dfn7o&list=PLHTh1InhhwT5cyLav85KtO5qFNMScpRjc>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
