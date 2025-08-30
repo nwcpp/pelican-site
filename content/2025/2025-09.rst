@@ -1,0 +1,54 @@
+Sept 18, 2025: My Crazy Plan to Implement an AArch64 Code Generator
+###################################################################
+
+:date: 2025-08-30
+:slug: Sept-2025
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, Sept 18, 2025 at 6:30 PM to 8:00 PM
+|
+| Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave NE, and marked "City Hall Parking".
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| In Person:
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking"
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/meet/2708825918036?p=XXa6ZqIa7P4PhMdmkF>`_
+|
+
+Title
+~~~~~
+My Crazy Plan to Implement an AArch64 Code Generator
+
+Abstract
+~~~~~~~~~
+It’s insane to write another backend, but Walter is doing it anyway. The D compilers come in three variants: GDC (based on GCC), LDC (based on LLVM), and DMD (based on Digital Mars C/C++).
+Walter implemented code generators for 8086, 386, 486, Pentium, Pentium Pro, and x86_64 because he had to to get a working compiler.
+The GDC and LDC D compilers already support the AArch64, so why write another? If you’re on the spectrum, this presentation is for you!
+
+Speaker Bio
+~~~~~~~~~~~
+Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
+He’s an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines, and runtime libraries.
+Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques.
+Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 40 years after its debut.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
