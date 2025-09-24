@@ -1,0 +1,57 @@
+October 16, 2025: Agentic Debugging using Time Travel
+###################################################################
+
+:date: 2025-09-24
+:slug: Oct-2025
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, October 16, 2025 at 6:30 PM to 8:00 PM
+|
+| Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave NE, and marked "City Hall Parking".
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| In Person:
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking"
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/meet/2463414108661?p=xiDYeHjXKyrJvoSh93>`_
+|
+
+Title
+~~~~~
+Agentic Debugging using Time Travel
+
+Abstract
+~~~~~~~~~
+Everyone knows that debugging the code is twice as hard as writing it. A person can't be a great programmer without being great at debugging, and neither can an AI coding agent. Time travel debugging is a technique that has grown in both capabilities and popularity recently (Undo, rr, Microsoft's TTD among others). This talk includes:
+
+- Demos of what it is and how it can work for you.
+
+- Details some of how this apparently magic technology actually is implemented (including the different approaches).
+
+- How the technology can make AI much better at debugging: whether debugging code written by AI or pre-existing code.
+
+
+Speaker Bio
+~~~~~~~~~~~
+Greg is co-founder and CEO at Undo. He is a programmer at heart, but likes to keep one foot in the software world and one in the business world.
+Greg finds it particularly rewarding to turn innovative software technology into a real business. Greg has over 25 years' experience in innovative start-up software companies.
+
+Resources
+~~~~~~~~~
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
