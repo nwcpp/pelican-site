@@ -41,7 +41,7 @@ Everyone knows that debugging the code is twice as hard as writing it. A person 
 
 Speaker Bio
 ~~~~~~~~~~~
-Greg is co-founder and CEO at Undo. He is a programmer at heart, but likes to keep one foot in the software world and one in the business world.
+Greg Law is co-founder and CEO at Undo. He is a programmer at heart, but likes to keep one foot in the software world and one in the business world.
 Greg finds it particularly rewarding to turn innovative software technology into a real business. Greg has over 25 years' experience in innovative start-up software companies.
 
 Resources
