@@ -47,7 +47,9 @@ Greg finds it particularly rewarding to turn innovative software technology into
 
 Resources
 ~~~~~~~~~
-Coming Soon!
+`Slides </talks/2025/TimeTravelDebugging_NW_CPP_MeetUp_Oct_2025.pptx>`_
+
+`Video <https://youtu.be/6FwAc5xI8ps>`_ 
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
