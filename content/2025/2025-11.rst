@@ -1,0 +1,60 @@
+November 20, 2025: Component based or monolithic development for large C and C++ projects: Why not both?
+########################################################################################################
+
+:date: 2025-10-29
+:slug: Nov-2025
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, November 20, 2025 at 6:30 PM to 8:00 PM
+|
+| Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave NE, and marked "City Hall Parking".
+| Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| In Person:
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBlOTYxNzUtNmQwZi00NzU1LWI4ZDctYzlkNDM0ZTMxYmFl%40thread.v2/0?context=%7b%22Tid%22%3a%22f45d2dfd-696a-4229-a0c7-ca3f187583fe%22%2c%22Oid%22%3a%22d709b655-8df5-4b36-92ee-2cd675614e8d%22%7d>`_
+|
+
+Title
+~~~~~
+Component based or monolithic development for large C and C++ projects: Why not both?
+
+Abstract
+~~~~~~~~~
+
+Developers of large C and C++ projects have to choose between two main development paradigms: component based development and monolith based development, each one with its own advantages and disadvantages.
+In component based development, projects can be split in multiple repositories that allow to do decouple development and releasing, which suits well for many organizations that split the work in different teams with different development speeds. But this approach requires efficient dependency management, complicates working simultaneously in multiple components and it adds extra challenges to implement Continuous Integration at scale.
+On the other hand, in monolithic/monorepo base development, the build system tool manages the whole project efficiently, simplifying some development and integration flows. But it can be resource-intensive on the CI side and it also push the whole organization to move at the same speed, often with little or almost no versioning: the “live at head” paradigm
+It is said that by Conway's law, organizations are forced in practice to choose between them. But what if modern C and C++ tooling allowed us to have the best of both worlds?
+This talk will present the novel Conan2 “Workspaces”, a monolithic view of multiple independent components that can be dynamically added and removed from the monolithic build, and how leveraging CMake FetchContent, such a single monolithic build can be implemented.
+Also, for the cases where not only CMake is involved, a quick overview of the orchestration of workspace incremental builds for heterogenous build systems and CI at scale will also be introduced.
+The talk will describe the basics, tools, design and architecture of the solutions, and it will also show full working demonstrations for them.
+
+Speaker Bio
+~~~~~~~~~~~
+Diego Rodriguez-Losada‘s passions are robotics and SW engineering and development. He has developed many years in C and C++ in the Industrial, Robotics and AI fields.
+Diego was also a University (tenure track) professor and robotics researcher for 8 years, till 2012, when he quit academia to try to build a C/C++ dependency manager and co-founded a startup.
+Since then he mostly develops in Python. Diego is a conan.io C/C++ package manager co-creator and project lead, now working at JFrog as Conan Lead Architect and C/C++ Advocate. 
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
