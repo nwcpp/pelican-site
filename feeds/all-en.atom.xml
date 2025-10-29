@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2025-09-24T00:00:00-07:00</updated><entry><title>October 16, 2025: Agentic Debugging using Time Travel</title><link href="http://nwcpp.org/Oct-2025.html" rel="alternate"></link><published>2025-09-24T00:00:00-07:00</published><updated>2025-09-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-09-24:/Oct-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2025-10-29T00:00:00-07:00</updated><entry><title>November 20, 2025: Component based or monolithic development for large C and C++ projects: Why not both?</title><link href="http://nwcpp.org/Nov-2025.html" rel="alternate"></link><published>2025-10-29T00:00:00-07:00</published><updated>2025-10-29T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-10-29:/Nov-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, November 20, 2025 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;.&lt;/div&gt;
+&lt;div class="line"&gt;Additional free parking is located along the light …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, November 20, 2025 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;.&lt;/div&gt;
+&lt;div class="line"&gt;Additional free parking is located along the light rail line.&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall, Room 1E-120&lt;/div&gt;
+&lt;div class="line"&gt;450 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt; 98004&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place//&amp;#64;47.6144305,-122.1929512,18z?entry=ttu&amp;amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"&gt;Directions&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;. Additional free parking is located along the light rail line.&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBlOTYxNzUtNmQwZi00NzU1LWI4ZDctYzlkNDM0ZTMxYmFl%40thread.v2/0?context=%7b%22Tid%22%3a%22f45d2dfd-696a-4229-a0c7-ca3f187583fe%22%2c%22Oid%22%3a%22d709b655-8df5-4b36-92ee-2cd675614e8d%22%7d"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;Component based or monolithic development for large C and C++ projects: Why not&amp;nbsp;both?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Developers of large C and C++ projects have to choose between two main development paradigms: component based development and monolith based development, each one with its own advantages and disadvantages.
+In component based development, projects can be split in multiple repositories that allow to do decouple development and releasing, which suits well for many organizations that split the work in different teams with different development speeds. But this approach requires efficient dependency management, complicates working simultaneously in multiple components and it adds extra challenges to implement Continuous Integration at scale.
+On the other hand, in monolithic/monorepo base development, the build system tool manages the whole project efficiently, simplifying some development and integration flows. But it can be resource-intensive on the &lt;span class="caps"&gt;CI&lt;/span&gt; side and it also push the whole organization to move at the same speed, often with little or almost no versioning: the “live at head” paradigm
+It is said that by Conway&amp;#8217;s law, organizations are forced in practice to choose between them. But what if modern C and C++ tooling allowed us to have the best of both worlds?
+This talk will present the novel Conan2 “Workspaces”, a monolithic view of multiple independent components that can be dynamically added and removed from the monolithic build, and how leveraging CMake FetchContent, such a single monolithic build can be implemented.
+Also, for the cases where not only CMake is involved, a quick overview of the orchestration of workspace incremental builds for heterogenous build systems and &lt;span class="caps"&gt;CI&lt;/span&gt; at scale will also be introduced.
+The talk will describe the basics, tools, design and architecture of the solutions, and it will also show full working demonstrations for&amp;nbsp;them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Diego Rodriguez-Losada‘s passions are robotics and &lt;span class="caps"&gt;SW&lt;/span&gt; engineering and development. He has developed many years in C and C++ in the Industrial, Robotics and &lt;span class="caps"&gt;AI&lt;/span&gt; fields.
+Diego was also a University (tenure track) professor and robotics researcher for 8 years, till 2012, when he quit academia to try to build a C/C++ dependency manager and co-founded a startup.
+Since then he mostly develops in Python. Diego is a conan.io C/C++ package manager co-creator and project lead, now working at JFrog as Conan Lead Architect and C/C++&amp;nbsp;Advocate.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="2025"></category></entry><entry><title>October 16, 2025: Agentic Debugging using Time Travel</title><link href="http://nwcpp.org/Oct-2025.html" rel="alternate"></link><published>2025-09-24T00:00:00-07:00</published><updated>2025-09-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2025-09-24:/Oct-2025.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, October 16, 2025 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
