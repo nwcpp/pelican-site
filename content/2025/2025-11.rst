@@ -49,7 +49,7 @@ Since then he mostly develops in Python. Diego is a conan.io C/C++ package manag
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Video <https://youtu.be/RByyxpWoQzw>`_ 
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
