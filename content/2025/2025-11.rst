@@ -49,6 +49,8 @@ Since then he mostly develops in Python. Diego is a conan.io C/C++ package manag
 Resources
 ~~~~~~~~~
 
+`Slides </talks/2025/NorthWestCppNov25.pdf>`_
+
 `Video <https://youtu.be/RByyxpWoQzw>`_ 
 
 Digital Media Links
