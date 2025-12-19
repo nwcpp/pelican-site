@@ -43,6 +43,7 @@
                     <li><a href="./category/2023.html">2023</a></li>
                     <li><a href="./category/2024.html">2024</a></li>
                     <li><a href="./category/2025.html">2025</a></li>
+                    <li><a href="./category/2026.html">2026</a></li>
                     <li><a href="./category/about.html">about</a></li>
                     <li><a href="./category/locations.html">locations</a></li>
                     <li><a href="./category/misc.html">misc</a></li>
@@ -66,21 +67,21 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="./Nov-2025.html">November 20, 2025: Component based or monolithic development for large C and C++ projects: Why not&nbsp;both?</a></h1>
+                    <h1 class="entry-title"><a href="./Jan-2026.html">January 15, 2026: The <span class="caps">CUDA</span> C++ Developer&#8217;s&nbsp;Toolbox</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2025-10-29T00:00:00-07:00">
-                Published: Wed 29 October 2025
+        <abbr class="published" title="2025-12-19T00:00:00-08:00">
+                Published: Fri 19 December 2025
         </abbr>
 
         <address class="vcard author">
                 By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
         </address>
-<p>In <a href="./category/2025.html">2025</a>. </p>
+<p>In <a href="./category/2026.html">2026</a>. </p>
 
 </footer><!-- /.post-info --><div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line"><span class="caps">THURSDAY</span>, November 20, 2025 at 6:30 <span class="caps">PM</span> to 8:00 <span class="caps">PM</span></div>
+<div class="line"><span class="caps">THURSDAY</span>, January 15, 2026 at 6:30 <span class="caps">PM</span> to 8:00 <span class="caps">PM</span></div>
 <div class="line"><br /></div>
 <div class="line">Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave <span class="caps">NE</span>, and marked &#8220;City Hall Parking&#8221;.</div>
 <div class="line">Additional free parking is located along the light rail line.</div>
@@ -95,34 +96,48 @@
 <div class="line"><br /></div>
 <div class="line">Remote:</div>
 <div class="line">On Line Using Microsoft Teams</div>
-<div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBlOTYxNzUtNmQwZi00NzU1LWI4ZDctYzlkNDM0ZTMxYmFl%40thread.v2/0?context=%7b%22Tid%22%3a%22f45d2dfd-696a-4229-a0c7-ca3f187583fe%22%2c%22Oid%22%3a%22d709b655-8df5-4b36-92ee-2cd675614e8d%22%7d">Click here to join the meeting</a></div>
+<div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYxMTA4NmUtNWVkNy00ZWIxLWE0NjMtODc5MjYyYTg5YWY1%40thread.v2/0?context=%7b%22Tid%22%3a%22f45d2dfd-696a-4229-a0c7-ca3f187583fe%22%2c%22Oid%22%3a%22d709b655-8df5-4b36-92ee-2cd675614e8d%22%7d">Click here to join the meeting</a></div>
 <div class="line"><br /></div>
 </div>
 </div>
 <div class="section" id="title">
 <h2>Title</h2>
-<p>Component based or monolithic development for large C and C++ projects: Why not&nbsp;both?</p>
+<p>The <span class="caps">CUDA</span> C++ Developer&#8217;s&nbsp;Toolbox</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Developers of large C and C++ projects have to choose between two main development paradigms: component based development and monolith based development, each one with its own advantages and disadvantages.
-In component based development, projects can be split in multiple repositories that allow to do decouple development and releasing, which suits well for many organizations that split the work in different teams with different development speeds. But this approach requires efficient dependency management, complicates working simultaneously in multiple components and it adds extra challenges to implement Continuous Integration at scale.
-On the other hand, in monolithic/monorepo base development, the build system tool manages the whole project efficiently, simplifying some development and integration flows. But it can be resource-intensive on the <span class="caps">CI</span> side and it also push the whole organization to move at the same speed, often with little or almost no versioning: the “live at head” paradigm
-It is said that by Conway&#8217;s law, organizations are forced in practice to choose between them. But what if modern C and C++ tooling allowed us to have the best of both worlds?
-This talk will present the novel Conan2 “Workspaces”, a monolithic view of multiple independent components that can be dynamically added and removed from the monolithic build, and how leveraging CMake FetchContent, such a single monolithic build can be implemented.
-Also, for the cases where not only CMake is involved, a quick overview of the orchestration of workspace incremental builds for heterogenous build systems and <span class="caps">CI</span> at scale will also be introduced.
-The talk will describe the basics, tools, design and architecture of the solutions, and it will also show full working demonstrations for&nbsp;them.</p>
+<p>Getting the most out of your <span class="caps">GPU</span> with C++ doesn&#8217;t require writing custom kernels or manually managing
+storage for everything! Come learn about the libraries and techniques that make writing <span class="caps">CUDA</span> C++ code
+easier and more performant. Through examples, we&#8217;ll explore all aspects of writing modern C++ software
+for GPUs, including heterogeneous memory management, algorithm design, and&nbsp;synchronization.</p>
+<p>During this talk,&nbsp;you&#8217;ll:</p>
+<ul class="simple">
+<li>Learn to evaluate when you should use a <span class="caps">CUDA</span> library versus writing your own&nbsp;kernel.</li>
+<li>Explore popular <span class="caps">CUDA</span> C++ libraries such as Thrust, <span class="caps">CUB</span>, and&nbsp;libcu++.</li>
+<li>Understand how you can easily compose different <span class="caps">CUDA</span> libraries and your own custom <span class="caps">CUDA</span> C++ code&nbsp;together.</li>
+<li>Build intuition about the performance implications of <span class="caps">CUDA</span>&nbsp;libraries.</li>
+<li>You&#8217;ll leave confident about how to select the best tool for the job to accelerate your C++ applications for your unique use&nbsp;cases.</li>
+</ul>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
-<p>Diego Rodriguez-Losada‘s passions are robotics and <span class="caps">SW</span> engineering and development. He has developed many years in C and C++ in the Industrial, Robotics and <span class="caps">AI</span> fields.
-Diego was also a University (tenure track) professor and robotics researcher for 8 years, till 2012, when he quit academia to try to build a C/C++ dependency manager and co-founded a startup.
-Since then he mostly develops in Python. Diego is a conan.io C/C++ package manager co-creator and project lead, now working at JFrog as Conan Lead Architect and C/C++&nbsp;Advocate.</p>
+<p>Bryce Adelstein Lelbach has spent over a decade developing programming languages, compilers, and
+libraries. He is passionate about parallel programming and strives to make it more accessible for&nbsp;everyone.</p>
+<p>Bryce is a Principal Architect at <span class="caps">NVIDIA</span>, where he founded the Core C++ Compute Libraries team and
+now leads the Vanguard Programming group that drives <span class="caps">NVIDIA</span>&#8217;s roadmap for programming languages,
+compilers, and core&nbsp;libraries.</p>
+<p>He is a leader of the systems programming language community, having served as chair of the C++
+Library Evolution and the <span class="caps">US</span> programming language standards committee. He has been an organizer and
+program chair for many conferences over the years. On the C++ committee, he has worked on concurrency
+primitives, parallel algorithms, senders, and multidimensional&nbsp;arrays.</p>
+<p>He previously worked at Lawrence Berkeley National Laboratory and Louisiana State University.
+He is one of the founding developers of the <span class="caps">HPX</span> parallel runtime&nbsp;system.</p>
+<p>Outside of work, Bryce is passionate about airplanes and watches. He lives in Midtown Manhattan
+with his girlfriend and&nbsp;dog.</p>
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="/talks/2025/NorthWestCppNov25.pdf">Slides</a></p>
-<p><a class="reference external" href="https://youtu.be/RByyxpWoQzw">Video</a></p>
+<p>Coming&nbsp;Soon!</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -207,6 +222,33 @@ Since then he mostly develops in Python. Diego is a conan.io C/C++ package manag
       <hr />
       <ol id="posts-list" class="hfeed">
 
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="./Nov-2025.html" rel="bookmark"
+                           title="Permalink to November 20, 2025: Component based or monolithic development for large C and C++ projects: Why not both?">November 20, 2025: Component based or monolithic development for large C and C++ projects: Why not&nbsp;both?</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2025-10-29T00:00:00-07:00">
+                Published: Wed 29 October 2025
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="./category/2025.html">2025</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line"><span class="caps">THURSDAY</span>, November 20, 2025 at 6:30 <span class="caps">PM</span> to 8:00 <span class="caps">PM</span></div>
+<div class="line"><br /></div>
+<div class="line">Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave <span class="caps">NE</span>, and marked &#8220;City Hall Parking&#8221;.</div>
+<div class="line">Additional free parking is located along the light …</div></div></div>
+                <a class="readmore" href="./Nov-2025.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Oct-2025.html" rel="bookmark"
@@ -515,32 +557,6 @@ who meet monthly to discuss trends, techniques, and technology
 regarding the C++ language and industry.
 The group meetings and resources are free, and anyone and everyone is welcome to …</p>
                 <a class="readmore" href="./about.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="./reactor-meeting-room.html" rel="bookmark"
-                           title="Permalink to Microsoft Meeting Room: Reactor, Building 20">Microsoft Meeting Room: Reactor, Building&nbsp;20</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2025-02-04T00:00:00-08:00">
-                Published: Tue 04 February 2025
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="./author/peter-williamson.html">Peter Williamson</a>
-        </address>
-<p>In <a href="./category/locations.html">locations</a>. </p>
-
-</footer><!-- /.post-info -->                <p>Our meetings are held at the
-<a class="reference external" href="./images/MicrosoftMainCampusMap.jpg">main Microsoft campus</a>,
-in the Reactor Room, <a class="reference external" href="https://www.google.com/maps/place/Microsoft+Reactor+Redmond/&#64;47.6437269,-122.1338103,17z/data=!3m1!4b1!4m6!3m5!1s0x54906d0048713c8d:0xf54a3d953253f8c9!8m2!3d47.6437233!4d-122.13123!16s%2Fg%2F11wthn72ps?entry=ttu&amp;g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D/">Building 20</a>,
-at the corner of <span class="caps">NE</span> 31st and 156th Ave <span class="caps">NE</span>, in Redmond, <span class="caps">WA</span>.</p>
-<p>If you use the main entrance from 156th (<span class="caps">NE</span> 26th St), take the first left onto Microsoft Way, and
-the Reactor room …</p>
-                <a class="readmore" href="./reactor-meeting-room.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
             </ol><!-- /#posts-list -->
