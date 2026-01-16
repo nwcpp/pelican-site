@@ -79,7 +79,9 @@ with his girlfriend and dog.
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides </talks/2026/cuda_cpp_developers_toolbox__r11.pptx>`_
+
+`Video <https://youtu.be/NhEHIhYUyFc>`_ 
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
