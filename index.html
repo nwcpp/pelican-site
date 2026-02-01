@@ -67,10 +67,10 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="./Jan-2026.html">January 15, 2026: The <span class="caps">CUDA</span> C++ Developer&#8217;s&nbsp;Toolbox</a></h1>
+                    <h1 class="entry-title"><a href="./Feb-2026.html">February 19, 2026: C++ Saturation&nbsp;Arithmetic</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2025-12-19T00:00:00-08:00">
-                Published: Fri 19 December 2025
+        <abbr class="published" title="2026-02-01T00:00:00-08:00">
+                Published: Sun 01 February 2026
         </abbr>
 
         <address class="vcard author">
@@ -81,11 +81,7 @@
 </footer><!-- /.post-info --><div class="section" id="time-and-location">
 <h2>Time and&nbsp;Location</h2>
 <div class="line-block">
-<div class="line"><span class="caps">THURSDAY</span>, January 15, 2026 at 6:30 <span class="caps">PM</span> to 8:00 <span class="caps">PM</span></div>
-<div class="line"><br /></div>
-<div class="line">Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave <span class="caps">NE</span>, and marked &#8220;City Hall Parking&#8221;.</div>
-<div class="line">Additional free parking is located along the light rail line.</div>
-<div class="line">Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!</div>
+<div class="line"><span class="caps">THURSDAY</span>, February 19, 2026 at 6:30 <span class="caps">PM</span> to 8:00 <span class="caps">PM</span></div>
 <div class="line"><br /></div>
 <div class="line">In Person:</div>
 <div class="line">Bellevue City Hall, Room 1E-120</div>
@@ -93,52 +89,33 @@
 <div class="line">Bellevue, <span class="caps">WA</span> 98004</div>
 <div class="line"><a class="reference external" href="https://www.google.com/maps/place//&#64;47.6144305,-122.1929512,18z?entry=ttu&amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D">Directions</a></div>
 <div class="line">Free public parking is available from 110th Ave <span class="caps">NE</span>, and marked &#8220;City Hall Parking&#8221;. Additional free parking is located along the light rail line.</div>
+<div class="line">Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!</div>
 <div class="line"><br /></div>
 <div class="line">Remote:</div>
 <div class="line">On Line Using Microsoft Teams</div>
-<div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYxMTA4NmUtNWVkNy00ZWIxLWE0NjMtODc5MjYyYTg5YWY1%40thread.v2/0?context=%7b%22Tid%22%3a%22f45d2dfd-696a-4229-a0c7-ca3f187583fe%22%2c%22Oid%22%3a%22d709b655-8df5-4b36-92ee-2cd675614e8d%22%7d">Click here to join the meeting</a></div>
+<div class="line"><a class="reference external" href="https://teams.microsoft.com/l/meetup-join/19%3a3xjDwwUBL84k3RWEZvxMXAeq805G1Db2rKUY4cBfYLs1%40thread.tacv2/1769965169237?context=%7b%22Tid%22%3a%22f45d2dfd-696a-4229-a0c7-ca3f187583fe%22%2c%22Oid%22%3a%22d709b655-8df5-4b36-92ee-2cd675614e8d%22%7d">Click here to join the meeting</a></div>
 <div class="line"><br /></div>
 </div>
 </div>
 <div class="section" id="title">
 <h2>Title</h2>
-<p>The <span class="caps">CUDA</span> C++ Developer&#8217;s&nbsp;Toolbox</p>
+<p>C++ Saturation&nbsp;Arithmetic</p>
 </div>
 <div class="section" id="abstract">
 <h2>Abstract</h2>
-<p>Getting the most out of your <span class="caps">GPU</span> with C++ doesn&#8217;t require writing custom kernels or manually managing
-storage for everything! Come learn about the libraries and techniques that make writing <span class="caps">CUDA</span> C++ code
-easier and more performant. Through examples, we&#8217;ll explore all aspects of writing modern C++ software
-for GPUs, including heterogeneous memory management, algorithm design, and&nbsp;synchronization.</p>
-<p>During this talk,&nbsp;you&#8217;ll:</p>
-<ul class="simple">
-<li>Learn to evaluate when you should use a <span class="caps">CUDA</span> library versus writing your own&nbsp;kernel.</li>
-<li>Explore popular <span class="caps">CUDA</span> C++ libraries such as Thrust, <span class="caps">CUB</span>, and&nbsp;libcu++.</li>
-<li>Understand how you can easily compose different <span class="caps">CUDA</span> libraries and your own custom <span class="caps">CUDA</span> C++ code&nbsp;together.</li>
-<li>Build intuition about the performance implications of <span class="caps">CUDA</span>&nbsp;libraries.</li>
-<li>You&#8217;ll leave confident about how to select the best tool for the job to accelerate your C++ applications for your unique use&nbsp;cases.</li>
-</ul>
+<p>Many real world problems require the use of “saturation arithmetic” to properly code the solution. This has traditionally been problematic as in C++ the flags register is not directly
+accessible. C++ 26 supports saturation arithmetic via the standard library and this feature is available <span class="caps">NOW</span> in several&nbsp;compilers.</p>
+<p>We’ll start with a definition of what “saturation arithmetic” is, then we’ll look at the efficiency of the code produced for the X86-64 and <span class="caps">AARCH64</span> instruction sets for the <span class="caps">GCC</span> and Clang&nbsp;compilers.</p>
 </div>
 <div class="section" id="speaker-bio">
 <h2>Speaker&nbsp;Bio</h2>
-<p>Bryce Adelstein Lelbach has spent over a decade developing programming languages, compilers, and
-libraries. He is passionate about parallel programming and strives to make it more accessible for&nbsp;everyone.</p>
-<p>Bryce is a Principal Architect at <span class="caps">NVIDIA</span>, where he founded the Core C++ Compute Libraries team and
-now leads the Vanguard Programming group that drives <span class="caps">NVIDIA</span>&#8217;s roadmap for programming languages,
-compilers, and core&nbsp;libraries.</p>
-<p>He is a leader of the systems programming language community, having served as chair of the C++
-Library Evolution and the <span class="caps">US</span> programming language standards committee. He has been an organizer and
-program chair for many conferences over the years. On the C++ committee, he has worked on concurrency
-primitives, parallel algorithms, senders, and multidimensional&nbsp;arrays.</p>
-<p>He previously worked at Lawrence Berkeley National Laboratory and Louisiana State University.
-He is one of the founding developers of the <span class="caps">HPX</span> parallel runtime&nbsp;system.</p>
-<p>Outside of work, Bryce is passionate about airplanes and watches. He lives in Midtown Manhattan
-with his girlfriend and&nbsp;dog.</p>
+<p>Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 35 years. His formal training is in biological-based artificial intelligence, electronics, and psychology. Lloyd is also currently
+the president of the Northwest C++ User&#8217;s Group and an organizer of the Seattle Robotics Society Robothon&nbsp;event.</p>
 </div>
 <div class="section" id="resources">
 <h2>Resources</h2>
-<p><a class="reference external" href="/talks/2026/cuda_cpp_developers_toolbox__r11.pptx">Slides</a></p>
-<p><a class="reference external" href="https://youtu.be/NhEHIhYUyFc">Video</a></p>
+<p>Coming&nbsp;Soon!</p>
 </div>
 <div class="section" id="digital-media-links">
 <h2>Digital Media&nbsp;Links</h2>
@@ -223,6 +200,33 @@ with his girlfriend and&nbsp;dog.</p>
       <hr />
       <ol id="posts-list" class="hfeed">
 
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="./Jan-2026.html" rel="bookmark"
+                           title="Permalink to January 15, 2026: The CUDA C++ Developer’s Toolbox">January 15, 2026: The <span class="caps">CUDA</span> C++ Developer&#8217;s&nbsp;Toolbox</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2025-12-19T00:00:00-08:00">
+                Published: Fri 19 December 2025
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="./author/lloyd-moore.html">Lloyd Moore</a>
+        </address>
+<p>In <a href="./category/2026.html">2026</a>. </p>
+
+</footer><!-- /.post-info -->                <div class="section" id="time-and-location">
+<h2>Time and&nbsp;Location</h2>
+<div class="line-block">
+<div class="line"><span class="caps">THURSDAY</span>, January 15, 2026 at 6:30 <span class="caps">PM</span> to 8:00 <span class="caps">PM</span></div>
+<div class="line"><br /></div>
+<div class="line">Note: We are now meeting at the Bellevue City Hall meeting room 1E-120! Free public parking is available from 110th Ave <span class="caps">NE</span>, and marked &#8220;City Hall Parking&#8221;.</div>
+<div class="line">Additional free parking is located along the light …</div></div></div>
+                <a class="readmore" href="./Jan-2026.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
             <li><article class="hentry">
                 <header>
                     <h1><a href="./Nov-2025.html" rel="bookmark"
@@ -533,31 +537,6 @@ with his girlfriend and&nbsp;dog.</p>
 <div class="line">Remote:</div>
 <div class="line">On …</div></div></div>
                 <a class="readmore" href="./Feb-2025.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="./about.html" rel="bookmark"
-                           title="Permalink to Welcome to the Northwest C++ Users’ Group">Welcome to the Northwest C++ Users&#8217;&nbsp;Group</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2025-02-09T00:00:00-08:00">
-                Published: Sun 09 February 2025
-        </abbr>
-
-        <address class="vcard author">
-                By <a class="url fn" href="./author/peter-williamson.html">Peter Williamson</a>
-        </address>
-<p>In <a href="./category/about.html">about</a>. </p>
-
-</footer><!-- /.post-info -->                <p>The Northwest C++ Users&#8217; Group (<span class="caps">NWCPP</span>) is a group of professional developers and hobbyists
-living and working in the Pacific Northwest
-who meet monthly to discuss trends, techniques, and technology
-regarding the C++ language and industry.
-The group meetings and resources are free, and anyone and everyone is welcome to …</p>
-                <a class="readmore" href="./about.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
             </ol><!-- /#posts-list -->
