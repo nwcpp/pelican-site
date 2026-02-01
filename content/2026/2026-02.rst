@@ -1,0 +1,56 @@
+February 19, 2026: C++ Saturation Arithmetic
+############################################
+
+:date: 2026-02-01
+:slug: Feb-2026
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, February 19, 2026 at 6:30 PM to 8:00 PM
+|
+| In Person:
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3a3xjDwwUBL84k3RWEZvxMXAeq805G1Db2rKUY4cBfYLs1%40thread.tacv2/1769965169237?context=%7b%22Tid%22%3a%22f45d2dfd-696a-4229-a0c7-ca3f187583fe%22%2c%22Oid%22%3a%22d709b655-8df5-4b36-92ee-2cd675614e8d%22%7d>`_
+|
+
+Title
+~~~~~
+C++ Saturation Arithmetic
+
+Abstract
+~~~~~~~~~
+
+Many real world problems require the use of “saturation arithmetic” to properly code the solution. This has traditionally been problematic as in C++ the flags register is not directly
+accessible. C++ 26 supports saturation arithmetic via the standard library and this feature is available NOW in several compilers.
+
+We’ll start with a definition of what “saturation arithmetic” is, then we’ll look at the efficiency of the code produced for the X86-64 and AARCH64 instruction sets for the GCC and Clang compilers.
+
+
+Speaker Bio
+~~~~~~~~~~~
+Lloyd Moore is the founder and owner of CyberData Corporation, which provides consulting services in the aerospace, robotics, machine vision and industrial automation fields.
+Lloyd has worked in software industry for 35 years. His formal training is in biological-based artificial intelligence, electronics, and psychology. Lloyd is also currently
+the president of the Northwest C++ User's Group and an organizer of the Seattle Robotics Society Robothon event. 
+
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
