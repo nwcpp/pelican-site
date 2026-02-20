@@ -45,7 +45,10 @@ the president of the Northwest C++ User's Group and an organizer of the Seattle 
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides </talks/2026/SaturationArithmetic.pptx>`_
+
+`Video <https://youtu.be/GGoOqel4uR8>`_ 
+
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
