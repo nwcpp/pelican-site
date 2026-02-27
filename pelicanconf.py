@@ -45,7 +45,7 @@ JOB_LINKS = ((u'Protingent', 'protingent_masthead_logo_new.png', 'http://jobs.pr
 
 # sponsors
 SPONSOR_LINKS = ((u'Cyber Data', 'CyberDataLogo.jpg', 'http://www.cyberdata-robotics.com/'),
-                 (u'Microsoft', 'MSLogo.png', 'https://aka.ms/cpp'))
+                )
 
 # If we have any announcements, uncomment this and fill in the details
 #ANNOUNCEMENT_LINKS = ((u'To join our mailing list, go to this link and join our Google Group: https://groups.google.com/g/NwcppAnnounce', u'', '', u''),
