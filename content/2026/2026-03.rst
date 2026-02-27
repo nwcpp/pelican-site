@@ -1,0 +1,68 @@
+March 19, 2026: Probability and Statistics in C++
+#################################################
+
+:date: 2026-02-27
+:slug: Mar-2026
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, March 19, 2026 at 6:30 PM to 8:00 PM
+|
+| In Person:
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmEyM2VhNGEtNzIxMC00M2E3LTk5ZDAtZWE4ODU5YmJmZjdk%40thread.v2/0?context=%7b%22Tid%22%3a%22f45d2dfd-696a-4229-a0c7-ca3f187583fe%22%2c%22Oid%22%3a%22d709b655-8df5-4b36-92ee-2cd675614e8d%22%7d>`_
+|
+
+Title
+~~~~~
+Probability and Statistics in C++
+
+Abstract
+~~~~~~~~~
+
+One of the features introduced in C++11 that can have immediate and significant impact in quantitative development projects was random number generation.  However, despite its usefulness, 
+it has — for the most part — flown under the radar within C++ textbooks, curricula, and other educational resources.  
+
+
+Random numbers can be generated from a number of probability distributions, 17 in all, provided in the Standard Library.  Meanwhile, the Boost Math Library hosts a collection of 
+deterministic Statistical Distributions and Functions, in particular the cumulative distribution function (CDF), probability density function (PDF), and quantile function for 34 different 
+distributions.  It is also a straightforward process to select a distribution in Boost not represented in the Standard Library and create a random number generator in a similar manner.
+
+
+Meanwhile, another Boost library, Boost.Accumulators, provides incremental statistical computation, such as running mean and variance calculations, as new data is added to a data set.  
+Both the distributional options -- random number generation and functions -- as well as a look at Boost.Accumulators, will be presented.  
+
+
+More recently, some robust yet lighter-weight alternatives to Standard Library random number generators have been developed in popular open source C++ libraries such as PCG and Xoshiro.  
+In addition, a proposal for the C++29 Standard offers features similar to accumulators in Boost.  Time permitting, these will also be introduced.
+
+
+Speaker Bio
+~~~~~~~~~~~
+Daniel Hanson is a former full-time lecturer in the Computational Finance & Risk Management program within the Department of Applied Mathematics at the University of Washington.
+His appointment followed over 25 years of experience in private sector quantitative development in finance and data science. 
+He currently serves as the Student Program Coordinator for CppCon.
+
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
