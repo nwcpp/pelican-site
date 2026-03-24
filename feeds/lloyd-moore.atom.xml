@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Lloyd Moore</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2026-02-27T00:00:00-08:00</updated><entry><title>March 19, 2026: Probability and Statistics in C++</title><link href="http://nwcpp.org/Mar-2026.html" rel="alternate"></link><published>2026-02-27T00:00:00-08:00</published><updated>2026-02-27T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-02-27:/Mar-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group - Lloyd Moore</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/lloyd-moore.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2026-03-24T00:00:00-07:00</updated><entry><title>April 16, 2026: The Nim Programming Language</title><link href="http://nwcpp.org/Apr-2026.html" rel="alternate"></link><published>2026-03-24T00:00:00-07:00</published><updated>2026-03-24T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-03-24:/Apr-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, April 16, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall, Room 1E-120&lt;/div&gt;
+&lt;div class="line"&gt;450 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt; 98004&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place//&amp;#64;47.6144305,-122.1929512,18z?entry=ttu&amp;amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"&gt;Directions&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;. Additional free parking is located along …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, April 16, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall, Room 1E-120&lt;/div&gt;
+&lt;div class="line"&gt;450 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt; 98004&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place//&amp;#64;47.6144305,-122.1929512,18z?entry=ttu&amp;amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"&gt;Directions&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;. Additional free parking is located along the light rail line.&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/meet/28061369779556?p=BnYVwg6Cm6VNpDxg2x"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;The Nim Programming&amp;nbsp;Language&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula, and supports a large number
+of interesting features that put it on par with C++ or Rust as a systems-level programming language. In this presentation, we&amp;#8217;ll be taking a look at how to get started, and
+just enough syntax and semantics to begin your Nim&amp;nbsp;journey.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Ted Neward currently labors on his own behalf, leveraging his speaking, writing, and coding experience to bring a technology-focused and -sharpened mindset to the mortgage industry.
+During his more code-focused years, he specialized in high-scale enterprise systems, working with clients ranging in size from Fortune 500 corporations to small 10-person shops. He is an authority in Java and
+.&lt;span class="caps"&gt;NET&lt;/span&gt; technologies, particularly in the areas of Java/.&lt;span class="caps"&gt;NET&lt;/span&gt; integration (both in-process and via integration tools like Web services), programming languages of all forms, back-end enterprise software systems,
+and virtual machine/execution engine plumbing. He is the author or co-author of several books, including Professional F# 2.0, Effective Enterprise Java, C# In a Nutshell, &lt;span class="caps"&gt;SSCLI&lt;/span&gt; Essentials,
+Server-Based Java Programming, and a contributor to several technology journals. All told, he has written well over a hundred articles in both print and online form. Ted has also been an &amp;#8220;insider&amp;#8221; of one
+form or another with a variety of the technology providers of the world: an &lt;span class="caps"&gt;IBM&lt;/span&gt; Champion of Cloud, a Microsoft F# &lt;span class="caps"&gt;MVP&lt;/span&gt; (having also been an Architect and C# &lt;span class="caps"&gt;MVP&lt;/span&gt; in prior years), an F# Insider, C# Insider,
+&lt;span class="caps"&gt;VB&lt;/span&gt; Insider, &lt;span class="caps"&gt;INETA&lt;/span&gt; speaker, DevelopMentor instructor, PluralSight course author, and a member of various Java JSRs. He lives in the Pacific Northwest with his wife, two sons, three cats, twelve laptops,
+seven tablets, nine phones and a rather large utility&amp;nbsp;bill.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="2026"></category></entry><entry><title>March 19, 2026: Probability and Statistics in C++</title><link href="http://nwcpp.org/Mar-2026.html" rel="alternate"></link><published>2026-02-27T00:00:00-08:00</published><updated>2026-02-27T00:00:00-08:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-02-27:/Mar-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, March 19, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
@@ -54,7 +118,6 @@ He currently serves as the Student Program Coordinator for&amp;nbsp;CppCon.&lt;/
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="/talks/2026/NWCPP_2025_03_ProbabilityAndStatistics.pdf"&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://youtu.be/MDr3T8l163Y"&gt;Video&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sample code coming&amp;nbsp;soon!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="digital-media-links"&gt;
 &lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
