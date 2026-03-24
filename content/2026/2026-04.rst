@@ -1,0 +1,61 @@
+April 16, 2026: The Nim Programming Language
+############################################
+
+:date: 2026-03-24
+:slug: Apr-2026
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, April 16, 2026 at 6:30 PM to 8:00 PM
+|
+| In Person:
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/meet/28061369779556?p=BnYVwg6Cm6VNpDxg2x>`_
+|
+
+Title
+~~~~~
+The Nim Programming Language
+
+Abstract
+~~~~~~~~~
+
+Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula, and supports a large number
+of interesting features that put it on par with C++ or Rust as a systems-level programming language. In this presentation, we'll be taking a look at how to get started, and
+just enough syntax and semantics to begin your Nim journey.
+
+
+Speaker Bio
+~~~~~~~~~~~
+Ted Neward currently labors on his own behalf, leveraging his speaking, writing, and coding experience to bring a technology-focused and -sharpened mindset to the mortgage industry.
+During his more code-focused years, he specialized in high-scale enterprise systems, working with clients ranging in size from Fortune 500 corporations to small 10-person shops. He is an authority in Java and
+.NET technologies, particularly in the areas of Java/.NET integration (both in-process and via integration tools like Web services), programming languages of all forms, back-end enterprise software systems,
+and virtual machine/execution engine plumbing. He is the author or co-author of several books, including Professional F# 2.0, Effective Enterprise Java, C# In a Nutshell, SSCLI Essentials,
+Server-Based Java Programming, and a contributor to several technology journals. All told, he has written well over a hundred articles in both print and online form. Ted has also been an "insider" of one
+form or another with a variety of the technology providers of the world: an IBM Champion of Cloud, a Microsoft F# MVP (having also been an Architect and C# MVP in prior years), an F# Insider, C# Insider,
+VB Insider, INETA speaker, DevelopMentor instructor, PluralSight course author, and a member of various Java JSRs. He lives in the Pacific Northwest with his wife, two sons, three cats, twelve laptops,
+seven tablets, nine phones and a rather large utility bill.
+
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
