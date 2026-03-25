@@ -59,6 +59,8 @@ Resources
 
 `Slides </talks/2026/NWCPP_2025_03_ProbabilityAndStatistics.pdf>`_
 
+`Sample Code </talks/2026/NWCPP_Probability_and_Statistics_March_2026.zip>`_
+
 `Video <https://youtu.be/MDr3T8l163Y>`_ 
 
 
