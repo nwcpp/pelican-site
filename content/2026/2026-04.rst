@@ -49,7 +49,11 @@ seven tablets, nine phones and a rather large utility bill.
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides </talks/2026/Nim.pptx>`_
+
+`Sample Code <https://github.com/tedneward/Demo-nim>`_
+
+`Video <https://youtu.be/R_3xKr-YLKk>`_
 
 
 Digital Media Links
