@@ -1,0 +1,62 @@
+May 21, 2026: Productive Parallel Programming at all scales with Chapel
+#######################################################################
+
+:date: 2026-04-29
+:slug: May-2026
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, May 21, 2026 at 6:30 PM to 8:00 PM
+|
+| In Person:
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/meet/237046474430599?p=jA15NDBz3K3tWeiOLG>`_
+|
+
+Title
+~~~~~
+Productive Parallel Programming at all scales with Chapel
+
+Abstract
+~~~~~~~~~
+
+Chapel is a language for productive parallel programming, whether you're targeting a laptop, cloud, or supercomputer.
+This talk will begin with a quick (re)introduction to Chapel for any attendees who missed our previous NWC++ talks or need a refresher.
+We'll then cover some highlights from the past few years, including Chapel's 2.0 release, support for targeting GPUs, notable new user applications,
+and joining the Linux Foundation's High Performance Software Foundation (HPSF).  Along the way, we'll do a live demo of Chapel in action.
+
+
+Speaker Bio
+~~~~~~~~~~~
+Brad Chamberlain is a founding member of the Chapel programming language project and has served as its technical lead since 2005.
+He is a Distinguished Technologist at HPE (formerly Cray Inc.) whose career has focused on improving the productivity of supercomputer users,
+particularly through the design and implementation of programming languages.  Brad earned his Ph.D. in Computer Science and Engineering from the University of Washington,
+with which he remains associated as an Affiliate Professor of the Paul G. Allen School.
+
+Jade Abraham is a software engineer at HPE, working on developing the Chapel programming language. Their work has focused on vectorization,
+portability, and tooling. They received their Masters degree from Arizona State University in 2022 in computer science, with a focus on secure compiler development.
+When Jade isn't programming, they enjoy line dancing and going hiking.
+
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
