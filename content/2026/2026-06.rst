@@ -42,7 +42,10 @@ He has worked as an audio signal processing engineer and software developer. Jat
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides <https://ccrma.stanford.edu/~jatin/slides/nwcpp-june26-wait-free/>`_
+Note: This slide deck is interactive. Audio waveforms can be adjusted and played. Click directly on the deck and then use arrow keys to move through the slides.
+
+`Video <https://youtu.be/A9Gf0wFz3kQ>`_
 
 
 Digital Media Links
