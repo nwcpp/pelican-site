@@ -1,0 +1,52 @@
+July 16, 2026: AI for Normal People Who Aren’t Totally Bought In
+#######################################################################
+
+:date: 2026-06-27
+:slug: July-2026
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, July 16, 2026 at 6:30 PM to 8:00 PM
+|
+| In Person:
+| Bellevue City Hall, Room 1E-120
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/meet/27347910663503?p=4ixO4IJzvwE0ZgHexd>`_
+|
+
+Title
+~~~~~
+AI for Normal People Who Aren’t Totally Bought In
+
+Abstract
+~~~~~~~~~
+
+In this practical and demo-filled session, Scott Hanselman will cut through the AI hype to deliver a balanced perspective.
+You’ll learn what’s genuinely helpful versus what’s harmful, and why we absolutely must double down on investing in junior
+engineers to help them develop good taste as AI threatens to reshape software engineering completely.
+
+Speaker Bio
+~~~~~~~~~~~
+
+Our speaker will be Scott Hanselman, a bio is coming soon!
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
