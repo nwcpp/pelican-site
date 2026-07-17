@@ -41,7 +41,9 @@ Our speaker will be Scott Hanselman, a bio is coming soon!
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Paper <https://dl.acm.org/doi/epdf/10.1145/3779312>`_
+
+`Video <https://youtu.be/hVxxaszGkBQ>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
