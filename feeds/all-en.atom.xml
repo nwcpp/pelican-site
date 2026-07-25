@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2026-06-27T00:00:00-07:00</updated><entry><title>July 16, 2026: AI for Normal People Who Aren’t Totally Bought In</title><link href="http://nwcpp.org/July-2026.html" rel="alternate"></link><published>2026-06-27T00:00:00-07:00</published><updated>2026-06-27T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-06-27:/July-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all-en.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2026-07-25T00:00:00-07:00</updated><entry><title>Aug 20, 2026: CUDA Tile C++</title><link href="http://nwcpp.org/Aug-2026.html" rel="alternate"></link><published>2026-07-25T00:00:00-07:00</published><updated>2026-07-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-07-25:/Aug-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Aug 20, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall, Room 1E-121&lt;/div&gt;
+&lt;div class="line"&gt;450 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt; 98004&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place//&amp;#64;47.6144305,-122.1929512,18z?entry=ttu&amp;amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"&gt;Directions&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;. Additional free parking is located along …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Aug 20, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall, Room 1E-121&lt;/div&gt;
+&lt;div class="line"&gt;450 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt; 98004&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place//&amp;#64;47.6144305,-122.1929512,18z?entry=ttu&amp;amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"&gt;Directions&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;. Additional free parking is located along the light rail line.&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/meet/261263731654482?p=8161SrMLwsxPO08APB"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CUDA&lt;/span&gt; Tile&amp;nbsp;C++&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CUDA&lt;/span&gt; Tile C++ is a novel C++ &lt;span class="caps"&gt;DSL&lt;/span&gt; and compiler that automatically parallelizes array operations across &lt;span class="caps"&gt;GPU&lt;/span&gt; threads while presenting a single
+logical thread to the programmer. In &lt;span class="caps"&gt;CUDA&lt;/span&gt; Tile C++, parallelism is expressed through &lt;span class="caps"&gt;SIMD&lt;/span&gt;-style operations on arrays of data called &amp;#8220;tiles&amp;#8221;
+while memory accesses are written using structured memory abstractions. The compiler analyzes the tile and memory operations to generate an
+equivalent multi-threaded program that leverages the advanced hardware capabilities of modern&amp;nbsp;GPUs.&lt;/p&gt;
+&lt;p&gt;In this talk, we will recap the traditional &amp;#8220;Single Instruction Multiple Thread&amp;#8221; programming paradigm in which the &lt;span class="caps"&gt;GPU&lt;/span&gt; programmer must manage an
+increasing variety of hardware features from shared memory to Tensor Memory Accelerators. We will then explore how &lt;span class="caps"&gt;GPU&lt;/span&gt; code can be made portable,
+simple, and performant by leveraging three key abstractions of Tile&amp;nbsp;C++:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;cuda::tiles::tile           - a multi-dimensional array with value semantics whose operations are parallelized across the &lt;span class="caps"&gt;GPU&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;cuda::tiles::tensor_span    - a view into a multi-dimensional in-memory array with an interface similar to&amp;nbsp;std::mdspan&lt;/li&gt;
+&lt;li&gt;Tile Views                  - adapters that present a uniform &amp;#8220;chunking&amp;#8221; of a tensor_span which gives the compiler visibility into memory access&amp;nbsp;patterns&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These abstractions allow the Tile C++ compiler to schedule the program across hardware threads all while preserving the illusion of a single-threaded
+abstract machine to the user. Most importantly, code written for Tile C++ closely models the programmer&amp;#8217;s intent and can therefore be retargeted to
+newer &lt;span class="caps"&gt;GPU&lt;/span&gt; architectures with substantially different hardware&amp;nbsp;capabilities.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Ezra Stein is a Senior Compiler Engineer working on &lt;span class="caps"&gt;NVIDIA&lt;/span&gt;&amp;#8217;s &lt;span class="caps"&gt;CUDA&lt;/span&gt; C++ Frontend team. Since joining the company in 2025,
+Ezra has focused primarily on the design and implementation of &lt;span class="caps"&gt;CUDA&lt;/span&gt; Tile C++. Prior to working at &lt;span class="caps"&gt;NVIDIA&lt;/span&gt;, Ezra spent 5 years developing
+&lt;span class="caps"&gt;MATLAB&lt;/span&gt; to C++ source-to-source compiler technologies at MathWorks.
+Ezra holds a bachelor&amp;#8217;s degree in Computer Science and Mathematics from Cornell&amp;nbsp;University.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="2026"></category></entry><entry><title>July 16, 2026: AI for Normal People Who Aren’t Totally Bought In</title><link href="http://nwcpp.org/July-2026.html" rel="alternate"></link><published>2026-06-27T00:00:00-07:00</published><updated>2026-06-27T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-06-27:/July-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, July 16, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
