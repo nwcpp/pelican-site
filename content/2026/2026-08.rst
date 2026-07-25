@@ -1,0 +1,68 @@
+Aug 20, 2026: CUDA Tile C++
+#######################################################################
+
+:date: 2026-07-25
+:slug: Aug-2026
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, Aug 20, 2026 at 6:30 PM to 8:00 PM
+|
+| In Person:
+| Bellevue City Hall, Room 1E-121
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/meet/261263731654482?p=8161SrMLwsxPO08APB>`_
+|
+
+Title
+~~~~~
+CUDA Tile C++
+
+Abstract
+~~~~~~~~~
+
+CUDA Tile C++ is a novel C++ DSL and compiler that automatically parallelizes array operations across GPU threads while presenting a single
+logical thread to the programmer. In CUDA Tile C++, parallelism is expressed through SIMD-style operations on arrays of data called "tiles"
+while memory accesses are written using structured memory abstractions. The compiler analyzes the tile and memory operations to generate an
+equivalent multi-threaded program that leverages the advanced hardware capabilities of modern GPUs.
+
+In this talk, we will recap the traditional "Single Instruction Multiple Thread" programming paradigm in which the GPU programmer must manage an
+increasing variety of hardware features from shared memory to Tensor Memory Accelerators. We will then explore how GPU code can be made portable,
+simple, and performant by leveraging three key abstractions of Tile C++:
+
+- cuda::tiles::tile           - a multi-dimensional array with value semantics whose operations are parallelized across the GPU
+- cuda::tiles::tensor_span    - a view into a multi-dimensional in-memory array with an interface similar to std::mdspan
+- Tile Views                  - adapters that present a uniform "chunking" of a tensor_span which gives the compiler visibility into memory access patterns
+
+These abstractions allow the Tile C++ compiler to schedule the program across hardware threads all while preserving the illusion of a single-threaded
+abstract machine to the user. Most importantly, code written for Tile C++ closely models the programmer's intent and can therefore be retargeted to
+newer GPU architectures with substantially different hardware capabilities.
+
+Speaker Bio
+~~~~~~~~~~~
+
+Ezra Stein is a Senior Compiler Engineer working on NVIDIA's CUDA C++ Frontend team. Since joining the company in 2025,
+Ezra has focused primarily on the design and implementation of CUDA Tile C++. Prior to working at NVIDIA, Ezra spent 5 years developing
+MATLAB to C++ source-to-source compiler technologies at MathWorks.
+Ezra holds a bachelor's degree in Computer Science and Mathematics from Cornell University.
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
