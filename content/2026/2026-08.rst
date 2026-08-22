@@ -57,7 +57,9 @@ Ezra holds a bachelor's degree in Computer Science and Mathematics from Cornell 
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides </talks/2026/TileCPP_Presentation_NWCPP_Users_Group.pptx>`_
+
+`Video <https://youtu.be/SZwRn2PjN1o>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
