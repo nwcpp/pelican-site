@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2026-07-25T00:00:00-07:00</updated><entry><title>Aug 20, 2026: CUDA Tile C++</title><link href="http://nwcpp.org/Aug-2026.html" rel="alternate"></link><published>2026-07-25T00:00:00-07:00</published><updated>2026-07-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-07-25:/Aug-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Northwest C++ Users’ Group</title><link href="http://nwcpp.org/" rel="alternate"></link><link href="http://nwcpp.org/feeds/all.atom.xml" rel="self"></link><id>http://nwcpp.org/</id><updated>2026-08-28T00:00:00-07:00</updated><entry><title>Sept 17, 2026: The Async Model is Here. Bring Your Own I/O (for now) — std::execution in C++26</title><link href="http://nwcpp.org/Sept-2026.html" rel="alternate"></link><published>2026-08-28T00:00:00-07:00</published><updated>2026-08-28T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-08-28:/Sept-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Sept 17, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall, Room 1E-121&lt;/div&gt;
+&lt;div class="line"&gt;450 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt; 98004&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place//&amp;#64;47.6144305,-122.1929512,18z?entry=ttu&amp;amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"&gt;Directions&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;. Additional free parking is located along …&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="time-and-location"&gt;
+&lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Sept 17, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;In Person:&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall, Room 1E-121&lt;/div&gt;
+&lt;div class="line"&gt;450 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue, &lt;span class="caps"&gt;WA&lt;/span&gt; 98004&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://www.google.com/maps/place//&amp;#64;47.6144305,-122.1929512,18z?entry=ttu&amp;amp;g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D"&gt;Directions&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Free public parking is available from 110th Ave &lt;span class="caps"&gt;NE&lt;/span&gt;, and marked &amp;#8220;City Hall Parking&amp;#8221;. Additional free parking is located along the light rail line.&lt;/div&gt;
+&lt;div class="line"&gt;Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Remote:&lt;/div&gt;
+&lt;div class="line"&gt;On Line Using Microsoft Teams&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="https://teams.microsoft.com/meet/261263731654482?p=8161SrMLwsxPO08APB"&gt;Click here to join the meeting&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="title"&gt;
+&lt;h2&gt;Title&lt;/h2&gt;
+&lt;p&gt;The Async Model is Here. Bring Your Own I/O (for now) — std::execution in&amp;nbsp;C++26&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="abstract"&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Four years ago I built an async I/O scheduler for a self-driving vehicle software stack: io_uring in production, a thread-pool fallback,
+cancellation via stop tokens. It works. So does yours, probably. And that&amp;#8217;s exactly the problem. Every serious C++ shop built one of these,
+and none of them compose with each&amp;nbsp;other.&lt;/p&gt;
+&lt;p&gt;C++26 finally ships an answer. std::execution, the sender/receiver model, is the standard&amp;#8217;s first real framework for asynchronous and parallel work,
+and it reached completion in March. This talk is a practitioner&amp;#8217;s tour of what it actually is: how sender pipelines compose, how structured
+concurrency makes the safe path the default, and how coroutines fit in. Then the honest part most intro talks skip: no standard library ships it yet,
+and the async I/O primitives most of us need day to day were deliberately left out. We&amp;#8217;ll look at where the ecosystem really stands, from stdexec
+and Beman to the Asio bridge, and at the adoption path taking shape in the community: wrap the async I/O layer you already have as senders,
+gain composability now, and swap in standard I/O when it&amp;nbsp;arrives.&lt;/p&gt;
+&lt;p&gt;If you own an event loop, an io_uring ring, or a pile of callbacks, this talk is your map for deciding whether it&amp;#8217;s time to move&amp;nbsp;yet.&lt;/p&gt;
+&lt;p&gt;Familiarity with std::future and std::thread is helpful. About 60 minutes including a live&amp;nbsp;demo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="speaker-bio"&gt;
+&lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
+&lt;p&gt;Nick Milkovits is a Principal Software Engineer with nearly 20 years of professional programming experience, 18 of them in C++.
+Currently a technical lead at Motional &lt;span class="caps"&gt;AD&lt;/span&gt; Inc., he has spent the past six years in autonomous vehicle software infrastructure,
+including building an async I/O scheduler on io_uring. Before that he spent a decade in high-frequency trading, writing low-latency
+systems where async I/O performance is existential. He comes to std::execution not as a proposal author or compiler vendor, but as
+someone who built one of the things it replaces and wants to know when he can stop maintaining&amp;nbsp;it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;Coming&amp;nbsp;Soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="digital-media-links"&gt;
+&lt;h2&gt;Digital Media&amp;nbsp;Links&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sign up for our &lt;a class="reference external" href="http://groups.google.com/group/NwcppAnnounce"&gt;announcements mailing list&lt;/a&gt; If you want to be more involved, sign up for our &lt;a class="reference external" href="http://groups.google.com/group/nwcpp-volunteers"&gt;volunteers&lt;/a&gt;&amp;nbsp;list&lt;/li&gt;
+&lt;li&gt;Check out our web page at &lt;a class="reference external" href="http://www.nwcpp.org/"&gt;http://www.nwcpp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a class="reference external" href="http://twitter.com/nwcpp"&gt;&amp;#64;nwcpp&lt;/a&gt; on&amp;nbsp;Twitter&lt;/li&gt;
+&lt;li&gt;Join our &lt;a class="reference external" href="https://www.facebook.com/groups/344125680930/"&gt;Facebook&amp;nbsp;Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tune in to our &lt;a class="reference external" href="http://www.youtube.com/user/NWCPP"&gt;YouTube&lt;/a&gt; and &lt;a class="reference external" href="https://vimeo.com/nwcpp"&gt;Vimeo&lt;/a&gt;&amp;nbsp;channels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="2026"></category></entry><entry><title>Aug 20, 2026: CUDA Tile C++</title><link href="http://nwcpp.org/Aug-2026.html" rel="alternate"></link><published>2026-07-25T00:00:00-07:00</published><updated>2026-07-25T00:00:00-07:00</updated><author><name>Lloyd Moore</name></author><id>tag:nwcpp.org,2026-07-25:/Aug-2026.html</id><summary type="html">&lt;div class="section" id="time-and-location"&gt;
 &lt;h2&gt;Time and&amp;nbsp;Location&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;span class="caps"&gt;THURSDAY&lt;/span&gt;, Aug 20, 2026 at 6:30 &lt;span class="caps"&gt;PM&lt;/span&gt; to 8:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/div&gt;
