@@ -1,0 +1,67 @@
+Sept 17, 2026: The Async Model is Here. Bring Your Own I/O (for now) — std::execution in C++26
+##############################################################################################
+
+:date: 2026-08-28
+:slug: Sept-2026
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, Sept 17, 2026 at 6:30 PM to 8:00 PM
+|
+| In Person:
+| Bellevue City Hall, Room 1E-121
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/meet/261263731654482?p=8161SrMLwsxPO08APB>`_
+|
+
+Title
+~~~~~
+The Async Model is Here. Bring Your Own I/O (for now) — std::execution in C++26
+
+Abstract
+~~~~~~~~~
+
+Four years ago I built an async I/O scheduler for a self-driving vehicle software stack: io_uring in production, a thread-pool fallback,
+cancellation via stop tokens. It works. So does yours, probably. And that's exactly the problem. Every serious C++ shop built one of these,
+and none of them compose with each other.
+
+C++26 finally ships an answer. std::execution, the sender/receiver model, is the standard's first real framework for asynchronous and parallel work,
+and it reached completion in March. This talk is a practitioner's tour of what it actually is: how sender pipelines compose, how structured
+concurrency makes the safe path the default, and how coroutines fit in. Then the honest part most intro talks skip: no standard library ships it yet,
+and the async I/O primitives most of us need day to day were deliberately left out. We'll look at where the ecosystem really stands, from stdexec
+and Beman to the Asio bridge, and at the adoption path taking shape in the community: wrap the async I/O layer you already have as senders,
+gain composability now, and swap in standard I/O when it arrives.
+
+If you own an event loop, an io_uring ring, or a pile of callbacks, this talk is your map for deciding whether it's time to move yet.
+
+Familiarity with std::future and std::thread is helpful. About 60 minutes including a live demo.
+
+Speaker Bio
+~~~~~~~~~~~
+
+Nick Milkovits is a Principal Software Engineer with nearly 20 years of professional programming experience, 18 of them in C++.
+Currently a technical lead at Motional AD Inc., he has spent the past six years in autonomous vehicle software infrastructure,
+including building an async I/O scheduler on io_uring. Before that he spent a decade in high-frequency trading, writing low-latency
+systems where async I/O performance is existential. He comes to std::execution not as a proposal author or compiler vendor, but as
+someone who built one of the things it replaces and wants to know when he can stop maintaining it.
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
