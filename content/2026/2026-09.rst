@@ -56,7 +56,9 @@ someone who built one of the things it replaces and wants to know when he can st
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides <https://github.com/catfinated/talks/tree/main/bring-your-own-io>`_
+
+`Video <https://youtu.be/zr7HDR2WTdw>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
