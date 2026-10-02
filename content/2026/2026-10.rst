@@ -1,0 +1,58 @@
+Oct 15, 2026: Elegant D - There's More to Programming than Getting Code to Work
+##############################################################################################
+
+:date: 2026-10-02
+:slug: Oct-2026
+:author: Lloyd Moore
+
+Time and Location
+~~~~~~~~~~~~~~~~~
+| THURSDAY, Oct 15, 2026 at 6:30 PM to 8:00 PM
+|
+| In Person:
+| Bellevue City Hall, Room 1E-121
+| 450 110th Ave NE
+| Bellevue, WA 98004
+| `Directions <https://www.google.com/maps/place//@47.6144305,-122.1929512,18z?entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D>`_
+| Free public parking is available from 110th Ave NE, and marked "City Hall Parking". Additional free parking is located along the light rail line.
+| Bellevue City Hall is located adjacent to the Bellevue Transit Center for those wanting to take public transportation!
+|
+| Remote:
+| On Line Using Microsoft Teams
+| `Click here to join the meeting <https://teams.microsoft.com/meet/261263731654482?p=8161SrMLwsxPO08APB>`_
+|
+
+Title
+~~~~~
+Elegant D - There's More to Programming than Getting Code to Work
+
+Abstract
+~~~~~~~~~
+
+I want to program with style. With elegance. Something
+to display on the wall above the fireplace. Well, maybe
+not that far! But still, code should be a pleasure to
+read, not a tangle of ugliness.
+
+This talk will be about how D implements elegance.
+
+Speaker Bio
+~~~~~~~~~~~
+
+Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
+He’s an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines, and runtime libraries.
+Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques.
+Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 40 years after its debut.
+
+Resources
+~~~~~~~~~
+
+Coming Soon!
+
+Digital Media Links
+~~~~~~~~~~~~~~~~~~~
+* Sign up for our `announcements mailing list <http://groups.google.com/group/NwcppAnnounce>`_ If you want to be more involved, sign up for our `volunteers <http://groups.google.com/group/nwcpp-volunteers>`_ list
+* Check out our web page at http://www.nwcpp.org/
+* Follow `@nwcpp <http://twitter.com/nwcpp>`_ on Twitter
+* Join our `Facebook Group <https://www.facebook.com/groups/344125680930/>`_
+* Tune in to our `YouTube <http://www.youtube.com/user/NWCPP>`_ and `Vimeo <https://vimeo.com/nwcpp>`_ channels
