@@ -30,22 +30,24 @@
 &lt;/div&gt;
 &lt;div class="section" id="title"&gt;
 &lt;h2&gt;Title&lt;/h2&gt;
-&lt;p&gt;Elegant D - There&amp;#8217;s More to Programming than Getting Code to&amp;nbsp;Work&lt;/p&gt;
+&lt;p&gt;The Nim Programming Language Part&amp;nbsp;2&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="abstract"&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;I want to program with style. With elegance. Something
-to display on the wall above the fireplace. Well, maybe
-not that far! But still, code should be a pleasure to
-read, not a tangle of&amp;nbsp;ugliness.&lt;/p&gt;
-&lt;p&gt;This talk will be about how D implements&amp;nbsp;elegance.&lt;/p&gt;
+&lt;p&gt;Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula, and supports a large number
+of interesting features that put it on par with C++ or Rust as a systems-level programming language. In this presentation, we&amp;#8217;ll be taking a look at how to get started, and
+just enough syntax and semantics to begin your Nim&amp;nbsp;journey.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="speaker-bio"&gt;
 &lt;h2&gt;Speaker&amp;nbsp;Bio&lt;/h2&gt;
-&lt;p&gt;Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
-He’s an expert in all areas of compiler technology, including front ends, optimizers, code generation, interpreter engines, and runtime libraries.
-Walter regularly writes articles about compilers and programming, is known for engaging and informative presentations, and provides training in compiler development techniques.
-Many are surprised to discover that Walter is also the creator of the wargame Empire, which is still popular today over 40 years after its&amp;nbsp;debut.&lt;/p&gt;
+&lt;p&gt;Ted Neward currently labors on his own behalf, leveraging his speaking, writing, and coding experience to bring a technology-focused and -sharpened mindset to the mortgage industry.
+During his more code-focused years, he specialized in high-scale enterprise systems, working with clients ranging in size from Fortune 500 corporations to small 10-person shops. He is an authority in Java and
+.&lt;span class="caps"&gt;NET&lt;/span&gt; technologies, particularly in the areas of Java/.&lt;span class="caps"&gt;NET&lt;/span&gt; integration (both in-process and via integration tools like Web services), programming languages of all forms, back-end enterprise software systems,
+and virtual machine/execution engine plumbing. He is the author or co-author of several books, including Professional F# 2.0, Effective Enterprise Java, C# In a Nutshell, &lt;span class="caps"&gt;SSCLI&lt;/span&gt; Essentials,
+Server-Based Java Programming, and a contributor to several technology journals. All told, he has written well over a hundred articles in both print and online form. Ted has also been an &amp;#8220;insider&amp;#8221; of one
+form or another with a variety of the technology providers of the world: an &lt;span class="caps"&gt;IBM&lt;/span&gt; Champion of Cloud, a Microsoft F# &lt;span class="caps"&gt;MVP&lt;/span&gt; (having also been an Architect and C# &lt;span class="caps"&gt;MVP&lt;/span&gt; in prior years), an F# Insider, C# Insider,
+&lt;span class="caps"&gt;VB&lt;/span&gt; Insider, &lt;span class="caps"&gt;INETA&lt;/span&gt; speaker, DevelopMentor instructor, PluralSight course author, and a member of various Java JSRs. He lives in the Pacific Northwest with his wife, two sons, three cats, twelve laptops,
+seven tablets, nine phones and a rather large utility&amp;nbsp;bill.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
