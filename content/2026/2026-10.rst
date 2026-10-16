@@ -48,7 +48,11 @@ seven tablets, nine phones and a rather large utility bill.
 Resources
 ~~~~~~~~~
 
-Coming Soon!
+`Slides <http://www.newardassociates.com/presentations/BusyDevsGuide/Nim.html>`_
+
+`Sample Code <https://github.com/tedneward/Demo-nim>`_
+
+`Video <https://youtu.be/4Moww1t5cp0>`_
 
 Digital Media Links
 ~~~~~~~~~~~~~~~~~~~
